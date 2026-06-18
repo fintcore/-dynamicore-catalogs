@@ -1,0 +1,47 @@
+{
+  "name": "@dynamicore/catalogs",
+  "version": "1.0.0",
+  "description": "Catálogos de datos para aplicaciones financieras y regulatorias",
+  "author": "Dynamicore",
+  "license": "MIT",
+  "keywords": [
+    "catalogs",
+    "mcc",
+    "pais",
+    "municipios",
+    "finance",
+    "mexico",
+    "typescript"
+  ],
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "require": "./dist/index.cjs"
+    },
+    "./*": {
+      "types": "./dist/catalogs/*/index.d.ts",
+      "import": "./dist/catalogs/*/index.js",
+      "require": "./dist/catalogs/*/index.cjs"
+    }
+  },
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "typecheck": "tsc --noEmit",
+    "catalog:add": "node scripts/add-catalog.js",
+    "catalog:add-all": "node scripts/add-all-catalogs.js",
+    "catalog:add-all:build": "node scripts/add-all-catalogs.js --build"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.3",
+    "tsup": "^8.0.0",
+    "typescript": "^5.4.0"
+  }
+}
