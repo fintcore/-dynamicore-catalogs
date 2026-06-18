@@ -1,0 +1,22 @@
+"name","value","taxonomy","code1","code2"
+"True","True","actividades_vulnerables",NULL,NULL
+"No","false","actividades_vulnerables",NULL,NULL
+"No","NA","actividades_vulnerables",NULL,NULL
+"Activos virtuales","activos_virtuales","actividades_vulnerables",NULL,NULL
+"Desarrollo inmobiliario (compra-venta)","desarrollo_inmobiliario_compraventa","actividades_vulnerables",NULL,NULL
+"Juegos y Sorteos","juegos_y_sorteos","actividades_vulnerables",NULL,NULL
+"Tarjetas de servicio y crédito","tarjetas_de_servicio_y_credito","actividades_vulnerables",NULL,NULL
+"Tarjetas de prepago y cupones","tarjetas_de_prepago_y_cupones","actividades_vulnerables",NULL,NULL
+"Tarjetas de devolución y recompensa","tarjetas_de_devolucion_y_recompensa","actividades_vulnerables",NULL,NULL
+"Cheques de Viajero","cheques_de_viajero","actividades_vulnerables",NULL,NULL
+"Mutuo, préstamo o crédito","mutuo_prestamo_o_credito","actividades_vulnerables",NULL,NULL
+"Blindaje","blindaje","actividades_vulnerables",NULL,NULL
+"Inmuebles (construcción, desarrollo o intermediacion con compra-venta)","inmuebles_construccion_desarrollo_o_intermediacion_con_compraventa","actividades_vulnerables",NULL,NULL
+"Metales y Joyas","metales_y_joyas","actividades_vulnerables",NULL,NULL
+"Obras de Arte","obras_de_arte","actividades_vulnerables",NULL,NULL
+"Vehiculos (comercialización, distribución ya sea aereos, terrestres o maritimos)","vehiculos_comercializacion_distribucion_ya_sea_aereos_terrestres_o_maritimos","actividades_vulnerables",NULL,NULL
+"Traslado de valores","traslado_de_valores","actividades_vulnerables",NULL,NULL
+"Servicios profesionales ( administración, manejo de recursos, valores, cuentas bancarias de sus clientes)","servicios_profesionales_administracion_manejo_de_recursos_valores_cuentas_bancarias_de_sus_clientes","actividades_vulnerables",NULL,NULL
+"Donativos","donativos","actividades_vulnerables",NULL,NULL
+"Comercio exterior","comercio_exterior","actividades_vulnerables",NULL,NULL
+"Arrendamiento de inmuebles","arrendamiento_de_inmuebles","actividades_vulnerables",NULL,NULL

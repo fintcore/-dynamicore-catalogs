@@ -1,0 +1,4 @@
+"name","value","taxonomy","code1","code2"
+"Menos de 1 año","1","customerseniority_soda",NULL,NULL
+"Más de un año y hasta 3","2","customerseniority_soda",NULL,NULL
+"Más de 3 años","3","customerseniority_soda",NULL,NULL

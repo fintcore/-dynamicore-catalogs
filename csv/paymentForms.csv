@@ -1,0 +1,23 @@
+"name","value","taxonomy","code1","code2"
+"Efectivo","01","paymentForms",NULL,NULL
+"Cheque nominativo","02","paymentForms",NULL,NULL
+"Transferencia electrónica de fondos","03","paymentForms",NULL,NULL
+"Tarjeta de crédito","04","paymentForms",NULL,NULL
+"Monedero electrónico","05","paymentForms",NULL,NULL
+"Dinero electrónico","06","paymentForms",NULL,NULL
+"Vales de despensa","08","paymentForms",NULL,NULL
+"Dación en pago","12","paymentForms",NULL,NULL
+"Pago por subrogación","13","paymentForms",NULL,NULL
+"Pago por consignación","14","paymentForms",NULL,NULL
+"Condonación","15","paymentForms",NULL,NULL
+"Compensación","17","paymentForms",NULL,NULL
+"Novación","23","paymentForms",NULL,NULL
+"Confusión","24","paymentForms",NULL,NULL
+"Remisión de deuda","25","paymentForms",NULL,NULL
+"Prescripción o caducidad","26","paymentForms",NULL,NULL
+"A satisfacción del acreedor","27","paymentForms",NULL,NULL
+"Tarjeta de débito","28","paymentForms",NULL,NULL
+"Tarjeta de servicios","29","paymentForms",NULL,NULL
+"Aplicación de anticipos","30","paymentForms",NULL,NULL
+"Intermediarios","31","paymentForms",NULL,NULL
+"Por definir","99","paymentForms",NULL,NULL

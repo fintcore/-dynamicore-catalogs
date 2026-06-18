@@ -1,0 +1,9 @@
+"name","value","taxonomy","code1","code2"
+"EFECTIVO","01","instrumento_monetario",NULL,NULL
+"TRANSFERENCIA INTERBANCARIA RECIBIDA","02","instrumento_monetario",NULL,NULL
+"TRANSFERENCIA INTERBANCARIA ENVIADA","03","instrumento_monetario",NULL,NULL
+"TRANSFERENCIA INTERNACIONAL RECIBIDA","04","instrumento_monetario",NULL,NULL
+"TRANSFERENCIA INTERNACIONAL ENVIADA","05","instrumento_monetario",NULL,NULL
+"FONDOS DE PAGO ELECTRONICO*","06","instrumento_monetario",NULL,NULL
+"SE DESCONOCE (TENTATIVA)","00","instrumento_monetario",NULL,NULL
+"SE REPORTA ACTO O CONDUCTA DEL CLIENTE, NO EXISTE OPERACION RELACIONADA A REPORTAR","50","instrumento_monetario",NULL,NULL

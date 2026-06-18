@@ -1,0 +1,26 @@
+"name","value","taxonomy","code1","code2"
+"Nómina","CN01","cfdiuses",NULL,NULL
+"Pagos","CP01","cfdiuses",NULL,NULL
+"Honorarios médicos, dentales y gastos hospitalarios.","D01","cfdiuses",NULL,NULL
+"Gastos médicos por incapacidad o discapacidad","D02","cfdiuses",NULL,NULL
+"Gastos funerales.","D03","cfdiuses",NULL,NULL
+"Donativos.","D04","cfdiuses",NULL,NULL
+"Intereses reales efectivamente pagados por créditos hipotecarios (casa habitación).","D05","cfdiuses",NULL,NULL
+"Aportaciones voluntarias al SAR.","D06","cfdiuses",NULL,NULL
+"Primas por seguros de gastos médicos.","D07","cfdiuses",NULL,NULL
+"Gastos de transportación escolar obligatoria.","D08","cfdiuses",NULL,NULL
+"Depósitos en cuentas para el ahorro, primas que tengan como base planes de pensiones.","D09","cfdiuses",NULL,NULL
+"Pagos por servicios educativos (colegiaturas)","D10","cfdiuses",NULL,NULL
+"Adquisición de mercancias","G01","cfdiuses",NULL,NULL
+"Devoluciones, descuentos o bonificaciones","G02","cfdiuses",NULL,NULL
+"Gastos en general","G03","cfdiuses",NULL,NULL
+"Construcciones","I01","cfdiuses",NULL,NULL
+"Mobilario y equipo de oficina por inversiones","I02","cfdiuses",NULL,NULL
+"Equipo de transporte","I03","cfdiuses",NULL,NULL
+"Equipo de computo y accesorios","I04","cfdiuses",NULL,NULL
+"Dados, troqueles, moldes, matrices y herramental","I05","cfdiuses",NULL,NULL
+"Comunicaciones telefónicas","I06","cfdiuses",NULL,NULL
+"Comunicaciones satelitales","I07","cfdiuses",NULL,NULL
+"Otra maquinaria y equipo","I08","cfdiuses",NULL,NULL
+"Por Definir","P01","cfdiuses",NULL,NULL
+"Sin efectos fiscales","S01","cfdiuses",NULL,NULL

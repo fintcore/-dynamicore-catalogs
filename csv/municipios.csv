@@ -1,0 +1,2465 @@
+"name","value","taxonomy","code1","code2"
+"NA","NA","municipios",NULL,NULL
+"Aguascalientes","01_001","municipios",NULL,NULL
+"Asientos","01_002","municipios",NULL,NULL
+"Calvillo","01_003","municipios",NULL,NULL
+"Cosío","01_004","municipios",NULL,NULL
+"Jesús María","01_005","municipios",NULL,NULL
+"Pabellón de Arteaga","01_006","municipios",NULL,NULL
+"Rincón de Romos","01_007","municipios",NULL,NULL
+"San José de Gracia","01_008","municipios",NULL,NULL
+"Tepezalá","01_009","municipios",NULL,NULL
+"El Llano","01_010","municipios",NULL,NULL
+"San Francisco de los Romo","01_011","municipios",NULL,NULL
+"Ensenada","02_001","municipios",NULL,NULL
+"Mexicali","02_002","municipios",NULL,NULL
+"Tecate","02_003","municipios",NULL,NULL
+"Tijuana","02_004","municipios",NULL,NULL
+"Playas de Rosarito","02_005","municipios",NULL,NULL
+"Comondú","03_001","municipios",NULL,NULL
+"Mulegé","03_002","municipios",NULL,NULL
+"La Paz","03_003","municipios",NULL,NULL
+"Los Cabos","03_008","municipios",NULL,NULL
+"Loreto","03_009","municipios",NULL,NULL
+"Calkiní","04_001","municipios",NULL,NULL
+"Campeche","04_002","municipios",NULL,NULL
+"Carmen","04_003","municipios",NULL,NULL
+"Champotón","04_004","municipios",NULL,NULL
+"Hecelchakán","04_005","municipios",NULL,NULL
+"Hopelchén","04_006","municipios",NULL,NULL
+"Palizada","04_007","municipios",NULL,NULL
+"Tenabo","04_008","municipios",NULL,NULL
+"Escárcega","04_009","municipios",NULL,NULL
+"Calakmul","04_010","municipios",NULL,NULL
+"Candelaria","04_011","municipios",NULL,NULL
+"Abasolo","05_001","municipios",NULL,NULL
+"Acuña","05_002","municipios",NULL,NULL
+"Allende","05_003","municipios",NULL,NULL
+"Arteaga","05_004","municipios",NULL,NULL
+"Candela","05_005","municipios",NULL,NULL
+"Castaños","05_006","municipios",NULL,NULL
+"Cuatro Ciénegas","05_007","municipios",NULL,NULL
+"Escobedo","05_008","municipios",NULL,NULL
+"Francisco I. Madero","05_009","municipios",NULL,NULL
+"Frontera","05_010","municipios",NULL,NULL
+"General Cepeda","05_011","municipios",NULL,NULL
+"Guerrero","05_012","municipios",NULL,NULL
+"Hidalgo","05_013","municipios",NULL,NULL
+"Jiménez","05_014","municipios",NULL,NULL
+"Juárez","05_015","municipios",NULL,NULL
+"Lamadrid","05_016","municipios",NULL,NULL
+"Matamoros","05_017","municipios",NULL,NULL
+"Monclova","05_018","municipios",NULL,NULL
+"Morelos","05_019","municipios",NULL,NULL
+"Múzquiz","05_020","municipios",NULL,NULL
+"Nadadores","05_021","municipios",NULL,NULL
+"Nava","05_022","municipios",NULL,NULL
+"Ocampo","05_023","municipios",NULL,NULL
+"Parras","05_024","municipios",NULL,NULL
+"Piedras Negras","05_025","municipios",NULL,NULL
+"Progreso","05_026","municipios",NULL,NULL
+"Ramos Arizpe","05_027","municipios",NULL,NULL
+"Sabinas","05_028","municipios",NULL,NULL
+"Sacramento","05_029","municipios",NULL,NULL
+"Saltillo","05_030","municipios",NULL,NULL
+"San Buenaventura","05_031","municipios",NULL,NULL
+"San Juan de Sabinas","05_032","municipios",NULL,NULL
+"San Pedro","05_033","municipios",NULL,NULL
+"Sierra Mojada","05_034","municipios",NULL,NULL
+"Torreón","05_035","municipios",NULL,NULL
+"Viesca","05_036","municipios",NULL,NULL
+"Villa Unión","05_037","municipios",NULL,NULL
+"Zaragoza","05_038","municipios",NULL,NULL
+"Armería","06_001","municipios",NULL,NULL
+"Colima","06_002","municipios",NULL,NULL
+"Comala","06_003","municipios",NULL,NULL
+"Coquimatlán","06_004","municipios",NULL,NULL
+"Cuauhtémoc","06_005","municipios",NULL,NULL
+"Ixtlahuacán","06_006","municipios",NULL,NULL
+"Manzanillo","06_007","municipios",NULL,NULL
+"Minatitlán","06_008","municipios",NULL,NULL
+"Tecomán","06_009","municipios",NULL,NULL
+"Villa de Álvarez","06_010","municipios",NULL,NULL
+"Acacoyagua","07_001","municipios",NULL,NULL
+"Acala","07_002","municipios",NULL,NULL
+"Acapetahua","07_003","municipios",NULL,NULL
+"Altamirano","07_004","municipios",NULL,NULL
+"Amatán","07_005","municipios",NULL,NULL
+"Amatenango de la Frontera","07_006","municipios",NULL,NULL
+"Amatenango del Valle","07_007","municipios",NULL,NULL
+"Angel Albino Corzo","07_008","municipios",NULL,NULL
+"Arriaga","07_009","municipios",NULL,NULL
+"Bejucal de Ocampo","07_010","municipios",NULL,NULL
+"Bella Vista","07_011","municipios",NULL,NULL
+"Berriozábal","07_012","municipios",NULL,NULL
+"Bochil","07_013","municipios",NULL,NULL
+"El Bosque","07_014","municipios",NULL,NULL
+"Cacahoatán","07_015","municipios",NULL,NULL
+"Catazajá","07_016","municipios",NULL,NULL
+"Cintalapa","07_017","municipios",NULL,NULL
+"Coapilla","07_018","municipios",NULL,NULL
+"Comitán de Domínguez","07_019","municipios",NULL,NULL
+"La Concordia","07_020","municipios",NULL,NULL
+"Copainalá","07_021","municipios",NULL,NULL
+"Chalchihuitán","07_022","municipios",NULL,NULL
+"Chamula","07_023","municipios",NULL,NULL
+"Chanal","07_024","municipios",NULL,NULL
+"Chapultenango","07_025","municipios",NULL,NULL
+"Chenalhó","07_026","municipios",NULL,NULL
+"Chiapa de Corzo","07_027","municipios",NULL,NULL
+"Chiapilla","07_028","municipios",NULL,NULL
+"Chicoasén","07_029","municipios",NULL,NULL
+"Chicomuselo","07_030","municipios",NULL,NULL
+"Chilón","07_031","municipios",NULL,NULL
+"Escuintla","07_032","municipios",NULL,NULL
+"Francisco León","07_033","municipios",NULL,NULL
+"Frontera Comalapa","07_034","municipios",NULL,NULL
+"Frontera Hidalgo","07_035","municipios",NULL,NULL
+"La Grandeza","07_036","municipios",NULL,NULL
+"Huehuetán","07_037","municipios",NULL,NULL
+"Huixtán","07_038","municipios",NULL,NULL
+"Huitiupán","07_039","municipios",NULL,NULL
+"Huixtla","07_040","municipios",NULL,NULL
+"La Independencia","07_041","municipios",NULL,NULL
+"Ixhuatán","07_042","municipios",NULL,NULL
+"Ixtacomitán","07_043","municipios",NULL,NULL
+"Ixtapa","07_044","municipios",NULL,NULL
+"Ixtapangajoya","07_045","municipios",NULL,NULL
+"Jiquipilas","07_046","municipios",NULL,NULL
+"Jitotol","07_047","municipios",NULL,NULL
+"Juárez","07_048","municipios",NULL,NULL
+"Larráinzar","07_049","municipios",NULL,NULL
+"La Libertad","07_050","municipios",NULL,NULL
+"Mapastepec","07_051","municipios",NULL,NULL
+"Las Margaritas","07_052","municipios",NULL,NULL
+"Mazapa de Madero","07_053","municipios",NULL,NULL
+"Mazatán","07_054","municipios",NULL,NULL
+"Metapa","07_055","municipios",NULL,NULL
+"Mitontic","07_056","municipios",NULL,NULL
+"Motozintla","07_057","municipios",NULL,NULL
+"Nicolás Ruíz","07_058","municipios",NULL,NULL
+"Ocosingo","07_059","municipios",NULL,NULL
+"Ocotepec","07_060","municipios",NULL,NULL
+"Ocozocoautla de Espinosa","07_061","municipios",NULL,NULL
+"Ostuacán","07_062","municipios",NULL,NULL
+"Osumacinta","07_063","municipios",NULL,NULL
+"Oxchuc","07_064","municipios",NULL,NULL
+"Palenque","07_065","municipios",NULL,NULL
+"Pantelhó","07_066","municipios",NULL,NULL
+"Pantepec","07_067","municipios",NULL,NULL
+"Pichucalco","07_068","municipios",NULL,NULL
+"Pijijiapan","07_069","municipios",NULL,NULL
+"El Porvenir","07_070","municipios",NULL,NULL
+"Villa Comaltitlán","07_071","municipios",NULL,NULL
+"Pueblo Nuevo Solistahuacán","07_072","municipios",NULL,NULL
+"Rayón","07_073","municipios",NULL,NULL
+"Reforma","07_074","municipios",NULL,NULL
+"Las Rosas","07_075","municipios",NULL,NULL
+"Sabanilla","07_076","municipios",NULL,NULL
+"Salto de Agua","07_077","municipios",NULL,NULL
+"San Cristóbal de las Casas","07_078","municipios",NULL,NULL
+"San Fernando","07_079","municipios",NULL,NULL
+"Siltepec","07_080","municipios",NULL,NULL
+"Simojovel","07_081","municipios",NULL,NULL
+"Sitalá","07_082","municipios",NULL,NULL
+"Socoltenango","07_083","municipios",NULL,NULL
+"Solosuchiapa","07_084","municipios",NULL,NULL
+"Soyaló","07_085","municipios",NULL,NULL
+"Suchiapa","07_086","municipios",NULL,NULL
+"Suchiate","07_087","municipios",NULL,NULL
+"Sunuapa","07_088","municipios",NULL,NULL
+"Tapachula","07_089","municipios",NULL,NULL
+"Tapalapa","07_090","municipios",NULL,NULL
+"Tapilula","07_091","municipios",NULL,NULL
+"Tecpatán","07_092","municipios",NULL,NULL
+"Tenejapa","07_093","municipios",NULL,NULL
+"Teopisca","07_094","municipios",NULL,NULL
+"Tila","07_096","municipios",NULL,NULL
+"Tonalá","07_097","municipios",NULL,NULL
+"Totolapa","07_098","municipios",NULL,NULL
+"La Trinitaria","07_099","municipios",NULL,NULL
+"Tumbalá","07_100","municipios",NULL,NULL
+"Tuxtla Gutiérrez","07_101","municipios",NULL,NULL
+"Tuxtla Chico","07_102","municipios",NULL,NULL
+"Tuzantán","07_103","municipios",NULL,NULL
+"Tzimol","07_104","municipios",NULL,NULL
+"Unión Juárez","07_105","municipios",NULL,NULL
+"Venustiano Carranza","07_106","municipios",NULL,NULL
+"Villa Corzo","07_107","municipios",NULL,NULL
+"Villaflores","07_108","municipios",NULL,NULL
+"Yajalón","07_109","municipios",NULL,NULL
+"San Lucas","07_110","municipios",NULL,NULL
+"Zinacantán","07_111","municipios",NULL,NULL
+"San Juan Cancuc","07_112","municipios",NULL,NULL
+"Aldama","07_113","municipios",NULL,NULL
+"Benemérito de las Américas","07_114","municipios",NULL,NULL
+"Maravilla Tenejapa","07_115","municipios",NULL,NULL
+"Marqués de Comillas","07_116","municipios",NULL,NULL
+"Montecristo de Guerrero","07_117","municipios",NULL,NULL
+"San Andrés Duraznal","07_118","municipios",NULL,NULL
+"Santiago el Pinar","07_119","municipios",NULL,NULL
+"Capitán Luis Ángel Vidal","07_120","municipios",NULL,NULL
+"Rincón Chamula San Pedro","07_121","municipios",NULL,NULL
+"El Parral","07_122","municipios",NULL,NULL
+"Emiliano Zapata","07_123","municipios",NULL,NULL
+"Mezcalapa","07_124","municipios",NULL,NULL
+"Ahumada","08_001","municipios",NULL,NULL
+"Aldama","08_002","municipios",NULL,NULL
+"Allende","08_003","municipios",NULL,NULL
+"Aquiles Serdán","08_004","municipios",NULL,NULL
+"Ascensión","08_005","municipios",NULL,NULL
+"Bachíniva","08_006","municipios",NULL,NULL
+"Balleza","08_007","municipios",NULL,NULL
+"Batopilas de Manuel Gómez Morín","08_008","municipios",NULL,NULL
+"Bocoyna","08_009","municipios",NULL,NULL
+"Buenaventura","08_010","municipios",NULL,NULL
+"Camargo","08_011","municipios",NULL,NULL
+"Carichí","08_012","municipios",NULL,NULL
+"Casas Grandes","08_013","municipios",NULL,NULL
+"Coronado","08_014","municipios",NULL,NULL
+"Coyame del Sotol","08_015","municipios",NULL,NULL
+"La Cruz","08_016","municipios",NULL,NULL
+"Cuauhtémoc","08_017","municipios",NULL,NULL
+"Cusihuiriachi","08_018","municipios",NULL,NULL
+"Chihuahua","08_019","municipios",NULL,NULL
+"Chínipas","08_020","municipios",NULL,NULL
+"Delicias","08_021","municipios",NULL,NULL
+"Dr. Belisario Domínguez","08_022","municipios",NULL,NULL
+"Galeana","08_023","municipios",NULL,NULL
+"Santa Isabel","08_024","municipios",NULL,NULL
+"Gómez Farías","08_025","municipios",NULL,NULL
+"Gran Morelos","08_026","municipios",NULL,NULL
+"Guachochi","08_027","municipios",NULL,NULL
+"Guadalupe","08_028","municipios",NULL,NULL
+"Guadalupe y Calvo","08_029","municipios",NULL,NULL
+"Guazapares","08_030","municipios",NULL,NULL
+"Guerrero","08_031","municipios",NULL,NULL
+"Hidalgo del Parral","08_032","municipios",NULL,NULL
+"Huejotitán","08_033","municipios",NULL,NULL
+"Ignacio Zaragoza","08_034","municipios",NULL,NULL
+"Janos","08_035","municipios",NULL,NULL
+"Jiménez","08_036","municipios",NULL,NULL
+"Juárez","08_037","municipios",NULL,NULL
+"Julimes","08_038","municipios",NULL,NULL
+"López","08_039","municipios",NULL,NULL
+"Madera","08_040","municipios",NULL,NULL
+"Maguarichi","08_041","municipios",NULL,NULL
+"Manuel Benavides","08_042","municipios",NULL,NULL
+"Matachí","08_043","municipios",NULL,NULL
+"Matamoros","08_044","municipios",NULL,NULL
+"Meoqui","08_045","municipios",NULL,NULL
+"Morelos","08_046","municipios",NULL,NULL
+"Moris","08_047","municipios",NULL,NULL
+"Namiquipa","08_048","municipios",NULL,NULL
+"Nonoava","08_049","municipios",NULL,NULL
+"Nuevo Casas Grandes","08_050","municipios",NULL,NULL
+"Ocampo","08_051","municipios",NULL,NULL
+"Ojinaga","08_052","municipios",NULL,NULL
+"Praxedis G. Guerrero","08_053","municipios",NULL,NULL
+"Riva Palacio","08_054","municipios",NULL,NULL
+"Rosales","08_055","municipios",NULL,NULL
+"Rosario","08_056","municipios",NULL,NULL
+"San Francisco de Borja","08_057","municipios",NULL,NULL
+"San Francisco de Conchos","08_058","municipios",NULL,NULL
+"San Francisco del Oro","08_059","municipios",NULL,NULL
+"Santa Bárbara","08_060","municipios",NULL,NULL
+"Satevó","08_061","municipios",NULL,NULL
+"Saucillo","08_062","municipios",NULL,NULL
+"Temósachic","08_063","municipios",NULL,NULL
+"El Tule","08_064","municipios",NULL,NULL
+"Urique","08_065","municipios",NULL,NULL
+"Uruachi","08_066","municipios",NULL,NULL
+"Valle de Zaragoza","08_067","municipios",NULL,NULL
+"Azcapotzalco","09_002","municipios",NULL,NULL
+"Coyoacán","09_003","municipios",NULL,NULL
+"Cuajimalpa de Morelos","09_004","municipios",NULL,NULL
+"Gustavo A. Madero","09_005","municipios",NULL,NULL
+"Iztacalco","09_006","municipios",NULL,NULL
+"Iztapalapa","09_007","municipios",NULL,NULL
+"La Magdalena Contreras","09_008","municipios",NULL,NULL
+"Milpa Alta","09_009","municipios",NULL,NULL
+"Álvaro Obregón","09_010","municipios",NULL,NULL
+"Tláhuac","09_011","municipios",NULL,NULL
+"Tlalpan","09_012","municipios",NULL,NULL
+"Xochimilco","09_013","municipios",NULL,NULL
+"Benito Juárez","09_014","municipios",NULL,NULL
+"Cuauhtémoc","09_015","municipios",NULL,NULL
+"Miguel Hidalgo","09_016","municipios",NULL,NULL
+"Venustiano Carranza","09_017","municipios",NULL,NULL
+"Canatlán","10_001","municipios",NULL,NULL
+"Canelas","10_002","municipios",NULL,NULL
+"Coneto de Comonfort","10_003","municipios",NULL,NULL
+"Cuencamé","10_004","municipios",NULL,NULL
+"Durango","10_005","municipios",NULL,NULL
+"General Simón Bolívar","10_006","municipios",NULL,NULL
+"Gómez Palacio","10_007","municipios",NULL,NULL
+"Guadalupe Victoria","10_008","municipios",NULL,NULL
+"Guanaceví","10_009","municipios",NULL,NULL
+"Hidalgo","10_010","municipios",NULL,NULL
+"Indé","10_011","municipios",NULL,NULL
+"Lerdo","10_012","municipios",NULL,NULL
+"Mapimí","10_013","municipios",NULL,NULL
+"Mezquital","10_014","municipios",NULL,NULL
+"Nazas","10_015","municipios",NULL,NULL
+"Nombre de Dios","10_016","municipios",NULL,NULL
+"Ocampo","10_017","municipios",NULL,NULL
+"El Oro","10_018","municipios",NULL,NULL
+"Otáez","10_019","municipios",NULL,NULL
+"Pánuco de Coronado","10_020","municipios",NULL,NULL
+"Peñón Blanco","10_021","municipios",NULL,NULL
+"Poanas","10_022","municipios",NULL,NULL
+"Pueblo Nuevo","10_023","municipios",NULL,NULL
+"Rodeo","10_024","municipios",NULL,NULL
+"San Bernardo","10_025","municipios",NULL,NULL
+"San Dimas","10_026","municipios",NULL,NULL
+"San Juan de Guadalupe","10_027","municipios",NULL,NULL
+"San Juan del Río","10_028","municipios",NULL,NULL
+"San Luis del Cordero","10_029","municipios",NULL,NULL
+"San Pedro del Gallo","10_030","municipios",NULL,NULL
+"Santa Clara","10_031","municipios",NULL,NULL
+"Santiago Papasquiaro","10_032","municipios",NULL,NULL
+"Súchil","10_033","municipios",NULL,NULL
+"Tamazula","10_034","municipios",NULL,NULL
+"Tepehuanes","10_035","municipios",NULL,NULL
+"Tlahualilo","10_036","municipios",NULL,NULL
+"Topia","10_037","municipios",NULL,NULL
+"Vicente Guerrero","10_038","municipios",NULL,NULL
+"Nuevo Ideal","10_039","municipios",NULL,NULL
+"Abasolo","11_001","municipios",NULL,NULL
+"Acámbaro","11_002","municipios",NULL,NULL
+"San Miguel de Allende","11_003","municipios",NULL,NULL
+"Apaseo el Alto","11_004","municipios",NULL,NULL
+"Apaseo el Grande","11_005","municipios",NULL,NULL
+"Atarjea","11_006","municipios",NULL,NULL
+"Celaya","11_007","municipios",NULL,NULL
+"Manuel Doblado","11_008","municipios",NULL,NULL
+"Comonfort","11_009","municipios",NULL,NULL
+"Coroneo","11_010","municipios",NULL,NULL
+"Cortazar","11_011","municipios",NULL,NULL
+"Cuerámaro","11_012","municipios",NULL,NULL
+"Doctor Mora","11_013","municipios",NULL,NULL
+"Dolores Hidalgo Cuna de la Independencia Nacional","11_014","municipios",NULL,NULL
+"Guanajuato","11_015","municipios",NULL,NULL
+"Huanímaro","11_016","municipios",NULL,NULL
+"Irapuato","11_017","municipios",NULL,NULL
+"Jaral del Progreso","11_018","municipios",NULL,NULL
+"Jerécuaro","11_019","municipios",NULL,NULL
+"León","11_020","municipios",NULL,NULL
+"Moroleón","11_021","municipios",NULL,NULL
+"Ocampo","11_022","municipios",NULL,NULL
+"Pénjamo","11_023","municipios",NULL,NULL
+"Pueblo Nuevo","11_024","municipios",NULL,NULL
+"Purísima del Rincón","11_025","municipios",NULL,NULL
+"Romita","11_026","municipios",NULL,NULL
+"Salamanca","11_027","municipios",NULL,NULL
+"Salvatierra","11_028","municipios",NULL,NULL
+"San Diego de la Unión","11_029","municipios",NULL,NULL
+"San Felipe","11_030","municipios",NULL,NULL
+"San Francisco del Rincón","11_031","municipios",NULL,NULL
+"San José Iturbide","11_032","municipios",NULL,NULL
+"San Luis de la Paz","11_033","municipios",NULL,NULL
+"Santa Catarina","11_034","municipios",NULL,NULL
+"Santa Cruz de Juventino Rosas","11_035","municipios",NULL,NULL
+"Santiago Maravatío","11_036","municipios",NULL,NULL
+"Silao de la Victoria","11_037","municipios",NULL,NULL
+"Tarandacuao","11_038","municipios",NULL,NULL
+"Tarimoro","11_039","municipios",NULL,NULL
+"Tierra Blanca","11_040","municipios",NULL,NULL
+"Uriangato","11_041","municipios",NULL,NULL
+"Valle de Santiago","11_042","municipios",NULL,NULL
+"Victoria","11_043","municipios",NULL,NULL
+"Villagrán","11_044","municipios",NULL,NULL
+"Xichú","11_045","municipios",NULL,NULL
+"Yuriria","11_046","municipios",NULL,NULL
+"Acapulco de Juárez","12_001","municipios",NULL,NULL
+"Ahuacuotzingo","12_002","municipios",NULL,NULL
+"Ajuchitlán del Progreso","12_003","municipios",NULL,NULL
+"Alcozauca de Guerrero","12_004","municipios",NULL,NULL
+"Alpoyeca","12_005","municipios",NULL,NULL
+"Apaxtla","12_006","municipios",NULL,NULL
+"Arcelia","12_007","municipios",NULL,NULL
+"Atenango del Río","12_008","municipios",NULL,NULL
+"Atlamajalcingo del Monte","12_009","municipios",NULL,NULL
+"Atlixtac","12_010","municipios",NULL,NULL
+"Atoyac de Álvarez","12_011","municipios",NULL,NULL
+"Ayutla de los Libres","12_012","municipios",NULL,NULL
+"Azoyú","12_013","municipios",NULL,NULL
+"Benito Juárez","12_014","municipios",NULL,NULL
+"Buenavista de Cuéllar","12_015","municipios",NULL,NULL
+"Coahuayutla de José María Izazaga","12_016","municipios",NULL,NULL
+"Cocula","12_017","municipios",NULL,NULL
+"Copala","12_018","municipios",NULL,NULL
+"Copalillo","12_019","municipios",NULL,NULL
+"Copanatoyac","12_020","municipios",NULL,NULL
+"Coyuca de Benítez","12_021","municipios",NULL,NULL
+"Coyuca de Catalán","12_022","municipios",NULL,NULL
+"Cuajinicuilapa","12_023","municipios",NULL,NULL
+"Cualác","12_024","municipios",NULL,NULL
+"Cuautepec","12_025","municipios",NULL,NULL
+"Cuetzala del Progreso","12_026","municipios",NULL,NULL
+"Cutzamala de Pinzón","12_027","municipios",NULL,NULL
+"Chilapa de Álvarez","12_028","municipios",NULL,NULL
+"Chilpancingo de los Bravo","12_029","municipios",NULL,NULL
+"Florencio Villarreal","12_030","municipios",NULL,NULL
+"General Canuto A. Neri","12_031","municipios",NULL,NULL
+"General Heliodoro Castillo","12_032","municipios",NULL,NULL
+"Huamuxtitlán","12_033","municipios",NULL,NULL
+"Huitzuco de los Figueroa","12_034","municipios",NULL,NULL
+"Iguala de la Independencia","12_035","municipios",NULL,NULL
+"Igualapa","12_036","municipios",NULL,NULL
+"Ixcateopan de Cuauhtémoc","12_037","municipios",NULL,NULL
+"Zihuatanejo de Azueta","12_038","municipios",NULL,NULL
+"Juan R. Escudero","12_039","municipios",NULL,NULL
+"Leonardo Bravo","12_040","municipios",NULL,NULL
+"Malinaltepec","12_041","municipios",NULL,NULL
+"Mártir de Cuilapan","12_042","municipios",NULL,NULL
+"Metlatónoc","12_043","municipios",NULL,NULL
+"Mochitlán","12_044","municipios",NULL,NULL
+"Olinalá","12_045","municipios",NULL,NULL
+"Ometepec","12_046","municipios",NULL,NULL
+"Pedro Ascencio Alquisiras","12_047","municipios",NULL,NULL
+"Petatlán","12_048","municipios",NULL,NULL
+"Pilcaya","12_049","municipios",NULL,NULL
+"Pungarabato","12_050","municipios",NULL,NULL
+"Quechultenango","12_051","municipios",NULL,NULL
+"San Luis Acatlán","12_052","municipios",NULL,NULL
+"San Marcos","12_053","municipios",NULL,NULL
+"San Miguel Totolapan","12_054","municipios",NULL,NULL
+"Taxco de Alarcón","12_055","municipios",NULL,NULL
+"Tecoanapa","12_056","municipios",NULL,NULL
+"Técpan de Galeana","12_057","municipios",NULL,NULL
+"Teloloapan","12_058","municipios",NULL,NULL
+"Tepecoacuilco de Trujano","12_059","municipios",NULL,NULL
+"Tetipac","12_060","municipios",NULL,NULL
+"Tixtla de Guerrero","12_061","municipios",NULL,NULL
+"Tlacoachistlahuaca","12_062","municipios",NULL,NULL
+"Tlacoapa","12_063","municipios",NULL,NULL
+"Tlalchapa","12_064","municipios",NULL,NULL
+"Tlalixtaquilla de Maldonado","12_065","municipios",NULL,NULL
+"Tlapa de Comonfort","12_066","municipios",NULL,NULL
+"Tlapehuala","12_067","municipios",NULL,NULL
+"La Unión de Isidoro Montes de Oca","12_068","municipios",NULL,NULL
+"Xalpatláhuac","12_069","municipios",NULL,NULL
+"Xochihuehuetlán","12_070","municipios",NULL,NULL
+"Xochistlahuaca","12_071","municipios",NULL,NULL
+"Zapotitlán Tablas","12_072","municipios",NULL,NULL
+"Zirándaro","12_073","municipios",NULL,NULL
+"Zitlala","12_074","municipios",NULL,NULL
+"Eduardo Neri","12_075","municipios",NULL,NULL
+"Acatepec","12_076","municipios",NULL,NULL
+"Marquelia","12_077","municipios",NULL,NULL
+"Cochoapa el Grande","12_078","municipios",NULL,NULL
+"José Joaquín de Herrera","12_079","municipios",NULL,NULL
+"Juchitán","12_080","municipios",NULL,NULL
+"Iliatenco","12_081","municipios",NULL,NULL
+"Acatlán","13_001","municipios",NULL,NULL
+"Acaxochitlán","13_002","municipios",NULL,NULL
+"Actopan","13_003","municipios",NULL,NULL
+"Agua Blanca de Iturbide","13_004","municipios",NULL,NULL
+"Ajacuba","13_005","municipios",NULL,NULL
+"Alfajayucan","13_006","municipios",NULL,NULL
+"Almoloya","13_007","municipios",NULL,NULL
+"Apan","13_008","municipios",NULL,NULL
+"El Arenal","13_009","municipios",NULL,NULL
+"Atitalaquia","13_010","municipios",NULL,NULL
+"Atlapexco","13_011","municipios",NULL,NULL
+"Atotonilco el Grande","13_012","municipios",NULL,NULL
+"Atotonilco de Tula","13_013","municipios",NULL,NULL
+"Calnali","13_014","municipios",NULL,NULL
+"Cardonal","13_015","municipios",NULL,NULL
+"Cuautepec de Hinojosa","13_016","municipios",NULL,NULL
+"Chapantongo","13_017","municipios",NULL,NULL
+"Chapulhuacán","13_018","municipios",NULL,NULL
+"Chilcuautla","13_019","municipios",NULL,NULL
+"Eloxochitlán","13_020","municipios",NULL,NULL
+"Emiliano Zapata","13_021","municipios",NULL,NULL
+"Epazoyucan","13_022","municipios",NULL,NULL
+"Francisco I. Madero","13_023","municipios",NULL,NULL
+"Huasca de Ocampo","13_024","municipios",NULL,NULL
+"Huautla","13_025","municipios",NULL,NULL
+"Huazalingo","13_026","municipios",NULL,NULL
+"Huehuetla","13_027","municipios",NULL,NULL
+"Huejutla de Reyes","13_028","municipios",NULL,NULL
+"Huichapan","13_029","municipios",NULL,NULL
+"Ixmiquilpan","13_030","municipios",NULL,NULL
+"Jacala de Ledezma","13_031","municipios",NULL,NULL
+"Jaltocán","13_032","municipios",NULL,NULL
+"Juárez Hidalgo","13_033","municipios",NULL,NULL
+"Lolotla","13_034","municipios",NULL,NULL
+"Metepec","13_035","municipios",NULL,NULL
+"San Agustín Metzquititlán","13_036","municipios",NULL,NULL
+"Metztitlán","13_037","municipios",NULL,NULL
+"Mineral del Chico","13_038","municipios",NULL,NULL
+"Mineral del Monte","13_039","municipios",NULL,NULL
+"La Misión","13_040","municipios",NULL,NULL
+"Mixquiahuala de Juárez","13_041","municipios",NULL,NULL
+"Molango de Escamilla","13_042","municipios",NULL,NULL
+"Nicolás Flores","13_043","municipios",NULL,NULL
+"Nopala de Villagrán","13_044","municipios",NULL,NULL
+"Omitlán de Juárez","13_045","municipios",NULL,NULL
+"San Felipe Orizatlán","13_046","municipios",NULL,NULL
+"Pacula","13_047","municipios",NULL,NULL
+"Pachuca de Soto","13_048","municipios",NULL,NULL
+"Pisaflores","13_049","municipios",NULL,NULL
+"Progreso de Obregón","13_050","municipios",NULL,NULL
+"Mineral de la Reforma","13_051","municipios",NULL,NULL
+"San Agustín Tlaxiaca","13_052","municipios",NULL,NULL
+"San Bartolo Tutotepec","13_053","municipios",NULL,NULL
+"San Salvador","13_054","municipios",NULL,NULL
+"Santiago de Anaya","13_055","municipios",NULL,NULL
+"Santiago Tulantepec de Lugo Guerrero","13_056","municipios",NULL,NULL
+"Singuilucan","13_057","municipios",NULL,NULL
+"Tasquillo","13_058","municipios",NULL,NULL
+"Tecozautla","13_059","municipios",NULL,NULL
+"Tenango de Doria","13_060","municipios",NULL,NULL
+"Tepeapulco","13_061","municipios",NULL,NULL
+"Tepehuacán de Guerrero","13_062","municipios",NULL,NULL
+"Tepeji del Río de Ocampo","13_063","municipios",NULL,NULL
+"Tepetitlán","13_064","municipios",NULL,NULL
+"Tetepango","13_065","municipios",NULL,NULL
+"Villa de Tezontepec","13_066","municipios",NULL,NULL
+"Tezontepec de Aldama","13_067","municipios",NULL,NULL
+"Tianguistengo","13_068","municipios",NULL,NULL
+"Tizayuca","13_069","municipios",NULL,NULL
+"Tlahuelilpan","13_070","municipios",NULL,NULL
+"Tlahuiltepa","13_071","municipios",NULL,NULL
+"Tlanalapa","13_072","municipios",NULL,NULL
+"Tlanchinol","13_073","municipios",NULL,NULL
+"Tlaxcoapan","13_074","municipios",NULL,NULL
+"Tolcayuca","13_075","municipios",NULL,NULL
+"Tula de Allende","13_076","municipios",NULL,NULL
+"Tulancingo de Bravo","13_077","municipios",NULL,NULL
+"Xochiatipan","13_078","municipios",NULL,NULL
+"Xochicoatlán","13_079","municipios",NULL,NULL
+"Yahualica","13_080","municipios",NULL,NULL
+"Zacualtipán de Ángeles","13_081","municipios",NULL,NULL
+"Zapotlán de Juárez","13_082","municipios",NULL,NULL
+"Zempoala","13_083","municipios",NULL,NULL
+"Zimapán","13_084","municipios",NULL,NULL
+"Acatic","14_001","municipios",NULL,NULL
+"Acatlán de Juárez","14_002","municipios",NULL,NULL
+"Ahualulco de Mercado","14_003","municipios",NULL,NULL
+"Amacueca","14_004","municipios",NULL,NULL
+"Amatitán","14_005","municipios",NULL,NULL
+"Ameca","14_006","municipios",NULL,NULL
+"San Juanito de Escobedo","14_007","municipios",NULL,NULL
+"Arandas","14_008","municipios",NULL,NULL
+"El Arenal","14_009","municipios",NULL,NULL
+"Atemajac de Brizuela","14_010","municipios",NULL,NULL
+"Atengo","14_011","municipios",NULL,NULL
+"Atenguillo","14_012","municipios",NULL,NULL
+"Atotonilco el Alto","14_013","municipios",NULL,NULL
+"Atoyac","14_014","municipios",NULL,NULL
+"Autlán de Navarro","14_015","municipios",NULL,NULL
+"Ayotlán","14_016","municipios",NULL,NULL
+"Ayutla","14_017","municipios",NULL,NULL
+"La Barca","14_018","municipios",NULL,NULL
+"Bolaños","14_019","municipios",NULL,NULL
+"Cabo Corrientes","14_020","municipios",NULL,NULL
+"Casimiro Castillo","14_021","municipios",NULL,NULL
+"Cihuatlán","14_022","municipios",NULL,NULL
+"Zapotlán el Grande","14_023","municipios",NULL,NULL
+"Cocula","14_024","municipios",NULL,NULL
+"Colotlán","14_025","municipios",NULL,NULL
+"Concepción de Buenos Aires","14_026","municipios",NULL,NULL
+"Cuautitlán de García Barragán","14_027","municipios",NULL,NULL
+"Cuautla","14_028","municipios",NULL,NULL
+"Cuquío","14_029","municipios",NULL,NULL
+"Chapala","14_030","municipios",NULL,NULL
+"Chimaltitán","14_031","municipios",NULL,NULL
+"Chiquilistlán","14_032","municipios",NULL,NULL
+"Degollado","14_033","municipios",NULL,NULL
+"Ejutla","14_034","municipios",NULL,NULL
+"Encarnación de Díaz","14_035","municipios",NULL,NULL
+"Etzatlán","14_036","municipios",NULL,NULL
+"El Grullo","14_037","municipios",NULL,NULL
+"Guachinango","14_038","municipios",NULL,NULL
+"Guadalajara","14_039","municipios",NULL,NULL
+"Hostotipaquillo","14_040","municipios",NULL,NULL
+"Huejúcar","14_041","municipios",NULL,NULL
+"Huejuquilla el Alto","14_042","municipios",NULL,NULL
+"La Huerta","14_043","municipios",NULL,NULL
+"Ixtlahuacán de los Membrillos","14_044","municipios",NULL,NULL
+"Ixtlahuacán del Río","14_045","municipios",NULL,NULL
+"Jalostotitlán","14_046","municipios",NULL,NULL
+"Jamay","14_047","municipios",NULL,NULL
+"Jesús María","14_048","municipios",NULL,NULL
+"Jilotlán de los Dolores","14_049","municipios",NULL,NULL
+"Jocotepec","14_050","municipios",NULL,NULL
+"Juanacatlán","14_051","municipios",NULL,NULL
+"Juchitlán","14_052","municipios",NULL,NULL
+"Lagos de Moreno","14_053","municipios",NULL,NULL
+"El Limón","14_054","municipios",NULL,NULL
+"Magdalena","14_055","municipios",NULL,NULL
+"Santa María del Oro","14_056","municipios",NULL,NULL
+"La Manzanilla de la Paz","14_057","municipios",NULL,NULL
+"Mascota","14_058","municipios",NULL,NULL
+"Mazamitla","14_059","municipios",NULL,NULL
+"Mexticacán","14_060","municipios",NULL,NULL
+"Mezquitic","14_061","municipios",NULL,NULL
+"Mixtlán","14_062","municipios",NULL,NULL
+"Ocotlán","14_063","municipios",NULL,NULL
+"Ojuelos de Jalisco","14_064","municipios",NULL,NULL
+"Pihuamo","14_065","municipios",NULL,NULL
+"Poncitlán","14_066","municipios",NULL,NULL
+"Puerto Vallarta","14_067","municipios",NULL,NULL
+"Villa Purificación","14_068","municipios",NULL,NULL
+"Quitupan","14_069","municipios",NULL,NULL
+"El Salto","14_070","municipios",NULL,NULL
+"San Cristóbal de la Barranca","14_071","municipios",NULL,NULL
+"San Diego de Alejandría","14_072","municipios",NULL,NULL
+"San Juan de los Lagos","14_073","municipios",NULL,NULL
+"San Julián","14_074","municipios",NULL,NULL
+"San Marcos","14_075","municipios",NULL,NULL
+"San Martín de Bolaños","14_076","municipios",NULL,NULL
+"San Martín Hidalgo","14_077","municipios",NULL,NULL
+"San Miguel el Alto","14_078","municipios",NULL,NULL
+"Gómez Farías","14_079","municipios",NULL,NULL
+"San Sebastián del Oeste","14_080","municipios",NULL,NULL
+"Santa María de los Ángeles","14_081","municipios",NULL,NULL
+"Sayula","14_082","municipios",NULL,NULL
+"Tala","14_083","municipios",NULL,NULL
+"Talpa de Allende","14_084","municipios",NULL,NULL
+"Tamazula de Gordiano","14_085","municipios",NULL,NULL
+"Tapalpa","14_086","municipios",NULL,NULL
+"Tecalitlán","14_087","municipios",NULL,NULL
+"Tecolotlán","14_088","municipios",NULL,NULL
+"Techaluta de Montenegro","14_089","municipios",NULL,NULL
+"Tenamaxtlán","14_090","municipios",NULL,NULL
+"Teocaltiche","14_091","municipios",NULL,NULL
+"Teocuitatlán de Corona","14_092","municipios",NULL,NULL
+"Tepatitlán de Morelos","14_093","municipios",NULL,NULL
+"Tequila","14_094","municipios",NULL,NULL
+"Teuchitlán","14_095","municipios",NULL,NULL
+"Tizapán el Alto","14_096","municipios",NULL,NULL
+"Tlajomulco de Zúñiga","14_097","municipios",NULL,NULL
+"San Pedro Tlaquepaque","14_098","municipios",NULL,NULL
+"Tolimán","14_099","municipios",NULL,NULL
+"Tomatlán","14_100","municipios",NULL,NULL
+"Tonalá","14_101","municipios",NULL,NULL
+"Tonaya","14_102","municipios",NULL,NULL
+"Tonila","14_103","municipios",NULL,NULL
+"Totatiche","14_104","municipios",NULL,NULL
+"Tototlán","14_105","municipios",NULL,NULL
+"Tuxcacuesco","14_106","municipios",NULL,NULL
+"Tuxcueca","14_107","municipios",NULL,NULL
+"Tuxpan","14_108","municipios",NULL,NULL
+"Unión de San Antonio","14_109","municipios",NULL,NULL
+"Unión de Tula","14_110","municipios",NULL,NULL
+"Valle de Guadalupe","14_111","municipios",NULL,NULL
+"Valle de Juárez","14_112","municipios",NULL,NULL
+"San Gabriel","14_113","municipios",NULL,NULL
+"Villa Corona","14_114","municipios",NULL,NULL
+"Villa Guerrero","14_115","municipios",NULL,NULL
+"Villa Hidalgo","14_116","municipios",NULL,NULL
+"Cañadas de Obregón","14_117","municipios",NULL,NULL
+"Yahualica de González Gallo","14_118","municipios",NULL,NULL
+"Zacoalco de Torres","14_119","municipios",NULL,NULL
+"Zapopan","14_120","municipios",NULL,NULL
+"Zapotiltic","14_121","municipios",NULL,NULL
+"Zapotitlán de Vadillo","14_122","municipios",NULL,NULL
+"Zapotlán del Rey","14_123","municipios",NULL,NULL
+"Zapotlanejo","14_124","municipios",NULL,NULL
+"San Ignacio Cerro Gordo","14_125","municipios",NULL,NULL
+"Acambay de Ruíz Castañeda","15_001","municipios",NULL,NULL
+"Acolman","15_002","municipios",NULL,NULL
+"Aculco","15_003","municipios",NULL,NULL
+"Almoloya de Alquisiras","15_004","municipios",NULL,NULL
+"Almoloya de Juárez","15_005","municipios",NULL,NULL
+"Almoloya del Río","15_006","municipios",NULL,NULL
+"Amanalco","15_007","municipios",NULL,NULL
+"Amatepec","15_008","municipios",NULL,NULL
+"Amecameca","15_009","municipios",NULL,NULL
+"Apaxco","15_010","municipios",NULL,NULL
+"Atenco","15_011","municipios",NULL,NULL
+"Atizapán","15_012","municipios",NULL,NULL
+"Atizapán de Zaragoza","15_013","municipios",NULL,NULL
+"Atlacomulco","15_014","municipios",NULL,NULL
+"Atlautla","15_015","municipios",NULL,NULL
+"Axapusco","15_016","municipios",NULL,NULL
+"Ayapango","15_017","municipios",NULL,NULL
+"Calimaya","15_018","municipios",NULL,NULL
+"Capulhuac","15_019","municipios",NULL,NULL
+"Coacalco de Berriozábal","15_020","municipios",NULL,NULL
+"Coatepec Harinas","15_021","municipios",NULL,NULL
+"Cocotitlán","15_022","municipios",NULL,NULL
+"Coyotepec","15_023","municipios",NULL,NULL
+"Cuautitlán","15_024","municipios",NULL,NULL
+"Chalco","15_025","municipios",NULL,NULL
+"Chapa de Mota","15_026","municipios",NULL,NULL
+"Chapultepec","15_027","municipios",NULL,NULL
+"Chiautla","15_028","municipios",NULL,NULL
+"Chicoloapan","15_029","municipios",NULL,NULL
+"Chiconcuac","15_030","municipios",NULL,NULL
+"Chimalhuacán","15_031","municipios",NULL,NULL
+"Donato Guerra","15_032","municipios",NULL,NULL
+"Ecatepec de Morelos","15_033","municipios",NULL,NULL
+"Ecatzingo","15_034","municipios",NULL,NULL
+"Huehuetoca","15_035","municipios",NULL,NULL
+"Hueypoxtla","15_036","municipios",NULL,NULL
+"Huixquilucan","15_037","municipios",NULL,NULL
+"Isidro Fabela","15_038","municipios",NULL,NULL
+"Ixtapaluca","15_039","municipios",NULL,NULL
+"Ixtapan de la Sal","15_040","municipios",NULL,NULL
+"Ixtapan del Oro","15_041","municipios",NULL,NULL
+"Ixtlahuaca","15_042","municipios",NULL,NULL
+"Xalatlaco","15_043","municipios",NULL,NULL
+"Jaltenco","15_044","municipios",NULL,NULL
+"Jilotepec","15_045","municipios",NULL,NULL
+"Jilotzingo","15_046","municipios",NULL,NULL
+"Jiquipilco","15_047","municipios",NULL,NULL
+"Jocotitlán","15_048","municipios",NULL,NULL
+"Joquicingo","15_049","municipios",NULL,NULL
+"Juchitepec","15_050","municipios",NULL,NULL
+"Lerma","15_051","municipios",NULL,NULL
+"Malinalco","15_052","municipios",NULL,NULL
+"Melchor Ocampo","15_053","municipios",NULL,NULL
+"Metepec","15_054","municipios",NULL,NULL
+"Mexicaltzingo","15_055","municipios",NULL,NULL
+"Morelos","15_056","municipios",NULL,NULL
+"Naucalpan de Juárez","15_057","municipios",NULL,NULL
+"Nezahualcóyotl","15_058","municipios",NULL,NULL
+"Nextlalpan","15_059","municipios",NULL,NULL
+"Nicolás Romero","15_060","municipios",NULL,NULL
+"Nopaltepec","15_061","municipios",NULL,NULL
+"Ocoyoacac","15_062","municipios",NULL,NULL
+"Ocuilan","15_063","municipios",NULL,NULL
+"El Oro","15_064","municipios",NULL,NULL
+"Otumba","15_065","municipios",NULL,NULL
+"Otzoloapan","15_066","municipios",NULL,NULL
+"Otzolotepec","15_067","municipios",NULL,NULL
+"Ozumba","15_068","municipios",NULL,NULL
+"Papalotla","15_069","municipios",NULL,NULL
+"La Paz","15_070","municipios",NULL,NULL
+"Polotitlán","15_071","municipios",NULL,NULL
+"Rayón","15_072","municipios",NULL,NULL
+"San Antonio la Isla","15_073","municipios",NULL,NULL
+"San Felipe del Progreso","15_074","municipios",NULL,NULL
+"San Martín de las Pirámides","15_075","municipios",NULL,NULL
+"San Mateo Atenco","15_076","municipios",NULL,NULL
+"San Simón de Guerrero","15_077","municipios",NULL,NULL
+"Santo Tomás","15_078","municipios",NULL,NULL
+"Soyaniquilpan de Juárez","15_079","municipios",NULL,NULL
+"Sultepec","15_080","municipios",NULL,NULL
+"Tecámac","15_081","municipios",NULL,NULL
+"Tejupilco","15_082","municipios",NULL,NULL
+"Temamatla","15_083","municipios",NULL,NULL
+"Temascalapa","15_084","municipios",NULL,NULL
+"Temascalcingo","15_085","municipios",NULL,NULL
+"Temascaltepec","15_086","municipios",NULL,NULL
+"Temoaya","15_087","municipios",NULL,NULL
+"Tenancingo","15_088","municipios",NULL,NULL
+"Tenango del Aire","15_089","municipios",NULL,NULL
+"Tenango del Valle","15_090","municipios",NULL,NULL
+"Teoloyucan","15_091","municipios",NULL,NULL
+"Teotihuacán","15_092","municipios",NULL,NULL
+"Tepetlaoxtoc","15_093","municipios",NULL,NULL
+"Tepetlixpa","15_094","municipios",NULL,NULL
+"Tepotzotlán","15_095","municipios",NULL,NULL
+"Tequixquiac","15_096","municipios",NULL,NULL
+"Texcaltitlán","15_097","municipios",NULL,NULL
+"Texcalyacac","15_098","municipios",NULL,NULL
+"Texcoco","15_099","municipios",NULL,NULL
+"Tezoyuca","15_100","municipios",NULL,NULL
+"Tianguistenco","15_101","municipios",NULL,NULL
+"Timilpan","15_102","municipios",NULL,NULL
+"Tlalmanalco","15_103","municipios",NULL,NULL
+"Tlalnepantla de Baz","15_104","municipios",NULL,NULL
+"Tlatlaya","15_105","municipios",NULL,NULL
+"Toluca","15_106","municipios",NULL,NULL
+"Tonatico","15_107","municipios",NULL,NULL
+"Tultepec","15_108","municipios",NULL,NULL
+"Tultitlán","15_109","municipios",NULL,NULL
+"Valle de Bravo","15_110","municipios",NULL,NULL
+"Villa de Allende","15_111","municipios",NULL,NULL
+"Villa del Carbón","15_112","municipios",NULL,NULL
+"Villa Guerrero","15_113","municipios",NULL,NULL
+"Villa Victoria","15_114","municipios",NULL,NULL
+"Xonacatlán","15_115","municipios",NULL,NULL
+"Zacazonapan","15_116","municipios",NULL,NULL
+"Zacualpan","15_117","municipios",NULL,NULL
+"Zinacantepec","15_118","municipios",NULL,NULL
+"Zumpahuacán","15_119","municipios",NULL,NULL
+"Zumpango","15_120","municipios",NULL,NULL
+"Cuautitlán Izcalli","15_121","municipios",NULL,NULL
+"Valle de Chalco Solidaridad","15_122","municipios",NULL,NULL
+"Luvianos","15_123","municipios",NULL,NULL
+"San José del Rincón","15_124","municipios",NULL,NULL
+"Tonanitla","15_125","municipios",NULL,NULL
+"Acuitzio","16_001","municipios",NULL,NULL
+"Aguililla","16_002","municipios",NULL,NULL
+"Álvaro Obregón","16_003","municipios",NULL,NULL
+"Angamacutiro","16_004","municipios",NULL,NULL
+"Angangueo","16_005","municipios",NULL,NULL
+"Apatzingán","16_006","municipios",NULL,NULL
+"Aporo","16_007","municipios",NULL,NULL
+"Aquila","16_008","municipios",NULL,NULL
+"Ario","16_009","municipios",NULL,NULL
+"Arteaga","16_010","municipios",NULL,NULL
+"Briseñas","16_011","municipios",NULL,NULL
+"Buenavista","16_012","municipios",NULL,NULL
+"Carácuaro","16_013","municipios",NULL,NULL
+"Coahuayana","16_014","municipios",NULL,NULL
+"Coalcomán de Vázquez Pallares","16_015","municipios",NULL,NULL
+"Coeneo","16_016","municipios",NULL,NULL
+"Contepec","16_017","municipios",NULL,NULL
+"Copándaro","16_018","municipios",NULL,NULL
+"Cotija","16_019","municipios",NULL,NULL
+"Cuitzeo","16_020","municipios",NULL,NULL
+"Charapan","16_021","municipios",NULL,NULL
+"Charo","16_022","municipios",NULL,NULL
+"Chavinda","16_023","municipios",NULL,NULL
+"Cherán","16_024","municipios",NULL,NULL
+"Chilchota","16_025","municipios",NULL,NULL
+"Chinicuila","16_026","municipios",NULL,NULL
+"Chucándiro","16_027","municipios",NULL,NULL
+"Churintzio","16_028","municipios",NULL,NULL
+"Churumuco","16_029","municipios",NULL,NULL
+"Ecuandureo","16_030","municipios",NULL,NULL
+"Epitacio Huerta","16_031","municipios",NULL,NULL
+"Erongarícuaro","16_032","municipios",NULL,NULL
+"Gabriel Zamora","16_033","municipios",NULL,NULL
+"Hidalgo","16_034","municipios",NULL,NULL
+"La Huacana","16_035","municipios",NULL,NULL
+"Huandacareo","16_036","municipios",NULL,NULL
+"Huaniqueo","16_037","municipios",NULL,NULL
+"Huetamo","16_038","municipios",NULL,NULL
+"Huiramba","16_039","municipios",NULL,NULL
+"Indaparapeo","16_040","municipios",NULL,NULL
+"Irimbo","16_041","municipios",NULL,NULL
+"Ixtlán","16_042","municipios",NULL,NULL
+"Jacona","16_043","municipios",NULL,NULL
+"Jiménez","16_044","municipios",NULL,NULL
+"Jiquilpan","16_045","municipios",NULL,NULL
+"Juárez","16_046","municipios",NULL,NULL
+"Jungapeo","16_047","municipios",NULL,NULL
+"Lagunillas","16_048","municipios",NULL,NULL
+"Madero","16_049","municipios",NULL,NULL
+"Maravatío","16_050","municipios",NULL,NULL
+"Marcos Castellanos","16_051","municipios",NULL,NULL
+"Lázaro Cárdenas","16_052","municipios",NULL,NULL
+"Morelia","16_053","municipios",NULL,NULL
+"Morelos","16_054","municipios",NULL,NULL
+"Múgica","16_055","municipios",NULL,NULL
+"Nahuatzen","16_056","municipios",NULL,NULL
+"Nocupétaro","16_057","municipios",NULL,NULL
+"Nuevo Parangaricutiro","16_058","municipios",NULL,NULL
+"Nuevo Urecho","16_059","municipios",NULL,NULL
+"Numarán","16_060","municipios",NULL,NULL
+"Ocampo","16_061","municipios",NULL,NULL
+"Pajacuarán","16_062","municipios",NULL,NULL
+"Panindícuaro","16_063","municipios",NULL,NULL
+"Parácuaro","16_064","municipios",NULL,NULL
+"Paracho","16_065","municipios",NULL,NULL
+"Pátzcuaro","16_066","municipios",NULL,NULL
+"Penjamillo","16_067","municipios",NULL,NULL
+"Peribán","16_068","municipios",NULL,NULL
+"La Piedad","16_069","municipios",NULL,NULL
+"Purépero","16_070","municipios",NULL,NULL
+"Puruándiro","16_071","municipios",NULL,NULL
+"Queréndaro","16_072","municipios",NULL,NULL
+"Quiroga","16_073","municipios",NULL,NULL
+"Cojumatlán de Régules","16_074","municipios",NULL,NULL
+"Los Reyes","16_075","municipios",NULL,NULL
+"Sahuayo","16_076","municipios",NULL,NULL
+"San Lucas","16_077","municipios",NULL,NULL
+"Santa Ana Maya","16_078","municipios",NULL,NULL
+"Salvador Escalante","16_079","municipios",NULL,NULL
+"Senguio","16_080","municipios",NULL,NULL
+"Susupuato","16_081","municipios",NULL,NULL
+"Tacámbaro","16_082","municipios",NULL,NULL
+"Tancítaro","16_083","municipios",NULL,NULL
+"Tangamandapio","16_084","municipios",NULL,NULL
+"Tangancícuaro","16_085","municipios",NULL,NULL
+"Tanhuato","16_086","municipios",NULL,NULL
+"Taretan","16_087","municipios",NULL,NULL
+"Tarímbaro","16_088","municipios",NULL,NULL
+"Tepalcatepec","16_089","municipios",NULL,NULL
+"Tingambato","16_090","municipios",NULL,NULL
+"Tingüindín","16_091","municipios",NULL,NULL
+"Tiquicheo de Nicolás Romero","16_092","municipios",NULL,NULL
+"Tlalpujahua","16_093","municipios",NULL,NULL
+"Tlazazalca","16_094","municipios",NULL,NULL
+"Tocumbo","16_095","municipios",NULL,NULL
+"Tumbiscatío","16_096","municipios",NULL,NULL
+"Turicato","16_097","municipios",NULL,NULL
+"Tuxpan","16_098","municipios",NULL,NULL
+"Tuzantla","16_099","municipios",NULL,NULL
+"Tzintzuntzan","16_100","municipios",NULL,NULL
+"Tzitzio","16_101","municipios",NULL,NULL
+"Uruapan","16_102","municipios",NULL,NULL
+"Venustiano Carranza","16_103","municipios",NULL,NULL
+"Villamar","16_104","municipios",NULL,NULL
+"Vista Hermosa","16_105","municipios",NULL,NULL
+"Yurécuaro","16_106","municipios",NULL,NULL
+"Zacapu","16_107","municipios",NULL,NULL
+"Zamora","16_108","municipios",NULL,NULL
+"Zináparo","16_109","municipios",NULL,NULL
+"Zinapécuaro","16_110","municipios",NULL,NULL
+"Ziracuaretiro","16_111","municipios",NULL,NULL
+"Zitácuaro","16_112","municipios",NULL,NULL
+"José Sixto Verduzco","16_113","municipios",NULL,NULL
+"Amacuzac","17_001","municipios",NULL,NULL
+"Atlatlahucan","17_002","municipios",NULL,NULL
+"Axochiapan","17_003","municipios",NULL,NULL
+"Ayala","17_004","municipios",NULL,NULL
+"Coatlán del Río","17_005","municipios",NULL,NULL
+"Cuautla","17_006","municipios",NULL,NULL
+"Cuernavaca","17_007","municipios",NULL,NULL
+"Emiliano Zapata","17_008","municipios",NULL,NULL
+"Huitzilac","17_009","municipios",NULL,NULL
+"Jantetelco","17_010","municipios",NULL,NULL
+"Jiutepec","17_011","municipios",NULL,NULL
+"Jojutla","17_012","municipios",NULL,NULL
+"Jonacatepec de Leandro Valle","17_013","municipios",NULL,NULL
+"Mazatepec","17_014","municipios",NULL,NULL
+"Miacatlán","17_015","municipios",NULL,NULL
+"Ocuituco","17_016","municipios",NULL,NULL
+"Puente de Ixtla","17_017","municipios",NULL,NULL
+"Temixco","17_018","municipios",NULL,NULL
+"Tepalcingo","17_019","municipios",NULL,NULL
+"Tepoztlán","17_020","municipios",NULL,NULL
+"Tetecala","17_021","municipios",NULL,NULL
+"Tetela del Volcán","17_022","municipios",NULL,NULL
+"Tlalnepantla","17_023","municipios",NULL,NULL
+"Tlaltizapán de Zapata","17_024","municipios",NULL,NULL
+"Tlaquiltenango","17_025","municipios",NULL,NULL
+"Tlayacapan","17_026","municipios",NULL,NULL
+"Totolapan","17_027","municipios",NULL,NULL
+"Xochitepec","17_028","municipios",NULL,NULL
+"Yautepec","17_029","municipios",NULL,NULL
+"Yecapixtla","17_030","municipios",NULL,NULL
+"Zacatepec","17_031","municipios",NULL,NULL
+"Zacualpan de Amilpas","17_032","municipios",NULL,NULL
+"Temoac","17_033","municipios",NULL,NULL
+"Acaponeta","18_001","municipios",NULL,NULL
+"Ahuacatlán","18_002","municipios",NULL,NULL
+"Amatlán de Cañas","18_003","municipios",NULL,NULL
+"Compostela","18_004","municipios",NULL,NULL
+"Huajicori","18_005","municipios",NULL,NULL
+"Ixtlán del Río","18_006","municipios",NULL,NULL
+"Jala","18_007","municipios",NULL,NULL
+"Xalisco","18_008","municipios",NULL,NULL
+"Del Nayar","18_009","municipios",NULL,NULL
+"Rosamorada","18_010","municipios",NULL,NULL
+"Ruíz","18_011","municipios",NULL,NULL
+"San Blas","18_012","municipios",NULL,NULL
+"San Pedro Lagunillas","18_013","municipios",NULL,NULL
+"Santa María del Oro","18_014","municipios",NULL,NULL
+"Santiago Ixcuintla","18_015","municipios",NULL,NULL
+"Tecuala","18_016","municipios",NULL,NULL
+"Tepic","18_017","municipios",NULL,NULL
+"Tuxpan","18_018","municipios",NULL,NULL
+"La Yesca","18_019","municipios",NULL,NULL
+"Bahía de Banderas","18_020","municipios",NULL,NULL
+"Abasolo","19_001","municipios",NULL,NULL
+"Agualeguas","19_002","municipios",NULL,NULL
+"Los Aldamas","19_003","municipios",NULL,NULL
+"Allende","19_004","municipios",NULL,NULL
+"Anáhuac","19_005","municipios",NULL,NULL
+"Apodaca","19_006","municipios",NULL,NULL
+"Aramberri","19_007","municipios",NULL,NULL
+"Bustamante","19_008","municipios",NULL,NULL
+"Cadereyta Jiménez","19_009","municipios",NULL,NULL
+"El Carmen","19_010","municipios",NULL,NULL
+"Cerralvo","19_011","municipios",NULL,NULL
+"Ciénega de Flores","19_012","municipios",NULL,NULL
+"China","19_013","municipios",NULL,NULL
+"Doctor Arroyo","19_014","municipios",NULL,NULL
+"Doctor Coss","19_015","municipios",NULL,NULL
+"Doctor González","19_016","municipios",NULL,NULL
+"Galeana","19_017","municipios",NULL,NULL
+"García","19_018","municipios",NULL,NULL
+"San Pedro Garza García","19_019","municipios",NULL,NULL
+"General Bravo","19_020","municipios",NULL,NULL
+"General Escobedo","19_021","municipios",NULL,NULL
+"General Terán","19_022","municipios",NULL,NULL
+"General Treviño","19_023","municipios",NULL,NULL
+"General Zaragoza","19_024","municipios",NULL,NULL
+"General Zuazua","19_025","municipios",NULL,NULL
+"Guadalupe","19_026","municipios",NULL,NULL
+"Los Herreras","19_027","municipios",NULL,NULL
+"Higueras","19_028","municipios",NULL,NULL
+"Hualahuises","19_029","municipios",NULL,NULL
+"Iturbide","19_030","municipios",NULL,NULL
+"Juárez","19_031","municipios",NULL,NULL
+"Lampazos de Naranjo","19_032","municipios",NULL,NULL
+"Linares","19_033","municipios",NULL,NULL
+"Marín","19_034","municipios",NULL,NULL
+"Melchor Ocampo","19_035","municipios",NULL,NULL
+"Mier y Noriega","19_036","municipios",NULL,NULL
+"Mina","19_037","municipios",NULL,NULL
+"Montemorelos","19_038","municipios",NULL,NULL
+"Monterrey","19_039","municipios",NULL,NULL
+"Parás","19_040","municipios",NULL,NULL
+"Pesquería","19_041","municipios",NULL,NULL
+"Los Ramones","19_042","municipios",NULL,NULL
+"Rayones","19_043","municipios",NULL,NULL
+"Sabinas Hidalgo","19_044","municipios",NULL,NULL
+"Salinas Victoria","19_045","municipios",NULL,NULL
+"San Nicolás de los Garza","19_046","municipios",NULL,NULL
+"Hidalgo","19_047","municipios",NULL,NULL
+"Santa Catarina","19_048","municipios",NULL,NULL
+"Santiago","19_049","municipios",NULL,NULL
+"Vallecillo","19_050","municipios",NULL,NULL
+"Villaldama","19_051","municipios",NULL,NULL
+"Abejones","20_001","municipios",NULL,NULL
+"Acatlán de Pérez Figueroa","20_002","municipios",NULL,NULL
+"Asunción Cacalotepec","20_003","municipios",NULL,NULL
+"Asunción Cuyotepeji","20_004","municipios",NULL,NULL
+"Asunción Ixtaltepec","20_005","municipios",NULL,NULL
+"Asunción Nochixtlán","20_006","municipios",NULL,NULL
+"Asunción Ocotlán","20_007","municipios",NULL,NULL
+"Asunción Tlacolulita","20_008","municipios",NULL,NULL
+"Ayotzintepec","20_009","municipios",NULL,NULL
+"El Barrio de la Soledad","20_010","municipios",NULL,NULL
+"Calihualá","20_011","municipios",NULL,NULL
+"Candelaria Loxicha","20_012","municipios",NULL,NULL
+"Ciénega de Zimatlán","20_013","municipios",NULL,NULL
+"Ciudad Ixtepec","20_014","municipios",NULL,NULL
+"Coatecas Altas","20_015","municipios",NULL,NULL
+"Coicoyán de las Flores","20_016","municipios",NULL,NULL
+"La Compañía","20_017","municipios",NULL,NULL
+"Concepción Buenavista","20_018","municipios",NULL,NULL
+"Concepción Pápalo","20_019","municipios",NULL,NULL
+"Constancia del Rosario","20_020","municipios",NULL,NULL
+"Cosolapa","20_021","municipios",NULL,NULL
+"Cosoltepec","20_022","municipios",NULL,NULL
+"Cuilápam de Guerrero","20_023","municipios",NULL,NULL
+"Cuyamecalco Villa de Zaragoza","20_024","municipios",NULL,NULL
+"Chahuites","20_025","municipios",NULL,NULL
+"Chalcatongo de Hidalgo","20_026","municipios",NULL,NULL
+"Chiquihuitlán de Benito Juárez","20_027","municipios",NULL,NULL
+"Heroica Ciudad de Ejutla de Crespo","20_028","municipios",NULL,NULL
+"Eloxochitlán de Flores Magón","20_029","municipios",NULL,NULL
+"El Espinal","20_030","municipios",NULL,NULL
+"Tamazulápam del Espíritu Santo","20_031","municipios",NULL,NULL
+"Fresnillo de Trujano","20_032","municipios",NULL,NULL
+"Guadalupe Etla","20_033","municipios",NULL,NULL
+"Guadalupe de Ramírez","20_034","municipios",NULL,NULL
+"Guelatao de Juárez","20_035","municipios",NULL,NULL
+"Guevea de Humboldt","20_036","municipios",NULL,NULL
+"Mesones Hidalgo","20_037","municipios",NULL,NULL
+"Villa Hidalgo","20_038","municipios",NULL,NULL
+"Heroica Ciudad de Huajuapan de León","20_039","municipios",NULL,NULL
+"Huautepec","20_040","municipios",NULL,NULL
+"Huautla de Jiménez","20_041","municipios",NULL,NULL
+"Ixtlán de Juárez","20_042","municipios",NULL,NULL
+"Heroica Ciudad de Juchitán de Zaragoza","20_043","municipios",NULL,NULL
+"Loma Bonita","20_044","municipios",NULL,NULL
+"Magdalena Apasco","20_045","municipios",NULL,NULL
+"Magdalena Jaltepec","20_046","municipios",NULL,NULL
+"Santa Magdalena Jicotlán","20_047","municipios",NULL,NULL
+"Magdalena Mixtepec","20_048","municipios",NULL,NULL
+"Magdalena Ocotlán","20_049","municipios",NULL,NULL
+"Magdalena Peñasco","20_050","municipios",NULL,NULL
+"Magdalena Teitipac","20_051","municipios",NULL,NULL
+"Magdalena Tequisistlán","20_052","municipios",NULL,NULL
+"Magdalena Tlacotepec","20_053","municipios",NULL,NULL
+"Magdalena Zahuatlán","20_054","municipios",NULL,NULL
+"Mariscala de Juárez","20_055","municipios",NULL,NULL
+"Mártires de Tacubaya","20_056","municipios",NULL,NULL
+"Matías Romero Avendaño","20_057","municipios",NULL,NULL
+"Mazatlán Villa de Flores","20_058","municipios",NULL,NULL
+"Miahuatlán de Porfirio Díaz","20_059","municipios",NULL,NULL
+"Mixistlán de la Reforma","20_060","municipios",NULL,NULL
+"Monjas","20_061","municipios",NULL,NULL
+"Natividad","20_062","municipios",NULL,NULL
+"Nazareno Etla","20_063","municipios",NULL,NULL
+"Nejapa de Madero","20_064","municipios",NULL,NULL
+"Ixpantepec Nieves","20_065","municipios",NULL,NULL
+"Santiago Niltepec","20_066","municipios",NULL,NULL
+"Oaxaca de Juárez","20_067","municipios",NULL,NULL
+"Ocotlán de Morelos","20_068","municipios",NULL,NULL
+"La Pe","20_069","municipios",NULL,NULL
+"Pinotepa de Don Luis","20_070","municipios",NULL,NULL
+"Pluma Hidalgo","20_071","municipios",NULL,NULL
+"San José del Progreso","20_072","municipios",NULL,NULL
+"Putla Villa de Guerrero","20_073","municipios",NULL,NULL
+"Santa Catarina Quioquitani","20_074","municipios",NULL,NULL
+"Reforma de Pineda","20_075","municipios",NULL,NULL
+"La Reforma","20_076","municipios",NULL,NULL
+"Reyes Etla","20_077","municipios",NULL,NULL
+"Rojas de Cuauhtémoc","20_078","municipios",NULL,NULL
+"Salina Cruz","20_079","municipios",NULL,NULL
+"San Agustín Amatengo","20_080","municipios",NULL,NULL
+"San Agustín Atenango","20_081","municipios",NULL,NULL
+"San Agustín Chayuco","20_082","municipios",NULL,NULL
+"San Agustín de las Juntas","20_083","municipios",NULL,NULL
+"San Agustín Etla","20_084","municipios",NULL,NULL
+"San Agustín Loxicha","20_085","municipios",NULL,NULL
+"San Agustín Tlacotepec","20_086","municipios",NULL,NULL
+"San Agustín Yatareni","20_087","municipios",NULL,NULL
+"San Andrés Cabecera Nueva","20_088","municipios",NULL,NULL
+"San Andrés Dinicuiti","20_089","municipios",NULL,NULL
+"San Andrés Huaxpaltepec","20_090","municipios",NULL,NULL
+"San Andrés Huayápam","20_091","municipios",NULL,NULL
+"San Andrés Ixtlahuaca","20_092","municipios",NULL,NULL
+"San Andrés Lagunas","20_093","municipios",NULL,NULL
+"San Andrés Nuxiño","20_094","municipios",NULL,NULL
+"San Andrés Paxtlán","20_095","municipios",NULL,NULL
+"San Andrés Sinaxtla","20_096","municipios",NULL,NULL
+"San Andrés Solaga","20_097","municipios",NULL,NULL
+"San Andrés Teotilálpam","20_098","municipios",NULL,NULL
+"San Andrés Tepetlapa","20_099","municipios",NULL,NULL
+"San Andrés Yaá","20_100","municipios",NULL,NULL
+"San Andrés Zabache","20_101","municipios",NULL,NULL
+"San Andrés Zautla","20_102","municipios",NULL,NULL
+"San Antonino Castillo Velasco","20_103","municipios",NULL,NULL
+"San Antonino el Alto","20_104","municipios",NULL,NULL
+"San Antonino Monte Verde","20_105","municipios",NULL,NULL
+"San Antonio Acutla","20_106","municipios",NULL,NULL
+"San Antonio de la Cal","20_107","municipios",NULL,NULL
+"San Antonio Huitepec","20_108","municipios",NULL,NULL
+"San Antonio Nanahuatípam","20_109","municipios",NULL,NULL
+"San Antonio Sinicahua","20_110","municipios",NULL,NULL
+"San Antonio Tepetlapa","20_111","municipios",NULL,NULL
+"San Baltazar Chichicápam","20_112","municipios",NULL,NULL
+"San Baltazar Loxicha","20_113","municipios",NULL,NULL
+"San Baltazar Yatzachi el Bajo","20_114","municipios",NULL,NULL
+"San Bartolo Coyotepec","20_115","municipios",NULL,NULL
+"San Bartolomé Ayautla","20_116","municipios",NULL,NULL
+"San Bartolomé Loxicha","20_117","municipios",NULL,NULL
+"San Bartolomé Quialana","20_118","municipios",NULL,NULL
+"San Bartolomé Yucuañe","20_119","municipios",NULL,NULL
+"San Bartolomé Zoogocho","20_120","municipios",NULL,NULL
+"San Bartolo Soyaltepec","20_121","municipios",NULL,NULL
+"San Bartolo Yautepec","20_122","municipios",NULL,NULL
+"San Bernardo Mixtepec","20_123","municipios",NULL,NULL
+"San Blas Atempa","20_124","municipios",NULL,NULL
+"San Carlos Yautepec","20_125","municipios",NULL,NULL
+"San Cristóbal Amatlán","20_126","municipios",NULL,NULL
+"San Cristóbal Amoltepec","20_127","municipios",NULL,NULL
+"San Cristóbal Lachirioag","20_128","municipios",NULL,NULL
+"San Cristóbal Suchixtlahuaca","20_129","municipios",NULL,NULL
+"San Dionisio del Mar","20_130","municipios",NULL,NULL
+"San Dionisio Ocotepec","20_131","municipios",NULL,NULL
+"San Dionisio Ocotlán","20_132","municipios",NULL,NULL
+"San Esteban Atatlahuca","20_133","municipios",NULL,NULL
+"San Felipe Jalapa de Díaz","20_134","municipios",NULL,NULL
+"San Felipe Tejalápam","20_135","municipios",NULL,NULL
+"San Felipe Usila","20_136","municipios",NULL,NULL
+"San Francisco Cahuacuá","20_137","municipios",NULL,NULL
+"San Francisco Cajonos","20_138","municipios",NULL,NULL
+"San Francisco Chapulapa","20_139","municipios",NULL,NULL
+"San Francisco Chindúa","20_140","municipios",NULL,NULL
+"San Francisco del Mar","20_141","municipios",NULL,NULL
+"San Francisco Huehuetlán","20_142","municipios",NULL,NULL
+"San Francisco Ixhuatán","20_143","municipios",NULL,NULL
+"San Francisco Jaltepetongo","20_144","municipios",NULL,NULL
+"San Francisco Lachigoló","20_145","municipios",NULL,NULL
+"San Francisco Logueche","20_146","municipios",NULL,NULL
+"San Francisco Nuxaño","20_147","municipios",NULL,NULL
+"San Francisco Ozolotepec","20_148","municipios",NULL,NULL
+"San Francisco Sola","20_149","municipios",NULL,NULL
+"San Francisco Telixtlahuaca","20_150","municipios",NULL,NULL
+"San Francisco Teopan","20_151","municipios",NULL,NULL
+"San Francisco Tlapancingo","20_152","municipios",NULL,NULL
+"San Gabriel Mixtepec","20_153","municipios",NULL,NULL
+"San Ildefonso Amatlán","20_154","municipios",NULL,NULL
+"San Ildefonso Sola","20_155","municipios",NULL,NULL
+"San Ildefonso Villa Alta","20_156","municipios",NULL,NULL
+"San Jacinto Amilpas","20_157","municipios",NULL,NULL
+"San Jacinto Tlacotepec","20_158","municipios",NULL,NULL
+"San Jerónimo Coatlán","20_159","municipios",NULL,NULL
+"San Jerónimo Silacayoapilla","20_160","municipios",NULL,NULL
+"San Jerónimo Sosola","20_161","municipios",NULL,NULL
+"San Jerónimo Taviche","20_162","municipios",NULL,NULL
+"San Jerónimo Tecóatl","20_163","municipios",NULL,NULL
+"San Jorge Nuchita","20_164","municipios",NULL,NULL
+"San José Ayuquila","20_165","municipios",NULL,NULL
+"San José Chiltepec","20_166","municipios",NULL,NULL
+"San José del Peñasco","20_167","municipios",NULL,NULL
+"San José Estancia Grande","20_168","municipios",NULL,NULL
+"San José Independencia","20_169","municipios",NULL,NULL
+"San José Lachiguiri","20_170","municipios",NULL,NULL
+"San José Tenango","20_171","municipios",NULL,NULL
+"San Juan Achiutla","20_172","municipios",NULL,NULL
+"San Juan Atepec","20_173","municipios",NULL,NULL
+"Ánimas Trujano","20_174","municipios",NULL,NULL
+"San Juan Bautista Atatlahuca","20_175","municipios",NULL,NULL
+"San Juan Bautista Coixtlahuaca","20_176","municipios",NULL,NULL
+"San Juan Bautista Cuicatlán","20_177","municipios",NULL,NULL
+"San Juan Bautista Guelache","20_178","municipios",NULL,NULL
+"San Juan Bautista Jayacatlán","20_179","municipios",NULL,NULL
+"San Juan Bautista Lo de Soto","20_180","municipios",NULL,NULL
+"San Juan Bautista Suchitepec","20_181","municipios",NULL,NULL
+"San Juan Bautista Tlacoatzintepec","20_182","municipios",NULL,NULL
+"San Juan Bautista Tlachichilco","20_183","municipios",NULL,NULL
+"San Juan Bautista Tuxtepec","20_184","municipios",NULL,NULL
+"San Juan Cacahuatepec","20_185","municipios",NULL,NULL
+"San Juan Cieneguilla","20_186","municipios",NULL,NULL
+"San Juan Coatzóspam","20_187","municipios",NULL,NULL
+"San Juan Colorado","20_188","municipios",NULL,NULL
+"San Juan Comaltepec","20_189","municipios",NULL,NULL
+"San Juan Cotzocón","20_190","municipios",NULL,NULL
+"San Juan Chicomezúchil","20_191","municipios",NULL,NULL
+"San Juan Chilateca","20_192","municipios",NULL,NULL
+"San Juan del Estado","20_193","municipios",NULL,NULL
+"San Juan del Río","20_194","municipios",NULL,NULL
+"San Juan Diuxi","20_195","municipios",NULL,NULL
+"San Juan Evangelista Analco","20_196","municipios",NULL,NULL
+"San Juan Guelavía","20_197","municipios",NULL,NULL
+"San Juan Guichicovi","20_198","municipios",NULL,NULL
+"San Juan Ihualtepec","20_199","municipios",NULL,NULL
+"San Juan Juquila Mixes","20_200","municipios",NULL,NULL
+"San Juan Juquila Vijanos","20_201","municipios",NULL,NULL
+"San Juan Lachao","20_202","municipios",NULL,NULL
+"San Juan Lachigalla","20_203","municipios",NULL,NULL
+"San Juan Lajarcia","20_204","municipios",NULL,NULL
+"San Juan Lalana","20_205","municipios",NULL,NULL
+"San Juan de los Cués","20_206","municipios",NULL,NULL
+"San Juan Mazatlán","20_207","municipios",NULL,NULL
+"San Juan Mixtepec -Dto. 08 -","20_208","municipios",NULL,NULL
+"San Juan Mixtepec -Dto. 26 -","20_209","municipios",NULL,NULL
+"San Juan Ñumí","20_210","municipios",NULL,NULL
+"San Juan Ozolotepec","20_211","municipios",NULL,NULL
+"San Juan Petlapa","20_212","municipios",NULL,NULL
+"San Juan Quiahije","20_213","municipios",NULL,NULL
+"San Juan Quiotepec","20_214","municipios",NULL,NULL
+"San Juan Sayultepec","20_215","municipios",NULL,NULL
+"San Juan Tabaá","20_216","municipios",NULL,NULL
+"San Juan Tamazola","20_217","municipios",NULL,NULL
+"San Juan Teita","20_218","municipios",NULL,NULL
+"San Juan Teitipac","20_219","municipios",NULL,NULL
+"San Juan Tepeuxila","20_220","municipios",NULL,NULL
+"San Juan Teposcolula","20_221","municipios",NULL,NULL
+"San Juan Yaeé","20_222","municipios",NULL,NULL
+"San Juan Yatzona","20_223","municipios",NULL,NULL
+"San Juan Yucuita","20_224","municipios",NULL,NULL
+"San Lorenzo","20_225","municipios",NULL,NULL
+"San Lorenzo Albarradas","20_226","municipios",NULL,NULL
+"San Lorenzo Cacaotepec","20_227","municipios",NULL,NULL
+"San Lorenzo Cuaunecuiltitla","20_228","municipios",NULL,NULL
+"San Lorenzo Texmelúcan","20_229","municipios",NULL,NULL
+"San Lorenzo Victoria","20_230","municipios",NULL,NULL
+"San Lucas Camotlán","20_231","municipios",NULL,NULL
+"San Lucas Ojitlán","20_232","municipios",NULL,NULL
+"San Lucas Quiaviní","20_233","municipios",NULL,NULL
+"San Lucas Zoquiápam","20_234","municipios",NULL,NULL
+"San Luis Amatlán","20_235","municipios",NULL,NULL
+"San Marcial Ozolotepec","20_236","municipios",NULL,NULL
+"San Marcos Arteaga","20_237","municipios",NULL,NULL
+"San Martín de los Cansecos","20_238","municipios",NULL,NULL
+"San Martín Huamelúlpam","20_239","municipios",NULL,NULL
+"San Martín Itunyoso","20_240","municipios",NULL,NULL
+"San Martín Lachilá","20_241","municipios",NULL,NULL
+"San Martín Peras","20_242","municipios",NULL,NULL
+"San Martín Tilcajete","20_243","municipios",NULL,NULL
+"San Martín Toxpalan","20_244","municipios",NULL,NULL
+"San Martín Zacatepec","20_245","municipios",NULL,NULL
+"San Mateo Cajonos","20_246","municipios",NULL,NULL
+"Capulálpam de Méndez","20_247","municipios",NULL,NULL
+"San Mateo del Mar","20_248","municipios",NULL,NULL
+"San Mateo Yoloxochitlán","20_249","municipios",NULL,NULL
+"San Mateo Etlatongo","20_250","municipios",NULL,NULL
+"San Mateo Nejápam","20_251","municipios",NULL,NULL
+"San Mateo Peñasco","20_252","municipios",NULL,NULL
+"San Mateo Piñas","20_253","municipios",NULL,NULL
+"San Mateo Río Hondo","20_254","municipios",NULL,NULL
+"San Mateo Sindihui","20_255","municipios",NULL,NULL
+"San Mateo Tlapiltepec","20_256","municipios",NULL,NULL
+"San Melchor Betaza","20_257","municipios",NULL,NULL
+"San Miguel Achiutla","20_258","municipios",NULL,NULL
+"San Miguel Ahuehuetitlán","20_259","municipios",NULL,NULL
+"San Miguel Aloápam","20_260","municipios",NULL,NULL
+"San Miguel Amatitlán","20_261","municipios",NULL,NULL
+"San Miguel Amatlán","20_262","municipios",NULL,NULL
+"San Miguel Coatlán","20_263","municipios",NULL,NULL
+"San Miguel Chicahua","20_264","municipios",NULL,NULL
+"San Miguel Chimalapa","20_265","municipios",NULL,NULL
+"San Miguel del Puerto","20_266","municipios",NULL,NULL
+"San Miguel del Río","20_267","municipios",NULL,NULL
+"San Miguel Ejutla","20_268","municipios",NULL,NULL
+"San Miguel el Grande","20_269","municipios",NULL,NULL
+"San Miguel Huautla","20_270","municipios",NULL,NULL
+"San Miguel Mixtepec","20_271","municipios",NULL,NULL
+"San Miguel Panixtlahuaca","20_272","municipios",NULL,NULL
+"San Miguel Peras","20_273","municipios",NULL,NULL
+"San Miguel Piedras","20_274","municipios",NULL,NULL
+"San Miguel Quetzaltepec","20_275","municipios",NULL,NULL
+"San Miguel Santa Flor","20_276","municipios",NULL,NULL
+"Villa Sola de Vega","20_277","municipios",NULL,NULL
+"San Miguel Soyaltepec","20_278","municipios",NULL,NULL
+"San Miguel Suchixtepec","20_279","municipios",NULL,NULL
+"Villa Talea de Castro","20_280","municipios",NULL,NULL
+"San Miguel Tecomatlán","20_281","municipios",NULL,NULL
+"San Miguel Tenango","20_282","municipios",NULL,NULL
+"San Miguel Tequixtepec","20_283","municipios",NULL,NULL
+"San Miguel Tilquiápam","20_284","municipios",NULL,NULL
+"San Miguel Tlacamama","20_285","municipios",NULL,NULL
+"San Miguel Tlacotepec","20_286","municipios",NULL,NULL
+"San Miguel Tulancingo","20_287","municipios",NULL,NULL
+"San Miguel Yotao","20_288","municipios",NULL,NULL
+"San Nicolás","20_289","municipios",NULL,NULL
+"San Nicolás Hidalgo","20_290","municipios",NULL,NULL
+"San Pablo Coatlán","20_291","municipios",NULL,NULL
+"San Pablo Cuatro Venados","20_292","municipios",NULL,NULL
+"San Pablo Etla","20_293","municipios",NULL,NULL
+"San Pablo Huitzo","20_294","municipios",NULL,NULL
+"San Pablo Huixtepec","20_295","municipios",NULL,NULL
+"San Pablo Macuiltianguis","20_296","municipios",NULL,NULL
+"San Pablo Tijaltepec","20_297","municipios",NULL,NULL
+"San Pablo Villa de Mitla","20_298","municipios",NULL,NULL
+"San Pablo Yaganiza","20_299","municipios",NULL,NULL
+"San Pedro Amuzgos","20_300","municipios",NULL,NULL
+"San Pedro Apóstol","20_301","municipios",NULL,NULL
+"San Pedro Atoyac","20_302","municipios",NULL,NULL
+"San Pedro Cajonos","20_303","municipios",NULL,NULL
+"San Pedro Coxcaltepec Cántaros","20_304","municipios",NULL,NULL
+"San Pedro Comitancillo","20_305","municipios",NULL,NULL
+"San Pedro el Alto","20_306","municipios",NULL,NULL
+"San Pedro Huamelula","20_307","municipios",NULL,NULL
+"San Pedro Huilotepec","20_308","municipios",NULL,NULL
+"San Pedro Ixcatlán","20_309","municipios",NULL,NULL
+"San Pedro Ixtlahuaca","20_310","municipios",NULL,NULL
+"San Pedro Jaltepetongo","20_311","municipios",NULL,NULL
+"San Pedro Jicayán","20_312","municipios",NULL,NULL
+"San Pedro Jocotipac","20_313","municipios",NULL,NULL
+"San Pedro Juchatengo","20_314","municipios",NULL,NULL
+"San Pedro Mártir","20_315","municipios",NULL,NULL
+"San Pedro Mártir Quiechapa","20_316","municipios",NULL,NULL
+"San Pedro Mártir Yucuxaco","20_317","municipios",NULL,NULL
+"San Pedro Mixtepec -Dto. 22 -","20_318","municipios",NULL,NULL
+"San Pedro Mixtepec -Dto. 26 -","20_319","municipios",NULL,NULL
+"San Pedro Molinos","20_320","municipios",NULL,NULL
+"San Pedro Nopala","20_321","municipios",NULL,NULL
+"San Pedro Ocopetatillo","20_322","municipios",NULL,NULL
+"San Pedro Ocotepec","20_323","municipios",NULL,NULL
+"San Pedro Pochutla","20_324","municipios",NULL,NULL
+"San Pedro Quiatoni","20_325","municipios",NULL,NULL
+"San Pedro Sochiápam","20_326","municipios",NULL,NULL
+"San Pedro Tapanatepec","20_327","municipios",NULL,NULL
+"San Pedro Taviche","20_328","municipios",NULL,NULL
+"San Pedro Teozacoalco","20_329","municipios",NULL,NULL
+"San Pedro Teutila","20_330","municipios",NULL,NULL
+"San Pedro Tidaá","20_331","municipios",NULL,NULL
+"San Pedro Topiltepec","20_332","municipios",NULL,NULL
+"San Pedro Totolápam","20_333","municipios",NULL,NULL
+"Villa de Tututepec","20_334","municipios",NULL,NULL
+"San Pedro Yaneri","20_335","municipios",NULL,NULL
+"San Pedro Yólox","20_336","municipios",NULL,NULL
+"San Pedro y San Pablo Ayutla","20_337","municipios",NULL,NULL
+"Villa de Etla","20_338","municipios",NULL,NULL
+"San Pedro y San Pablo Teposcolula","20_339","municipios",NULL,NULL
+"San Pedro y San Pablo Tequixtepec","20_340","municipios",NULL,NULL
+"San Pedro Yucunama","20_341","municipios",NULL,NULL
+"San Raymundo Jalpan","20_342","municipios",NULL,NULL
+"San Sebastián Abasolo","20_343","municipios",NULL,NULL
+"San Sebastián Coatlán","20_344","municipios",NULL,NULL
+"San Sebastián Ixcapa","20_345","municipios",NULL,NULL
+"San Sebastián Nicananduta","20_346","municipios",NULL,NULL
+"San Sebastián Río Hondo","20_347","municipios",NULL,NULL
+"San Sebastián Tecomaxtlahuaca","20_348","municipios",NULL,NULL
+"San Sebastián Teitipac","20_349","municipios",NULL,NULL
+"San Sebastián Tutla","20_350","municipios",NULL,NULL
+"San Simón Almolongas","20_351","municipios",NULL,NULL
+"San Simón Zahuatlán","20_352","municipios",NULL,NULL
+"Santa Ana","20_353","municipios",NULL,NULL
+"Santa Ana Ateixtlahuaca","20_354","municipios",NULL,NULL
+"Santa Ana Cuauhtémoc","20_355","municipios",NULL,NULL
+"Santa Ana del Valle","20_356","municipios",NULL,NULL
+"Santa Ana Tavela","20_357","municipios",NULL,NULL
+"Santa Ana Tlapacoyan","20_358","municipios",NULL,NULL
+"Santa Ana Yareni","20_359","municipios",NULL,NULL
+"Santa Ana Zegache","20_360","municipios",NULL,NULL
+"Santa Catalina Quierí","20_361","municipios",NULL,NULL
+"Santa Catarina Cuixtla","20_362","municipios",NULL,NULL
+"Santa Catarina Ixtepeji","20_363","municipios",NULL,NULL
+"Santa Catarina Juquila","20_364","municipios",NULL,NULL
+"Santa Catarina Lachatao","20_365","municipios",NULL,NULL
+"Santa Catarina Loxicha","20_366","municipios",NULL,NULL
+"Santa Catarina Mechoacán","20_367","municipios",NULL,NULL
+"Santa Catarina Minas","20_368","municipios",NULL,NULL
+"Santa Catarina Quiané","20_369","municipios",NULL,NULL
+"Santa Catarina Tayata","20_370","municipios",NULL,NULL
+"Santa Catarina Ticuá","20_371","municipios",NULL,NULL
+"Santa Catarina Yosonotú","20_372","municipios",NULL,NULL
+"Santa Catarina Zapoquila","20_373","municipios",NULL,NULL
+"Santa Cruz Acatepec","20_374","municipios",NULL,NULL
+"Santa Cruz Amilpas","20_375","municipios",NULL,NULL
+"Santa Cruz de Bravo","20_376","municipios",NULL,NULL
+"Santa Cruz Itundujia","20_377","municipios",NULL,NULL
+"Santa Cruz Mixtepec","20_378","municipios",NULL,NULL
+"Santa Cruz Nundaco","20_379","municipios",NULL,NULL
+"Santa Cruz Papalutla","20_380","municipios",NULL,NULL
+"Santa Cruz Tacache de Mina","20_381","municipios",NULL,NULL
+"Santa Cruz Tacahua","20_382","municipios",NULL,NULL
+"Santa Cruz Tayata","20_383","municipios",NULL,NULL
+"Santa Cruz Xitla","20_384","municipios",NULL,NULL
+"Santa Cruz Xoxocotlán","20_385","municipios",NULL,NULL
+"Santa Cruz Zenzontepec","20_386","municipios",NULL,NULL
+"Santa Gertrudis","20_387","municipios",NULL,NULL
+"Santa Inés del Monte","20_388","municipios",NULL,NULL
+"Santa Inés Yatzeche","20_389","municipios",NULL,NULL
+"Santa Lucía del Camino","20_390","municipios",NULL,NULL
+"Santa Lucía Miahuatlán","20_391","municipios",NULL,NULL
+"Santa Lucía Monteverde","20_392","municipios",NULL,NULL
+"Santa Lucía Ocotlán","20_393","municipios",NULL,NULL
+"Santa María Alotepec","20_394","municipios",NULL,NULL
+"Santa María Apazco","20_395","municipios",NULL,NULL
+"Santa María la Asunción","20_396","municipios",NULL,NULL
+"Heroica Ciudad de Tlaxiaco","20_397","municipios",NULL,NULL
+"Ayoquezco de Aldama","20_398","municipios",NULL,NULL
+"Santa María Atzompa","20_399","municipios",NULL,NULL
+"Santa María Camotlán","20_400","municipios",NULL,NULL
+"Santa María Colotepec","20_401","municipios",NULL,NULL
+"Santa María Cortijo","20_402","municipios",NULL,NULL
+"Santa María Coyotepec","20_403","municipios",NULL,NULL
+"Santa María Chachoápam","20_404","municipios",NULL,NULL
+"Villa de Chilapa de Díaz","20_405","municipios",NULL,NULL
+"Santa María Chilchotla","20_406","municipios",NULL,NULL
+"Santa María Chimalapa","20_407","municipios",NULL,NULL
+"Santa María del Rosario","20_408","municipios",NULL,NULL
+"Santa María del Tule","20_409","municipios",NULL,NULL
+"Santa María Ecatepec","20_410","municipios",NULL,NULL
+"Santa María Guelacé","20_411","municipios",NULL,NULL
+"Santa María Guienagati","20_412","municipios",NULL,NULL
+"Santa María Huatulco","20_413","municipios",NULL,NULL
+"Santa María Huazolotitlán","20_414","municipios",NULL,NULL
+"Santa María Ipalapa","20_415","municipios",NULL,NULL
+"Santa María Ixcatlán","20_416","municipios",NULL,NULL
+"Santa María Jacatepec","20_417","municipios",NULL,NULL
+"Santa María Jalapa del Marqués","20_418","municipios",NULL,NULL
+"Santa María Jaltianguis","20_419","municipios",NULL,NULL
+"Santa María Lachixío","20_420","municipios",NULL,NULL
+"Santa María Mixtequilla","20_421","municipios",NULL,NULL
+"Santa María Nativitas","20_422","municipios",NULL,NULL
+"Santa María Nduayaco","20_423","municipios",NULL,NULL
+"Santa María Ozolotepec","20_424","municipios",NULL,NULL
+"Santa María Pápalo","20_425","municipios",NULL,NULL
+"Santa María Peñoles","20_426","municipios",NULL,NULL
+"Santa María Petapa","20_427","municipios",NULL,NULL
+"Santa María Quiegolani","20_428","municipios",NULL,NULL
+"Santa María Sola","20_429","municipios",NULL,NULL
+"Santa María Tataltepec","20_430","municipios",NULL,NULL
+"Santa María Tecomavaca","20_431","municipios",NULL,NULL
+"Santa María Temaxcalapa","20_432","municipios",NULL,NULL
+"Santa María Temaxcaltepec","20_433","municipios",NULL,NULL
+"Santa María Teopoxco","20_434","municipios",NULL,NULL
+"Santa María Tepantlali","20_435","municipios",NULL,NULL
+"Santa María Texcatitlán","20_436","municipios",NULL,NULL
+"Santa María Tlahuitoltepec","20_437","municipios",NULL,NULL
+"Santa María Tlalixtac","20_438","municipios",NULL,NULL
+"Santa María Tonameca","20_439","municipios",NULL,NULL
+"Santa María Totolapilla","20_440","municipios",NULL,NULL
+"Santa María Xadani","20_441","municipios",NULL,NULL
+"Santa María Yalina","20_442","municipios",NULL,NULL
+"Santa María Yavesía","20_443","municipios",NULL,NULL
+"Santa María Yolotepec","20_444","municipios",NULL,NULL
+"Santa María Yosoyúa","20_445","municipios",NULL,NULL
+"Santa María Yucuhiti","20_446","municipios",NULL,NULL
+"Santa María Zacatepec","20_447","municipios",NULL,NULL
+"Santa María Zaniza","20_448","municipios",NULL,NULL
+"Santa María Zoquitlán","20_449","municipios",NULL,NULL
+"Santiago Amoltepec","20_450","municipios",NULL,NULL
+"Santiago Apoala","20_451","municipios",NULL,NULL
+"Santiago Apóstol","20_452","municipios",NULL,NULL
+"Santiago Astata","20_453","municipios",NULL,NULL
+"Santiago Atitlán","20_454","municipios",NULL,NULL
+"Santiago Ayuquililla","20_455","municipios",NULL,NULL
+"Santiago Cacaloxtepec","20_456","municipios",NULL,NULL
+"Santiago Camotlán","20_457","municipios",NULL,NULL
+"Santiago Comaltepec","20_458","municipios",NULL,NULL
+"Santiago Chazumba","20_459","municipios",NULL,NULL
+"Santiago Choápam","20_460","municipios",NULL,NULL
+"Santiago del Río","20_461","municipios",NULL,NULL
+"Santiago Huajolotitlán","20_462","municipios",NULL,NULL
+"Santiago Huauclilla","20_463","municipios",NULL,NULL
+"Santiago Ihuitlán Plumas","20_464","municipios",NULL,NULL
+"Santiago Ixcuintepec","20_465","municipios",NULL,NULL
+"Santiago Ixtayutla","20_466","municipios",NULL,NULL
+"Santiago Jamiltepec","20_467","municipios",NULL,NULL
+"Santiago Jocotepec","20_468","municipios",NULL,NULL
+"Santiago Juxtlahuaca","20_469","municipios",NULL,NULL
+"Santiago Lachiguiri","20_470","municipios",NULL,NULL
+"Santiago Lalopa","20_471","municipios",NULL,NULL
+"Santiago Laollaga","20_472","municipios",NULL,NULL
+"Santiago Laxopa","20_473","municipios",NULL,NULL
+"Santiago Llano Grande","20_474","municipios",NULL,NULL
+"Santiago Matatlán","20_475","municipios",NULL,NULL
+"Santiago Miltepec","20_476","municipios",NULL,NULL
+"Santiago Minas","20_477","municipios",NULL,NULL
+"Santiago Nacaltepec","20_478","municipios",NULL,NULL
+"Santiago Nejapilla","20_479","municipios",NULL,NULL
+"Santiago Nundiche","20_480","municipios",NULL,NULL
+"Santiago Nuyoó","20_481","municipios",NULL,NULL
+"Santiago Pinotepa Nacional","20_482","municipios",NULL,NULL
+"Santiago Suchilquitongo","20_483","municipios",NULL,NULL
+"Santiago Tamazola","20_484","municipios",NULL,NULL
+"Santiago Tapextla","20_485","municipios",NULL,NULL
+"Villa Tejúpam de la Unión","20_486","municipios",NULL,NULL
+"Santiago Tenango","20_487","municipios",NULL,NULL
+"Santiago Tepetlapa","20_488","municipios",NULL,NULL
+"Santiago Tetepec","20_489","municipios",NULL,NULL
+"Santiago Texcalcingo","20_490","municipios",NULL,NULL
+"Santiago Textitlán","20_491","municipios",NULL,NULL
+"Santiago Tilantongo","20_492","municipios",NULL,NULL
+"Santiago Tillo","20_493","municipios",NULL,NULL
+"Santiago Tlazoyaltepec","20_494","municipios",NULL,NULL
+"Santiago Xanica","20_495","municipios",NULL,NULL
+"Santiago Xiacuí","20_496","municipios",NULL,NULL
+"Santiago Yaitepec","20_497","municipios",NULL,NULL
+"Santiago Yaveo","20_498","municipios",NULL,NULL
+"Santiago Yolomécatl","20_499","municipios",NULL,NULL
+"Santiago Yosondúa","20_500","municipios",NULL,NULL
+"Santiago Yucuyachi","20_501","municipios",NULL,NULL
+"Santiago Zacatepec","20_502","municipios",NULL,NULL
+"Santiago Zoochila","20_503","municipios",NULL,NULL
+"Nuevo Zoquiápam","20_504","municipios",NULL,NULL
+"Santo Domingo Ingenio","20_505","municipios",NULL,NULL
+"Santo Domingo Albarradas","20_506","municipios",NULL,NULL
+"Santo Domingo Armenta","20_507","municipios",NULL,NULL
+"Santo Domingo Chihuitán","20_508","municipios",NULL,NULL
+"Santo Domingo de Morelos","20_509","municipios",NULL,NULL
+"Santo Domingo Ixcatlán","20_510","municipios",NULL,NULL
+"Santo Domingo Nuxaá","20_511","municipios",NULL,NULL
+"Santo Domingo Ozolotepec","20_512","municipios",NULL,NULL
+"Santo Domingo Petapa","20_513","municipios",NULL,NULL
+"Santo Domingo Roayaga","20_514","municipios",NULL,NULL
+"Santo Domingo Tehuantepec","20_515","municipios",NULL,NULL
+"Santo Domingo Teojomulco","20_516","municipios",NULL,NULL
+"Santo Domingo Tepuxtepec","20_517","municipios",NULL,NULL
+"Santo Domingo Tlatayápam","20_518","municipios",NULL,NULL
+"Huehuetlán el Chico","21_073","municipios",NULL,NULL
+"Santo Domingo Tomaltepec","20_519","municipios",NULL,NULL
+"Santo Domingo Tonalá","20_520","municipios",NULL,NULL
+"Santo Domingo Tonaltepec","20_521","municipios",NULL,NULL
+"Santo Domingo Xagacía","20_522","municipios",NULL,NULL
+"Santo Domingo Yanhuitlán","20_523","municipios",NULL,NULL
+"Santo Domingo Yodohino","20_524","municipios",NULL,NULL
+"Santo Domingo Zanatepec","20_525","municipios",NULL,NULL
+"Santos Reyes Nopala","20_526","municipios",NULL,NULL
+"Santos Reyes Pápalo","20_527","municipios",NULL,NULL
+"Santos Reyes Tepejillo","20_528","municipios",NULL,NULL
+"Santos Reyes Yucuná","20_529","municipios",NULL,NULL
+"Santo Tomás Jalieza","20_530","municipios",NULL,NULL
+"Santo Tomás Mazaltepec","20_531","municipios",NULL,NULL
+"Santo Tomás Ocotepec","20_532","municipios",NULL,NULL
+"Santo Tomás Tamazulapan","20_533","municipios",NULL,NULL
+"San Vicente Coatlán","20_534","municipios",NULL,NULL
+"San Vicente Lachixío","20_535","municipios",NULL,NULL
+"San Vicente Nuñú","20_536","municipios",NULL,NULL
+"Silacayoápam","20_537","municipios",NULL,NULL
+"Sitio de Xitlapehua","20_538","municipios",NULL,NULL
+"Soledad Etla","20_539","municipios",NULL,NULL
+"Villa de Tamazulápam del Progreso","20_540","municipios",NULL,NULL
+"Tanetze de Zaragoza","20_541","municipios",NULL,NULL
+"Taniche","20_542","municipios",NULL,NULL
+"Tataltepec de Valdés","20_543","municipios",NULL,NULL
+"Teococuilco de Marcos Pérez","20_544","municipios",NULL,NULL
+"Teotitlán de Flores Magón","20_545","municipios",NULL,NULL
+"Teotitlán del Valle","20_546","municipios",NULL,NULL
+"Teotongo","20_547","municipios",NULL,NULL
+"Tepelmeme Villa de Morelos","20_548","municipios",NULL,NULL
+"Tezoatlán de Segura y Luna","20_549","municipios",NULL,NULL
+"San Jerónimo Tlacochahuaya","20_550","municipios",NULL,NULL
+"Tlacolula de Matamoros","20_551","municipios",NULL,NULL
+"Tlacotepec Plumas","20_552","municipios",NULL,NULL
+"Tlalixtac de Cabrera","20_553","municipios",NULL,NULL
+"Totontepec Villa de Morelos","20_554","municipios",NULL,NULL
+"Trinidad Zaachila","20_555","municipios",NULL,NULL
+"La Trinidad Vista Hermosa","20_556","municipios",NULL,NULL
+"Unión Hidalgo","20_557","municipios",NULL,NULL
+"Valerio Trujano","20_558","municipios",NULL,NULL
+"San Juan Bautista Valle Nacional","20_559","municipios",NULL,NULL
+"Villa Díaz Ordaz","20_560","municipios",NULL,NULL
+"Yaxe","20_561","municipios",NULL,NULL
+"Magdalena Yodocono de Porfirio Díaz","20_562","municipios",NULL,NULL
+"Yogana","20_563","municipios",NULL,NULL
+"Yutanduchi de Guerrero","20_564","municipios",NULL,NULL
+"Villa de Zaachila","20_565","municipios",NULL,NULL
+"San Mateo Yucutindoo","20_566","municipios",NULL,NULL
+"Zapotitlán Lagunas","20_567","municipios",NULL,NULL
+"Zapotitlán Palmas","20_568","municipios",NULL,NULL
+"Santa Inés de Zaragoza","20_569","municipios",NULL,NULL
+"Zimatlán de Álvarez","20_570","municipios",NULL,NULL
+"Acajete","21_001","municipios",NULL,NULL
+"Acateno","21_002","municipios",NULL,NULL
+"Acatlán","21_003","municipios",NULL,NULL
+"Acatzingo","21_004","municipios",NULL,NULL
+"Acteopan","21_005","municipios",NULL,NULL
+"Ahuacatlán","21_006","municipios",NULL,NULL
+"Ahuatlán","21_007","municipios",NULL,NULL
+"Ahuazotepec","21_008","municipios",NULL,NULL
+"Ahuehuetitla","21_009","municipios",NULL,NULL
+"Ajalpan","21_010","municipios",NULL,NULL
+"Albino Zertuche","21_011","municipios",NULL,NULL
+"Aljojuca","21_012","municipios",NULL,NULL
+"Altepexi","21_013","municipios",NULL,NULL
+"Amixtlán","21_014","municipios",NULL,NULL
+"Amozoc","21_015","municipios",NULL,NULL
+"Aquixtla","21_016","municipios",NULL,NULL
+"Atempan","21_017","municipios",NULL,NULL
+"Atexcal","21_018","municipios",NULL,NULL
+"Atlixco","21_019","municipios",NULL,NULL
+"Atoyatempan","21_020","municipios",NULL,NULL
+"Atzala","21_021","municipios",NULL,NULL
+"Atzitzihuacán","21_022","municipios",NULL,NULL
+"Atzitzintla","21_023","municipios",NULL,NULL
+"Axutla","21_024","municipios",NULL,NULL
+"Ayotoxco de Guerrero","21_025","municipios",NULL,NULL
+"Calpan","21_026","municipios",NULL,NULL
+"Caltepec","21_027","municipios",NULL,NULL
+"Camocuautla","21_028","municipios",NULL,NULL
+"Caxhuacan","21_029","municipios",NULL,NULL
+"Coatepec","21_030","municipios",NULL,NULL
+"Coatzingo","21_031","municipios",NULL,NULL
+"Cohetzala","21_032","municipios",NULL,NULL
+"Cohuecan","21_033","municipios",NULL,NULL
+"Coronango","21_034","municipios",NULL,NULL
+"Coxcatlán","21_035","municipios",NULL,NULL
+"Coyomeapan","21_036","municipios",NULL,NULL
+"Coyotepec","21_037","municipios",NULL,NULL
+"Cuapiaxtla de Madero","21_038","municipios",NULL,NULL
+"Cuautempan","21_039","municipios",NULL,NULL
+"Cuautinchán","21_040","municipios",NULL,NULL
+"Cuautlancingo","21_041","municipios",NULL,NULL
+"Cuayuca de Andrade","21_042","municipios",NULL,NULL
+"Cuetzalan del Progreso","21_043","municipios",NULL,NULL
+"Cuyoaco","21_044","municipios",NULL,NULL
+"Chalchicomula de Sesma","21_045","municipios",NULL,NULL
+"Chapulco","21_046","municipios",NULL,NULL
+"Chiautla","21_047","municipios",NULL,NULL
+"Chiautzingo","21_048","municipios",NULL,NULL
+"Chiconcuautla","21_049","municipios",NULL,NULL
+"Chichiquila","21_050","municipios",NULL,NULL
+"Chietla","21_051","municipios",NULL,NULL
+"Chigmecatitlán","21_052","municipios",NULL,NULL
+"Chignahuapan","21_053","municipios",NULL,NULL
+"Chignautla","21_054","municipios",NULL,NULL
+"Chila","21_055","municipios",NULL,NULL
+"Chila de la Sal","21_056","municipios",NULL,NULL
+"Honey","21_057","municipios",NULL,NULL
+"Chilchotla","21_058","municipios",NULL,NULL
+"Chinantla","21_059","municipios",NULL,NULL
+"Domingo Arenas","21_060","municipios",NULL,NULL
+"Eloxochitlán","21_061","municipios",NULL,NULL
+"Epatlán","21_062","municipios",NULL,NULL
+"Esperanza","21_063","municipios",NULL,NULL
+"Francisco Z. Mena","21_064","municipios",NULL,NULL
+"General Felipe Ángeles","21_065","municipios",NULL,NULL
+"Guadalupe","21_066","municipios",NULL,NULL
+"Guadalupe Victoria","21_067","municipios",NULL,NULL
+"Hermenegildo Galeana","21_068","municipios",NULL,NULL
+"Huaquechula","21_069","municipios",NULL,NULL
+"Huatlatlauca","21_070","municipios",NULL,NULL
+"Huauchinango","21_071","municipios",NULL,NULL
+"Huehuetla","21_072","municipios",NULL,NULL
+"Huejotzingo","21_074","municipios",NULL,NULL
+"Hueyapan","21_075","municipios",NULL,NULL
+"Hueytamalco","21_076","municipios",NULL,NULL
+"Hueytlalpan","21_077","municipios",NULL,NULL
+"Huitzilan de Serdán","21_078","municipios",NULL,NULL
+"Huitziltepec","21_079","municipios",NULL,NULL
+"Atlequizayan","21_080","municipios",NULL,NULL
+"Ixcamilpa de Guerrero","21_081","municipios",NULL,NULL
+"Ixcaquixtla","21_082","municipios",NULL,NULL
+"Ixtacamaxtitlán","21_083","municipios",NULL,NULL
+"Ixtepec","21_084","municipios",NULL,NULL
+"Izúcar de Matamoros","21_085","municipios",NULL,NULL
+"Jalpan","21_086","municipios",NULL,NULL
+"Jolalpan","21_087","municipios",NULL,NULL
+"Jonotla","21_088","municipios",NULL,NULL
+"Jopala","21_089","municipios",NULL,NULL
+"Juan C. Bonilla","21_090","municipios",NULL,NULL
+"Juan Galindo","21_091","municipios",NULL,NULL
+"Juan N. Méndez","21_092","municipios",NULL,NULL
+"Lafragua","21_093","municipios",NULL,NULL
+"Libres","21_094","municipios",NULL,NULL
+"La Magdalena Tlatlauquitepec","21_095","municipios",NULL,NULL
+"Mazapiltepec de Juárez","21_096","municipios",NULL,NULL
+"Mixtla","21_097","municipios",NULL,NULL
+"Molcaxac","21_098","municipios",NULL,NULL
+"Cañada Morelos","21_099","municipios",NULL,NULL
+"Naupan","21_100","municipios",NULL,NULL
+"Nauzontla","21_101","municipios",NULL,NULL
+"Nealtican","21_102","municipios",NULL,NULL
+"Nicolás Bravo","21_103","municipios",NULL,NULL
+"Nopalucan","21_104","municipios",NULL,NULL
+"Ocotepec","21_105","municipios",NULL,NULL
+"Ocoyucan","21_106","municipios",NULL,NULL
+"Olintla","21_107","municipios",NULL,NULL
+"Oriental","21_108","municipios",NULL,NULL
+"Pahuatlán","21_109","municipios",NULL,NULL
+"Palmar de Bravo","21_110","municipios",NULL,NULL
+"Pantepec","21_111","municipios",NULL,NULL
+"Petlalcingo","21_112","municipios",NULL,NULL
+"Piaxtla","21_113","municipios",NULL,NULL
+"Puebla","21_114","municipios",NULL,NULL
+"Quecholac","21_115","municipios",NULL,NULL
+"Quimixtlán","21_116","municipios",NULL,NULL
+"Rafael Lara Grajales","21_117","municipios",NULL,NULL
+"Los Reyes de Juárez","21_118","municipios",NULL,NULL
+"San Andrés Cholula","21_119","municipios",NULL,NULL
+"San Antonio Cañada","21_120","municipios",NULL,NULL
+"San Diego la Mesa Tochimiltzingo","21_121","municipios",NULL,NULL
+"San Felipe Teotlalcingo","21_122","municipios",NULL,NULL
+"San Felipe Tepatlán","21_123","municipios",NULL,NULL
+"San Gabriel Chilac","21_124","municipios",NULL,NULL
+"San Gregorio Atzompa","21_125","municipios",NULL,NULL
+"San Jerónimo Tecuanipan","21_126","municipios",NULL,NULL
+"San Jerónimo Xayacatlán","21_127","municipios",NULL,NULL
+"San José Chiapa","21_128","municipios",NULL,NULL
+"San José Miahuatlán","21_129","municipios",NULL,NULL
+"San Juan Atenco","21_130","municipios",NULL,NULL
+"San Juan Atzompa","21_131","municipios",NULL,NULL
+"San Martín Texmelucan","21_132","municipios",NULL,NULL
+"San Martín Totoltepec","21_133","municipios",NULL,NULL
+"San Matías Tlalancaleca","21_134","municipios",NULL,NULL
+"San Miguel Ixitlán","21_135","municipios",NULL,NULL
+"San Miguel Xoxtla","21_136","municipios",NULL,NULL
+"San Nicolás Buenos Aires","21_137","municipios",NULL,NULL
+"San Nicolás de los Ranchos","21_138","municipios",NULL,NULL
+"San Pablo Anicano","21_139","municipios",NULL,NULL
+"San Pedro Cholula","21_140","municipios",NULL,NULL
+"San Pedro Yeloixtlahuaca","21_141","municipios",NULL,NULL
+"San Salvador el Seco","21_142","municipios",NULL,NULL
+"San Salvador el Verde","21_143","municipios",NULL,NULL
+"San Salvador Huixcolotla","21_144","municipios",NULL,NULL
+"San Sebastián Tlacotepec","21_145","municipios",NULL,NULL
+"Santa Catarina Tlaltempan","21_146","municipios",NULL,NULL
+"Santa Inés Ahuatempan","21_147","municipios",NULL,NULL
+"Santa Isabel Cholula","21_148","municipios",NULL,NULL
+"Santiago Miahuatlán","21_149","municipios",NULL,NULL
+"Huehuetlán el Grande","21_150","municipios",NULL,NULL
+"Santo Tomás Hueyotlipan","21_151","municipios",NULL,NULL
+"Soltepec","21_152","municipios",NULL,NULL
+"Tecali de Herrera","21_153","municipios",NULL,NULL
+"Tecamachalco","21_154","municipios",NULL,NULL
+"Tecomatlán","21_155","municipios",NULL,NULL
+"Tehuacán","21_156","municipios",NULL,NULL
+"Tehuitzingo","21_157","municipios",NULL,NULL
+"Tenampulco","21_158","municipios",NULL,NULL
+"Teopantlán","21_159","municipios",NULL,NULL
+"Teotlalco","21_160","municipios",NULL,NULL
+"Tepanco de López","21_161","municipios",NULL,NULL
+"Tepango de Rodríguez","21_162","municipios",NULL,NULL
+"Tepatlaxco de Hidalgo","21_163","municipios",NULL,NULL
+"Tepeaca","21_164","municipios",NULL,NULL
+"Tepemaxalco","21_165","municipios",NULL,NULL
+"Tepeojuma","21_166","municipios",NULL,NULL
+"Tepetzintla","21_167","municipios",NULL,NULL
+"Tepexco","21_168","municipios",NULL,NULL
+"Tepexi de Rodríguez","21_169","municipios",NULL,NULL
+"Tepeyahualco","21_170","municipios",NULL,NULL
+"Tepeyahualco de Cuauhtémoc","21_171","municipios",NULL,NULL
+"Tetela de Ocampo","21_172","municipios",NULL,NULL
+"Teteles de Avila Castillo","21_173","municipios",NULL,NULL
+"Teziutlán","21_174","municipios",NULL,NULL
+"Tianguismanalco","21_175","municipios",NULL,NULL
+"Tilapa","21_176","municipios",NULL,NULL
+"Tlacotepec de Benito Juárez","21_177","municipios",NULL,NULL
+"Tlacuilotepec","21_178","municipios",NULL,NULL
+"Tlachichuca","21_179","municipios",NULL,NULL
+"Tlahuapan","21_180","municipios",NULL,NULL
+"Tlaltenango","21_181","municipios",NULL,NULL
+"Tlanepantla","21_182","municipios",NULL,NULL
+"Tlaola","21_183","municipios",NULL,NULL
+"Tlapacoya","21_184","municipios",NULL,NULL
+"Tlapanalá","21_185","municipios",NULL,NULL
+"Tlatlauquitepec","21_186","municipios",NULL,NULL
+"Tlaxco","21_187","municipios",NULL,NULL
+"Tochimilco","21_188","municipios",NULL,NULL
+"Tochtepec","21_189","municipios",NULL,NULL
+"Totoltepec de Guerrero","21_190","municipios",NULL,NULL
+"Tulcingo","21_191","municipios",NULL,NULL
+"Tuzamapan de Galeana","21_192","municipios",NULL,NULL
+"Tzicatlacoyan","21_193","municipios",NULL,NULL
+"Venustiano Carranza","21_194","municipios",NULL,NULL
+"Vicente Guerrero","21_195","municipios",NULL,NULL
+"Xayacatlán de Bravo","21_196","municipios",NULL,NULL
+"Xicotepec","21_197","municipios",NULL,NULL
+"Xicotlán","21_198","municipios",NULL,NULL
+"Xiutetelco","21_199","municipios",NULL,NULL
+"Xochiapulco","21_200","municipios",NULL,NULL
+"Xochiltepec","21_201","municipios",NULL,NULL
+"Xochitlán de Vicente Suárez","21_202","municipios",NULL,NULL
+"Xochitlán Todos Santos","21_203","municipios",NULL,NULL
+"Yaonáhuac","21_204","municipios",NULL,NULL
+"Yehualtepec","21_205","municipios",NULL,NULL
+"Zacapala","21_206","municipios",NULL,NULL
+"Zacapoaxtla","21_207","municipios",NULL,NULL
+"Zacatlán","21_208","municipios",NULL,NULL
+"Zapotitlán","21_209","municipios",NULL,NULL
+"Zapotitlán de Méndez","21_210","municipios",NULL,NULL
+"Zaragoza","21_211","municipios",NULL,NULL
+"Zautla","21_212","municipios",NULL,NULL
+"Zihuateutla","21_213","municipios",NULL,NULL
+"Zinacatepec","21_214","municipios",NULL,NULL
+"Zongozotla","21_215","municipios",NULL,NULL
+"Zoquiapan","21_216","municipios",NULL,NULL
+"Zoquitlán","21_217","municipios",NULL,NULL
+"Amealco de Bonfil","22_001","municipios",NULL,NULL
+"Pinal de Amoles","22_002","municipios",NULL,NULL
+"Arroyo Seco","22_003","municipios",NULL,NULL
+"Cadereyta de Montes","22_004","municipios",NULL,NULL
+"Colón","22_005","municipios",NULL,NULL
+"Corregidora","22_006","municipios",NULL,NULL
+"Ezequiel Montes","22_007","municipios",NULL,NULL
+"Huimilpan","22_008","municipios",NULL,NULL
+"Jalpan de Serra","22_009","municipios",NULL,NULL
+"Landa de Matamoros","22_010","municipios",NULL,NULL
+"El Marqués","22_011","municipios",NULL,NULL
+"Pedro Escobedo","22_012","municipios",NULL,NULL
+"Peñamiller","22_013","municipios",NULL,NULL
+"Querétaro","22_014","municipios",NULL,NULL
+"San Joaquín","22_015","municipios",NULL,NULL
+"San Juan del Río","22_016","municipios",NULL,NULL
+"Tequisquiapan","22_017","municipios",NULL,NULL
+"Tolimán","22_018","municipios",NULL,NULL
+"Cozumel","23_001","municipios",NULL,NULL
+"Felipe Carrillo Puerto","23_002","municipios",NULL,NULL
+"Isla Mujeres","23_003","municipios",NULL,NULL
+"Othón P. Blanco","23_004","municipios",NULL,NULL
+"Benito Juárez","23_005","municipios",NULL,NULL
+"José María Morelos","23_006","municipios",NULL,NULL
+"Lázaro Cárdenas","23_007","municipios",NULL,NULL
+"Solidaridad","23_008","municipios",NULL,NULL
+"Tulum","23_009","municipios",NULL,NULL
+"Bacalar","23_010","municipios",NULL,NULL
+"Puerto Morelos","23_011","municipios",NULL,NULL
+"Ahualulco","24_001","municipios",NULL,NULL
+"Alaquines","24_002","municipios",NULL,NULL
+"Aquismón","24_003","municipios",NULL,NULL
+"Armadillo de los Infante","24_004","municipios",NULL,NULL
+"Cárdenas","24_005","municipios",NULL,NULL
+"Catorce","24_006","municipios",NULL,NULL
+"Cedral","24_007","municipios",NULL,NULL
+"Cerritos","24_008","municipios",NULL,NULL
+"Cerro de San Pedro","24_009","municipios",NULL,NULL
+"Ciudad del Maíz","24_010","municipios",NULL,NULL
+"Ciudad Fernández","24_011","municipios",NULL,NULL
+"Tancanhuitz","24_012","municipios",NULL,NULL
+"Ciudad Valles","24_013","municipios",NULL,NULL
+"Coxcatlán","24_014","municipios",NULL,NULL
+"Charcas","24_015","municipios",NULL,NULL
+"Ebano","24_016","municipios",NULL,NULL
+"Guadalcázar","24_017","municipios",NULL,NULL
+"Huehuetlán","24_018","municipios",NULL,NULL
+"Lagunillas","24_019","municipios",NULL,NULL
+"Matehuala","24_020","municipios",NULL,NULL
+"Mexquitic de Carmona","24_021","municipios",NULL,NULL
+"Moctezuma","24_022","municipios",NULL,NULL
+"Rayón","24_023","municipios",NULL,NULL
+"Rioverde","24_024","municipios",NULL,NULL
+"Salinas","24_025","municipios",NULL,NULL
+"San Antonio","24_026","municipios",NULL,NULL
+"San Ciro de Acosta","24_027","municipios",NULL,NULL
+"San Luis Potosí","24_028","municipios",NULL,NULL
+"San Martín Chalchicuautla","24_029","municipios",NULL,NULL
+"San Nicolás Tolentino","24_030","municipios",NULL,NULL
+"Santa Catarina","24_031","municipios",NULL,NULL
+"Santa María del Río","24_032","municipios",NULL,NULL
+"Santo Domingo","24_033","municipios",NULL,NULL
+"San Vicente Tancuayalab","24_034","municipios",NULL,NULL
+"Soledad de Graciano Sánchez","24_035","municipios",NULL,NULL
+"Tamasopo","24_036","municipios",NULL,NULL
+"Tamazunchale","24_037","municipios",NULL,NULL
+"Tampacán","24_038","municipios",NULL,NULL
+"Tampamolón Corona","24_039","municipios",NULL,NULL
+"Tamuín","24_040","municipios",NULL,NULL
+"Tanlajás","24_041","municipios",NULL,NULL
+"Tanquián de Escobedo","24_042","municipios",NULL,NULL
+"Tierra Nueva","24_043","municipios",NULL,NULL
+"Vanegas","24_044","municipios",NULL,NULL
+"Venado","24_045","municipios",NULL,NULL
+"Villa de Arriaga","24_046","municipios",NULL,NULL
+"Villa de Guadalupe","24_047","municipios",NULL,NULL
+"Villa de la Paz","24_048","municipios",NULL,NULL
+"Villa de Ramos","24_049","municipios",NULL,NULL
+"Villa de Reyes","24_050","municipios",NULL,NULL
+"Villa Hidalgo","24_051","municipios",NULL,NULL
+"Villa Juárez","24_052","municipios",NULL,NULL
+"Axtla de Terrazas","24_053","municipios",NULL,NULL
+"Xilitla","24_054","municipios",NULL,NULL
+"Zaragoza","24_055","municipios",NULL,NULL
+"Villa de Arista","24_056","municipios",NULL,NULL
+"Matlapa","24_057","municipios",NULL,NULL
+"El Naranjo","24_058","municipios",NULL,NULL
+"Ahome","25_001","municipios",NULL,NULL
+"Angostura","25_002","municipios",NULL,NULL
+"Badiraguato","25_003","municipios",NULL,NULL
+"Concordia","25_004","municipios",NULL,NULL
+"Cosalá","25_005","municipios",NULL,NULL
+"Culiacán","25_006","municipios",NULL,NULL
+"Choix","25_007","municipios",NULL,NULL
+"Elota","25_008","municipios",NULL,NULL
+"Escuinapa","25_009","municipios",NULL,NULL
+"El Fuerte","25_010","municipios",NULL,NULL
+"Guasave","25_011","municipios",NULL,NULL
+"Mazatlán","25_012","municipios",NULL,NULL
+"Mocorito","25_013","municipios",NULL,NULL
+"Rosario","25_014","municipios",NULL,NULL
+"Salvador Alvarado","25_015","municipios",NULL,NULL
+"San Ignacio","25_016","municipios",NULL,NULL
+"Sinaloa","25_017","municipios",NULL,NULL
+"Navolato","25_018","municipios",NULL,NULL
+"Aconchi","26_001","municipios",NULL,NULL
+"Agua Prieta","26_002","municipios",NULL,NULL
+"Alamos","26_003","municipios",NULL,NULL
+"Altar","26_004","municipios",NULL,NULL
+"Arivechi","26_005","municipios",NULL,NULL
+"Arizpe","26_006","municipios",NULL,NULL
+"Atil","26_007","municipios",NULL,NULL
+"Bacadéhuachi","26_008","municipios",NULL,NULL
+"Bacanora","26_009","municipios",NULL,NULL
+"Bacerac","26_010","municipios",NULL,NULL
+"Bacoachi","26_011","municipios",NULL,NULL
+"Bácum","26_012","municipios",NULL,NULL
+"Banámichi","26_013","municipios",NULL,NULL
+"Baviácora","26_014","municipios",NULL,NULL
+"Bavispe","26_015","municipios",NULL,NULL
+"Benjamín Hill","26_016","municipios",NULL,NULL
+"Caborca","26_017","municipios",NULL,NULL
+"Cajeme","26_018","municipios",NULL,NULL
+"Cananea","26_019","municipios",NULL,NULL
+"Carbó","26_020","municipios",NULL,NULL
+"La Colorada","26_021","municipios",NULL,NULL
+"Cucurpe","26_022","municipios",NULL,NULL
+"Cumpas","26_023","municipios",NULL,NULL
+"Divisaderos","26_024","municipios",NULL,NULL
+"Empalme","26_025","municipios",NULL,NULL
+"Etchojoa","26_026","municipios",NULL,NULL
+"Fronteras","26_027","municipios",NULL,NULL
+"Granados","26_028","municipios",NULL,NULL
+"Guaymas","26_029","municipios",NULL,NULL
+"Hermosillo","26_030","municipios",NULL,NULL
+"Huachinera","26_031","municipios",NULL,NULL
+"Huásabas","26_032","municipios",NULL,NULL
+"Huatabampo","26_033","municipios",NULL,NULL
+"Huépac","26_034","municipios",NULL,NULL
+"Imuris","26_035","municipios",NULL,NULL
+"Magdalena","26_036","municipios",NULL,NULL
+"Mazatán","26_037","municipios",NULL,NULL
+"Moctezuma","26_038","municipios",NULL,NULL
+"Naco","26_039","municipios",NULL,NULL
+"Nácori Chico","26_040","municipios",NULL,NULL
+"Nacozari de García","26_041","municipios",NULL,NULL
+"Navojoa","26_042","municipios",NULL,NULL
+"Nogales","26_043","municipios",NULL,NULL
+"Onavas","26_044","municipios",NULL,NULL
+"Opodepe","26_045","municipios",NULL,NULL
+"Oquitoa","26_046","municipios",NULL,NULL
+"Pitiquito","26_047","municipios",NULL,NULL
+"Puerto Peñasco","26_048","municipios",NULL,NULL
+"Quiriego","26_049","municipios",NULL,NULL
+"Rayón","26_050","municipios",NULL,NULL
+"Rosario","26_051","municipios",NULL,NULL
+"Sahuaripa","26_052","municipios",NULL,NULL
+"San Felipe de Jesús","26_053","municipios",NULL,NULL
+"San Javier","26_054","municipios",NULL,NULL
+"San Luis Río Colorado","26_055","municipios",NULL,NULL
+"San Miguel de Horcasitas","26_056","municipios",NULL,NULL
+"San Pedro de la Cueva","26_057","municipios",NULL,NULL
+"Santa Ana","26_058","municipios",NULL,NULL
+"Santa Cruz","26_059","municipios",NULL,NULL
+"Sáric","26_060","municipios",NULL,NULL
+"Soyopa","26_061","municipios",NULL,NULL
+"Suaqui Grande","26_062","municipios",NULL,NULL
+"Tepache","26_063","municipios",NULL,NULL
+"Trincheras","26_064","municipios",NULL,NULL
+"Tubutama","26_065","municipios",NULL,NULL
+"Ures","26_066","municipios",NULL,NULL
+"Villa Hidalgo","26_067","municipios",NULL,NULL
+"Villa Pesqueira","26_068","municipios",NULL,NULL
+"Yécora","26_069","municipios",NULL,NULL
+"General Plutarco Elías Calles","26_070","municipios",NULL,NULL
+"Benito Juárez","26_071","municipios",NULL,NULL
+"San Ignacio Río Muerto","26_072","municipios",NULL,NULL
+"Balancán","27_001","municipios",NULL,NULL
+"Cárdenas","27_002","municipios",NULL,NULL
+"Centla","27_003","municipios",NULL,NULL
+"Centro","27_004","municipios",NULL,NULL
+"Comalcalco","27_005","municipios",NULL,NULL
+"Cunduacán","27_006","municipios",NULL,NULL
+"Emiliano Zapata","27_007","municipios",NULL,NULL
+"Huimanguillo","27_008","municipios",NULL,NULL
+"Jalapa","27_009","municipios",NULL,NULL
+"Jalpa de Méndez","27_010","municipios",NULL,NULL
+"Jonuta","27_011","municipios",NULL,NULL
+"Macuspana","27_012","municipios",NULL,NULL
+"Nacajuca","27_013","municipios",NULL,NULL
+"Paraíso","27_014","municipios",NULL,NULL
+"Tacotalpa","27_015","municipios",NULL,NULL
+"Teapa","27_016","municipios",NULL,NULL
+"Tenosique","27_017","municipios",NULL,NULL
+"Abasolo","28_001","municipios",NULL,NULL
+"Aldama","28_002","municipios",NULL,NULL
+"Altamira","28_003","municipios",NULL,NULL
+"Antiguo Morelos","28_004","municipios",NULL,NULL
+"Burgos","28_005","municipios",NULL,NULL
+"Bustamante","28_006","municipios",NULL,NULL
+"Camargo","28_007","municipios",NULL,NULL
+"Casas","28_008","municipios",NULL,NULL
+"Ciudad Madero","28_009","municipios",NULL,NULL
+"Cruillas","28_010","municipios",NULL,NULL
+"Gómez Farías","28_011","municipios",NULL,NULL
+"González","28_012","municipios",NULL,NULL
+"Güémez","28_013","municipios",NULL,NULL
+"Guerrero","28_014","municipios",NULL,NULL
+"Gustavo Díaz Ordaz","28_015","municipios",NULL,NULL
+"Hidalgo","28_016","municipios",NULL,NULL
+"Jaumave","28_017","municipios",NULL,NULL
+"Jiménez","28_018","municipios",NULL,NULL
+"Llera","28_019","municipios",NULL,NULL
+"Mainero","28_020","municipios",NULL,NULL
+"El Mante","28_021","municipios",NULL,NULL
+"Matamoros","28_022","municipios",NULL,NULL
+"Méndez","28_023","municipios",NULL,NULL
+"Mier","28_024","municipios",NULL,NULL
+"Miguel Alemán","28_025","municipios",NULL,NULL
+"Miquihuana","28_026","municipios",NULL,NULL
+"Nuevo Laredo","28_027","municipios",NULL,NULL
+"Nuevo Morelos","28_028","municipios",NULL,NULL
+"Ocampo","28_029","municipios",NULL,NULL
+"Padilla","28_030","municipios",NULL,NULL
+"Palmillas","28_031","municipios",NULL,NULL
+"Reynosa","28_032","municipios",NULL,NULL
+"Río Bravo","28_033","municipios",NULL,NULL
+"San Carlos","28_034","municipios",NULL,NULL
+"San Fernando","28_035","municipios",NULL,NULL
+"San Nicolás","28_036","municipios",NULL,NULL
+"Soto la Marina","28_037","municipios",NULL,NULL
+"Tampico","28_038","municipios",NULL,NULL
+"Tula","28_039","municipios",NULL,NULL
+"Valle Hermoso","28_040","municipios",NULL,NULL
+"Victoria","28_041","municipios",NULL,NULL
+"Villagrán","28_042","municipios",NULL,NULL
+"Xicoténcatl","28_043","municipios",NULL,NULL
+"Amaxac de Guerrero","29_001","municipios",NULL,NULL
+"Apetatitlán de Antonio Carvajal","29_002","municipios",NULL,NULL
+"Atlangatepec","29_003","municipios",NULL,NULL
+"Atltzayanca","29_004","municipios",NULL,NULL
+"Apizaco","29_005","municipios",NULL,NULL
+"Calpulalpan","29_006","municipios",NULL,NULL
+"El Carmen Tequexquitla","29_007","municipios",NULL,NULL
+"Cuapiaxtla","29_008","municipios",NULL,NULL
+"Cuaxomulco","29_009","municipios",NULL,NULL
+"Chiautempan","29_010","municipios",NULL,NULL
+"Muñoz de Domingo Arenas","29_011","municipios",NULL,NULL
+"Españita","29_012","municipios",NULL,NULL
+"Huamantla","29_013","municipios",NULL,NULL
+"Hueyotlipan","29_014","municipios",NULL,NULL
+"Ixtacuixtla de Mariano Matamoros","29_015","municipios",NULL,NULL
+"Ixtenco","29_016","municipios",NULL,NULL
+"Mazatecochco de José María Morelos","29_017","municipios",NULL,NULL
+"Contla de Juan Cuamatzi","29_018","municipios",NULL,NULL
+"Tepetitla de Lardizábal","29_019","municipios",NULL,NULL
+"Sanctórum de Lázaro Cárdenas","29_020","municipios",NULL,NULL
+"Nanacamilpa de Mariano Arista","29_021","municipios",NULL,NULL
+"Acuamanala de Miguel Hidalgo","29_022","municipios",NULL,NULL
+"Natívitas","29_023","municipios",NULL,NULL
+"Panotla","29_024","municipios",NULL,NULL
+"San Pablo del Monte","29_025","municipios",NULL,NULL
+"Santa Cruz Tlaxcala","29_026","municipios",NULL,NULL
+"Tenancingo","29_027","municipios",NULL,NULL
+"Teolocholco","29_028","municipios",NULL,NULL
+"Tepeyanco","29_029","municipios",NULL,NULL
+"Terrenate","29_030","municipios",NULL,NULL
+"Tetla de la Solidaridad","29_031","municipios",NULL,NULL
+"Tetlatlahuca","29_032","municipios",NULL,NULL
+"Tlaxcala","29_033","municipios",NULL,NULL
+"Tlaxco","29_034","municipios",NULL,NULL
+"Tocatlán","29_035","municipios",NULL,NULL
+"Totolac","29_036","municipios",NULL,NULL
+"Ziltlaltépec de Trinidad Sánchez Santos","29_037","municipios",NULL,NULL
+"Tzompantepec","29_038","municipios",NULL,NULL
+"Xaloztoc","29_039","municipios",NULL,NULL
+"Xaltocan","29_040","municipios",NULL,NULL
+"Papalotla de Xicohténcatl","29_041","municipios",NULL,NULL
+"Xicohtzinco","29_042","municipios",NULL,NULL
+"Yauhquemehcan","29_043","municipios",NULL,NULL
+"Zacatelco","29_044","municipios",NULL,NULL
+"Benito Juárez","29_045","municipios",NULL,NULL
+"Emiliano Zapata","29_046","municipios",NULL,NULL
+"Lázaro Cárdenas","29_047","municipios",NULL,NULL
+"La Magdalena Tlaltelulco","29_048","municipios",NULL,NULL
+"San Damián Texóloc","29_049","municipios",NULL,NULL
+"San Francisco Tetlanohcan","29_050","municipios",NULL,NULL
+"San Jerónimo Zacualpan","29_051","municipios",NULL,NULL
+"San José Teacalco","29_052","municipios",NULL,NULL
+"San Juan Huactzinco","29_053","municipios",NULL,NULL
+"San Lorenzo Axocomanitla","29_054","municipios",NULL,NULL
+"San Lucas Tecopilco","29_055","municipios",NULL,NULL
+"Santa Ana Nopalucan","29_056","municipios",NULL,NULL
+"Santa Apolonia Teacalco","29_057","municipios",NULL,NULL
+"Santa Catarina Ayometla","29_058","municipios",NULL,NULL
+"Santa Cruz Quilehtla","29_059","municipios",NULL,NULL
+"Santa Isabel Xiloxoxtla","29_060","municipios",NULL,NULL
+"Acajete","30_001","municipios",NULL,NULL
+"Acatlán","30_002","municipios",NULL,NULL
+"Acayucan","30_003","municipios",NULL,NULL
+"Actopan","30_004","municipios",NULL,NULL
+"Acula","30_005","municipios",NULL,NULL
+"Acultzingo","30_006","municipios",NULL,NULL
+"Camarón de Tejeda","30_007","municipios",NULL,NULL
+"Alpatláhuac","30_008","municipios",NULL,NULL
+"Alto Lucero de Gutiérrez Barrios","30_009","municipios",NULL,NULL
+"Altotonga","30_010","municipios",NULL,NULL
+"Alvarado","30_011","municipios",NULL,NULL
+"Amatitlán","30_012","municipios",NULL,NULL
+"Naranjos Amatlán","30_013","municipios",NULL,NULL
+"Amatlán de los Reyes","30_014","municipios",NULL,NULL
+"Angel R. Cabada","30_015","municipios",NULL,NULL
+"La Antigua","30_016","municipios",NULL,NULL
+"Apazapan","30_017","municipios",NULL,NULL
+"Aquila","30_018","municipios",NULL,NULL
+"Astacinga","30_019","municipios",NULL,NULL
+"Atlahuilco","30_020","municipios",NULL,NULL
+"Atoyac","30_021","municipios",NULL,NULL
+"Atzacan","30_022","municipios",NULL,NULL
+"Atzalan","30_023","municipios",NULL,NULL
+"Tlaltetela","30_024","municipios",NULL,NULL
+"Ayahualulco","30_025","municipios",NULL,NULL
+"Banderilla","30_026","municipios",NULL,NULL
+"Benito Juárez","30_027","municipios",NULL,NULL
+"Boca del Río","30_028","municipios",NULL,NULL
+"Calcahualco","30_029","municipios",NULL,NULL
+"Camerino Z. Mendoza","30_030","municipios",NULL,NULL
+"Carrillo Puerto","30_031","municipios",NULL,NULL
+"Catemaco","30_032","municipios",NULL,NULL
+"Cazones de Herrera","30_033","municipios",NULL,NULL
+"Cerro Azul","30_034","municipios",NULL,NULL
+"Citlaltépetl","30_035","municipios",NULL,NULL
+"Coacoatzintla","30_036","municipios",NULL,NULL
+"Coahuitlán","30_037","municipios",NULL,NULL
+"Coatepec","30_038","municipios",NULL,NULL
+"Coatzacoalcos","30_039","municipios",NULL,NULL
+"Coatzintla","30_040","municipios",NULL,NULL
+"Coetzala","30_041","municipios",NULL,NULL
+"Colipa","30_042","municipios",NULL,NULL
+"Comapa","30_043","municipios",NULL,NULL
+"Córdoba","30_044","municipios",NULL,NULL
+"Cosamaloapan de Carpio","30_045","municipios",NULL,NULL
+"Cosautlán de Carvajal","30_046","municipios",NULL,NULL
+"Coscomatepec","30_047","municipios",NULL,NULL
+"Cosoleacaque","30_048","municipios",NULL,NULL
+"Cotaxtla","30_049","municipios",NULL,NULL
+"Coxquihui","30_050","municipios",NULL,NULL
+"Coyutla","30_051","municipios",NULL,NULL
+"Cuichapa","30_052","municipios",NULL,NULL
+"Cuitláhuac","30_053","municipios",NULL,NULL
+"Chacaltianguis","30_054","municipios",NULL,NULL
+"Chalma","30_055","municipios",NULL,NULL
+"Chiconamel","30_056","municipios",NULL,NULL
+"Chiconquiaco","30_057","municipios",NULL,NULL
+"Chicontepec","30_058","municipios",NULL,NULL
+"Chinameca","30_059","municipios",NULL,NULL
+"Chinampa de Gorostiza","30_060","municipios",NULL,NULL
+"Las Choapas","30_061","municipios",NULL,NULL
+"Chocamán","30_062","municipios",NULL,NULL
+"Chontla","30_063","municipios",NULL,NULL
+"Chumatlán","30_064","municipios",NULL,NULL
+"Emiliano Zapata","30_065","municipios",NULL,NULL
+"Espinal","30_066","municipios",NULL,NULL
+"Filomeno Mata","30_067","municipios",NULL,NULL
+"Fortín","30_068","municipios",NULL,NULL
+"Gutiérrez Zamora","30_069","municipios",NULL,NULL
+"Hidalgotitlán","30_070","municipios",NULL,NULL
+"Huatusco","30_071","municipios",NULL,NULL
+"Huayacocotla","30_072","municipios",NULL,NULL
+"Hueyapan de Ocampo","30_073","municipios",NULL,NULL
+"Huiloapan de Cuauhtémoc","30_074","municipios",NULL,NULL
+"Ignacio de la Llave","30_075","municipios",NULL,NULL
+"Ilamatlán","30_076","municipios",NULL,NULL
+"Isla","30_077","municipios",NULL,NULL
+"Ixcatepec","30_078","municipios",NULL,NULL
+"Ixhuacán de los Reyes","30_079","municipios",NULL,NULL
+"Ixhuatlán del Café","30_080","municipios",NULL,NULL
+"Ixhuatlancillo","30_081","municipios",NULL,NULL
+"Ixhuatlán del Sureste","30_082","municipios",NULL,NULL
+"Ixhuatlán de Madero","30_083","municipios",NULL,NULL
+"Ixmatlahuacan","30_084","municipios",NULL,NULL
+"Ixtaczoquitlán","30_085","municipios",NULL,NULL
+"Jalacingo","30_086","municipios",NULL,NULL
+"Xalapa","30_087","municipios",NULL,NULL
+"Jalcomulco","30_088","municipios",NULL,NULL
+"Jáltipan","30_089","municipios",NULL,NULL
+"Jamapa","30_090","municipios",NULL,NULL
+"Jesús Carranza","30_091","municipios",NULL,NULL
+"Xico","30_092","municipios",NULL,NULL
+"Jilotepec","30_093","municipios",NULL,NULL
+"Juan Rodríguez Clara","30_094","municipios",NULL,NULL
+"Juchique de Ferrer","30_095","municipios",NULL,NULL
+"Landero y Coss","30_096","municipios",NULL,NULL
+"Lerdo de Tejada","30_097","municipios",NULL,NULL
+"Magdalena","30_098","municipios",NULL,NULL
+"Maltrata","30_099","municipios",NULL,NULL
+"Manlio Fabio Altamirano","30_100","municipios",NULL,NULL
+"Mariano Escobedo","30_101","municipios",NULL,NULL
+"Martínez de la Torre","30_102","municipios",NULL,NULL
+"Mecatlán","30_103","municipios",NULL,NULL
+"Mecayapan","30_104","municipios",NULL,NULL
+"Medellín de Bravo","30_105","municipios",NULL,NULL
+"Miahuatlán","30_106","municipios",NULL,NULL
+"Las Minas","30_107","municipios",NULL,NULL
+"Minatitlán","30_108","municipios",NULL,NULL
+"Misantla","30_109","municipios",NULL,NULL
+"Mixtla de Altamirano","30_110","municipios",NULL,NULL
+"Moloacán","30_111","municipios",NULL,NULL
+"Naolinco","30_112","municipios",NULL,NULL
+"Naranjal","30_113","municipios",NULL,NULL
+"Nautla","30_114","municipios",NULL,NULL
+"Nogales","30_115","municipios",NULL,NULL
+"Oluta","30_116","municipios",NULL,NULL
+"Omealca","30_117","municipios",NULL,NULL
+"Orizaba","30_118","municipios",NULL,NULL
+"Otatitlán","30_119","municipios",NULL,NULL
+"Oteapan","30_120","municipios",NULL,NULL
+"Ozuluama de Mascareñas","30_121","municipios",NULL,NULL
+"Pajapan","30_122","municipios",NULL,NULL
+"Pánuco","30_123","municipios",NULL,NULL
+"Papantla","30_124","municipios",NULL,NULL
+"Paso del Macho","30_125","municipios",NULL,NULL
+"Paso de Ovejas","30_126","municipios",NULL,NULL
+"La Perla","30_127","municipios",NULL,NULL
+"Perote","30_128","municipios",NULL,NULL
+"Platón Sánchez","30_129","municipios",NULL,NULL
+"Playa Vicente","30_130","municipios",NULL,NULL
+"Poza Rica de Hidalgo","30_131","municipios",NULL,NULL
+"Las Vigas de Ramírez","30_132","municipios",NULL,NULL
+"Pueblo Viejo","30_133","municipios",NULL,NULL
+"Puente Nacional","30_134","municipios",NULL,NULL
+"Rafael Delgado","30_135","municipios",NULL,NULL
+"Rafael Lucio","30_136","municipios",NULL,NULL
+"Los Reyes","30_137","municipios",NULL,NULL
+"Río Blanco","30_138","municipios",NULL,NULL
+"Saltabarranca","30_139","municipios",NULL,NULL
+"San Andrés Tenejapan","30_140","municipios",NULL,NULL
+"San Andrés Tuxtla","30_141","municipios",NULL,NULL
+"San Juan Evangelista","30_142","municipios",NULL,NULL
+"Santiago Tuxtla","30_143","municipios",NULL,NULL
+"Sayula de Alemán","30_144","municipios",NULL,NULL
+"Soconusco","30_145","municipios",NULL,NULL
+"Sochiapa","30_146","municipios",NULL,NULL
+"Soledad Atzompa","30_147","municipios",NULL,NULL
+"Soledad de Doblado","30_148","municipios",NULL,NULL
+"Soteapan","30_149","municipios",NULL,NULL
+"Tamalín","30_150","municipios",NULL,NULL
+"Tamiahua","30_151","municipios",NULL,NULL
+"Tampico Alto","30_152","municipios",NULL,NULL
+"Tancoco","30_153","municipios",NULL,NULL
+"Tantima","30_154","municipios",NULL,NULL
+"Tantoyuca","30_155","municipios",NULL,NULL
+"Tatatila","30_156","municipios",NULL,NULL
+"Castillo de Teayo","30_157","municipios",NULL,NULL
+"Tecolutla","30_158","municipios",NULL,NULL
+"Tehuipango","30_159","municipios",NULL,NULL
+"Álamo Temapache","30_160","municipios",NULL,NULL
+"Tempoal","30_161","municipios",NULL,NULL
+"Tenampa","30_162","municipios",NULL,NULL
+"Tenochtitlán","30_163","municipios",NULL,NULL
+"Teocelo","30_164","municipios",NULL,NULL
+"Tepatlaxco","30_165","municipios",NULL,NULL
+"Tepetlán","30_166","municipios",NULL,NULL
+"Tepetzintla","30_167","municipios",NULL,NULL
+"Tequila","30_168","municipios",NULL,NULL
+"José Azueta","30_169","municipios",NULL,NULL
+"Texcatepec","30_170","municipios",NULL,NULL
+"Texhuacán","30_171","municipios",NULL,NULL
+"Texistepec","30_172","municipios",NULL,NULL
+"Tezonapa","30_173","municipios",NULL,NULL
+"Tierra Blanca","30_174","municipios",NULL,NULL
+"Tihuatlán","30_175","municipios",NULL,NULL
+"Tlacojalpan","30_176","municipios",NULL,NULL
+"Tlacolulan","30_177","municipios",NULL,NULL
+"Tlacotalpan","30_178","municipios",NULL,NULL
+"Tlacotepec de Mejía","30_179","municipios",NULL,NULL
+"Tlachichilco","30_180","municipios",NULL,NULL
+"Tlalixcoyan","30_181","municipios",NULL,NULL
+"Tlalnelhuayocan","30_182","municipios",NULL,NULL
+"Tlapacoyan","30_183","municipios",NULL,NULL
+"Tlaquilpa","30_184","municipios",NULL,NULL
+"Tlilapan","30_185","municipios",NULL,NULL
+"Tomatlán","30_186","municipios",NULL,NULL
+"Tonayán","30_187","municipios",NULL,NULL
+"Totutla","30_188","municipios",NULL,NULL
+"Tuxpan","30_189","municipios",NULL,NULL
+"Tuxtilla","30_190","municipios",NULL,NULL
+"Ursulo Galván","30_191","municipios",NULL,NULL
+"Vega de Alatorre","30_192","municipios",NULL,NULL
+"Veracruz","30_193","municipios",NULL,NULL
+"Villa Aldama","30_194","municipios",NULL,NULL
+"Xoxocotla","30_195","municipios",NULL,NULL
+"Yanga","30_196","municipios",NULL,NULL
+"Yecuatla","30_197","municipios",NULL,NULL
+"Zacualpan","30_198","municipios",NULL,NULL
+"Zaragoza","30_199","municipios",NULL,NULL
+"Zentla","30_200","municipios",NULL,NULL
+"Zongolica","30_201","municipios",NULL,NULL
+"Zontecomatlán de López y Fuentes","30_202","municipios",NULL,NULL
+"Zozocolco de Hidalgo","30_203","municipios",NULL,NULL
+"Agua Dulce","30_204","municipios",NULL,NULL
+"El Higo","30_205","municipios",NULL,NULL
+"Nanchital de Lázaro Cárdenas del Río","30_206","municipios",NULL,NULL
+"Tres Valles","30_207","municipios",NULL,NULL
+"Carlos A. Carrillo","30_208","municipios",NULL,NULL
+"Tatahuicapan de Juárez","30_209","municipios",NULL,NULL
+"Uxpanapa","30_210","municipios",NULL,NULL
+"San Rafael","30_211","municipios",NULL,NULL
+"Santiago Sochiapan","30_212","municipios",NULL,NULL
+"Abalá","31_001","municipios",NULL,NULL
+"Acanceh","31_002","municipios",NULL,NULL
+"Akil","31_003","municipios",NULL,NULL
+"Baca","31_004","municipios",NULL,NULL
+"Bokobá","31_005","municipios",NULL,NULL
+"Buctzotz","31_006","municipios",NULL,NULL
+"Cacalchén","31_007","municipios",NULL,NULL
+"Calotmul","31_008","municipios",NULL,NULL
+"Cansahcab","31_009","municipios",NULL,NULL
+"Cantamayec","31_010","municipios",NULL,NULL
+"Celestún","31_011","municipios",NULL,NULL
+"Cenotillo","31_012","municipios",NULL,NULL
+"Conkal","31_013","municipios",NULL,NULL
+"Cuncunul","31_014","municipios",NULL,NULL
+"Cuzamá","31_015","municipios",NULL,NULL
+"Chacsinkín","31_016","municipios",NULL,NULL
+"Chankom","31_017","municipios",NULL,NULL
+"Chapab","31_018","municipios",NULL,NULL
+"Chemax","31_019","municipios",NULL,NULL
+"Chicxulub Pueblo","31_020","municipios",NULL,NULL
+"Chichimilá","31_021","municipios",NULL,NULL
+"Chikindzonot","31_022","municipios",NULL,NULL
+"Chocholá","31_023","municipios",NULL,NULL
+"Chumayel","31_024","municipios",NULL,NULL
+"Dzán","31_025","municipios",NULL,NULL
+"Dzemul","31_026","municipios",NULL,NULL
+"Dzidzantún","31_027","municipios",NULL,NULL
+"Dzilam de Bravo","31_028","municipios",NULL,NULL
+"Dzilam González","31_029","municipios",NULL,NULL
+"Dzitás","31_030","municipios",NULL,NULL
+"Dzoncauich","31_031","municipios",NULL,NULL
+"Espita","31_032","municipios",NULL,NULL
+"Halachó","31_033","municipios",NULL,NULL
+"Hocabá","31_034","municipios",NULL,NULL
+"Hoctún","31_035","municipios",NULL,NULL
+"Homún","31_036","municipios",NULL,NULL
+"Huhí","31_037","municipios",NULL,NULL
+"Hunucmá","31_038","municipios",NULL,NULL
+"Ixil","31_039","municipios",NULL,NULL
+"Izamal","31_040","municipios",NULL,NULL
+"Kanasín","31_041","municipios",NULL,NULL
+"Kantunil","31_042","municipios",NULL,NULL
+"Kaua","31_043","municipios",NULL,NULL
+"Kinchil","31_044","municipios",NULL,NULL
+"Kopomá","31_045","municipios",NULL,NULL
+"Mama","31_046","municipios",NULL,NULL
+"Maní","31_047","municipios",NULL,NULL
+"Maxcanú","31_048","municipios",NULL,NULL
+"Mayapán","31_049","municipios",NULL,NULL
+"Mérida","31_050","municipios",NULL,NULL
+"Mocochá","31_051","municipios",NULL,NULL
+"Motul","31_052","municipios",NULL,NULL
+"Muna","31_053","municipios",NULL,NULL
+"Muxupip","31_054","municipios",NULL,NULL
+"Opichén","31_055","municipios",NULL,NULL
+"Oxkutzcab","31_056","municipios",NULL,NULL
+"Panabá","31_057","municipios",NULL,NULL
+"Peto","31_058","municipios",NULL,NULL
+"Progreso","31_059","municipios",NULL,NULL
+"Quintana Roo","31_060","municipios",NULL,NULL
+"Río Lagartos","31_061","municipios",NULL,NULL
+"Sacalum","31_062","municipios",NULL,NULL
+"Samahil","31_063","municipios",NULL,NULL
+"Sanahcat","31_064","municipios",NULL,NULL
+"San Felipe","31_065","municipios",NULL,NULL
+"Santa Elena","31_066","municipios",NULL,NULL
+"Seyé","31_067","municipios",NULL,NULL
+"Sinanché","31_068","municipios",NULL,NULL
+"Sotuta","31_069","municipios",NULL,NULL
+"Sucilá","31_070","municipios",NULL,NULL
+"Sudzal","31_071","municipios",NULL,NULL
+"Suma","31_072","municipios",NULL,NULL
+"Tahdziú","31_073","municipios",NULL,NULL
+"Tahmek","31_074","municipios",NULL,NULL
+"Teabo","31_075","municipios",NULL,NULL
+"Tecoh","31_076","municipios",NULL,NULL
+"Tekal de Venegas","31_077","municipios",NULL,NULL
+"Tekantó","31_078","municipios",NULL,NULL
+"Tekax","31_079","municipios",NULL,NULL
+"Tekit","31_080","municipios",NULL,NULL
+"Tekom","31_081","municipios",NULL,NULL
+"Telchac Pueblo","31_082","municipios",NULL,NULL
+"Telchac Puerto","31_083","municipios",NULL,NULL
+"Temax","31_084","municipios",NULL,NULL
+"Temozón","31_085","municipios",NULL,NULL
+"Tepakán","31_086","municipios",NULL,NULL
+"Tetiz","31_087","municipios",NULL,NULL
+"Teya","31_088","municipios",NULL,NULL
+"Ticul","31_089","municipios",NULL,NULL
+"Timucuy","31_090","municipios",NULL,NULL
+"Tinum","31_091","municipios",NULL,NULL
+"Tixcacalcupul","31_092","municipios",NULL,NULL
+"Tixkokob","31_093","municipios",NULL,NULL
+"Tixmehuac","31_094","municipios",NULL,NULL
+"Tixpéhual","31_095","municipios",NULL,NULL
+"Tizimín","31_096","municipios",NULL,NULL
+"Tunkás","31_097","municipios",NULL,NULL
+"Tzucacab","31_098","municipios",NULL,NULL
+"Uayma","31_099","municipios",NULL,NULL
+"Ucú","31_100","municipios",NULL,NULL
+"Umán","31_101","municipios",NULL,NULL
+"Valladolid","31_102","municipios",NULL,NULL
+"Xocchel","31_103","municipios",NULL,NULL
+"Yaxcabá","31_104","municipios",NULL,NULL
+"Yaxkukul","31_105","municipios",NULL,NULL
+"Yobaín","31_106","municipios",NULL,NULL
+"Apozol","32_001","municipios",NULL,NULL
+"Apulco","32_002","municipios",NULL,NULL
+"Atolinga","32_003","municipios",NULL,NULL
+"Benito Juárez","32_004","municipios",NULL,NULL
+"Calera","32_005","municipios",NULL,NULL
+"Cañitas de Felipe Pescador","32_006","municipios",NULL,NULL
+"Concepción del Oro","32_007","municipios",NULL,NULL
+"Cuauhtémoc","32_008","municipios",NULL,NULL
+"Chalchihuites","32_009","municipios",NULL,NULL
+"Fresnillo","32_010","municipios",NULL,NULL
+"Trinidad García de la Cadena","32_011","municipios",NULL,NULL
+"Genaro Codina","32_012","municipios",NULL,NULL
+"General Enrique Estrada","32_013","municipios",NULL,NULL
+"General Francisco R. Murguía","32_014","municipios",NULL,NULL
+"El Plateado de Joaquín Amaro","32_015","municipios",NULL,NULL
+"General Pánfilo Natera","32_016","municipios",NULL,NULL
+"Guadalupe","32_017","municipios",NULL,NULL
+"Huanusco","32_018","municipios",NULL,NULL
+"Jalpa","32_019","municipios",NULL,NULL
+"Jerez","32_020","municipios",NULL,NULL
+"Jiménez del Teul","32_021","municipios",NULL,NULL
+"Juan Aldama","32_022","municipios",NULL,NULL
+"Juchipila","32_023","municipios",NULL,NULL
+"Loreto","32_024","municipios",NULL,NULL
+"Luis Moya","32_025","municipios",NULL,NULL
+"Mazapil","32_026","municipios",NULL,NULL
+"Melchor Ocampo","32_027","municipios",NULL,NULL
+"Mezquital del Oro","32_028","municipios",NULL,NULL
+"Miguel Auza","32_029","municipios",NULL,NULL
+"Momax","32_030","municipios",NULL,NULL
+"Monte Escobedo","32_031","municipios",NULL,NULL
+"Morelos","32_032","municipios",NULL,NULL
+"Moyahua de Estrada","32_033","municipios",NULL,NULL
+"Nochistlán de Mejía","32_034","municipios",NULL,NULL
+"Noria de Ángeles","32_035","municipios",NULL,NULL
+"Ojocaliente","32_036","municipios",NULL,NULL
+"Pánuco","32_037","municipios",NULL,NULL
+"Pinos","32_038","municipios",NULL,NULL
+"Río Grande","32_039","municipios",NULL,NULL
+"Sain Alto","32_040","municipios",NULL,NULL
+"El Salvador","32_041","municipios",NULL,NULL
+"Sombrerete","32_042","municipios",NULL,NULL
+"Susticacán","32_043","municipios",NULL,NULL
+"Tabasco","32_044","municipios",NULL,NULL
+"Tepechitlán","32_045","municipios",NULL,NULL
+"Tepetongo","32_046","municipios",NULL,NULL
+"Teúl de González Ortega","32_047","municipios",NULL,NULL
+"Tlaltenango de Sánchez Román","32_048","municipios",NULL,NULL
+"Valparaíso","32_049","municipios",NULL,NULL
+"Vetagrande","32_050","municipios",NULL,NULL
+"Villa de Cos","32_051","municipios",NULL,NULL
+"Villa García","32_052","municipios",NULL,NULL
+"Villa González Ortega","32_053","municipios",NULL,NULL
+"Villa Hidalgo","32_054","municipios",NULL,NULL
+"Villanueva","32_055","municipios",NULL,NULL
+"Zacatecas","32_056","municipios",NULL,NULL
+"Trancoso","32_057","municipios",NULL,NULL
+"Santa María de la Paz","32_058","municipios",NULL,NULL

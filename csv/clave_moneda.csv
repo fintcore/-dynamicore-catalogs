@@ -1,0 +1,162 @@
+"name","value","taxonomy","code1","code2"
+"DINAR LIBIO","LYD","clave_moneda",NULL,NULL
+"DIRHAM DE LOS EMIRATOS ARABES UNIDOS","AED","clave_moneda",NULL,NULL
+"AFGANI AFGANO","AFN","clave_moneda",NULL,NULL
+"LEK ALBANO","ALL","clave_moneda",NULL,NULL
+"DRAM ARMENIO","AMD","clave_moneda",NULL,NULL
+"GUILDER DE LAS ANTILLAS HOLANDESAS","ANG","clave_moneda",NULL,NULL
+"PESO ARGENTINO","ARS","clave_moneda",NULL,NULL
+"DOLAR AUSTRALIANO","AUD","clave_moneda",NULL,NULL
+"GUILDER DE ARUBA","AWG","clave_moneda",NULL,NULL
+"MANAT AZERBAIYANO","AZN","clave_moneda",NULL,NULL
+"MARCO CONVERTIBLE DE BOSNIA-HERZEGOVINA","BAM","clave_moneda",NULL,NULL
+"DOLAR DE BARBADOS","BBD","clave_moneda",NULL,NULL
+"TAKA DE BANGLADESH","BDT","clave_moneda",NULL,NULL
+"LEV BULGARO","BGN","clave_moneda",NULL,NULL
+"DINAR BAHREINI","BHD","clave_moneda",NULL,NULL
+"FRANCO BURUNDES","BIF","clave_moneda",NULL,NULL
+"DOLAR DE BERMUDA","BMD","clave_moneda",NULL,NULL
+"DOLAR DE BRUNEI","BND","clave_moneda",NULL,NULL
+"BOLIVIANO","BOB","clave_moneda",NULL,NULL
+"NGULTRUM DE BUT AN","BTN","clave_moneda",NULL,NULL
+"PULA DE BOTSWANA","BWP","clave_moneda",NULL,NULL
+"RUBLO BIELORRUSO","BYR","clave_moneda",NULL,NULL
+"DOLAR DE BELICE","BZD","clave_moneda",NULL,NULL
+"DOLAR CANADIENSE","CAD","clave_moneda",NULL,NULL
+"WIR EURO","CHE","clave_moneda",NULL,NULL
+"FRANCO SUIZO","CHF","clave_moneda",NULL,NULL
+"WIR FRANC","CHW","clave_moneda",NULL,NULL
+"PESO CHILENO","CLP","clave_moneda",NULL,NULL
+"YUAN RENMINBI","CNY","clave_moneda",NULL,NULL
+"PESO COLOMBIANO","COP","clave_moneda",NULL,NULL
+"COLON COSTARRICENSE","CRC","clave_moneda",NULL,NULL
+"PESO CUBANO CONVERTIBLE","CUC","clave_moneda",NULL,NULL
+"PESO CUBANO","CUP","clave_moneda",NULL,NULL
+"ESCUDO CABOVERDIANO","CVE","clave_moneda",NULL,NULL
+"KORUNA CHECO","CZK","clave_moneda",NULL,NULL
+"FRANCO YIBUTIANO","DJF","clave_moneda",NULL,NULL
+"CORONA DANESA","DKK","clave_moneda",NULL,NULL
+"PESO DOMINICANO","DOP","clave_moneda",NULL,NULL
+"DINAR ARGELINO","DZD","clave_moneda",NULL,NULL
+"CORONA DE ESTONIA","EEK","clave_moneda",NULL,NULL
+"LIBRA EGIPCIA","EGP","clave_moneda",NULL,NULL
+"NAKFA ERITREO","ERN","clave_moneda",NULL,NULL
+"BIRR ETIOPE","ETB","clave_moneda",NULL,NULL
+"EURO","EUR","clave_moneda",NULL,NULL
+"DOLAR FIJIANO","FJD","clave_moneda",NULL,NULL
+"LIBRA MALVINENSE","FKP","clave_moneda",NULL,NULL
+"LARI GEORGIANO","GEL","clave_moneda",NULL,NULL
+"CEDI GHANES","GHS","clave_moneda",NULL,NULL
+"LIBRA DE GIBRALTAR","GIP","clave_moneda",NULL,NULL
+"DALASI GAMBIANO","GMD","clave_moneda",NULL,NULL
+"FRANCO GUINEANO","GNF","clave_moneda",NULL,NULL
+"QUETZAL GUATEMALTECO","GTQ","clave_moneda",NULL,NULL
+"DOLAR GUYANES","GYD","clave_moneda",NULL,NULL
+"DOLAR DE HONG KONG","HKD","clave_moneda",NULL,NULL
+"KUNA CROATA","HRK","clave_moneda",NULL,NULL
+"GOURDE HAITIANO","HTG","clave_moneda",NULL,NULL
+"FORINT HUNGARO","HUF","clave_moneda",NULL,NULL
+"RUPIAH INDONESIA","IDR","clave_moneda",NULL,NULL
+"NUEVO SHEQUEL ISRAELI","ILS","clave_moneda",NULL,NULL
+"RUPIA INDIA","INR","clave_moneda",NULL,NULL
+"DINAR IRAQI","IQD","clave_moneda",NULL,NULL
+"RIAL IRANI","IRR","clave_moneda",NULL,NULL
+"KRONA ISLANDESA","ISK","clave_moneda",NULL,NULL
+"DOLAR JAMAICANO","JMD","clave_moneda",NULL,NULL
+"DINAR JORDANO","JOD","clave_moneda",NULL,NULL
+"YEN JAPONES","JPY","clave_moneda",NULL,NULL
+"CHELIN KENIATA","KES","clave_moneda",NULL,NULL
+"SOM KIRGUIS DE KIRGUIST AN","KGS","clave_moneda",NULL,NULL
+"RIEL CAMBOYANO","KHR","clave_moneda",NULL,NULL
+"FRANCO COMORIANO DE COMORAS","KMF","clave_moneda",NULL,NULL
+"WON NORCOREANO","KPW","clave_moneda",NULL,NULL
+"WON SURCOREANO","KRW","clave_moneda",NULL,NULL
+"DINAR KUWAITI","KWD","clave_moneda",NULL,NULL
+"DOLAR CAIMANO DE ISLAS CAIM AN","KYD","clave_moneda",NULL,NULL
+"TENGE KAZAJO DE KAZAJST AN","KZT","clave_moneda",NULL,NULL
+"KIP LAO","LAK","clave_moneda",NULL,NULL
+"LIBRA LIBANESA","LBP","clave_moneda",NULL,NULL
+"RUPIA DE SRI LANKA","LKR","clave_moneda",NULL,NULL
+"DOLAR LIBERIANO","LRD","clave_moneda",NULL,NULL
+"LOTI LESOTHENSE DE LESOTHO","LSL","clave_moneda",NULL,NULL
+"LITAS LITUANO","LTL","clave_moneda",NULL,NULL
+"LAT LETON","LVL","clave_moneda",NULL,NULL
+"DIRHAM MARROQUI","MAD","clave_moneda",NULL,NULL
+"LEU MOLDAVO","MDL","clave_moneda",NULL,NULL
+"ARIARY MALGACHE DE MADAGASCAR","MGA","clave_moneda",NULL,NULL
+"DENAR MACEDONIO","MKD","clave_moneda",NULL,NULL
+"KYAT MYANMARO","MMK","clave_moneda",NULL,NULL
+"TUGHRIK MONGOL","MNT","clave_moneda",NULL,NULL
+"PATACA DE MACAO","MOP","clave_moneda",NULL,NULL
+"OUGUIYA MAURITANA","MRO","clave_moneda",NULL,NULL
+"RUPIA MAURICIA","MUR","clave_moneda",NULL,NULL
+"RUFIYAA MALDIVA","MVR","clave_moneda",NULL,NULL
+"KWACHA MALAWIANO","MWK","clave_moneda",NULL,NULL
+"PESO MEXICANO","MXN","clave_moneda",NULL,NULL
+"RINGGIT MALAYO","MYR","clave_moneda",NULL,NULL
+"METICAL MOZAMBIQUEÑO","MZN","clave_moneda",NULL,NULL
+"DOLAR NAMIBIO","NAD","clave_moneda",NULL,NULL
+"NAIRA NIGERIANA","NGN","clave_moneda",NULL,NULL
+"CORDOBA NICARAGÜENSE","NIO","clave_moneda",NULL,NULL
+"CORONA NORUEGA","NOK","clave_moneda",NULL,NULL
+"RUPIA NEPALESA","NPR","clave_moneda",NULL,NULL
+"DOLAR NEOZELANDES","NZD","clave_moneda",NULL,NULL
+"RIAL OMANI DE OM AN","OMR","clave_moneda",NULL,NULL
+"BALBOA PANAMEÑA","PAB","clave_moneda",NULL,NULL
+"SOL PERUANO","PEN","clave_moneda",NULL,NULL
+"KINA DE PAPUA NUEVA GUINEA","PGK","clave_moneda",NULL,NULL
+"PESO FILIPINO","PHP","clave_moneda",NULL,NULL
+"RUPIA PAKISTANI","PKR","clave_moneda",NULL,NULL
+"ZLOTY POLACO","PLN","clave_moneda",NULL,NULL
+"GUARANI PARAGUAYO","PYG","clave_moneda",NULL,NULL
+"RIAL QATARI","QAR","clave_moneda",NULL,NULL
+"LEU RUMANO","RON","clave_moneda",NULL,NULL
+"DINAR SERBIO","RSD","clave_moneda",NULL,NULL
+"RUBLO RUSO","RUB","clave_moneda",NULL,NULL
+"FRANCO RUANDES","RWF","clave_moneda",NULL,NULL
+"RIYAL SAUDI","SAR","clave_moneda",NULL,NULL
+"DOLAR DE LAS ISLAS SALOMON","SBD","clave_moneda",NULL,NULL
+"RUPIA DE SEYCHELLES","SCR","clave_moneda",NULL,NULL
+"LIBRA SUDANESA","SDG","clave_moneda",NULL,NULL
+"CORONA SUECA","SEK","clave_moneda",NULL,NULL
+"DOLAR DE SINGAPUR","SGD","clave_moneda",NULL,NULL
+"LIBRA DE SANTA HELENA","SHP","clave_moneda",NULL,NULL
+"LEONE DE SIERRA LEONA","SLL","clave_moneda",NULL,NULL
+"CHELIN SOMALI","SOS","clave_moneda",NULL,NULL
+"DOBRA DE SANTO TOME Y PRINCIPE","STD","clave_moneda",NULL,NULL
+"EL SALVADOR COLON","SVC","clave_moneda",NULL,NULL
+"LIBRA SIRIA","SYP","clave_moneda",NULL,NULL
+"LILANGENI SUAZI DE SUAZILANDIA","SZL","clave_moneda",NULL,NULL
+"BAHT TAILANDES","THB","clave_moneda",NULL,NULL
+"RUBLO TAYIK DE TAYIKIST AN","TJS","clave_moneda",NULL,NULL
+"NUEVO MANAT TURCOMANO","TMT","clave_moneda",NULL,NULL
+"DINAR TUNECINO","TND","clave_moneda",NULL,NULL
+"PA ANGA TONGANO","TOP","clave_moneda",NULL,NULL
+"NUEVA LIRA TURCA","TRY","clave_moneda",NULL,NULL
+"DOLAR DE TRINIDAD Y TOBAGO","TTD","clave_moneda",NULL,NULL
+"DOLAR TAIWANES","TWD","clave_moneda",NULL,NULL
+"CHELIN TANZANO","TZS","clave_moneda",NULL,NULL
+"HRYVNIA UCRANIANA","UAH","clave_moneda",NULL,NULL
+"CHELIN UGANDES","UGX","clave_moneda",NULL,NULL
+"DOLAR ESTADOUNIDENSE","USD","clave_moneda",NULL,NULL
+"PESO URUGUAYO","UYU","clave_moneda",NULL,NULL
+"SOM UZBECO","UZS","clave_moneda",NULL,NULL
+"BOLIVAR FUERTE","VEF","clave_moneda",NULL,NULL
+"DONG VIETNAMITA","VND","clave_moneda",NULL,NULL
+"VATU VANUATENSE","VUV","clave_moneda",NULL,NULL
+"TALA SAMOANA","WST","clave_moneda",NULL,NULL
+"FRANCO DE AFRICA CENTRAL","XAF","clave_moneda",NULL,NULL
+"DOLAR DEL CARIBE ORIENTAL","XCD","clave_moneda",NULL,NULL
+"FRANCO DE AFRICA OCCIDENTAL","XOF","clave_moneda",NULL,NULL
+"FRANCO DE NUEVA ZELANDA","XPF","clave_moneda",NULL,NULL
+"RIAL YEMENI DE YEMEN","YER","clave_moneda",NULL,NULL
+"RAND SUDAFRICANO","ZAR","clave_moneda",NULL,NULL
+"KWACHA ZAMBIANO","ZMK","clave_moneda",NULL,NULL
+"DOLAR ZIMBABWES","ZWL","clave_moneda",NULL,NULL
+"ACTO O CONDUCTA / TENTATIVA DE OPERACIÓN","NON","clave_moneda",NULL,NULL
+"KWANZA ANGOLEÑO","AOA","clave_moneda",NULL,NULL
+"REAL BRASILEÑO","BRL","clave_moneda",NULL,NULL
+"DOLAR BAHAMEÑO","BSD","clave_moneda",NULL,NULL
+"FRANCO CONGOLEÑO","CDF","clave_moneda",NULL,NULL
+"LIBRA ESTERLINA DE GRAN BRETAÑA","GBP","clave_moneda",NULL,NULL
+"LEMPIRA HONDUREÑA","HNL","clave_moneda",NULL,NULL

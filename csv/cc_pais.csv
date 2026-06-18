@@ -1,0 +1,208 @@
+"name","value","taxonomy","code1","code2"
+"Croacia","HX","cc_pais",NULL,NULL
+"México","MX","cc_pais",NULL,NULL
+"África Del Sur","ZA","cc_pais",NULL,NULL
+"Albania","AN","cc_pais",NULL,NULL
+"Alemania","DW","cc_pais",NULL,NULL
+"Andorra","AD","cc_pais",NULL,NULL
+"Angola","AO","cc_pais",NULL,NULL
+"Anguila","AI","cc_pais",NULL,NULL
+"Antigua Y Barbado","AG","cc_pais",NULL,NULL
+"Antillas Holandesas","NN","cc_pais",NULL,NULL
+"Arabia Saudita","SA","cc_pais",NULL,NULL
+"Argelia","DZ","cc_pais",NULL,NULL
+"Argentina","AT","cc_pais",NULL,NULL
+"Arabia","AW","cc_pais",NULL,NULL
+"Ascensión","AS","cc_pais",NULL,NULL
+"Australia","AU","cc_pais",NULL,NULL
+"Austria","DF","cc_pais",NULL,NULL
+"Azores","AX","cc_pais",NULL,NULL
+"Bahamas","BS","cc_pais",NULL,NULL
+"Baréin","BH","cc_pais",NULL,NULL
+"Bangladés","BD","cc_pais",NULL,NULL
+"Barbados","BB","cc_pais",NULL,NULL
+"Bélgica","BE","cc_pais",NULL,NULL
+"Belice","BZ","cc_pais",NULL,NULL
+"Benín","BJ","cc_pais",NULL,NULL
+"Bermudas","BU","cc_pais",NULL,NULL
+"Birmania","BK","cc_pais",NULL,NULL
+"Bolivia","BO","cc_pais",NULL,NULL
+"Bosnia Herzegovina","BX","cc_pais",NULL,NULL
+"Botswana","BW","cc_pais",NULL,NULL
+"Brasil","BR","cc_pais",NULL,NULL
+"Brunéi","BN","cc_pais",NULL,NULL
+"Bulgaria","BG","cc_pais",NULL,NULL
+"Burkina","BF","cc_pais",NULL,NULL
+"Burundi","BI","cc_pais",NULL,NULL
+"Bután","BM","cc_pais",NULL,NULL
+"Cabo Verde","CV","cc_pais",NULL,NULL
+"Camerún","CM","cc_pais",NULL,NULL
+"Canadá","CN","cc_pais",NULL,NULL
+"Cariacou","CU","cc_pais",NULL,NULL
+"Chad","CD","cc_pais",NULL,NULL
+"Chile","CL","cc_pais",NULL,NULL
+"China (pekin)","CP","cc_pais",NULL,NULL
+"Chipre","CY","cc_pais",NULL,NULL
+"Ciudad Del Vaticano","VC","cc_pais",NULL,NULL
+"Colombia","CB","cc_pais",NULL,NULL
+"Comoros","CJ","cc_pais",NULL,NULL
+"Congo","CG","cc_pais",NULL,NULL
+"Corcega","CC","cc_pais",NULL,NULL
+"Corea Del Norte","KX","cc_pais",NULL,NULL
+"Corea Del Sur","KR","cc_pais",NULL,NULL
+"Costa De Marfil","IC","cc_pais",NULL,NULL
+"Cuba","HR","cc_pais",NULL,NULL
+"Dinamarca","DK","cc_pais",NULL,NULL
+"Djibouti","DJ","cc_pais",NULL,NULL
+"Dominicana","DM","cc_pais",NULL,NULL
+"Ecuador","EC","cc_pais",NULL,NULL
+"Egipto","EG","cc_pais",NULL,NULL
+"El Salvador","SV","cc_pais",NULL,NULL
+"Emiratos Arabes Unidos","UM","cc_pais",NULL,NULL
+"España","ES","cc_pais",NULL,NULL
+"Estados Unidos","US","cc_pais",NULL,NULL
+"Eslovenia","XN","cc_pais",NULL,NULL
+"Estonia","SU","cc_pais",NULL,NULL
+"Etiopia","ET","cc_pais",NULL,NULL
+"Fiji","FJ","cc_pais",NULL,NULL
+"Filipinas","PH","cc_pais",NULL,NULL
+"Finlandia","FI","cc_pais",NULL,NULL
+"Francia","FR","cc_pais",NULL,NULL
+"Gabón","GB","cc_pais",NULL,NULL
+"Gales / Isla Futura","WT","cc_pais",NULL,NULL
+"Gambia","GM","cc_pais",NULL,NULL
+"Ghana","GH","cc_pais",NULL,NULL
+"Gibraltar","GI","cc_pais",NULL,NULL
+"Granada","GD","cc_pais",NULL,NULL
+"Grecia","GR","cc_pais",NULL,NULL
+"Groenlandia","GE","cc_pais",NULL,NULL
+"Guadalupe","GP","cc_pais",NULL,NULL
+"Guatemala","GT","cc_pais",NULL,NULL
+"Guyana","GY","cc_pais",NULL,NULL
+"Guayana Francesa","GF","cc_pais",NULL,NULL
+"Guinea","GN","cc_pais",NULL,NULL
+"Guinea Bissau","GW","cc_pais",NULL,NULL
+"Guinea Ecuatorial","GQ","cc_pais",NULL,NULL
+"Haití","HA","cc_pais",NULL,NULL
+"Holanda","NL","cc_pais",NULL,NULL
+"Honduras","HN","cc_pais",NULL,NULL
+"Hong Kong","HK","cc_pais",NULL,NULL
+"Hungría","HU","cc_pais",NULL,NULL
+"India","IB","cc_pais",NULL,NULL
+"Indonesia","IF","cc_pais",NULL,NULL
+"Irán","IR","cc_pais",NULL,NULL
+"Irak","IQ","cc_pais",NULL,NULL
+"Irlanda","IE","cc_pais",NULL,NULL
+"Islandia","IS","cc_pais",NULL,NULL
+"Islas Caimán","CI","cc_pais",NULL,NULL
+"Islas De Sotavento","LE","cc_pais",NULL,NULL
+"Islas Falkland (malvinas)","FA","cc_pais",NULL,NULL
+"Islas Faroe","FE","cc_pais",NULL,NULL
+"Islas Pitcairn","PS","cc_pais",NULL,NULL
+"Islas Reunión","RE","cc_pais",NULL,NULL
+"Islas Santa Cruz","ST","cc_pais",NULL,NULL
+"Islas Salmón","SI","cc_pais",NULL,NULL
+"Islas Virgenes Inglesas","VG","cc_pais",NULL,NULL
+"Israel","IG","cc_pais",NULL,NULL
+"Italia","IT","cc_pais",NULL,NULL
+"Jamaica","JM","cc_pais",NULL,NULL
+"Japón","JP","cc_pais",NULL,NULL
+"Jordania","JO","cc_pais",NULL,NULL
+"Kampuchea","KA","cc_pais",NULL,NULL
+"Katar","OA","cc_pais",NULL,NULL
+"Kenya","KE","cc_pais",NULL,NULL
+"Kiribati","KI","cc_pais",NULL,NULL
+"Kuwait","KW","cc_pais",NULL,NULL
+"Laos","LO","cc_pais",NULL,NULL
+"Lesotho","LS","cc_pais",NULL,NULL
+"Letonia","LX","cc_pais",NULL,NULL
+"Libano","LB","cc_pais",NULL,NULL
+"Liberia","LR","cc_pais",NULL,NULL
+"Libia","LV","cc_pais",NULL,NULL
+"Liechtenstein","CH","cc_pais",NULL,NULL
+"Lituania","LT","cc_pais",NULL,NULL
+"Luxemburgo","LU","cc_pais",NULL,NULL
+"Macao","MJ","cc_pais",NULL,NULL
+"Macedonia","MH","cc_pais",NULL,NULL
+"Madagascar","MG","cc_pais",NULL,NULL
+"Madeira","MD","cc_pais",NULL,NULL
+"Malasia","MY","cc_pais",NULL,NULL
+"Malawi","MW","cc_pais",NULL,NULL
+"Maldivias","MV","cc_pais",NULL,NULL
+"Mali","ML","cc_pais",NULL,NULL
+"Malta","MT","cc_pais",NULL,NULL
+"Marruecos","RC","cc_pais",NULL,NULL
+"Martinico","MQ","cc_pais",NULL,NULL
+"Mauricio","MU","cc_pais",NULL,NULL
+"Mauritania","MR","cc_pais",NULL,NULL
+"Afganistán","AF","cc_pais",NULL,NULL
+"Mongolia","MC","cc_pais",NULL,NULL
+"Montenegro","MM","cc_pais",NULL,NULL
+"Montserrat","MK","cc_pais",NULL,NULL
+"Mozambique","MZ","cc_pais",NULL,NULL
+"Nauru","NA","cc_pais",NULL,NULL
+"Nepal","NP","cc_pais",NULL,NULL
+"Nicaragua","NI","cc_pais",NULL,NULL
+"Nigeria","NR","cc_pais",NULL,NULL
+"Noruega","NO","cc_pais",NULL,NULL
+"Nueva Caledonia","NW","cc_pais",NULL,NULL
+"Nueva Zelanda","NZ","cc_pais",NULL,NULL
+"Oman","OM","cc_pais",NULL,NULL
+"Pakistan","PK","cc_pais",NULL,NULL
+"Panamá","PM","cc_pais",NULL,NULL
+"Papua Nueva Guinea","PG","cc_pais",NULL,NULL
+"Paraguay","PY","cc_pais",NULL,NULL
+"Perú","PU","cc_pais",NULL,NULL
+"Polonia","PL","cc_pais",NULL,NULL
+"Polinesia","FP","cc_pais",NULL,NULL
+"Portugal","PT","cc_pais",NULL,NULL
+"Reino Unido","UK","cc_pais",NULL,NULL
+"Rep. Central Africana","CF","cc_pais",NULL,NULL
+"República Checa Eslovaca","CS","cc_pais",NULL,NULL
+"República De Georgia","GX","cc_pais",NULL,NULL
+"República Dominicana","DO","cc_pais",NULL,NULL
+"Rumanía","RO","cc_pais",NULL,NULL
+"Rusia","RU","cc_pais",NULL,NULL
+"Rwanda","RW","cc_pais",NULL,NULL
+"Samoa Oeste","WS","cc_pais",NULL,NULL
+"San Cristóbal De Nevais","KN","cc_pais",NULL,NULL
+"San Kitts","SS","cc_pais",NULL,NULL
+"San Pierre Y Miquelon","SP","cc_pais",NULL,NULL
+"San Vincent Y Las Granadas","SF","cc_pais",NULL,NULL
+"Santa Helena","SH","cc_pais",NULL,NULL
+"Santa Lucia","LC","cc_pais",NULL,NULL
+"Sao Tome Y Principado","MP","cc_pais",NULL,NULL
+"Senegal","SN","cc_pais",NULL,NULL
+"Serbia","SX","cc_pais",NULL,NULL
+"Siria","SY","cc_pais",NULL,NULL
+"Somalia","SO","cc_pais",NULL,NULL
+"Sri Lanka","LK","cc_pais",NULL,NULL
+"Sudan","SB","cc_pais",NULL,NULL
+"Suecia","SE","cc_pais",NULL,NULL
+"Suiza","SW","cc_pais",NULL,NULL
+"Surinam","SR","cc_pais",NULL,NULL
+"Swazilandia","SZ","cc_pais",NULL,NULL
+"Tailandia","TH","cc_pais",NULL,NULL
+"Taiwan","TW","cc_pais",NULL,NULL
+"Tanzania","TZ","cc_pais",NULL,NULL
+"Timor Oriental","EM","cc_pais",NULL,NULL
+"Togo","TG","cc_pais",NULL,NULL
+"Tonga","TA","cc_pais",NULL,NULL
+"Trinidad Y Tobago","TT","cc_pais",NULL,NULL
+"Tristan De Cunha","TD","cc_pais",NULL,NULL
+"Tunez","TU","cc_pais",NULL,NULL
+"Turcos Y Islas Caicos","TC","cc_pais",NULL,NULL
+"Turquia","TR","cc_pais",NULL,NULL
+"Tuvala","TV","cc_pais",NULL,NULL
+"Uganda","UG","cc_pais",NULL,NULL
+"Ucrania","UA","cc_pais",NULL,NULL
+"Uruguay","UY","cc_pais",NULL,NULL
+"Vanuatu","VU","cc_pais",NULL,NULL
+"Venezuela","VE","cc_pais",NULL,NULL
+"Vietnam","VN","cc_pais",NULL,NULL
+"Yemen (del Norte)","YS","cc_pais",NULL,NULL
+"Yemen (del Sur)","YE","cc_pais",NULL,NULL
+"Zaire","ZR","cc_pais",NULL,NULL
+"Zambia","ZM","cc_pais",NULL,NULL
+"Zimbabwe","ZW","cc_pais",NULL,NULL
+"No Definido","ND","cc_pais",NULL,NULL

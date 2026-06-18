@@ -1,0 +1,95 @@
+"name","value","taxonomy","code1","code2"
+"INVESTIGADOR","50","pisa_ocupaciones",NULL,NULL
+"AGENTE DE SEGUROS","2","pisa_ocupaciones",NULL,NULL
+"AGRICULTOR-ARRENDATARIO","3","pisa_ocupaciones",NULL,NULL
+"AGRICULTOR-PROPIETARIO","4","pisa_ocupaciones",NULL,NULL
+"AGRONOMO","5","pisa_ocupaciones",NULL,NULL
+"ALBANIL","6","pisa_ocupaciones",NULL,NULL
+"ARRENDADOR DE INMUEBLES","8","pisa_ocupaciones",NULL,NULL
+"ARTISTA","9","pisa_ocupaciones",NULL,NULL
+"ASISTENTE","10","pisa_ocupaciones",NULL,NULL
+"AUXILIAR ADMINISTRATIVO","11","pisa_ocupaciones",NULL,NULL
+"AUXILIAR CONTABLE","12","pisa_ocupaciones",NULL,NULL
+"AUXILIAR DE AREA","13","pisa_ocupaciones",NULL,NULL
+"AVICULTOR","14","pisa_ocupaciones",NULL,NULL
+"AYUDANTE DE OFICIOS","15","pisa_ocupaciones",NULL,NULL
+"BARRENDERO/LIMPIA","16","pisa_ocupaciones",NULL,NULL
+"CAJERO","17","pisa_ocupaciones",NULL,NULL
+"CARNICERO/TABLAJERO","18","pisa_ocupaciones",NULL,NULL
+"CARPINTERO","19","pisa_ocupaciones",NULL,NULL
+"COCINERO","20","pisa_ocupaciones",NULL,NULL
+"COMERCIANTE / PROPIETARIO","21","pisa_ocupaciones",NULL,NULL
+"COMISIONISTA","22","pisa_ocupaciones",NULL,NULL
+"CONCESIONARIO DE TRANSPORTE","23","pisa_ocupaciones",NULL,NULL
+"CONSTRUCTOR","24","pisa_ocupaciones",NULL,NULL
+"CONTADOR PUBLICO","25","pisa_ocupaciones",NULL,NULL
+"CONTRATISTA","26","pisa_ocupaciones",NULL,NULL
+"CORREDOR DE BIENES RAICES","27","pisa_ocupaciones",NULL,NULL
+"COSMETOLOGA/COSMEATRA","28","pisa_ocupaciones",NULL,NULL
+"COSTURERA/MODISTA","29","pisa_ocupaciones",NULL,NULL
+"CHOFER","30","pisa_ocupaciones",NULL,NULL
+"DENTISTA/ODONTOLOGO","31","pisa_ocupaciones",NULL,NULL
+"DEPORTISTA","32","pisa_ocupaciones",NULL,NULL
+"EDUCADORA","33","pisa_ocupaciones",NULL,NULL
+"ELECTRICISTA","34","pisa_ocupaciones",NULL,NULL
+"EMPLEADA DOMESTICA","35","pisa_ocupaciones",NULL,NULL
+"ENFERMERO (A)","36","pisa_ocupaciones",NULL,NULL
+"ESCRITOR","37","pisa_ocupaciones",NULL,NULL
+"ESTILISTA/PELUQUERO","38","pisa_ocupaciones",NULL,NULL
+"FLORISTA","40","pisa_ocupaciones",NULL,NULL
+"FUNCIONARIO PUBLICO","41","pisa_ocupaciones",NULL,NULL
+"GERENTE/DIRECTOR","42","pisa_ocupaciones",NULL,NULL
+"GESTOR","43","pisa_ocupaciones",NULL,NULL
+"GUARDAESPALDAS/SEGURIDAD","44","pisa_ocupaciones",NULL,NULL
+"HERRERO","45","pisa_ocupaciones",NULL,NULL
+"HOJALATERO","46","pisa_ocupaciones",NULL,NULL
+"INGENIERO CIVIL/ARQUITECTO","47","pisa_ocupaciones",NULL,NULL
+"INGENIERO EN SISTEMAS/INFORMATICA","48","pisa_ocupaciones",NULL,NULL
+"INTENDENCIA","49","pisa_ocupaciones",NULL,NULL
+"JEFE DE DEPARTAMENTO/AREA","51","pisa_ocupaciones",NULL,NULL
+"JOYERO/LAPIDARIO","52","pisa_ocupaciones",NULL,NULL
+"JUBILADO/PENSIONADO","53","pisa_ocupaciones",NULL,NULL
+"MAESTRO DE E.FISICA/E. ARTISTICA","54","pisa_ocupaciones",NULL,NULL
+"MECANICO","55","pisa_ocupaciones",NULL,NULL
+"MEDICO ESPECIALISTA","56","pisa_ocupaciones",NULL,NULL
+"MEDICO GENERAL","57","pisa_ocupaciones",NULL,NULL
+"MESERO","58","pisa_ocupaciones",NULL,NULL
+"MICROEMPRESARIO","59","pisa_ocupaciones",NULL,NULL
+"MILITAR (CON RANGO)","60","pisa_ocupaciones",NULL,NULL
+"MODELO","61","pisa_ocupaciones",NULL,NULL
+"MUSICO","62","pisa_ocupaciones",NULL,NULL
+"OBRERO","63","pisa_ocupaciones",NULL,NULL
+"OBRERO ESPECIALIZADO","64","pisa_ocupaciones",NULL,NULL
+"OCULISTA","65","pisa_ocupaciones",NULL,NULL
+"OTRO (S)","66","pisa_ocupaciones",NULL,NULL
+"PAILERO","67","pisa_ocupaciones",NULL,NULL
+"PARAMEDICO","68","pisa_ocupaciones",NULL,NULL
+"PERIODISTA/REPORTERO","69","pisa_ocupaciones",NULL,NULL
+"PINTOR","70","pisa_ocupaciones",NULL,NULL
+"PLOMERO/FONTANERO","71","pisa_ocupaciones",NULL,NULL
+"POLICIA","72","pisa_ocupaciones",NULL,NULL
+"PROFESIONISTA (OTRO TITULO)","73","pisa_ocupaciones",NULL,NULL
+"PROFESOR EDUCACION PRIMARIA/SECUNDARIA","74","pisa_ocupaciones",NULL,NULL
+"PROFESOR EDUCACION SUPERIOR/UNIVERSITARI","75","pisa_ocupaciones",NULL,NULL
+"PROPIETARIO DE TALLER","76","pisa_ocupaciones",NULL,NULL
+"PSICOLOGO","77","pisa_ocupaciones",NULL,NULL
+"PUBLICISTA/DISENADOR","78","pisa_ocupaciones",NULL,NULL
+"QUIMICO/BIOLOGO","79","pisa_ocupaciones",NULL,NULL
+"SACERDOTE/RELIGIOSO (A)","80","pisa_ocupaciones",NULL,NULL
+"SERVIDOR PUBLICO","81","pisa_ocupaciones",NULL,NULL
+"SOLDADO","82","pisa_ocupaciones",NULL,NULL
+"SUPERVISOR DE OBRA CIVIL","83","pisa_ocupaciones",NULL,NULL
+"SUPERVISOR DE PLANTA INDUSTRIAL","84","pisa_ocupaciones",NULL,NULL
+"TECNICO ESPECIALIZADO","85","pisa_ocupaciones",NULL,NULL
+"TRABAJADORA SOCIAL","86","pisa_ocupaciones",NULL,NULL
+"VENDEDOR","87","pisa_ocupaciones",NULL,NULL
+"VETERINARIO","88","pisa_ocupaciones",NULL,NULL
+"VIGILANTE/GUARDIA","89","pisa_ocupaciones",NULL,NULL
+"ZAPATERO/TEJEDOR/BORDADOR","90","pisa_ocupaciones",NULL,NULL
+"DESEMPLEADO","92","pisa_ocupaciones",NULL,NULL
+"EMPLEADO PRIVADO","93","pisa_ocupaciones",NULL,NULL
+"EMPLEADA PUBLICO","97","pisa_ocupaciones",NULL,NULL
+"AMA DE CASA","7","pisa_ocupaciones",NULL,NULL
+"ESTUDIANTE","39","pisa_ocupaciones",NULL,NULL
+"(0) SIN OCUPACION","99","pisa_ocupaciones",NULL,NULL
+"ABOGADO","1","pisa_ocupaciones",NULL,NULL

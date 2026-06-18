@@ -1,0 +1,24 @@
+"name","value","taxonomy","code1","code2"
+"General de Ley Personas Morales","601","regimenfiscal",NULL,NULL
+"Personas Morales con Fines no Lucrativos","603","regimenfiscal",NULL,NULL
+"Sueldos y Salarios e Ingresos Asimilados a Salarios","605","regimenfiscal",NULL,NULL
+"Arrendamiento","606","regimenfiscal",NULL,NULL
+"Régimen de Enajenación o Adquisición de Bienes","607","regimenfiscal",NULL,NULL
+"Demás ingresos","608","regimenfiscal",NULL,NULL
+"Residentes en el Extranjero sin Establecimiento Permanente en México","610","regimenfiscal",NULL,NULL
+"Ingresos por Dividendos (socios y accionistas)","611","regimenfiscal",NULL,NULL
+"Personas Físicas con Actividades Empresariales y Profesionales","612","regimenfiscal",NULL,NULL
+"Ingresos por intereses","614","regimenfiscal",NULL,NULL
+"Régimen de los ingresos por obtención de premios","615","regimenfiscal",NULL,NULL
+"Sin obligaciones fiscales","616","regimenfiscal",NULL,NULL
+"Sociedades Cooperativas de Producción que optan por diferir sus ingresos","620","regimenfiscal",NULL,NULL
+"Incorporación Fiscal","621","regimenfiscal",NULL,NULL
+"Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras","622","regimenfiscal",NULL,NULL
+"Opcional para Grupos de Sociedades","623","regimenfiscal",NULL,NULL
+"Coordinados","624","regimenfiscal",NULL,NULL
+"Régimen de las Actividades Empresariales con ingresos a través de Plataformas Tecnológicas","625","regimenfiscal",NULL,NULL
+"Régimen Simplificado de Confianza","626","regimenfiscal",NULL,NULL
+"Enajenación de acciones en bolsa de valores","630","regimenfiscal",NULL,NULL
+"Hidrocarburos","628","regimenfiscal",NULL,NULL
+"Consolidación","609","regimenfiscal",NULL,NULL
+"De los regímenes fiscales preferentes y de las empresas multinacionales","629","regimenfiscal",NULL,NULL

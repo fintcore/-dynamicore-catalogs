@@ -1,0 +1,1285 @@
+"name","value","taxonomy","code1","code2"
+"Agricultura","1","ocupation_mulaware",NULL,NULL
+"Informática/ Comunicación","10","ocupation_mulaware",NULL,NULL
+"Cultivo De Linaza","100","ocupation_mulaware","111055",NULL
+"Dirección General Adjunta","1000","ocupation_mulaware","9800107",NULL
+"Director","1001","ocupation_mulaware","9800215",NULL
+"Director","1002","ocupation_mulaware","9800305",NULL
+"Director Ejecutivo","1003","ocupation_mulaware","9800212",NULL
+"Director General","1004","ocupation_mulaware","9800211",NULL
+"Director General","1005","ocupation_mulaware","9800304",NULL
+"Edicion De Libros","1006","ocupation_mulaware","2912013",NULL
+"Edicion De Libros Y Similares","1007","ocupation_mulaware","2912005",NULL
+"Edicion De Periodicos Y Revistas","1008","ocupation_mulaware","2911015",NULL
+"Elaboracion De Objetos Artisticos De Alfareria Y Ceramica","1009","ocupation_mulaware","3319010",NULL
+"Cultivo De Lino","101","ocupation_mulaware","144022",NULL
+"Elaboracion De Pulque","1010","ocupation_mulaware","2115013",NULL
+"Embajador","1011","ocupation_mulaware","9800116",NULL
+"Empacadora De Carne","1012","ocupation_mulaware","2049014",NULL
+"Empacadora De Conservas Alimenticias","1013","ocupation_mulaware","2012011",NULL
+"Empacadora De Especias","1014","ocupation_mulaware","2099019",NULL
+"Empacadora De Frutas Y Legumbres","1015","ocupation_mulaware","2012029",NULL
+"Empacadora De Otros Mariscos","1016","ocupation_mulaware","2061026",NULL
+"Empacadora De Te","1017","ocupation_mulaware","2027010",NULL
+"Empresa De Servicio De Limpieza","1018","ocupation_mulaware","8935019",NULL
+"Empresa De Telefonos","1019","ocupation_mulaware","7611016",NULL
+"Cultivo De Maguey","102","ocupation_mulaware","145020",NULL
+"Empresa De Telegrafos","1020","ocupation_mulaware","7612014",NULL
+"Empresas Controladoras Financieras","1021","ocupation_mulaware","8219083",NULL
+"Empresas Controladoras No Financieras","1022","ocupation_mulaware","8429020",NULL
+"Empresas De Seguridad Privada","1023","ocupation_mulaware","8429038",NULL
+"Empresas Transportadoras De Valores","1024","ocupation_mulaware","8429046",NULL
+"Encuadernacion","1025","ocupation_mulaware","2921014",NULL
+"Enlace","1026","ocupation_mulaware","9800111",NULL
+"Enlace","1027","ocupation_mulaware","9800220",NULL
+"Enlace y Auxiliar Administrativo","1028","ocupation_mulaware","9800310",NULL
+"Establecimientos Privados De Instruccion Educacion Cultura E Investigacion","1029","ocupation_mulaware","9119018",NULL
+"Cultivo De Maiz","103","ocupation_mulaware","111063",NULL
+"Establecimientos Publicos De Instruccion Educacion Subprofesional Y Profesional Cultura E Investigacion","1030","ocupation_mulaware","9115016",NULL
+"Estacionamiento Privado Para Vehiculos","1031","ocupation_mulaware","8916019",NULL
+"Estacionamiento Publico Para Vehiculos","1032","ocupation_mulaware","8916027",NULL
+"Estadios Y Arenas","1033","ocupation_mulaware","8829014",NULL
+"Estudiante y Menor De Edad Sin Ocupación","1034","ocupation_mulaware","9900904",NULL
+"Estudio Fotografico","1035","ocupation_mulaware","8941016",NULL
+"Estudios Cinematograficos","1036","ocupation_mulaware","8821010",NULL
+"Factoring","1037","ocupation_mulaware","8219075",NULL
+"Federaciones Y Asociaciones Deportivas Y Otras Con Fines Recreativos","1038","ocupation_mulaware","8833015",NULL
+"Fobaproa-Ipab","1039","ocupation_mulaware","8220014",NULL
+"Cultivo De Mango","104","ocupation_mulaware","142050",NULL
+"Fobaproa-Ipab","1040","ocupation_mulaware","8221013",NULL
+"Forrado De Botones Y Hebillas","1041","ocupation_mulaware","2434025",NULL
+"Fotocopiado","1042","ocupation_mulaware","2921048",NULL
+"Galerias De Artes Graficas Y Museos","1043","ocupation_mulaware","8832017",NULL
+"Gobernador Constitucional Del Estado y Jefe De Gobierno Del Df","1044","ocupation_mulaware","9800201",NULL
+"Gobierno Estatal","1045","ocupation_mulaware","9411026",NULL
+"Gobierno Extranjero","1046","ocupation_mulaware","9912024",NULL
+"Gobierno Federal","1047","ocupation_mulaware","9411018",NULL
+"Gobierno Municipal","1048","ocupation_mulaware","9411034",NULL
+"Grabacion De Discos Y Cintas","1049","ocupation_mulaware","3722023",NULL
+"Cultivo De Manzana","105","ocupation_mulaware","142068",NULL
+"Grabacion De Sonido En Peliculas","1050","ocupation_mulaware","8821028",NULL
+"Grabado E Impresion En Piedra Vidrio Y Otros Materiales Litografia Y Fotolitografia","1051","ocupation_mulaware","2929034",NULL
+"Grabado E Impresion Fotomecanica Mediante Agua Fuerte(Heliograbado)","1052","ocupation_mulaware","2929042",NULL
+"Hidrogenadora De Productos Diversos","1053","ocupation_mulaware","3072030",NULL
+"Hipodromo","1054","ocupation_mulaware","8829022",NULL
+"Hipódromo","1055","ocupation_mulaware","8800001",NULL
+"Hospitales Sanatorios Clinicas Y Maternidades","1056","ocupation_mulaware","9211012",NULL
+"Hotel","1057","ocupation_mulaware","8611015",NULL
+"Impermeabilizacion De Inmuebles","1058","ocupation_mulaware","4219011",NULL
+"Imprenta ( Tipografia)","1059","ocupation_mulaware","2921056",NULL
+"Cultivo De Melon","106","ocupation_mulaware","119025",NULL
+"Impresion Mediante Cilindros (Rotograbado)","1060","ocupation_mulaware","2921072",NULL
+"Impresion Mediante Cilindros De Caucho","1061","ocupation_mulaware","2921064",NULL
+"Industria Del Papel","1062","ocupation_mulaware","2800002",NULL
+"Inspector","1063","ocupation_mulaware","9800312",NULL
+"Instalaciones De Sistemas De Aire Acondicionado Y Calefaccion Y Otras Instalaciones Analogas","1064","ocupation_mulaware","4229010",NULL
+"Instalaciones Del Sistema Electrico Incluye Sistemas De Intercomunicacion","1065","ocupation_mulaware","4222014",NULL
+"Instituciones Financieras Del Extranjero","1066","ocupation_mulaware","9911018",NULL
+"Inversionista","1067","ocupation_mulaware","8211013",NULL
+"Irrigacion De Tierras","1068","ocupation_mulaware","191015",NULL
+"Jefatura De Departamento","1069","ocupation_mulaware","9800110",NULL
+"Cultivo De Milo","107","ocupation_mulaware","111071",NULL
+"Jefatura De Unidad","1070","ocupation_mulaware","9800106",NULL
+"Jefe De Departamento","1071","ocupation_mulaware","9800218",NULL
+"Jefe De Departamento","1072","ocupation_mulaware","9800307",NULL
+"Jefe De La Policía Judicial Del Estado","1073","ocupation_mulaware","9800213",NULL
+"Jefe De Unidad","1074","ocupation_mulaware","9800214",NULL
+"Jubilado","1075","ocupation_mulaware","9900906",NULL
+"Juegos De Feria","1076","ocupation_mulaware","8839013",NULL
+"Juegos De Feria Y Apuestas","1077","ocupation_mulaware","8800002",NULL
+"Juez De Entidad Federativa","1078","ocupation_mulaware","9800406",NULL
+"Juez Federal","1079","ocupation_mulaware","9800403",NULL
+"Cultivo De Naranja","108","ocupation_mulaware","142076",NULL
+"Juez Municipal y De Delegación","1080","ocupation_mulaware","9800408",NULL
+"Laboratorios Cinematograficos","1081","ocupation_mulaware","8821036",NULL
+"Laboratorios De Analisis Clinicos","1082","ocupation_mulaware","9214016",NULL
+"Labrado Y Colocacion De Piedra","1083","ocupation_mulaware","4292017",NULL
+"Lavanderia","1084","ocupation_mulaware","8934011",NULL
+"Magistrado De Entidad Federativa","1085","ocupation_mulaware","9800405",NULL
+"Magistrado Federal","1086","ocupation_mulaware","9800402",NULL
+"Menores Comunicaciones","1087","ocupation_mulaware","7613905",NULL
+"Menores Construccion De Vivienda Residencial","1088","ocupation_mulaware","4111952",NULL
+"Ministro De La Suprema Corte De Justicia De La Nación","1089","ocupation_mulaware","9800401",NULL
+"Cultivo De Nopal","109","ocupation_mulaware","112110",NULL
+"Ministros De Culto Religioso (Sacerdote Pastor Monja Etc)","1090","ocupation_mulaware","9900909",NULL
+"Montepio","1091","ocupation_mulaware","8219059",NULL
+"Montepío y Casas De Empeño","1092","ocupation_mulaware","8200001",NULL
+"Negocios Relacionados Con Internet","1093","ocupation_mulaware","9504003",NULL
+"No Clasificada (Uso Exclusivo Cnbv)","1094","ocupation_mulaware","9999999",NULL
+"Notarías Públicas","1095","ocupation_mulaware","8400003",NULL
+"Oficial Mayor","1096","ocupation_mulaware","9800104",NULL
+"Fabricación","3","ocupation_mulaware",NULL,NULL
+"Oficial Mayor De Entidad Federativa","1097","ocupation_mulaware","9800210",NULL
+"Organizaciones Civicas","1098","ocupation_mulaware","9319014",NULL
+"Organizaciones De Abogados","1099","ocupation_mulaware","9300001",NULL
+"Finanzas / Seguros","11","ocupation_mulaware",NULL,NULL
+"Cultivo De Nuez","110","ocupation_mulaware","124040",NULL
+"Organizaciones De Abogados Medicos Ingenieros Y Otras Asociaciones De Profesionales","1100","ocupation_mulaware","9312018",NULL
+"Organizaciones Laborales Y Sindicales","1101","ocupation_mulaware","9321019",NULL
+"Organizaciones Politicas","1102","ocupation_mulaware","9322017",NULL
+"Organizaciones Religiosas","1103","ocupation_mulaware","9331018",NULL
+"Otros Creditos Al Consumo","1104","ocupation_mulaware","6999158",NULL
+"Otros Servicios De Acabado Prestados Por Subcontratistas","1105","ocupation_mulaware","4299013",NULL
+"Otros Servicios De Telecomunicaciones (Excepto Radiodifusion Y Television)","1106","ocupation_mulaware","7613012",NULL
+"Otros Servs. De Telecomunicaciones (Excepto Radio.","1107","ocupation_mulaware","7613004",NULL
+"Panteon","1108","ocupation_mulaware","8944010",NULL
+"Pensionado","1109","ocupation_mulaware","9900907",NULL
+"Cultivo De Olivo","111","ocupation_mulaware","124058",NULL
+"Picado De Tabaco","1110","ocupation_mulaware","2219021",NULL
+"Plaza De Toros","1111","ocupation_mulaware","8829030",NULL
+"Policía","1112","ocupation_mulaware","9800311",NULL
+"Preparacion De Visceras Para Industrias No Alimenticias","1113","ocupation_mulaware","2521020",NULL
+"Preparación Y Servicio De Alimentos Y Bebidas","1114","ocupation_mulaware","8700008",NULL
+"Presidente De La Republica","1115","ocupation_mulaware","9800101",NULL
+"Presidente Municipal O Delegado","1116","ocupation_mulaware","9800301",NULL
+"Prestacion De Otros Servicios Tecnicos","1117","ocupation_mulaware","8429012",NULL
+"Prestacion De Servicios Publicos Y Sociales","1118","ocupation_mulaware","9471012",NULL
+"Prestamista","1119","ocupation_mulaware","8219067",NULL
+"Cultivo De Otras Fibras Duras","112","ocupation_mulaware","144030",NULL
+"Prestamos Al Personal De La Institucion","1120","ocupation_mulaware","6999091",NULL
+"Prestamos Para La Adquisicion De Vivienda Para Acreditados De Ingresos Minimos","1121","ocupation_mulaware","6911011",NULL
+"Prestamos Para La Adquisicion De Vivienda Tanto De Interes Social Como Provenientes De La Reserva Para Pensiones Del Personal","1122","ocupation_mulaware","6911037",NULL
+"Procurador General De Justicia Del Estado","1123","ocupation_mulaware","9800203",NULL
+"Produccion De Peliculas","1124","ocupation_mulaware","8821044",NULL
+"Promocion De Espectaculos Deportivos","1125","ocupation_mulaware","8829048",NULL
+"Promocion De Espectaculos Taurinos","1126","ocupation_mulaware","8829056",NULL
+"Purificacion De Agua Excepto Captacion Tratamiento Conduccion Y Distribucion De Agua Potable","1127","ocupation_mulaware","2131043",NULL
+"Quehaceres Del Hogar","1128","ocupation_mulaware","8991011",NULL
+"Radiodifusora","1129","ocupation_mulaware","8824014",NULL
+"Cultivo De Otras Hortalizas","113","ocupation_mulaware","112128",NULL
+"Rastro","1130","ocupation_mulaware","2041010",NULL
+"Recoleccion De Algas Y Otras Plantas Acuaticas","1131","ocupation_mulaware","442012",NULL
+"Recoleccion De Conchas Huevos Corales Esponjas Y Perlas","1132","ocupation_mulaware","441014",NULL
+"Regidor","1133","ocupation_mulaware","9800303",NULL
+"Representacion De Artistas","1134","ocupation_mulaware","8426026",NULL
+"Representante Casas Extranjeras","1135","ocupation_mulaware","8426034",NULL
+"Representante Casas Nacionales","1136","ocupation_mulaware","8426042",NULL
+"Restaurante","1137","ocupation_mulaware","8711021",NULL
+"Sala De Cine","1138","ocupation_mulaware","8823016",NULL
+"Salon De Belleza","1139","ocupation_mulaware","8933013",NULL
+"Cultivo De Otras Hortalizas","114","ocupation_mulaware","112128",NULL
+"Salon De Billar","1140","ocupation_mulaware","8812019",NULL
+"Salon De Boliche","1141","ocupation_mulaware","8812027",NULL
+"Salon De Fiestas","1142","ocupation_mulaware","8521016",NULL
+"Secretaria De Estado Titular De Entidad / Procurador General De La República","1143","ocupation_mulaware","9800102",NULL
+"Secretaria De La Defensa Nacional (Militar)","1144","ocupation_mulaware","9800114",NULL
+"Secretaria De Marina (Marino)","1145","ocupation_mulaware","9800115",NULL
+"Secretario Del Ramo","1146","ocupation_mulaware","9800202",NULL
+"Senador De La Republica","1147","ocupation_mulaware","9800113",NULL
+"Servicio De Corredores De Bienes Raices","1148","ocupation_mulaware","8313017",NULL
+"Servicio De Investigacion De Mercado Solvencia Financiera De Patentes Y Marcas Industriales Y Otros Similares","1149","ocupation_mulaware","8419013",NULL
+"Cultivo De Otras Semillas","115","ocupation_mulaware","129024",NULL
+"Servicio De Reparacion De Vehiculos De Traccion Animal Y Propulsion A Mano","1150","ocupation_mulaware","8919013",NULL
+"Servicios Administrativos De Tramite Y Cobranza  Incluso Escritorios Publicos ","1151","ocupation_mulaware","8424012",NULL
+"Servicios Colaterales A Instituciones Financieras Y De Seguros","1152","ocupation_mulaware","8200008",NULL
+"Servicios Conexos Al Transporte","1153","ocupation_mulaware","7400005",NULL
+"Servicios De Administración Pública Defensa Y Seguridad Social","1154","ocupation_mulaware","9400003",NULL
+"Servicios De Agencias De Colocacion Y Seleccion De Personal","1155","ocupation_mulaware","8428014",NULL
+"Servicios De Alimentos En Lencerias Taquerias Y Torterias","1156","ocupation_mulaware","8712011",NULL
+"Servicios De Almacenamiento Y Refrigeracion","1157","ocupation_mulaware","7511018",NULL
+"Servicios De Alojamiento En Moteles","1158","ocupation_mulaware","8612013",NULL
+"Servicios De Alojamiento Temporal","1159","ocupation_mulaware","8600000",NULL
+"Cultivo De Otros Arboles Frutales","116","ocupation_mulaware","142084",NULL
+"Servicios De Alquiler A Empresas","1160","ocupation_mulaware","8500002",NULL
+"Servicios De Analisis De Sistemas Y Procesamiento Electronico De Datos","1161","ocupation_mulaware","8421018",NULL
+"Servicios De Asesoria Y Estudios Tecnicos De Arquitectura E Ingenieria (Incluso Diseño Industrial)","1162","ocupation_mulaware","8414013",NULL
+"Servicios De Bascula Y De Grua Para Vehiculos","1163","ocupation_mulaware","7514012",NULL
+"Servicios De Bibliotecas Museos Jardines Botanicos Y Otros Servicios De Difusion Cultural","1164","ocupation_mulaware","9199010",NULL
+"Servicios De Blindaje","1165","ocupation_mulaware","6800003",NULL
+"Servicios De Bolerias Masajistas Sanitarios Publicos Y Otros Servicios De Aseo Y Limpieza","1166","ocupation_mulaware","8939011",NULL
+"Servicios De Bufetes Juridicos","1167","ocupation_mulaware","8412017",NULL
+"Servicios De Capacitacion Tecnica De Oficios Y Artesanias","1168","ocupation_mulaware","9122011",NULL
+"Servicios De Consultorios Y Clinicas Dentales","1169","ocupation_mulaware","9213018",NULL
+"Cultivo De Papa","117","ocupation_mulaware","112136",NULL
+"Servicios De Contaduria Y Auditoria  Incluso Teneduria De Libros ","1170","ocupation_mulaware","8413015",NULL
+"Servicios De Copias Fotostaticas Xerografitas Y Similares","1171","ocupation_mulaware","8425010",NULL
+"Servicios De Cortado Estimacion Del Volumen De Madera Proteccion De Bosques Y Otros Servicios Relativos A La Explotacion Forestal","1172","ocupation_mulaware","391011",NULL
+"Servicios De Enseñanza Comercial Y De Idioma","1173","ocupation_mulaware","9121013",NULL
+"Servicios De Enseñanza De Musica Danza Y Otras Artes Cultura Fisica Manejo De Vehiculos Y Otros Especializados","1174","ocupation_mulaware","9129017",NULL
+"Servicios De Enseñanza Prerrimaria Y Primaria","1175","ocupation_mulaware","9112012",NULL
+"Servicios De Enseñanza Secundaria","1176","ocupation_mulaware","9113010",NULL
+"Servicios De Enseñanza Investigación Científica Y Difusión Cultural","1177","ocupation_mulaware","9100009",NULL
+"Servicios De Fisioterapia Bancos De Sangre Y Otros Servicios Medicos","1178","ocupation_mulaware","9219016",NULL
+"Servicios De Fondos Y Fideicomisos De Fomento Economico","1179","ocupation_mulaware","8114019",NULL
+"Cultivo De Papaya","118","ocupation_mulaware","142092",NULL
+"Servicios De Fumigacion Desinfeccion Y Control De Plagas","1180","ocupation_mulaware","8936017",NULL
+"Servicios De Instalacion Y Mantenimiento De Maquinaria Y Equipo Por Empresas Especializadas","1181","ocupation_mulaware","8427016",NULL
+"Servicios De Investigacion Cientifica","1182","ocupation_mulaware","9191016",NULL
+"Servicios De Laboratorios De Radiologia Y Radioscopia","1183","ocupation_mulaware","9215014",NULL
+"Servicios De Lavado Y Lubricacion De Automoviles","1184","ocupation_mulaware","8915011",NULL
+"Servicios De Notarias Publicas","1185","ocupation_mulaware","8411019",NULL
+"Servicios De Oficinas Y Representaciones De Otros Paises Que Gozan De Extraterritorialidad","1186","ocupation_mulaware","9919012",NULL
+"Servicios De Organizaciones Internacionales Y Otros Organismos Extraterritoriales","1187","ocupation_mulaware","9900901",NULL
+"Servicios De Organizaciones Internacionales Y Otros Organismos Extraterritoriales","1188","ocupation_mulaware","9900003",NULL
+"Servicios De Pesquerias Maritimas Y De Agua Dulce Por Contrato","1189","ocupation_mulaware","491019",NULL
+"Cultivo De Piña","119","ocupation_mulaware","119033",NULL
+"Servicios De Pintado Y Tapizado De Inmuebles","1190","ocupation_mulaware","4291019",NULL
+"Servicios De Reparacion De Carrocerias Pintura Tapiceria Hojalateria Y Cristales De Automoviles","1191","ocupation_mulaware","8914013",NULL
+"Servicios De Reparacion De Motocicletas Y Bicicletas","1192","ocupation_mulaware","8912017",NULL
+"Servicios De Reparacion De Relojes Y Joyas","1193","ocupation_mulaware","8923014",NULL
+"Servicios De Reparacion Especializado En Partes De Automoviles Excepto Reconstruccion De Motores Y Carrocerias","1194","ocupation_mulaware","8913015",NULL
+"Servicios En Balnearios Y Albercas","1195","ocupation_mulaware","8811011",NULL
+"Servicios En Merenderos Cenadurias Y Preparacion De Antojitos Y Platillos Regionales","1196","ocupation_mulaware","8719017",NULL
+"Servicios En Pulquerias","1197","ocupation_mulaware","8723018",NULL
+"Servicios Especiales Prestados Por Subcontratistas (Demoliciones Carpinteria Impermiabilización Inst Eslectricas Pintura Plomeria)","1198","ocupation_mulaware","4200002",NULL
+"Servicios Medico General Y Especializado En Consultorios","1199","ocupation_mulaware","9212010",NULL
+"Bienes Raíces","12","ocupation_mulaware",NULL,NULL
+"Cultivo De Platano","120","ocupation_mulaware","142109",NULL
+"Servicios M√©dicos De Asistencia Social Y Veterinarios","1200","ocupation_mulaware","9200007",NULL
+"Servicios Personales Para El Hogar Y Diversos","1201","ocupation_mulaware","8900004",NULL
+"Servicios Postales","1202","ocupation_mulaware","7614010",NULL
+"Servicios Profesionales Y T√©cnicos","1203","ocupation_mulaware","8400004",NULL
+"Servicios Recreativos Y De Esparcimiento","1204","ocupation_mulaware","8800006",NULL
+"Servicios Relacionados Con El Transporte En Aeronaves Con Matricula Extranjera","1205","ocupation_mulaware","7312010",NULL
+"Servicios Relacionados Con El Transporte En General","1206","ocupation_mulaware","7500003",NULL
+"Servicios Relacionados Con Inmuebles","1207","ocupation_mulaware","8300006",NULL
+"Servicios Veterinarios En Clinicas Y Consultorios Incluso Zootecnistas Pensiones De Animales Y Otros Servicios Auxiliares","1208","ocupation_mulaware","9231010",NULL
+"Sociedades Cooperativas","1209","ocupation_mulaware","9311044",NULL
+"Cultivo De Remolacha","121","ocupation_mulaware","112144",NULL
+"Sociedades De Ahorro Y Credito Popular","1210","ocupation_mulaware","8123060",NULL
+"Sociedades De Ahorro Y Prestamo","1211","ocupation_mulaware","8123052",NULL
+"Sociedades De Inversion","1212","ocupation_mulaware","8142010",NULL
+"Sociedades Financieras De Objeto Limitado","1213","ocupation_mulaware","8123078",NULL
+"Sociedades Financieras De Objeto Multiple No Reguladas","1214","ocupation_mulaware","8123094",NULL
+"Sociedades Financieras De Objeto Multiple Reguladas","1215","ocupation_mulaware","8123086",NULL
+"Sub-Delegado","1216","ocupation_mulaware","9800302",NULL
+"Sub-Director","1217","ocupation_mulaware","9800217",NULL
+"Sub-Jefe Operativo","1218","ocupation_mulaware","9800216",NULL
+"Sub-Procurador General De Justicia Del Estad","1219","ocupation_mulaware","9800205",NULL
+"Cultivo De Sandia","122","ocupation_mulaware","119041",NULL
+"Sub-Secretario","1220","ocupation_mulaware","9800208",NULL
+"Subdirección De Área","1221","ocupation_mulaware","9800109",NULL
+"Subdirector","1222","ocupation_mulaware","9800306",NULL
+"Subsecretaria De Estado","1223","ocupation_mulaware","9800103",NULL
+"Talabarteria","1224","ocupation_mulaware","2529115",NULL
+"Tallado De Piedras Preciosas","1225","ocupation_mulaware","3932036",NULL
+"Tallado De Piedras Preciosas","1226","ocupation_mulaware","3900002",NULL
+"Taller De Cobrizado","1227","ocupation_mulaware","3595032",NULL
+"Taller De Confeccion De Vestidos","1228","ocupation_mulaware","2411023",NULL
+"Taller De Cromado Y Niquelado","1229","ocupation_mulaware","3595040",NULL
+"Cultivo De Semillas Mejoradas","123","ocupation_mulaware","129032",NULL
+"Taller De Esmaltado","1230","ocupation_mulaware","3595058",NULL
+"Taller De Herreria","1231","ocupation_mulaware","3516054",NULL
+"Taller De Hojalateria","1232","ocupation_mulaware","3591022",NULL
+"Taller De Marmoleria","1233","ocupation_mulaware","3353018",NULL
+"Taller De Plomeria","1234","ocupation_mulaware","4221016",NULL
+"Taller De Reparacion De Aparatos Electricos Y Electronicos Industriales Y Comerciales","1235","ocupation_mulaware","8922016",NULL
+"Taller De Reparacion De Articulos Electricos Y Electronicos Para El Hogar","1236","ocupation_mulaware","8922024",NULL
+"Taller De Reparacion De Calzado","1237","ocupation_mulaware","8921018",NULL
+"Taller De Reparacion De Paraguas Y Sombrillas","1238","ocupation_mulaware","8929012",NULL
+"Taller De Reparacion De Ropa Y Medias","1239","ocupation_mulaware","8929020",NULL
+"Cultivo De Sorgo","124","ocupation_mulaware","111089",NULL
+"Taller De Reparacion De Sombreros","1240","ocupation_mulaware","8929038",NULL
+"Taller De Reparacion General De Automoviles Y Camiones","1241","ocupation_mulaware","8911019",NULL
+"Taller De Sastreria","1242","ocupation_mulaware","2412039",NULL
+"Taller De Tapiceria","1243","ocupation_mulaware","8924012",NULL
+"Tarjeta De Credito","1244","ocupation_mulaware","6999116",NULL
+"Taxidermista","1245","ocupation_mulaware","8949010",NULL
+"Teatro","1246","ocupation_mulaware","8826010",NULL
+"Teledifusora","1247","ocupation_mulaware","8825012",NULL
+"Tesorero Del Estado","1248","ocupation_mulaware","9800207",NULL
+"Tienda De Autoservicio","1249","ocupation_mulaware","6411011",NULL
+"Cultivo De Soya","125","ocupation_mulaware","111097",NULL
+"Tintoreria Y Planchaduria","1250","ocupation_mulaware","8934029",NULL
+"Titular De Entidad","1251","ocupation_mulaware","9800105",NULL
+"Transmisores De Dinero O Dispersores","1252","ocupation_mulaware","9900902",NULL
+"Transmisores De Dinero O Dispersores/Cambistas O Centros Cambiarios/Casas De Empeño","1253","ocupation_mulaware","9503005",NULL
+"Transportacion Aerea De Pasajeros","1254","ocupation_mulaware","7311012",NULL
+"Transporte A√©reo","1255","ocupation_mulaware","7300007",NULL
+"Transporte De Carga Foranea","1256","ocupation_mulaware","7129019",NULL
+"Transporte En Autobus Foraneo De Pasajeros","1257","ocupation_mulaware","7112014",NULL
+"Transporte En Autobus Urbano Y Suburbano De Pasajeros","1258","ocupation_mulaware","7111016",NULL
+"Transporte En Automovil De Ruleteo","1259","ocupation_mulaware","7113012",NULL
+"Cultivo De Tabaco","126","ocupation_mulaware","123018",NULL
+"Transporte En Automovil De Ruta Fija","1260","ocupation_mulaware","7115018",NULL
+"Transporte En Automoviles De Sitio Y Turismo","1261","ocupation_mulaware","7114010",NULL
+"Transporte En Ferrocarril Urbano (Metro)","1262","ocupation_mulaware","7133010",NULL
+"Transporte Fluvial Y Lacustre","1263","ocupation_mulaware","7291016",NULL
+"Transporte Por Agua","1264","ocupation_mulaware","7200009",NULL
+"Transporte Por Ductos","1265","ocupation_mulaware","7191018",NULL
+"Transporte Terrestre","1266","ocupation_mulaware","7100001",NULL
+"Transportes Maritimos De Cabotaje","1267","ocupation_mulaware","7212012",NULL
+"Uniones De Credito Nacionales","1268","ocupation_mulaware","8132011",NULL
+"Uniones De Credito Privadas","1269","ocupation_mulaware","8132029",NULL
+"Cultivo De Tamarindo","127","ocupation_mulaware","142117",NULL
+"Usuarios Menores Cinematografia Y Esparcimiento","1270","ocupation_mulaware","8839906",NULL
+"Usuarios Menores De Servicios","1271","ocupation_mulaware","8949903",NULL
+"Usuarios Menores Gobierno Estatal Y Municipal","1272","ocupation_mulaware","9411901",NULL
+"Usuarios Menores Gobierno Federal","1273","ocupation_mulaware","9411886",NULL
+"Usuarios Menores Otras Actividades","1274","ocupation_mulaware","8949888",NULL
+"Usuarios Menores Otros Intermediarios Financieros Privados","1275","ocupation_mulaware","8219108",NULL
+"Usuarios Menores Otros Intermediarios Financieros Publicos","1276","ocupation_mulaware","8219091",NULL
+"Usuarios Menores Por Operaciones De Reporto","1277","ocupation_mulaware","6999059",NULL
+"Usuarios Menores Servicios Medicos","1278","ocupation_mulaware","9231028",NULL
+"Usuarios Menores Servicios Profesionales Y Tecnicos","1279","ocupation_mulaware","8944028",NULL
+"Cultivo De Tomate","128","ocupation_mulaware","112152",NULL
+"Usuarios Menores Transportes","1280","ocupation_mulaware","7129902",NULL
+"Usuarios Menores Turismo","1281","ocupation_mulaware","8723026",NULL
+"Venta De Tarjetas Telefonicas Prepagadas","1282","ocupation_mulaware","9505001",NULL
+"Vocal Ejecutivo","1283","ocupation_mulaware","9800209",NULL
+"Vulcanizacion De Llantas Y Camaras","1284","ocupation_mulaware","3212024",NULL
+"Cultivo De Toronja","129","ocupation_mulaware","142125",NULL
+"Científico","13","ocupation_mulaware",NULL,NULL
+"Cultivo De Trigo","130","ocupation_mulaware","111104",NULL
+"Cultivo De Vainilla","131","ocupation_mulaware","129040",NULL
+"Cultivo De Vid","132","ocupation_mulaware","143016",NULL
+"Cultivo De Yuca","133","ocupation_mulaware","112160",NULL
+"Cultivo Y Explotacion De Palma Y Lechuguilla","134","ocupation_mulaware","329012",NULL
+"Descascarado Y Tostado De Cacahuate Y Nuez","135","ocupation_mulaware","2028026",NULL
+"Descascaradora Y Tostadora De Semilla De Calabaza","136","ocupation_mulaware","2028034",NULL
+"Desecado De Tabaco","137","ocupation_mulaware","2211019",NULL
+"Desfibracion De Algodon","138","ocupation_mulaware","2311017",NULL
+"Desfibracion De Henequen","139","ocupation_mulaware","2331015",NULL
+"Administrativo","14","ocupation_mulaware",NULL,NULL
+"Deshidratacion De Frutas","140","ocupation_mulaware","2011013",NULL
+"Deshidratacion De Plantas Para Forrajes","141","ocupation_mulaware","2098011",NULL
+"Despepite De Algodon","142","ocupation_mulaware","2311025",NULL
+"Empacadora De Pescado","143","ocupation_mulaware","2061034",NULL
+"Explotacion De Barbasco Arborescentes Y Arbustos","144","ocupation_mulaware","329020",NULL
+"Explotacion De Candelilla","145","ocupation_mulaware","322016",NULL
+"Explotacion De Hule","146","ocupation_mulaware","322024",NULL
+"Explotacion De Raices","147","ocupation_mulaware","323014",NULL
+"Formacion De Praderas Y Potreros Artificiales","148","ocupation_mulaware","291013",NULL
+"Ganadería","149","ocupation_mulaware","200006",NULL
+"Administración Pública","15","ocupation_mulaware",NULL,NULL
+"Industria Y Productos De Madera Y Corcho  Excepto Muebles ","150","ocupation_mulaware","2600006",NULL
+"Ingenio Azucarero","151","ocupation_mulaware","2031029",NULL
+"Inseminacion Artificial Y Otros Servicios De Ganaderia","152","ocupation_mulaware","291021",NULL
+"Molino De Arroz","153","ocupation_mulaware","2024016",NULL
+"Molino De Avena","154","ocupation_mulaware","2029016",NULL
+"Molino De Cebada","155","ocupation_mulaware","2029024",NULL
+"Molino De Maiz","156","ocupation_mulaware","2022010",NULL
+"Molino De Nixtamal","157","ocupation_mulaware","2023018",NULL
+"Molino De Otros Cereales","158","ocupation_mulaware","2029032",NULL
+"Molino De Trigo","159","ocupation_mulaware","2021012",NULL
+"Educación","16","ocupation_mulaware",NULL,NULL
+"Molino Para Otros Granos Excepto Cereales","160","ocupation_mulaware","2028042",NULL
+"Otros Cultivos Permanentes","161","ocupation_mulaware","149014",NULL
+"Pesca","162","ocupation_mulaware","400002",NULL
+"Plantacion Y Reforestacion","163","ocupation_mulaware","311019",NULL
+"Preparacion De Tierras De Cultivo Y Otros Servicios Agricolas","164","ocupation_mulaware","191023",NULL
+"Refrigeracion De Carnes","165","ocupation_mulaware","2049030",NULL
+"Regeneracion De Hule","166","ocupation_mulaware","3212016",NULL
+"Salchichoneria","167","ocupation_mulaware","6131015",NULL
+"Servicios En Ostionerias Y Preparacion De Otros Mariscos Y Pescados","168","ocupation_mulaware","8713019",NULL
+"Servicios Y Explotacion De Playas Y Parques De Descanso Clubes De Excursionismo De Caza Y Pesca Incluso Alquiler De Lanchas Caballos Calesas Y Otros Con Fines Recreativos Y Deportivos","169","ocupation_mulaware","8819015",NULL
+"Salud/Social","17","ocupation_mulaware",NULL,NULL
+"Silvicultura","170","ocupation_mulaware","300004",NULL
+"Tratamiento Y Envase De Miel De Abeja","171","ocupation_mulaware","2084010",NULL
+"Usuarios Menores Agricultura","172","ocupation_mulaware","149907",NULL
+"Usuarios Menores Ganaderia","173","ocupation_mulaware","219908",NULL
+"Usuarios Menores Silvicultura Pesca Y Preservacion De Animales Salvajes","174","ocupation_mulaware","329905",NULL
+"Alquiler De Equipos Electronicos","175","ocupation_mulaware","8523012",NULL
+"Alquiler De Lanchas Y Veleros","176","ocupation_mulaware","7519020",NULL
+"Alquiler De Ropa","177","ocupation_mulaware","8529010",NULL
+"Alquiler De Sillas Y Vajillas Para Banquetes","178","ocupation_mulaware","8522014",NULL
+"Alquiler De Terrenos Locales Y Edificios No Residenciales","179","ocupation_mulaware","8311011",NULL
+"Entretenimiento","18","ocupation_mulaware",NULL,NULL
+"Alquiler O Renta De Automoviles Sin Chofer","180","ocupation_mulaware","8524010",NULL
+"Arrendamiento De Equipo Para Procesamiento Electronico De Datos","181","ocupation_mulaware","8512015",NULL
+"Arrendamiento De Maquinaria","182","ocupation_mulaware","8511017",NULL
+"Compra De Articulos Sanitarios","183","ocupation_mulaware","6627014",NULL
+"Compraventa De Accesorios Para Muebles","184","ocupation_mulaware","6729026",NULL
+"Compraventa De Algodon","185","ocupation_mulaware","6611017",NULL
+"Compraventa De Alimentos Para Aves Y Otros Animales","186","ocupation_mulaware","6133029",NULL
+"Compraventa De Alimentos Bebidas Y Productos De Tabaco","187","ocupation_mulaware","6100002",NULL
+"Compraventa De Anilinas","188","ocupation_mulaware","6626016",NULL
+"Compraventa De Antig√ºedades","189","ocupation_mulaware","6325014",NULL
+"Otros Servicios","19","ocupation_mulaware",NULL,NULL
+"Compraventa De Aparatos Cientificos Y De Precision","190","ocupation_mulaware","6739017",NULL
+"Compraventa De Armas De Fuego","191","ocupation_mulaware","6991013",NULL
+"Compraventa De Armas De Fuego Y Sus Accesorios","192","ocupation_mulaware","6900001",NULL
+"Compraventa De Articulos De Boneteria","193","ocupation_mulaware","6215025",NULL
+"Compraventa De Articulos De Cristal Loza Y Porcelana","194","ocupation_mulaware","6321012",NULL
+"Compraventa De Articulos De Ferreteria","195","ocupation_mulaware","6622022",NULL
+"Compraventa De Articulos De Lenceria","196","ocupation_mulaware","6211015",NULL
+"Compraventa De Articulos De Merceria Y Cederia","197","ocupation_mulaware","6215017",NULL
+"Compraventa De Articulos De Optica","198","ocupation_mulaware","6222012",NULL
+"Compraventa De Articulos De Peleteria","199","ocupation_mulaware","6692017",NULL
+"Minería","2","ocupation_mulaware",NULL,NULL
+"Hogares","20","ocupation_mulaware",NULL,NULL
+"Compraventa De Articulos De Plata","200","ocupation_mulaware","6225016",NULL
+"Compraventa De Articulos De Talabarteria","201","ocupation_mulaware","6226014",NULL
+"Compraventa De Articulos De Tlapaleria","202","ocupation_mulaware","6626024",NULL
+"Compraventa De Articulos De Yute Y Henequen","203","ocupation_mulaware","6325022",NULL
+"Compraventa De Articulos Fotograficos Y Cinematograficos","204","ocupation_mulaware","6229018",NULL
+"Compraventa De Articulos Medicos","205","ocupation_mulaware","6732011",NULL
+"Compraventa De Articulos No Clasificados En Otra Parte","206","ocupation_mulaware","6999108",NULL
+"Compraventa De Articulos Para Decoracion","207","ocupation_mulaware","6322010",NULL
+"Compraventa De Articulos Para Deporte","208","ocupation_mulaware","6221014",NULL
+"Compraventa De Articulos Para La Explotacion De Minas","209","ocupation_mulaware","6712013",NULL
+"Extraterritorial","21","ocupation_mulaware",NULL,NULL
+"Compraventa De Articulos Para Regalo","210","ocupation_mulaware","6325030",NULL
+"Compraventa De Articulos Regionales Curiosidades Y Artesanias","211","ocupation_mulaware","6325048",NULL
+"Compraventa De Articulos Religiosos","212","ocupation_mulaware","6324016",NULL
+"Compraventa De Articulos Y Aparatos Ortopedicos","213","ocupation_mulaware","6732029",NULL
+"Compraventa De Artículos Para El Hogar (Electrodomesticos Refacciones Loza Y Porcelana Antiguedades)","214","ocupation_mulaware","6300008",NULL
+"Compraventa De Automoviles Y Camiones Nuevos","215","ocupation_mulaware","6811013",NULL
+"Compraventa De Automoviles Y Camiones Usados","216","ocupation_mulaware","6812011",NULL
+"Compraventa De Aves En Pie","217","ocupation_mulaware","6121016",NULL
+"Compraventa De Azucar","218","ocupation_mulaware","6132089",NULL
+"Compraventa De Basculas Balanzas Y Aparatos Similares Para Equipo Pesado","219","ocupation_mulaware","6731013",NULL
+"Agricultura","22","ocupation_mulaware","100008",NULL
+"Compraventa De Bicicletas Y Sus Accesorios","220","ocupation_mulaware","6813019",NULL
+"Compraventa De Calzado","221","ocupation_mulaware","6212013",NULL
+"Compraventa De Carbon Y Otros Combustibles","222","ocupation_mulaware","6519013",NULL
+"Compraventa De Carne De Aves","223","ocupation_mulaware","6124010",NULL
+"Compraventa De Casimires","224","ocupation_mulaware","6216015",NULL
+"Compraventa De Cemento Cal Yeso Y Otros Productos A Base De Minerales No Metalicos","225","ocupation_mulaware","6621016",NULL
+"Compraventa De Ceras Y Parafinas","226","ocupation_mulaware","6699013",NULL
+"Compraventa De Cerveza","227","ocupation_mulaware","6135017",NULL
+"Compraventa De Chile Seco Y Especias","228","ocupation_mulaware","6113013",NULL
+"Compraventa De Colorantes Para La Industria","229","ocupation_mulaware","6623012",NULL
+"Aserradero","23","ocupation_mulaware","2611011",NULL
+"Compraventa De Costales Y Bolsas","230","ocupation_mulaware","6626032",NULL
+"Compraventa De Cueros Y Pieles Sin Curtir","231","ocupation_mulaware","6613013",NULL
+"Compraventa De Desperdicios De Papel","232","ocupation_mulaware","6693015",NULL
+"Compraventa De Desperdicios Industriales","233","ocupation_mulaware","6699021",NULL
+"Compraventa De Diamantes","234","ocupation_mulaware","6900002",NULL
+"Compraventa De Diamantes","235","ocupation_mulaware","6999017",NULL
+"Compraventa De Discos Y Cassettes","236","ocupation_mulaware","6323018",NULL
+"Compraventa De Dulces","237","ocupation_mulaware","6132013",NULL
+"Compraventa De Equipo Contra Incendio","238","ocupation_mulaware","6729034",NULL
+"Compraventa De Equipo De Procesamiento Electronico De Datos","239","ocupation_mulaware","6721036",NULL
+"Beneficio De Arroz Excepto Molienda","24","ocupation_mulaware","2028018",NULL
+"Compraventa De Equipo De Trabajo Y Proteccion Industrial","240","ocupation_mulaware","6714035",NULL
+"Compraventa De Equipo De Transporte Sus Refacciones Y Accesorios","241","ocupation_mulaware","6800008",NULL
+"Compraventa De Equipo Y Mobiliario Para Hoteles Restaurantes Billares Boliches Peluquerias Y Salones De Belleza","242","ocupation_mulaware","6722012",NULL
+"Compraventa De Equipos De Refrigeracion Comercial","243","ocupation_mulaware","6729018",NULL
+"Compraventa De Equipos Quimicos Y Para Laboratorio","244","ocupation_mulaware","6732045",NULL
+"Compraventa De Equipos Y Aparatos De Aire Acondicionado","245","ocupation_mulaware","6999025",NULL
+"Compraventa De Especias Y Articulos Alimenticios Deshidratados","246","ocupation_mulaware","6132021",NULL
+"Compraventa De Fertilizantes Y Plaguicidas","247","ocupation_mulaware","6691019",NULL
+"Compraventa De Fierro Laminado Y En Lingotes","248","ocupation_mulaware","6622014",NULL
+"Compraventa De Fierro Usado","249","ocupation_mulaware","6694013",NULL
+"Beneficio De Cafe Excepto Molienda Y Tostado","25","ocupation_mulaware","2025014",NULL
+"Compraventa De Flores Y Adornos Florales Artificiales","250","ocupation_mulaware","6326012",NULL
+"Compraventa De Flores Y Adornos Florales Naturales","251","ocupation_mulaware","6326020",NULL
+"Compraventa De Fluidos Y Gases","252","ocupation_mulaware","6511019",NULL
+"Compraventa De Forrajes En Estado Natural","253","ocupation_mulaware","6114011",NULL
+"Compraventa De Frutas","254","ocupation_mulaware","6112015",NULL
+"Compraventa De Gas Para Uso Domestico O Comercial","255","ocupation_mulaware","6512017",NULL
+"Compraventa De Gases Combustibles Y Lubricantes","256","ocupation_mulaware","6500004",NULL
+"Compraventa De Gasolina Y Diesel","257","ocupation_mulaware","6513015",NULL
+"Compraventa De Henequen E Ixtle","258","ocupation_mulaware","6619011",NULL
+"Compraventa De Huevo","259","ocupation_mulaware","6125018",NULL
+"Beneficio De Lanas","26","ocupation_mulaware","2312015",NULL
+"Compraventa De Instrumentos Y Articulos Musicales","260","ocupation_mulaware","6224018",NULL
+"Compraventa De Jarcieria Reatas Canastas Y Articulos Tejidos De Fibra","261","ocupation_mulaware","6999033",NULL
+"Compraventa De Juguetes","262","ocupation_mulaware","6223010",NULL
+"Compraventa De Lana","263","ocupation_mulaware","6619029",NULL
+"Compraventa De Leche","264","ocupation_mulaware","6132039",NULL
+"Compraventa De Legumbres Y Hortalizas","265","ocupation_mulaware","6112023",NULL
+"Compraventa De Libros","266","ocupation_mulaware","6227012",NULL
+"Compraventa De Llantas","267","ocupation_mulaware","6814017",NULL
+"Compraventa De Lubricantes","268","ocupation_mulaware","6515011",NULL
+"Compraventa De Madera","269","ocupation_mulaware","6624010",NULL
+"Beneficio De Maderas (Desflemado Estufado Cepillado Etc)","27","ocupation_mulaware","2611029",NULL
+"Compraventa De Manteca","270","ocupation_mulaware","6126016",NULL
+"Compraventa De Maquinaria Equipo Implementos Y Herramientas Para Trabajar La Madera Metales Y Otros Materiales","271","ocupation_mulaware","6713011",NULL
+"Compraventa De Maquinaria Nueva","272","ocupation_mulaware","6714019",NULL
+"Compraventa De Maquinaria Usada","273","ocupation_mulaware","6714027",NULL
+"Compraventa De Maquinaria Equipo Instrumentos Aparatos Y Herramientas Sus Refacciones Y Accesorios","274","ocupation_mulaware","6700000",NULL
+"Compraventa De Maquinas De Coser Y Tejedoras","275","ocupation_mulaware","6313019",NULL
+"Compraventa De Maquinas De Escribir","276","ocupation_mulaware","6721014",NULL
+"Compraventa De Material Para Instalaciones Electricas Y De Sonido","277","ocupation_mulaware","6628012",NULL
+"Compraventa De Materiales Para Construccion","278","ocupation_mulaware","6629010",NULL
+"Compraventa De Materias Primas Animales","279","ocupation_mulaware","6126024",NULL
+"Captura De Atun Bonito Barrilete Y Similares","28","ocupation_mulaware","411017",NULL
+"Compraventa De Materias Primas De Origen Mineral","280","ocupation_mulaware","6699039",NULL
+"Compraventa De Materias Primas Materiales Y Auxiliares (Algodón Cemento Sanitarios Pieles Ferreteria Madera Pinturas)","281","ocupation_mulaware","6600002",NULL
+"Compraventa De Medicinas","282","ocupation_mulaware","6231013",NULL
+"Compraventa De Motocicletas Y Sus Accesorios","283","ocupation_mulaware","6813027",NULL
+"Compraventa De Muebles","284","ocupation_mulaware","6312011",NULL
+"Compraventa De Muebles Para Consultorios Y Sanatorios","285","ocupation_mulaware","6732037",NULL
+"Compraventa De Muebles Y Articulos Para Oficina","286","ocupation_mulaware","6721022",NULL
+"Compraventa De Otras Fibras Comerciales","287","ocupation_mulaware","6619045",NULL
+"Compraventa De Otras Joyas","288","ocupation_mulaware","6225024",NULL
+"Compraventa De Otras Materias Primas De Origen Animal","289","ocupation_mulaware","6619053",NULL
+"Captura De Camaron","29","ocupation_mulaware","421016",NULL
+"Compraventa De Otras Materias Primas Vegetales","290","ocupation_mulaware","6619037",NULL
+"Compraventa De Otros Aparatos Electricos","291","ocupation_mulaware","6419015",NULL
+"Compraventa De Otros Aparatos Electricos Y Electronicos De Uso Domestico","292","ocupation_mulaware","6311039",NULL
+"Compraventa De Otros Articulos De Piel","293","ocupation_mulaware","6226022",NULL
+"Compraventa De Otros Articulos De Plastico","294","ocupation_mulaware","6999041",NULL
+"Compraventa De Otros Articulos Para El Hogar","295","ocupation_mulaware","6329016",NULL
+"Compraventa De Otros Equipos De Transporte Sus Refacciones Y Accesorios","296","ocupation_mulaware","6800010",NULL
+"Compraventa De Otros Metales Y Minerales Laminados Y En Lingotes","297","ocupation_mulaware","6699047",NULL
+"Compraventa De Otros Productos Alimenticios Agricolas En Estado Natural","298","ocupation_mulaware","6119011",NULL
+"Compraventa De Otros Productos De Hule","299","ocupation_mulaware","6999067",NULL
+"Captura De Crustaceos Moluscos Reptiles Anfibios Y Otra Fauna De Agua Dulce","30","ocupation_mulaware","452011",NULL
+"Compraventa De Otros Productos Lacteos","300","ocupation_mulaware","6132047",NULL
+"Compraventa De Otros Productos Textiles","301","ocupation_mulaware","6216023",NULL
+"Compraventa De Pan Y Pasteles","302","ocupation_mulaware","6132055",NULL
+"Compraventa De Papeleria Y Articulos De Escritorio","303","ocupation_mulaware","6233019",NULL
+"Compraventa De Paraguas Sombrillas Ropa Usada Y Otros Articulos De Uso Personal","304","ocupation_mulaware","6239017",NULL
+"Compraventa De Partes Y Refacciones Para Vehiculos Aereos","305","ocupation_mulaware","6819017",NULL
+"Compraventa De Perfumes","306","ocupation_mulaware","6231021",NULL
+"Compraventa De Petroleo Combustible","307","ocupation_mulaware","6514013",NULL
+"Compraventa De Pieles Finas Con Pelo","308","ocupation_mulaware","6214019",NULL
+"Compraventa De Pinturas Barnices Y Brochas","309","ocupation_mulaware","6623020",NULL
+"Captura De Mamiferos Anfibios Y Diversos Invertebrados De Mar","31","ocupation_mulaware","439019",NULL
+"Compraventa De Prendas De Vestir Y Otros Artículos De Uso Personal","310","ocupation_mulaware","6200000",NULL
+"Compraventa De Productos Veterinarios Y Otros Articulos Para El Cuidado De Los Animales","311","ocupation_mulaware","6993019",NULL
+"Compraventa De Pulque","312","ocupation_mulaware","6136015",NULL
+"Compraventa De Refacciones Para Aparatos Electricos","313","ocupation_mulaware","6419023",NULL
+"Compraventa De Refacciones Para Maquinaria","314","ocupation_mulaware","6719019",NULL
+"Compraventa De Refacciones Y Accesorios De Maquinas Aparatos E Instrumentos Para El Hogar Excepto Los De Maquinas De Coser Y Tejer","315","ocupation_mulaware","6314017",NULL
+"Compraventa De Refacciones Y Accesorios Nuevos Para Autos Y Camiones","316","ocupation_mulaware","6815015",NULL
+"Compraventa De Refacciones Y Accesorios Usados Para Automoviles Y Camiones","317","ocupation_mulaware","6816013",NULL
+"Compraventa De Refrescos Aguas Gaseosas Y Aguas Purificadas","318","ocupation_mulaware","6134019",NULL
+"Compraventa De Refrigeradores Lavadoras Y Estufas","319","ocupation_mulaware","6311013",NULL
+"Captura De Ostion","32","ocupation_mulaware","422014",NULL
+"Compraventa De Relojes","320","ocupation_mulaware","6225032",NULL
+"Compraventa De Ropa","321","ocupation_mulaware","6211023",NULL
+"Compraventa De Sal","322","ocupation_mulaware","6132063",NULL
+"Compraventa De Semillas Para Siembra","323","ocupation_mulaware","6612015",NULL
+"Compraventa De Semillas Y Granos","324","ocupation_mulaware","6111017",NULL
+"Compraventa De Sillas De Montar","325","ocupation_mulaware","6226030",NULL
+"Compraventa De Sombreros","326","ocupation_mulaware","6213011",NULL
+"Compraventa De Substancias Quimicas Para La Industria","327","ocupation_mulaware","6695011",NULL
+"Compraventa De Tabaco","328","ocupation_mulaware","6139019",NULL
+"Compraventa De Tabacos Puros Y Cigarros","329","ocupation_mulaware","6139027",NULL
+"Captura De Otros Crustaceos Y Moluscos Marinos","33","ocupation_mulaware","429010",NULL
+"Compraventa De Tapetes Y Alfombras","330","ocupation_mulaware","6322028",NULL
+"Compraventa De Tapices","331","ocupation_mulaware","6629028",NULL
+"Compraventa De Telas","332","ocupation_mulaware","6216031",NULL
+"Compraventa De Televisores Consolas Radios Modulares Y Tocacintas","333","ocupation_mulaware","6311021",NULL
+"Compraventa De Terrenos","334","ocupation_mulaware","6911053",NULL
+"Compraventa De Vehiculos Acuaticos Y Sus Refacciones","335","ocupation_mulaware","6819025",NULL
+"Compraventa De Vehiculos Aereos","336","ocupation_mulaware","6819033",NULL
+"Compraventa De Velas Y Veladoras","337","ocupation_mulaware","6999075",NULL
+"Compraventa De Vidrios Cristales Y Emplomados","338","ocupation_mulaware","6625018",NULL
+"Compraventa De Vinos Y Licores","339","ocupation_mulaware","6136023",NULL
+"Captura De Otros Peces En Estuarios Costas O Alta Mar","34","ocupation_mulaware","419011",NULL
+"Compraventa En Tiendas De Autoservicio Y De Departamentos Especializados Por Línea De Mercancías","340","ocupation_mulaware","6400006",NULL
+"Distribucion Y Alquiler De Peliculas","341","ocupation_mulaware","8822018",NULL
+"Distribucion Y Compraventa De Periodicos Y Revistas","342","ocupation_mulaware","6228010",NULL
+"Renta De Vehiculos Aereos","343","ocupation_mulaware","7519038",NULL
+"Tienda De Abarrotes Y Miscelanea","344","ocupation_mulaware","6131023",NULL
+"Tiendas De Departamentos Especializados Excepto De Comestibles","345","ocupation_mulaware","6412019",NULL
+"Tortilleria","346","ocupation_mulaware","2093011",NULL
+"Usuarios Menores Comercio","347","ocupation_mulaware","6999900",NULL
+"Venta De Vehículos Embarcaciones y Aeronaves Nuevos","348","ocupation_mulaware","6800001",NULL
+"Venta De Vehículos Embarcaciones y Aeronaves Usados","349","ocupation_mulaware","6800002",NULL
+"Captura De Peces En Ríos Lagos Y Estuarios","35","ocupation_mulaware","451013",NULL
+"Venta Y Distribucion De Despensas Familiares","350","ocupation_mulaware","6132071",NULL
+"Administracion De Centrales Camioneras Y Servicios Auxiliares","351","ocupation_mulaware","7414014",NULL
+"Autotransporte De Carga De Productos Especificos","352","ocupation_mulaware","7123011",NULL
+"Autotransporte De Materiales De Construccion","353","ocupation_mulaware","7121015",NULL
+"Autotransporte Escolar Turistico En Autobus Y Otros Especializados Excepto Ambulancias","354","ocupation_mulaware","7119010",NULL
+"Construcción Reconstrucción Y Ensamble De Equipo De Transporte Y Sus Partes","355","ocupation_mulaware","3800001",NULL
+"Ferrocarriles","356","ocupation_mulaware","7131014",NULL
+"Pavimentacion","357","ocupation_mulaware","4121026",NULL
+"Perforacion De Norias Y Pozos Para Agua","358","ocupation_mulaware","4192019",NULL
+"Perforacion De Pozos Petroleros Y De Gas","359","ocupation_mulaware","4194015",NULL
+"Captura De Sardina Y Similares","36","ocupation_mulaware","412015",NULL
+"Tranvias Y Trolebuses","360","ocupation_mulaware","7132012",NULL
+"Administracion De Inmuebles","361","ocupation_mulaware","8314015",NULL
+"Adquisicion De Bienes Muebles","362","ocupation_mulaware","6999174",NULL
+"Adquisicion De Vivienda Residencial","363","ocupation_mulaware","6911095",NULL
+"Adquisicion De Vivienda Tipo Medio","364","ocupation_mulaware","6911079",NULL
+"Arrendamiento De Inmuebles Residenciales","365","ocupation_mulaware","8312019",NULL
+"Compra De Casa Habitacion","366","ocupation_mulaware","6911029",NULL
+"Compraventa De Bienes Inmuebles Y Artículos Diversos","367","ocupation_mulaware","6900006",NULL
+"Compraventa De Casas Y Otros Inmuebles","368","ocupation_mulaware","6911045",NULL
+"Construccion De Casas Y Techos Desarmables","369","ocupation_mulaware","4111019",NULL
+"Captura De Tiburon Cazon Raya Y Similares","37","ocupation_mulaware","413013",NULL
+"Construccion De Edificios Industriales Y Para Fines Analogos","370","ocupation_mulaware","4113015",NULL
+"Construccion De Edificios Para Oficinas Escuelas Hospitales Hoteles Y Otros No Residenciales","371","ocupation_mulaware","4112017",NULL
+"Construccion De Estadios Monumentos Y Otras Obras De Ingenieria","372","ocupation_mulaware","4199015",NULL
+"Construccion De Inmuebles","373","ocupation_mulaware","4111027",NULL
+"Construccion De Pistas De Aterrizaje Ductos Y Otras Obras Vinculadas A Las Vias De Comunicacion","374","ocupation_mulaware","4129012",NULL
+"Construccion De Presas","375","ocupation_mulaware","4191011",NULL
+"Construccion De Puertos","376","ocupation_mulaware","4122016",NULL
+"Construccion De Vias De Comunicacion","377","ocupation_mulaware","4121018",NULL
+"Construccion De Vivienda Residencial","378","ocupation_mulaware","4111944",NULL
+"Construccion De Vivienda Tipo Medio","379","ocupation_mulaware","4111928",NULL
+"Captura De Tortuga Y Otros Reptiles Marinos","38","ocupation_mulaware","431015",NULL
+"Construccion E Instalacion De Lineas Telefonicas Torres Emisoras De Radio Y Television Y Otras Obras Conexas","380","ocupation_mulaware","4123014",NULL
+"Contratación De Obras Completas De Construcción (Casas Departamentos Inmuebles Pavimentación No Residenciales Vias De Comunicación)","381","ocupation_mulaware","4100004",NULL
+"Demolicion De Inmuebles","382","ocupation_mulaware","4212015",NULL
+"Desarrolladores De Vivienda","383","ocupation_mulaware","4111051",NULL
+"Empresas De Autofinanciamiento Residencial","384","ocupation_mulaware","8219130",NULL
+"Neveria Y Refresqueria","385","ocupation_mulaware","8714017",NULL
+"Premezclado Y Colado De Concreto","386","ocupation_mulaware","4211017",NULL
+"Prestamos Para La Construccion De Vivienda Para Acreditados De Ingresos Minimos","387","ocupation_mulaware","4111043",NULL
+"Prestamos Para La Construccion De Vivienda Tanto De Interes Social Como Provenientes De La Reserva Para Pensiones Del Personal","388","ocupation_mulaware","4111035",NULL
+"Urbanizacion","389","ocupation_mulaware","4121034",NULL
+"Captura Y Preservacion De Especies Animales Salvajes","39","ocupation_mulaware","511015",NULL
+"Usuarios Menores Adquisicion De Vivienda Residencial","390","ocupation_mulaware","6911102",NULL
+"Usuarios Menores Adquisicion De Vivienda Tipo Medio","391","ocupation_mulaware","6911087",NULL
+"Usuarios Menores Construccion De Vivienda Tipo Medio","392","ocupation_mulaware","4111936",NULL
+"Usuarios Menores Construccion Diferente A Vivienda","393","ocupation_mulaware","4199908",NULL
+"Desempleado","394","ocupation_mulaware","9900905",NULL
+"Empleado De Gobierno De Entidad Federativa","395","ocupation_mulaware","9800200",NULL
+"Empleado De Gobierno Municipal O Delegaciones (D.F)","396","ocupation_mulaware","9800300",NULL
+"Empleado Del Gobierno Federal","397","ocupation_mulaware","9800100",NULL
+"Empleado Del Poder Judicial","398","ocupation_mulaware","9800400",NULL
+"Empleado Del Poder Judicial De Entidad Federativa (Secretarios Actuarios Etc)","399","ocupation_mulaware","9800407",NULL
+"Suministro de Energía","4","ocupation_mulaware",NULL,NULL
+"Cartera Agricola De Estados Analiticos","40","ocupation_mulaware","149915",NULL
+"Empleado Del Poder Judicial De Municipio y Delegación (Secretarios Actuarios Etc)","400","ocupation_mulaware","9800409",NULL
+"Empleado Del Poder Judicial Federal (Secretarios Actuarios Etc)","401","ocupation_mulaware","9800404",NULL
+"Empleado Del Sector Privado","402","ocupation_mulaware","9501009",NULL
+"Empleado Del Sector Publico","403","ocupation_mulaware","9800000",NULL
+"Empleado Del Sector Publico","404","ocupation_mulaware","9502007",NULL
+"Empleado Privado","405","ocupation_mulaware","8944098",NULL
+"Empleado Publico","406","ocupation_mulaware","9411998",NULL
+"Estudiante Desempleado Jubilado Pensionado Discapacitado","407","ocupation_mulaware","9506009",NULL
+"Construccion E Instalacion De Plantas Generadoras Y Lineas De Transmision Y Distribucion De Energia Electrica","408","ocupation_mulaware","4193017",NULL
+"Distribucion De Energia Electrica","409","ocupation_mulaware","5012018",NULL
+"Cartera Ganadera De Estados Analiticos","41","ocupation_mulaware","219916",NULL
+"Exploracion De Petroleo Por Compañias","410","ocupation_mulaware","1211010",NULL
+"Generacion Y Suministro De Energia Electrica","411","ocupation_mulaware","5011010",NULL
+"Generación Transmisión Y Distribución De Energía El√©ctrica","412","ocupation_mulaware","5000005",NULL
+"Pidiregas Energia Electrica","413","ocupation_mulaware","5021019",NULL
+"Pidiregas Petroleo","414","ocupation_mulaware","1221019",NULL
+"Planta Metalurgica","415","ocupation_mulaware","3411030",NULL
+"Usuarios Menores Energia Electrica","416","ocupation_mulaware","5011903",NULL
+"Usuarios Menores Petroleo","417","ocupation_mulaware","1211903",NULL
+"Aj. Int. Financieros No Bancarios Udis","418","ocupation_mulaware","8133035",NULL
+"Bolsa De Valores","419","ocupation_mulaware","8141012",NULL
+"Cartera Silvicola De Estados Analiticos","42","ocupation_mulaware","329913",NULL
+"Cartera De Servicios Bancarios De Estados Analitic","420","ocupation_mulaware","8123911",NULL
+"Casa De Cambio","421","ocupation_mulaware","8219025",NULL
+"Corresponsal Bancario","422","ocupation_mulaware","8219033",NULL
+"Empresas De Autofinanciamiento Automotriz","423","ocupation_mulaware","8219122",NULL
+"Financiera","424","ocupation_mulaware","0",NULL
+"Menores Banca Desarrollo","425","ocupation_mulaware","8113128",NULL
+"Operaciones De Arrendamiento Capitalizable","426","ocupation_mulaware","6999146",NULL
+"Servicios De Instituciones De Cr√©dito Organizaciones Auxiliares E Instituciones De Seguros Y Fianzas","427","ocupation_mulaware","8100000",NULL
+"Servicios De La Banca Nacional","428","ocupation_mulaware","8113011",NULL
+"Servicios De La Banca Nacional Por Operaciones De Call Money","429","ocupation_mulaware","8113029",NULL
+"Compraventa De Alimento Para Ganado","43","ocupation_mulaware","6133011",NULL
+"Servicios De La Banca Privada Especializada","430","ocupation_mulaware","8123028",NULL
+"Servicios De La Banca Privada Especializada Por Op","431","ocupation_mulaware","8123044",NULL
+"Servicios De La Banca Privada Y Mixta Multiple","432","ocupation_mulaware","8123010",NULL
+"Servicios De La Banca Privada Y Mixta Multiple Por Operaciones De Call Money","433","ocupation_mulaware","8123036",NULL
+"Tarjeta De Cr√©dito Y Comercialización De Tarjetas De Servicios","434","ocupation_mulaware","6900003",NULL
+"Usuarios Menores Banca Comercial","435","ocupation_mulaware","8123143",NULL
+"Usuarios Menores De Servicios Bancarios","436","ocupation_mulaware","8123903",NULL
+"Acabado De Hilos","437","ocupation_mulaware","2313021",NULL
+"Acabado De Telas","438","ocupation_mulaware","2319011",NULL
+"Automotriz","439","ocupation_mulaware","6999166",NULL
+"Compraventa De Carne De Res Y Otras Especies De Ganado","44","ocupation_mulaware","6122014",NULL
+"Beneficio De Otras Fibras Textiles","440","ocupation_mulaware","2312023",NULL
+"Cartera De Fabricacion De Maquinaria Y Articulos E","441","ocupation_mulaware","3639913",NULL
+"Compresora De Algodon","442","ocupation_mulaware","2311033",NULL
+"Curtiduria","443","ocupation_mulaware","2521012",NULL
+"Destilacion De Alcohol Etilico","444","ocupation_mulaware","2033017",NULL
+"Distribucion De Otros Productos Quimicos Farmaceuticos","445","ocupation_mulaware","6232011",NULL
+"Fabricacion De Abanicos","446","ocupation_mulaware","3999010",NULL
+"Fabricacion De Abonos Y Fertilizantes Quimicos","447","ocupation_mulaware","3021011",NULL
+"Fabricacion De Abrasivos","448","ocupation_mulaware","3352010",NULL
+"Fabricacion De Accesorios Para La Industria Textil","449","ocupation_mulaware","3699032",NULL
+"Compraventa De Ganado Mayor En Pie","45","ocupation_mulaware","6121024",NULL
+"Fabricacion De Aceites Vegetales Comestibles","450","ocupation_mulaware","2091015",NULL
+"Fabricacion De Aceites Y Lubricantes","451","ocupation_mulaware","3113016",NULL
+"Fabricacion De Aceites Y Mantecas Animales Comestibles","452","ocupation_mulaware","2099027",NULL
+"Fabricacion De Acidos Industriales","453","ocupation_mulaware","3013018",NULL
+"Fabricacion De Acumuladores","454","ocupation_mulaware","3791010",NULL
+"Fabricacion De Adobe","455","ocupation_mulaware","3331014",NULL
+"Fabricacion De Aguardiente De Caña","456","ocupation_mulaware","2112019",NULL
+"Fabricacion De Aguarras","457","ocupation_mulaware","3093010",NULL
+"Fabricacion De Alambrados Y Telas De Metal","458","ocupation_mulaware","3593010",NULL
+"Fabricacion De Alambre","459","ocupation_mulaware","3593028",NULL
+"Compraventa De Ganado Menor En Pie","46","ocupation_mulaware","6121032",NULL
+"Fabricacion De Alfileres Agujas Y Broches","460","ocupation_mulaware","3599018",NULL
+"Fabricacion De Algodon Absorbente Vendas Tela Adhesiva Y Productos Similares","461","ocupation_mulaware","2433019",NULL
+"Fabricacion De Algodon Esterilizado Gasas Y Vendas","462","ocupation_mulaware","3051018",NULL
+"Fabricacion De Alimento Para Ganado Y Otros Animales","463","ocupation_mulaware","2098029",NULL
+"Fabricacion De Alimentos Para Aves","464","ocupation_mulaware","2098037",NULL
+"Fabricacion De Almidon","465","ocupation_mulaware","2092013",NULL
+"Fabricacion De Almohadas Y Cojines","466","ocupation_mulaware","2713015",NULL
+"Fabricacion De Alpargatas Babuchas Y Pantuflas","467","ocupation_mulaware","2512011",NULL
+"Fabricacion De Ampolletas","468","ocupation_mulaware","3323011",NULL
+"Fabricacion De Anilinas","469","ocupation_mulaware","3011020",NULL
+"Compraventa De Maquinaria Equipo E Implementos Para La Agricultura Y La Ganaderia","47","ocupation_mulaware","6711015",NULL
+"Fabricacion De Anuncios Luminosos","470","ocupation_mulaware","3799014",NULL
+"Fabricacion De Aparatos De Intercomunicacion","471","ocupation_mulaware","3723013",NULL
+"Fabricacion De Aparatos Ozonizadores","472","ocupation_mulaware","3961051",NULL
+"Fabricacion De Aparatos Para Gimnasia","473","ocupation_mulaware","3951010",NULL
+"Fabricacion De Armas","474","ocupation_mulaware","3997014",NULL
+"Fabricacion De Articulos Bordados Y Deshilados","475","ocupation_mulaware","2434017",NULL
+"Fabricacion De Articulos Con Hule Usado","476","ocupation_mulaware","3219012",NULL
+"Fabricacion De Articulos De Baquelita","477","ocupation_mulaware","3099018",NULL
+"Fabricacion De Articulos De Carey","478","ocupation_mulaware","3999028",NULL
+"Fabricacion De Articulos De Celuloide","479","ocupation_mulaware","3229011",NULL
+"Compraventa De Pescados Y Mariscos","48","ocupation_mulaware","6126032",NULL
+"Fabricacion De Articulos De Concha","480","ocupation_mulaware","3999036",NULL
+"Fabricacion De Articulos De Cuero Para Viaje","481","ocupation_mulaware","2529024",NULL
+"Fabricacion De Articulos De Cuero Y Hueso","482","ocupation_mulaware","2529032",NULL
+"Fabricacion De Articulos De Cuero Y Piel Para Zapatero","483","ocupation_mulaware","2529040",NULL
+"Fabricacion De Articulos De Joyeria","484","ocupation_mulaware","3932010",NULL
+"Fabricacion De Articulos De Lona","485","ocupation_mulaware","2391019",NULL
+"Fabricacion De Articulos De Palma Vara Carrizo Mimbre Y Similares","486","ocupation_mulaware","2622018",NULL
+"Fabricacion De Articulos De Palma Y Tule","487","ocupation_mulaware","2333011",NULL
+"Fabricacion De Articulos De Peltre","488","ocupation_mulaware","3594018",NULL
+"Fabricacion De Articulos De Polietileno","489","ocupation_mulaware","3222015",NULL
+"Compraventa De Visceras De Ganado Crudas Y Semicrudas","49","ocupation_mulaware","6123012",NULL
+"Fabricacion De Articulos De Quincalleria Y Bisuteria","490","ocupation_mulaware","3933018",NULL
+"Fabricacion De Articulos Para Dentista","491","ocupation_mulaware","3994010",NULL
+"Fabricacion De Articulos Para Escritorio","492","ocupation_mulaware","3992014",NULL
+"Fabricacion De Articulos Tejidos De Cuero","493","ocupation_mulaware","2529058",NULL
+"Fabricacion De Asbestos Y Corchos Aislantes","494","ocupation_mulaware","2632033",NULL
+"Fabricacion De Ataudes De Madera","495","ocupation_mulaware","2631019",NULL
+"Fabricacion De Ates","496","ocupation_mulaware","2013019",NULL
+"Fabricacion De Azulejos","497","ocupation_mulaware","3319028",NULL
+"Fabricacion De Añil","498","ocupation_mulaware","3011012",NULL
+"Fabricacion De Balones Globos Y Pelotas","499","ocupation_mulaware","3229029",NULL
+"Suministro de Agua","5","ocupation_mulaware",NULL,NULL
+"Congeladora De Productos Marinos","50","ocupation_mulaware","2061018",NULL
+"Fabricacion De Bandas Y Correas De Cuero","500","ocupation_mulaware","2529066",NULL
+"Fabricacion De Banderas Y Adornos De Tela","501","ocupation_mulaware","2439017",NULL
+"Fabricacion De Bastones Paraguas Y Sombrillas","502","ocupation_mulaware","3999044",NULL
+"Fabricacion De Bebidas Gaseosas","503","ocupation_mulaware","2131027",NULL
+"Fabricacion De Bloques De Cemento","504","ocupation_mulaware","3342011",NULL
+"Fabricacion De Bolsas Y Carteras De Cuero","505","ocupation_mulaware","2529074",NULL
+"Fabricacion De Bombas Para Agua","506","ocupation_mulaware","3694024",NULL
+"Fabricacion De Borras Y Estopas","507","ocupation_mulaware","2394021",NULL
+"Fabricacion De Botellas","508","ocupation_mulaware","3323029",NULL
+"Fabricacion De Botones De Plastico","509","ocupation_mulaware","3229037",NULL
+"Cria De Ganado Caballar","51","ocupation_mulaware","214015",NULL
+"Fabricacion De Brochas Y Pinceles","510","ocupation_mulaware","2529082",NULL
+"Fabricacion De Bujias","511","ocupation_mulaware","3817014",NULL
+"Fabricacion De Butacas De Metal","512","ocupation_mulaware","3521011",NULL
+"Fabricacion De Cables De Metal","513","ocupation_mulaware","3793016",NULL
+"Fabricacion De Cachuchas Y Gorras","514","ocupation_mulaware","2417013",NULL
+"Fabricacion De Cajas Fuertes","515","ocupation_mulaware","3599026",NULL
+"Fabricacion De Cajas Y Empaques De Madera","516","ocupation_mulaware","2621010",NULL
+"Fabricacion De Cajetas Yogurts Y Otros Productos A Base De Leche","517","ocupation_mulaware","2059013",NULL
+"Fabricacion De Calcetines","518","ocupation_mulaware","2321016",NULL
+"Fabricacion De Calcomanias","519","ocupation_mulaware","2929018",NULL
+"Cria De Ganado De Lidia","52","ocupation_mulaware","213017",NULL
+"Fabricacion De Calderas Tanques Y Tinacos De Metal","520","ocupation_mulaware","3532018",NULL
+"Fabricacion De Calentadores Para Baño","521","ocupation_mulaware","3532026",NULL
+"Fabricacion De Calzado De Cuero O Piel","522","ocupation_mulaware","2519017",NULL
+"Fabricacion De Calzado De Plastico","523","ocupation_mulaware","3223013",NULL
+"Fabricacion De Calzado Para Deporte Excepto De Plastico Y Hule","524","ocupation_mulaware","2511013",NULL
+"Fabricacion De Camaras Fotograficas De Cine Y Proyectores","525","ocupation_mulaware","3912012",NULL
+"Fabricacion De Camisas","526","ocupation_mulaware","2414019",NULL
+"Fabricacion De Candados","527","ocupation_mulaware","3515014",NULL
+"Fabricacion De Candiles Y Arbotantes","528","ocupation_mulaware","3799022",NULL
+"Fabricacion De Canuteros","529","ocupation_mulaware","3992022",NULL
+"Cria De Otros Equinos Y Ganado Para El Trabajo","53","ocupation_mulaware","219015",NULL
+"Fabricacion De Carnes Frias Y Embutidos","530","ocupation_mulaware","2049022",NULL
+"Fabricacion De Carreolas Y Andaderas","531","ocupation_mulaware","3899012",NULL
+"Fabricacion De Carrocerias De Metal","532","ocupation_mulaware","3812014",NULL
+"Fabricacion De Carrocerias Y Redilas De Madera","533","ocupation_mulaware","2639013",NULL
+"Fabricacion De Carton","534","ocupation_mulaware","2812015",NULL
+"Fabricacion De Cartuchos","535","ocupation_mulaware","3997022",NULL
+"Fabricacion De Casimires Y Paños","536","ocupation_mulaware","2315027",NULL
+"Fabricacion De Casquillos","537","ocupation_mulaware","3997030",NULL
+"Fabricacion De Celuloide Y Polietileno","538","ocupation_mulaware","3222023",NULL
+"Fabricacion De Cemento","539","ocupation_mulaware","3341013",NULL
+"Cria Y Explotacion De Abejas","54","ocupation_mulaware","241018",NULL
+"Fabricacion De Cepillos Y Plumeros","540","ocupation_mulaware","2529016",NULL
+"Fabricacion De Cera Pulimentos Y Abrillantadores","541","ocupation_mulaware","3092012",NULL
+"Fabricacion De Cercos Para Calzado","542","ocupation_mulaware","3995018",NULL
+"Fabricacion De Cerillos Y Fosforos","543","ocupation_mulaware","3094018",NULL
+"Fabricacion De Cerraduras","544","ocupation_mulaware","3515022",NULL
+"Fabricacion De Cerveza","545","ocupation_mulaware","2122018",NULL
+"Fabricacion De Chamarras Y Abrigos","546","ocupation_mulaware","2419019",NULL
+"Fabricacion De Chocolates","547","ocupation_mulaware","2081016",NULL
+"Fabricacion De Cierres Automaticos De Metal","548","ocupation_mulaware","3599034",NULL
+"Fabricacion De Cigarros","549","ocupation_mulaware","2212017",NULL
+"Cria Y Explotacion De Animales Domesticos Para Laboratorio Y Otros Fines No Alimenticios","55","ocupation_mulaware","259011",NULL
+"Fabricacion De Cintas Agujetas Y Listones","550","ocupation_mulaware","2318013",NULL
+"Fabricacion De Cintas Para Maquinas Calculadoras Registradoras Y De Escribir","551","ocupation_mulaware","3992030",NULL
+"Fabricacion De Clavos Cadenas Grapas Y Tachuelas","552","ocupation_mulaware","3514016",NULL
+"Fabricacion De Colas Y Pegamentos","553","ocupation_mulaware","3091014",NULL
+"Fabricacion De Colchas","554","ocupation_mulaware","2316025",NULL
+"Fabricacion De Colchones Y Colchonetas","555","ocupation_mulaware","2713023",NULL
+"Fabricacion De Concentrados De Frutas","556","ocupation_mulaware","2012037",NULL
+"Fabricacion De Concreto Cientifico","557","ocupation_mulaware","3341021",NULL
+"Fabricacion De Concreto Para Construccion","558","ocupation_mulaware","3341039",NULL
+"Fabricacion De Conos Para Nieve","559","ocupation_mulaware","2072015",NULL
+"Cria Y Explotacion De Conejos Y Liebres","56","ocupation_mulaware","251017",NULL
+"Fabricacion De Coque Y Otros Derivados Del Carbon Mineral","560","ocupation_mulaware","3121019",NULL
+"Fabricacion De Corbatas","561","ocupation_mulaware","2416015",NULL
+"Fabricacion De Corcholatas","562","ocupation_mulaware","3592012",NULL
+"Fabricacion De Corseteria Y Ropa Interior Para Dama","563","ocupation_mulaware","2421014",NULL
+"Fabricacion De Cortinas De Metal","564","ocupation_mulaware","3516012",NULL
+"Fabricacion De Cortinas De Tela Y Manteleria","565","ocupation_mulaware","2431021",NULL
+"Fabricacion De Costales","566","ocupation_mulaware","2439025",NULL
+"Fabricacion De Crema Mantequilla Y Queso","567","ocupation_mulaware","2052017",NULL
+"Fabricacion De Crisoles","568","ocupation_mulaware","3323037",NULL
+"Fabricacion De Cristales Para Automovil","569","ocupation_mulaware","3322013",NULL
+"Cria Y Explotacion De Gallina Para Produccion De Huevo","57","ocupation_mulaware","231019",NULL
+"Fabricacion De Cubiertos Y Cuchilleria","570","ocupation_mulaware","3511012",NULL
+"Fabricacion De Cubre Asientos Para Vehiculos","571","ocupation_mulaware","2432011",NULL
+"Fabricacion De Cuerdas Para Guitarra","572","ocupation_mulaware","3941011",NULL
+"Fabricacion De Dentifrico","573","ocupation_mulaware","3061017",NULL
+"Fabricacion De Desincrustantes","574","ocupation_mulaware","3099026",NULL
+"Fabricacion De Desinfectantes Y Desodorizantes","575","ocupation_mulaware","3092020",NULL
+"Fabricacion De Dinamita","576","ocupation_mulaware","3097012",NULL
+"Fabricacion De Discos Y Cintas Para Grabaciones","577","ocupation_mulaware","3722015",NULL
+"Fabricacion De Duelas Y Otros Materiales De Madera Para Piso","578","ocupation_mulaware","2633015",NULL
+"Fabricacion De Dulces Bombones Y Confites","579","ocupation_mulaware","2082014",NULL
+"Cria Y Explotacion De Ganado Caprino","58","ocupation_mulaware","223016",NULL
+"Fabricacion De Emplomados","580","ocupation_mulaware","3324019",NULL
+"Fabricacion De Encajes","581","ocupation_mulaware","2318021",NULL
+"Fabricacion De Encurtidos","582","ocupation_mulaware","2012045",NULL
+"Fabricacion De Engranes De Metal","583","ocupation_mulaware","3699016",NULL
+"Fabricacion De Entretelas Y Fieltros","584","ocupation_mulaware","2393015",NULL
+"Fabricacion De Envases De Carton","585","ocupation_mulaware","2822014",NULL
+"Fabricacion De Envases De Lamina","586","ocupation_mulaware","3591014",NULL
+"Fabricacion De Equipo De Procesamiento Electronico De Datos","587","ocupation_mulaware","3641025",NULL
+"Fabricacion De Equipos Para Soldar Y Soldaduras","588","ocupation_mulaware","3423027",NULL
+"Fabricacion De Escobas","589","ocupation_mulaware","3996016",NULL
+"Cria Y Explotacion De Ganado Ovino","59","ocupation_mulaware","222018",NULL
+"Fabricacion De Esencias","590","ocupation_mulaware","3071016",NULL
+"Fabricacion De Esferas De Vidrio","591","ocupation_mulaware","3329019",NULL
+"Fabricacion De Esmeriles","592","ocupation_mulaware","3352028",NULL
+"Fabricacion De Espejos Y Lunas","593","ocupation_mulaware","3324027",NULL
+"Fabricacion De Espuelas Frenos Y Arneses De Metal","594","ocupation_mulaware","3599042",NULL
+"Fabricacion De Estambres","595","ocupation_mulaware","2314011",NULL
+"Fabricacion De Estructuras De Metal","596","ocupation_mulaware","3531010",NULL
+"Fabricacion De Estufas","597","ocupation_mulaware","3521029",NULL
+"Fabricacion De Extinguidores","598","ocupation_mulaware","3694016",NULL
+"Fabricacion De Fibra De Vidrio","599","ocupation_mulaware","3322021",NULL
+"Construcción","6","ocupation_mulaware",NULL,NULL
+"Cria Y Explotacion De Ganado Porcino","60","ocupation_mulaware","221010",NULL
+"Fabricacion De Fibras Sinteticas","600","ocupation_mulaware","3032018",NULL
+"Fabricacion De Fierro Esponja","601","ocupation_mulaware","3411014",NULL
+"Fabricacion De Filtros De Metal","602","ocupation_mulaware","3696012",NULL
+"Fabricacion De Flores Artificiales","603","ocupation_mulaware","3999052",NULL
+"Fabricacion De Focos","604","ocupation_mulaware","3792018",NULL
+"Fabricacion De Formularios Y Formas Continuas","605","ocupation_mulaware","2921022",NULL
+"Fabricacion De Fornituras Militares De Cuero","606","ocupation_mulaware","2529090",NULL
+"Fabricacion De Frituras","607","ocupation_mulaware","2094019",NULL
+"Fabricacion De Furgones Y Vagones","608","ocupation_mulaware","3812022",NULL
+"Fabricacion De Galletas","609","ocupation_mulaware","2072023",NULL
+"Cria Y Explotacion De Ganado Vacuno Para Carne","61","ocupation_mulaware","211011",NULL
+"Fabricacion De Gas Acetileno","610","ocupation_mulaware","3012010",NULL
+"Fabricacion De Gasolina Y Otros Productos Derivados De La Refinacion De Petroleo","611","ocupation_mulaware","3111010",NULL
+"Fabricacion De Gelatinas","612","ocupation_mulaware","2054013",NULL
+"Fabricacion De Goma De Mascar","613","ocupation_mulaware","2083012",NULL
+"Fabricacion De Grasas Y Cremas Lustradoras","614","ocupation_mulaware","3092038",NULL
+"Fabricacion De Grenetina","615","ocupation_mulaware","2054021",NULL
+"Fabricacion De Guantes","616","ocupation_mulaware","2416023",NULL
+"Fabricacion De Guaraches Y Sandalias","617","ocupation_mulaware","2512029",NULL
+"Fabricacion De Harina De Pescado","618","ocupation_mulaware","2099035",NULL
+"Fabricacion De Hebillas De Metal","619","ocupation_mulaware","3599050",NULL
+"Cria Y Explotacion De Ganado Vacuno Para Leche","62","ocupation_mulaware","212019",NULL
+"Fabricacion De Helados Nieves Y Paletas","620","ocupation_mulaware","2097013",NULL
+"Fabricacion De Herramientas De Metal","621","ocupation_mulaware","3621019",NULL
+"Fabricacion De Hielo","622","ocupation_mulaware","2096015",NULL
+"Fabricacion De Hielo Seco","623","ocupation_mulaware","3099034",NULL
+"Fabricacion De Hilados Y Tejidos De Algodon","624","ocupation_mulaware","2312031",NULL
+"Fabricacion De Hilados Y Tejidos De Fibra De Coco","625","ocupation_mulaware","2339027",NULL
+"Fabricacion De Hilados Y Tejidos De Henequen","626","ocupation_mulaware","2332013",NULL
+"Fabricacion De Hilados Y Tejidos De Lana","627","ocupation_mulaware","2312049",NULL
+"Fabricacion De Hilados Y Tejidos De Otras Fibras Sinteticas","628","ocupation_mulaware","2329010",NULL
+"Fabricacion De Hilados Y Tejidos De Seda","629","ocupation_mulaware","2317015",NULL
+"Cria Y Explotacion De Gusano De Seda","63","ocupation_mulaware","259029",NULL
+"Fabricacion De Hilados Y Tejidos De Yute","630","ocupation_mulaware","2339019",NULL
+"Fabricacion De Hilos Para Coser","631","ocupation_mulaware","2313013",NULL
+"Fabricacion De Hojas Para Rasurar","632","ocupation_mulaware","3599068",NULL
+"Fabricacion De Hormas Para Calzado Y Tacones","633","ocupation_mulaware","3995026",NULL
+"Fabricacion De Hule Espuma","634","ocupation_mulaware","3031010",NULL
+"Fabricacion De Impermeabilizantes","635","ocupation_mulaware","3091022",NULL
+"Fabricacion De Impermeables","636","ocupation_mulaware","2419027",NULL
+"Fabricacion De Insecticidas Y Plaguicidas","637","ocupation_mulaware","3022019",NULL
+"Fabricacion De Jabon Y Detergente","638","ocupation_mulaware","3061025",NULL
+"Fabricacion De Jarabes","639","ocupation_mulaware","2089010",NULL
+"Cria Y Explotacion De Ostras","64","ocupation_mulaware","459017",NULL
+"Fabricacion De Jaulas De Metal","640","ocupation_mulaware","3516020",NULL
+"Fabricacion De Juguetes Excepto Los De Hule Y De Plastico Moldeados","641","ocupation_mulaware","3991016",NULL
+"Fabricacion De Juntas Y Empaques De Corcho","642","ocupation_mulaware","2632017",NULL
+"Fabricacion De Ladrillos","643","ocupation_mulaware","3331022",NULL
+"Fabricacion De Laminas De Hierro Y Acero","644","ocupation_mulaware","3412012",NULL
+"Fabricacion De Laminas Perfiles Tubos Y Otros Materiales Similares De Plastico","645","ocupation_mulaware","3221017",NULL
+"Fabricacion De Lamparas Electricas","646","ocupation_mulaware","3799030",NULL
+"Fabricacion De Lanolina","647","ocupation_mulaware","3092046",NULL
+"Fabricacion De Lapices","648","ocupation_mulaware","3992048",NULL
+"Fabricacion De Leche Condensada Evaporada Y Pulverizada","649","ocupation_mulaware","2053015",NULL
+"Cria Y Explotacion De Otras Aves Para Alimentacion","65","ocupation_mulaware","233015",NULL
+"Fabricacion De Levaduras","650","ocupation_mulaware","2092021",NULL
+"Fabricacion De Libretas Cuadernos Y Hojas Para Encuadernacion","651","ocupation_mulaware","2921030",NULL
+"Fabricacion De Lija","652","ocupation_mulaware","3352036",NULL
+"Fabricacion De Linoleo","653","ocupation_mulaware","3219020",NULL
+"Fabricacion De Llantas Y Camaras Para Vehiculos","654","ocupation_mulaware","3211018",NULL
+"Fabricacion De Lona","655","ocupation_mulaware","2391027",NULL
+"Fabricacion De Loza Y Porcelana","656","ocupation_mulaware","3319036",NULL
+"Fabricacion De Malta","657","ocupation_mulaware","2121010",NULL
+"Fabricacion De Mangos De Madera","658","ocupation_mulaware","2639021",NULL
+"Fabricacion De Mantecas Vegetales Comestibles","659","ocupation_mulaware","2091023",NULL
+"Cria Y Explotacion De Peces Otras Especies Animales Y Plantas Acuaticas","66","ocupation_mulaware","459025",NULL
+"Fabricacion De Mantones Y Chalinas","660","ocupation_mulaware","2419043",NULL
+"Fabricacion De Maquinaria E Implementos Agricolas","661","ocupation_mulaware","3611028",NULL
+"Fabricacion De Maquinas Calculadoras Registradoras Y De Escribir","662","ocupation_mulaware","3641017",NULL
+"Fabricacion De Maquinas De Coser","663","ocupation_mulaware","3691012",NULL
+"Fabricacion De Marcos Y Molduras De Madera","664","ocupation_mulaware","2719013",NULL
+"Fabricacion De Marquetas Y Estuchados De Azucar","665","ocupation_mulaware","2031011",NULL
+"Fabricacion De Material Fotografico","666","ocupation_mulaware","3912020",NULL
+"Fabricacion De Material Para Instalaciones Electricas","667","ocupation_mulaware","3793024",NULL
+"Fabricacion De Materiales Asfalticos Para Pavimentacion Y Techado","668","ocupation_mulaware","3122017",NULL
+"Fabricacion De Materiales Para Muros","669","ocupation_mulaware","3332012",NULL
+"Cria Y Explotacion De Pollos","67","ocupation_mulaware","232017",NULL
+"Fabricacion De Mechas Para Minas","670","ocupation_mulaware","3097020",NULL
+"Fabricacion De Medallas Insignias Y Placas","671","ocupation_mulaware","3931012",NULL
+"Fabricacion De Medias","672","ocupation_mulaware","2321024",NULL
+"Fabricacion De Mesas De Billar","673","ocupation_mulaware","3951028",NULL
+"Fabricacion De Molinos Para Granos","674","ocupation_mulaware","3639012",NULL
+"Fabricacion De Mosaicos Terrazos Y Granito","675","ocupation_mulaware","3354016",NULL
+"Fabricacion De Muebles De Madera","676","ocupation_mulaware","2711019",NULL
+"Fabricacion De Muebles De Material Sintetico","677","ocupation_mulaware","2711027",NULL
+"Fabricacion De Muebles Y Articulos Sanitarios","678","ocupation_mulaware","3319044",NULL
+"Fabricacion De Muelles Y Resortes Para Vehiculos","679","ocupation_mulaware","3815018",NULL
+"Cultivo De Agave O Mezcal","68","ocupation_mulaware","145012",NULL
+"Fabricacion De Municiones Para Caza","680","ocupation_mulaware","3997048",NULL
+"Fabricacion De Objetos Artisticos De Vidrio Y Cristal","681","ocupation_mulaware","3329027",NULL
+"Fabricacion De Ojillos De Metal","682","ocupation_mulaware","3599076",NULL
+"Fabricacion De Otras Materias Colorantes","683","ocupation_mulaware","3011038",NULL
+"Fabricacion De Otras Prendas Exteriores De Vestir Para Caballero","684","ocupation_mulaware","2412013",NULL
+"Fabricacion De Otras Prendas Exteriores De Vestir Para Niño","685","ocupation_mulaware","2415017",NULL
+"Fabricacion De Otras Substancias Quimicas Basicas","686","ocupation_mulaware","3013026",NULL
+"Fabricacion De Otras Telas Mixtas De Fibras Blandas","687","ocupation_mulaware","2317031",NULL
+"Fabricacion De Otros Aguardientes No De Caña","688","ocupation_mulaware","2114015",NULL
+"Fabricacion De Otros Aparatos Electricos Para El Hogar","689","ocupation_mulaware","3731016",NULL
+"Cultivo De Aguacate","69","ocupation_mulaware","142018",NULL
+"Fabricacion De Otros Articulos De Alambre","690","ocupation_mulaware","3593036",NULL
+"Fabricacion De Otros Articulos De Algodon","691","ocupation_mulaware","2394039",NULL
+"Fabricacion De Otros Articulos De Aluminio","692","ocupation_mulaware","3516038",NULL
+"Fabricacion De Otros Articulos De Carton","693","ocupation_mulaware","2829010",NULL
+"Fabricacion De Otros Articulos De Cera","694","ocupation_mulaware","3095016",NULL
+"Fabricacion De Otros Articulos De Corcho","695","ocupation_mulaware","2632025",NULL
+"Fabricacion De Otros Articulos De Cuero","696","ocupation_mulaware","2529107",NULL
+"Fabricacion De Otros Articulos De Hule","697","ocupation_mulaware","3219038",NULL
+"Fabricacion De Otros Articulos De Lamina","698","ocupation_mulaware","3412020",NULL
+"Fabricacion De Otros Articulos De Lana","699","ocupation_mulaware","2317023",NULL
+"Mayorista/Minorista","7","ocupation_mulaware",NULL,NULL
+"Cultivo De Ajo","70","ocupation_mulaware","112011",NULL
+"Fabricacion De Otros Articulos De Laton","700","ocupation_mulaware","3599084",NULL
+"Fabricacion De Otros Articulos De Madera","701","ocupation_mulaware","2639039",NULL
+"Fabricacion De Otros Articulos De Metal No Clasificados En Otra Parte","702","ocupation_mulaware","3599092",NULL
+"Fabricacion De Otros Articulos De Papel","703","ocupation_mulaware","2829028",NULL
+"Fabricacion De Otros Articulos De Plastico","704","ocupation_mulaware","3229045",NULL
+"Fabricacion De Otros Articulos De Pluma De Ave","705","ocupation_mulaware","3999060",NULL
+"Fabricacion De Otros Articulos Para Deportes","706","ocupation_mulaware","3951036",NULL
+"Fabricacion De Otros Envases De Vidrio","707","ocupation_mulaware","3323045",NULL
+"Fabricacion De Otros Explosivos","708","ocupation_mulaware","3097038",NULL
+"Fabricacion De Otros Hilados Y Tejidos No Sinteticos","709","ocupation_mulaware","2313039",NULL
+"Cultivo De Ajonjoli","71","ocupation_mulaware","124016",NULL
+"Fabricacion De Otros Instrumentos De Medicion","710","ocupation_mulaware","3961019",NULL
+"Fabricacion De Otros Juguetes De Plastico","711","ocupation_mulaware","3223021",NULL
+"Fabricacion De Otros Materiales De Plastico","712","ocupation_mulaware","3229053",NULL
+"Fabricacion De Otros Muebles De Metal","713","ocupation_mulaware","3521037",NULL
+"Fabricacion De Otros Objetos De Cristal","714","ocupation_mulaware","3329035",NULL
+"Fabricacion De Otros Preparados Alimenticios Derivados De Cereales","715","ocupation_mulaware","2094027",NULL
+"Fabricacion De Otros Productos Alimenticios","716","ocupation_mulaware","2099043",NULL
+"Fabricacion De Otros Productos Farmaceuticos Y Medicamentos","717","ocupation_mulaware","3051026",NULL
+"Fabricacion De Oxigeno Medicinal","718","ocupation_mulaware","3051034",NULL
+"Fabricacion De Pan Y Pasteles","719","ocupation_mulaware","2071017",NULL
+"Cultivo De Alfalfa","72","ocupation_mulaware","113019",NULL
+"Fabricacion De Papel","720","ocupation_mulaware","2811017",NULL
+"Fabricacion De Papel Para Cigarros","721","ocupation_mulaware","2811025",NULL
+"Fabricacion De Partes Dispositivos Y Accesorios Para Equipo Y Aparatos De Radio Television Y Comunicaciones","722","ocupation_mulaware","3729011",NULL
+"Fabricacion De Partes Para El Sistema De Frenos De Vehiculos Automoviles","723","ocupation_mulaware","3816016",NULL
+"Fabricacion De Partes Para El Sistema De Transmision De Vehiculos Automoviles","724","ocupation_mulaware","3814010",NULL
+"Fabricacion De Partes Refacciones Y Accesorios Para Motocicletas Bicicletas Y Otros Vehiculos De Pedal","725","ocupation_mulaware","3892016",NULL
+"Fabricacion De Pasadores Y Horquillas","726","ocupation_mulaware","3599109",NULL
+"Fabricacion De Pasta De Celulosa","727","ocupation_mulaware","2811033",NULL
+"Fabricacion De Pasta O Pulpa Para Papel","728","ocupation_mulaware","2811041",NULL
+"Fabricacion De Pastas Alimenticias","729","ocupation_mulaware","2072031",NULL
+"Cultivo De Algodon","73","ocupation_mulaware","121012",NULL
+"Fabricacion De Pastas Para Guisos","730","ocupation_mulaware","2099051",NULL
+"Fabricacion De Pañuelos Pañoletas Y Mascadas","731","ocupation_mulaware","2416031",NULL
+"Fabricacion De Peines Peinetas Y Cepillos Para Uso Personal","732","ocupation_mulaware","3229061",NULL
+"Fabricacion De Perfiles Puertas Y Ventanas De Metal","733","ocupation_mulaware","3516046",NULL
+"Fabricacion De Perfumes Y Cosmeticos","734","ocupation_mulaware","3062015",NULL
+"Fabricacion De Persianas De Madera","735","ocupation_mulaware","2712017",NULL
+"Fabricacion De Pieles Artificiales","736","ocupation_mulaware","3229079",NULL
+"Fabricacion De Piezas Metalicas Por Fundicion Y Moldeo Excepto Para Maquinaria Equipo Y Material De Transporte","737","ocupation_mulaware","3596014",NULL
+"Fabricacion De Pilas Secas","738","ocupation_mulaware","3791028",NULL
+"Fabricacion De Piloncillo","739","ocupation_mulaware","2032019",NULL
+"Cultivo De Alpiste","74","ocupation_mulaware","111013",NULL
+"Fabricacion De Pinturas Barnices Y Lacas","740","ocupation_mulaware","3041019",NULL
+"Fabricacion De Pistones Bielas Anillos Cig√ºeñales Y Monoblocks Para Motores","741","ocupation_mulaware","3813012",NULL
+"Fabricacion De Pizarrones","742","ocupation_mulaware","3992056",NULL
+"Fabricacion De Planchas Industriales","743","ocupation_mulaware","3599117",NULL
+"Fabricacion De Polvora","744","ocupation_mulaware","3097046",NULL
+"Fabricacion De Postes Y Durmientes De Concreto","745","ocupation_mulaware","3354024",NULL
+"Fabricacion De Productos Amoniacales","746","ocupation_mulaware","3013034",NULL
+"Fabricacion De Productos Manufacturados No Clasificados En Otra Parte","747","ocupation_mulaware","3999101",NULL
+"Fabricacion De Productos Petroquimicos Basicos","748","ocupation_mulaware","3112018",NULL
+"Fabricacion De Productos Pirotecnicos","749","ocupation_mulaware","3097054",NULL
+"Cultivo De Arroz","75","ocupation_mulaware","111021",NULL
+"Fabricacion De Productos Refractarios","750","ocupation_mulaware","3332020",NULL
+"Fabricacion De Puertas Y Ventanas De Madera","751","ocupation_mulaware","2633023",NULL
+"Fabricacion De Puros","752","ocupation_mulaware","2219013",NULL
+"Fabricacion De Queso Y Miel De Tuna","753","ocupation_mulaware","2013027",NULL
+"Fabricacion De Radios Tocadiscos Grabadoras Y Televisores","754","ocupation_mulaware","3721017",NULL
+"Fabricacion De Rebozos Y Cinturones Tejidos De Hilo","755","ocupation_mulaware","2419051",NULL
+"Fabricacion De Refacciones Para Aparatos Electricos","756","ocupation_mulaware","3793032",NULL
+"Fabricacion De Refacciones Y Accesorios Automotrices","757","ocupation_mulaware","3819010",NULL
+"Fabricacion De Refacciones Y Maquinaria Industrial","758","ocupation_mulaware","3621027",NULL
+"Fabricacion De Refrescos De Frutas Naturales","759","ocupation_mulaware","2131035",NULL
+"Cultivo De Avena","76","ocupation_mulaware","111039",NULL
+"Fabricacion De Refrigeradores Y Equipos De Calefaccion Domestica","760","ocupation_mulaware","3731024",NULL
+"Fabricacion De Relojes","761","ocupation_mulaware","3921013",NULL
+"Fabricacion De Remaches","762","ocupation_mulaware","3513018",NULL
+"Fabricacion De Ropa Con Piel","763","ocupation_mulaware","2419069",NULL
+"Fabricacion De Ropa Interior Para Caballero","764","ocupation_mulaware","2429018",NULL
+"Fabricacion De Rotulos","765","ocupation_mulaware","3999078",NULL
+"Fabricacion De Sabanas","766","ocupation_mulaware","2431013",NULL
+"Fabricacion De Sacos Y Bolsas De Papel Para Envase","767","ocupation_mulaware","2821016",NULL
+"Fabricacion De Salsas","768","ocupation_mulaware","2014017",NULL
+"Fabricacion De Sarapes Y Cobijas","769","ocupation_mulaware","2315019",NULL
+"Cultivo De Cacahuate","77","ocupation_mulaware","124024",NULL
+"Fabricacion De Sellos De Goma","770","ocupation_mulaware","3993012",NULL
+"Fabricacion De Sellos Para Carros De Ferrocarril","771","ocupation_mulaware","3993020",NULL
+"Fabricacion De Sidra Champaña Y Otras Bebidas Fermentadas Excepto Las Malteadas","772","ocupation_mulaware","2119015",NULL
+"Fabricacion De Sombreros De Palma","773","ocupation_mulaware","2418011",NULL
+"Fabricacion De Sombreros Excepto De Palma","774","ocupation_mulaware","2417021",NULL
+"Fabricacion De Sosa","775","ocupation_mulaware","3013042",NULL
+"Fabricacion De Sotol","776","ocupation_mulaware","2113017",NULL
+"Fabricacion De Sueteres","777","ocupation_mulaware","2322014",NULL
+"Fabricacion De Talco Industrial","778","ocupation_mulaware","3999086",NULL
+"Fabricacion De Tanques Para Envasado De Gases O Liquidos","779","ocupation_mulaware","3531028",NULL
+"Cultivo De Cacao","78","ocupation_mulaware","147018",NULL
+"Fabricacion De Tapetes Y Alfombras","780","ocupation_mulaware","2392017",NULL
+"Fabricacion De Tapices Plasticos","781","ocupation_mulaware","2432029",NULL
+"Fabricacion De Tapones De Metal","782","ocupation_mulaware","3599125",NULL
+"Fabricacion De Taximetros","783","ocupation_mulaware","3961069",NULL
+"Fabricacion De Teja Y Tubo De Arcilla","784","ocupation_mulaware","3331030",NULL
+"Fabricacion De Tejidos Y Torcidos De Ixtle","785","ocupation_mulaware","2333037",NULL
+"Fabricacion De Tejidos Y Torcidos De Palma","786","ocupation_mulaware","2333029",NULL
+"Fabricacion De Telas Elasticas","787","ocupation_mulaware","2318039",NULL
+"Fabricacion De Telas Impermeables","788","ocupation_mulaware","2391035",NULL
+"Fabricacion De Telas Para Tapiceria","789","ocupation_mulaware","2392025",NULL
+"Cultivo De Cafe","79","ocupation_mulaware","141010",NULL
+"Fabricacion De Tequila Y Mezcal","790","ocupation_mulaware","2111011",NULL
+"Fabricacion De Tinacos De Asbesto","791","ocupation_mulaware","3351012",NULL
+"Fabricacion De Tintas Para Impresion","792","ocupation_mulaware","3096014",NULL
+"Fabricacion De Tipos Para Imprenta","793","ocupation_mulaware","2929026",NULL
+"Fabricacion De Tirantes","794","ocupation_mulaware","2419035",NULL
+"Fabricacion De Toallas","795","ocupation_mulaware","2316017",NULL
+"Fabricacion De Toneles Y Barricas De Madera","796","ocupation_mulaware","2621028",NULL
+"Fabricacion De Tornillos Tuercas Y Pijas","797","ocupation_mulaware","3513026",NULL
+"Fabricacion De Tragaluces Y Marquesinas","798","ocupation_mulaware","3999094",NULL
+"Fabricacion De Trajes Para Caballero","799","ocupation_mulaware","2412021",NULL
+"Transportación","8","ocupation_mulaware",NULL,NULL
+"Cultivo De Calabaza","80","ocupation_mulaware","112029",NULL
+"Fabricacion De Triplay Y Otros Aglomerados De Madera","800","ocupation_mulaware","2612019",NULL
+"Fabricacion De Troqueles","801","ocupation_mulaware","3599133",NULL
+"Fabricacion De Tubos De Cobre Plomo Y Aluminio","802","ocupation_mulaware","3596022",NULL
+"Fabricacion De Tubos De Concreto","803","ocupation_mulaware","3354032",NULL
+"Fabricacion De Tubos De Estaño","804","ocupation_mulaware","3423019",NULL
+"Fabricacion De Tubos De Hierro Y Acero","805","ocupation_mulaware","3413010",NULL
+"Fabricacion De Uniformes","806","ocupation_mulaware","2413011",NULL
+"Fabricacion De Utensilios Agricolas Y Herramientas De Mano","807","ocupation_mulaware","3512010",NULL
+"Fabricacion De Vajillas Y Otros Productos De Alfareria Y Ceramica Para El Hogar","808","ocupation_mulaware","3311016",NULL
+"Fabricacion De Valvulas De Metal","809","ocupation_mulaware","3695014",NULL
+"Cultivo De Camote","81","ocupation_mulaware","112037",NULL
+"Fabricacion De Velas Veladoras Y Cirios","810","ocupation_mulaware","3095024",NULL
+"Fabricacion De Vestidos Y Otras Prendas Exteriores De Vestir Para Dama","811","ocupation_mulaware","2411015",NULL
+"Fabricacion De Vidrio","812","ocupation_mulaware","3321015",NULL
+"Fabricacion De Vinagre","813","ocupation_mulaware","2095017",NULL
+"Fabricacion De Vinos Y Otros Licores","814","ocupation_mulaware","2114023",NULL
+"Fabricacion De Yeso","815","ocupation_mulaware","3342029",NULL
+"Fabricacion E Instalacion De Equipos Y Aparatos De Aire Acondicionado Calefaccion Y Refrigeracion","816","ocupation_mulaware","3697010",NULL
+"Fabricacion Ensamble Y Reparacion De Aeronaves","817","ocupation_mulaware","3832012",NULL
+"Fabricacion Ensamble Y Reparacion De Carros De Ferrocarril Y Otro Equipo Ferroviario","818","ocupation_mulaware","3821015",NULL
+"Fabricacion Ensamble Y Reparacion De Gruas Montacargas Y Otras Maquinas Para Transportar O Levantar","819","ocupation_mulaware","3692010",NULL
+"Cultivo De Cartamo","82","ocupation_mulaware","124032",NULL
+"Fabricacion Ensamble Y Reparacion De Maquinaria Equipo Y Tractores Para Las Industrias Extractivas Y De La Construccion","820","ocupation_mulaware","3632016",NULL
+"Fabricacion Ensamble Y Reparacion De Maquinaria Y Equipo Para La Industria De Alimentos Y Bebidas","821","ocupation_mulaware","3631018",NULL
+"Fabricacion Ensamble Y Reparacion De Motores No Electricos Excepto Para Vehiculos Automoviles","822","ocupation_mulaware","3693018",NULL
+"Fabricacion Ensamble Y Reparacion De Transformadores Motores Y Maquinaria Y Equipo Para Generacion Y Utilizacion De La Energia Electrica","823","ocupation_mulaware","3711018",NULL
+"Fabricacion Ensamble Y Reparacion De Vehiculos De Uso Agropecuario","824","ocupation_mulaware","3611010",NULL
+"Fabricacion Y Ensamble De Automoviles Y Camiones","825","ocupation_mulaware","3811016",NULL
+"Fabricacion Y Ensamble De Motocicletas Bicicletas Y Otros Vehiculos De Pedal","826","ocupation_mulaware","3891018",NULL
+"Fabricacion Y Ensamble De Otros Vehiculos","827","ocupation_mulaware","3812030",NULL
+"Fabricacion Y Prehidratacion De Leche","828","ocupation_mulaware","2051019",NULL
+"Fabricacion Y Refinacion De Sebo Grasas Y Aceites Animales Para Uso Industrial","829","ocupation_mulaware","3072014",NULL
+"Cultivo De Caña De Azucar","83","ocupation_mulaware","122010",NULL
+"Fabricacion Y Reparacion De Aparatos Ortopedicos","830","ocupation_mulaware","3962017",NULL
+"Fabricacion Y Reparacion De Articulos De Optica","831","ocupation_mulaware","3911014",NULL
+"Fabricacion Y Reparacion De Basculas Y Balanzas","832","ocupation_mulaware","3961027",NULL
+"Fabricacion Y Reparacion De Buques Y Barcos","833","ocupation_mulaware","3831014",NULL
+"Fabricacion Y Reparacion De Instrumentos De Cirugia","834","ocupation_mulaware","3962025",NULL
+"Fabricacion Y Reparacion De Instrumentos De Fisica Y Quimica","835","ocupation_mulaware","3961035",NULL
+"Fabricacion Y Reparacion De Instrumentos De Ingenieria","836","ocupation_mulaware","3961043",NULL
+"Fabricacion Y Reparacion De Instrumentos Musicales","837","ocupation_mulaware","3941029",NULL
+"Fabricacion Y Reparacion De Otros Vehiculos Acuaticos","838","ocupation_mulaware","3831022",NULL
+"Fabricación De Alimentos","839","ocupation_mulaware","2000008",NULL
+"Cultivo De Cebada","84","ocupation_mulaware","111047",NULL
+"Fabricación De Artículos De Joyería","840","ocupation_mulaware","3900001",NULL
+"Fabricación De Calzado E Industria Del Cuero","841","ocupation_mulaware","2500008",NULL
+"Fabricación De Prendas De Vestir Y Otros Artículos Confeccionados Con Textiles Y Otros Materiales Excepto Calzado","842","ocupation_mulaware","2400000",NULL
+"Fabricación De Productos De Hule Y De Plástico","843","ocupation_mulaware","3200003",NULL
+"Fabricación De Productos De Minerales No Metálicos  Excepto Del Petróleo Y Del Carbón Mineral","844","ocupation_mulaware","3300001",NULL
+"Fabricación De Productos Metálicos  Excepto Maquinaria Y Equipo ","845","ocupation_mulaware","3500007",NULL
+"Fabricación Y Beneficio De Productos De Tabaco","846","ocupation_mulaware","2200004",NULL
+"Fabricación Y Elaboración De Bebidas (Agua Refrescos Cerveza Vinos Y Licores)","847","ocupation_mulaware","2100006",NULL
+"Fabricación Y Ensamble De Maquinaria Equipo Aparatos Accesorios Y Artículos El√©ctricos Electrónicos Y Sus Partes","848","ocupation_mulaware","3700003",NULL
+"Fabricación Y Reparación De Muebles Y Accesorios  Excepto Los De Metal Y Los De Plástico Moldeado ","849","ocupation_mulaware","2700004",NULL
+"Cultivo De Cebolla","85","ocupation_mulaware","112045",NULL
+"Fabricación Ensamble Y Reparación De Maquinaria Equipo Y Sus Partes; Excepto Los El√©ctricos","850","ocupation_mulaware","3600005",NULL
+"Fundicion De Sebo","851","ocupation_mulaware","3072022",NULL
+"Fundicion Laminacion Extrusion Y Estiraje De Aluminio Y Fabricacion De Soldaduras Aluminotermicas","852","ocupation_mulaware","3422011",NULL
+"Fundicion Refinacion Laminacion Extrusion Y Estiraje De Cobre Y Sus Aleaciones","853","ocupation_mulaware","3421013",NULL
+"Galvanizacion De Lamina","854","ocupation_mulaware","3595016",NULL
+"Galvanizacion De Tuberia","855","ocupation_mulaware","3595024",NULL
+"Grabado En Metal (Fabricacion De Cliches Y Fotograbado)","856","ocupation_mulaware","2929050",NULL
+"Horno De Cal","857","ocupation_mulaware","3343019",NULL
+"Industria Química","858","ocupation_mulaware","3000007",NULL
+"Industria Textil (Fabricación De: Hilados Y Tejidos)","859","ocupation_mulaware","2300002",NULL
+"Cultivo De Chile","86","ocupation_mulaware","112053",NULL
+"Industrializacion De Basura","860","ocupation_mulaware","3099042",NULL
+"Industrias Editorial De Impresión Y Conexas","861","ocupation_mulaware","2900000",NULL
+"Industrias Metálicas Básicas","862","ocupation_mulaware","3400009",NULL
+"Molino Y Tostador De Cafe","863","ocupation_mulaware","2026012",NULL
+"Orfebreria","864","ocupation_mulaware","3932028",NULL
+"Otras Industrias Manufactureras (Joyeria Articulos De Escritorio Fotograficos Para Dentista Para Optica Deportivos)","865","ocupation_mulaware","3900009",NULL
+"Pasteurizacion Homogeneizacion Y Envasado De Leche","866","ocupation_mulaware","2051027",NULL
+"Taller Mecanico De Fabricacion Y Reparacion De Partes Industriales","867","ocupation_mulaware","3699024",NULL
+"Usuarios Menores De Industria Siderurgica Y Productos Metalicos","868","ocupation_mulaware","3411907",NULL
+"Usuarios Menores Fabricacion Maquinaria Y Articulos Electricos","869","ocupation_mulaware","3639905",NULL
+"Cultivo De Copra","87","ocupation_mulaware","146010",NULL
+"Usuarios Menores Industria Manufacturera","870","ocupation_mulaware","3999903",NULL
+"Beneficio De Pelo Y Cerda Para La Industria Textil","871","ocupation_mulaware","2394013",NULL
+"Embotellado De Aguas Minerales","872","ocupation_mulaware","2131019",NULL
+"Explotacion De Sal Marina Y De Yacimientos","873","ocupation_mulaware","1511014",NULL
+"Explotación De Sal","874","ocupation_mulaware","1500009",NULL
+"Extraccion De Alquitran Vegetal","875","ocupation_mulaware","323022",NULL
+"Extraccion De Carbon Vegetal","876","ocupation_mulaware","313015",NULL
+"Extraccion De Chicle","877","ocupation_mulaware","321018",NULL
+"Extraccion De Colofonia","878","ocupation_mulaware","322032",NULL
+"Extraccion De Oro Plata Y Otros Metales Preciosos","879","ocupation_mulaware","1330001",NULL
+"Cultivo De Durazno","88","ocupation_mulaware","142026",NULL
+"Extraccion De Otras Resinas","880","ocupation_mulaware","322040",NULL
+"Extraccion De Petroleo Crudo Y Gas Natural","881","ocupation_mulaware","1211028",NULL
+"Extraccion De Trementina","882","ocupation_mulaware","323030",NULL
+"Extraccion De Troncos Para Aserraderos Y Para Pulpa Incluso La Madera Toscamente Aserrada","883","ocupation_mulaware","312017",NULL
+"Extraccion De Yeso","884","ocupation_mulaware","1412014",NULL
+"Extraccion Y Beneficio De Arcillas Refractarias","885","ocupation_mulaware","1421015",NULL
+"Extraccion Y Beneficio De Arena Y Grava","886","ocupation_mulaware","1413012",NULL
+"Extraccion Y Beneficio De Barita Y Roca Fosforica","887","ocupation_mulaware","1431014",NULL
+"Extraccion Y Beneficio De Carbon Mineral Y Grafito","888","ocupation_mulaware","1111012",NULL
+"Extraccion Y Beneficio De Cobre Plomo Zinc Y Otros Minerales No Ferrosos","889","ocupation_mulaware","1329011",NULL
+"Cultivo De Esparrago","89","ocupation_mulaware","112061",NULL
+"Extraccion Y Beneficio De Fluorita","890","ocupation_mulaware","1432012",NULL
+"Extraccion Y Beneficio De Mercurio Y Antimonio","891","ocupation_mulaware","1322015",NULL
+"Extraccion Y Beneficio De Mineral De Hierro","892","ocupation_mulaware","1311018",NULL
+"Extraccion Y Beneficio De Oro Plata Y Otros Metales Preciosos","893","ocupation_mulaware","1321017",NULL
+"Extraccion Y Beneficio De Otros Materiales Para Construccion","894","ocupation_mulaware","1419010",NULL
+"Extraccion Y Beneficio De Otros Minerales No Metalicos Excepto Sal","895","ocupation_mulaware","1439018",NULL
+"Extraccion Y Beneficio De Piedra","896","ocupation_mulaware","1411016",NULL
+"Extraccion Y Beneficio De Silice","897","ocupation_mulaware","1433010",NULL
+"Extracción De Minerales No Metálicos Excepto Sal","898","ocupation_mulaware","1400001",NULL
+"Extracción De Petróleo Crudo Y Gas Natural","899","ocupation_mulaware","1200005",NULL
+"Alimentos","9","ocupation_mulaware",NULL,NULL
+"Cultivo De Especias","90","ocupation_mulaware","129016",NULL
+"Extracción Y Beneficio De Carbón Mineral Y Grafito","900","ocupation_mulaware","1100007",NULL
+"Extracción Y Beneficio De Minerales Metálicos","901","ocupation_mulaware","1300003",NULL
+"Fundicion De Fierro Y Acero","902","ocupation_mulaware","3411022",NULL
+"Fundicion De Metales No Ferruginosos","903","ocupation_mulaware","3429017",NULL
+"Refinacion De Sal","904","ocupation_mulaware","2095025",NULL
+"Refinación De Petróleo Y Derivados Del Carbón Mineral","905","ocupation_mulaware","3100005",NULL
+"Usuarios Menores Industria Productos De Minerales No Metalicos","906","ocupation_mulaware","3354909",NULL
+"Usuarios Menores Mineria","907","ocupation_mulaware","1329904",NULL
+"Actividades De Clubes Deportivos Profesionales","908","ocupation_mulaware","8827018",NULL
+"Actualizacion Mensual Del Saldo Operaciones De Cre","909","ocupation_mulaware","6911061",NULL
+"Cultivo De Flores Y Plantas De Ornato","91","ocupation_mulaware","131011",NULL
+"Administracion De Caminos Puentes Y Servicios Auxiliares","910","ocupation_mulaware","7411010",NULL
+"Administracion De Puertos Maritimos Lacustres Y Fluviales","911","ocupation_mulaware","7413016",NULL
+"Administradoras De Tarjeta De Credito","912","ocupation_mulaware","8219114",NULL
+"Aeropuerto Civil","913","ocupation_mulaware","7412018",NULL
+"Agencia Aduanal","914","ocupation_mulaware","7513014",NULL
+"Agencia De Ferrocarril","915","ocupation_mulaware","7519012",NULL
+"Agencia De Inhumaciones","916","ocupation_mulaware","8943012",NULL
+"Agencia De Mudanzas","917","ocupation_mulaware","7122013",NULL
+"Agencia De Publicidad","918","ocupation_mulaware","8422016",NULL
+"Agencia De Turismo","919","ocupation_mulaware","7512016",NULL
+"Cultivo De Fresa","92","ocupation_mulaware","119017",NULL
+"Agencia De Vapores Y Buques","920","ocupation_mulaware","7211014",NULL
+"Agencia Noticiosa","921","ocupation_mulaware","8423014",NULL
+"Agencias De Rifas Y Sorteos (Quinielas Y Loteria)","922","ocupation_mulaware","6992011",NULL
+"Agencias De Rifas Y Sorteos (Quinielas Y Lotería)","923","ocupation_mulaware","8800003",NULL
+"Agente De Bolsa","924","ocupation_mulaware","8211021",NULL
+"Agente De Seguros","925","ocupation_mulaware","8219017",NULL
+"Agrupaciones Mercantiles Profesionales Cívicas Políticas Laborales Y Religiosas","926","ocupation_mulaware","9300005",NULL
+"Ajuste Estadistico","927","ocupation_mulaware","3999127",NULL
+"Ajuste Programa Venta De Cartera Fobaproa","928","ocupation_mulaware","3999119",NULL
+"Almacenes De Deposito Nacionales","929","ocupation_mulaware","8131013",NULL
+"Cultivo De Frijol","93","ocupation_mulaware","112079",NULL
+"Almacenes De Deposito Privados","930","ocupation_mulaware","8131021",NULL
+"Alquiler De Mobiliario Y Equipo Para Comercios Servicios Y Oficinas","931","ocupation_mulaware","8519011",NULL
+"Ama De Casa","932","ocupation_mulaware","9900908",NULL
+"Analista","933","ocupation_mulaware","9800309",NULL
+"Arrendadoras Financieras Nacionales","934","ocupation_mulaware","8511025",NULL
+"Arrendadoras Financieras Privadas","935","ocupation_mulaware","8511033",NULL
+"Asesores Fiscales Y Financieros","936","ocupation_mulaware","8400002",NULL
+"Asociaciones Y Confederaciones","937","ocupation_mulaware","9311010",NULL
+"Barberia Y Peluqueria","938","ocupation_mulaware","8932015",NULL
+"Bares Y Cantinas","939","ocupation_mulaware","8721012",NULL
+"Cultivo De Garbanzo","94","ocupation_mulaware","112087",NULL
+"Baños","940","ocupation_mulaware","8931017",NULL
+"Cafeteria","941","ocupation_mulaware","8711013",NULL
+"Caja De Ahorros","942","ocupation_mulaware","8219041",NULL
+"Camaras De Comercio","943","ocupation_mulaware","9311028",NULL
+"Camaras Industriales","944","ocupation_mulaware","9311036",NULL
+"Cambistas O Centros Cambiarios","945","ocupation_mulaware","9900903",NULL
+"Campos De Turismo","946","ocupation_mulaware","8613011",NULL
+"Captacion Tratamiento Conduccion Y Distribucion De Agua Potable Excepto De Riego","947","ocupation_mulaware","5111018",NULL
+"Captación Tratamiento Conducción Y Distribución De Agua Potable Excepto De Riego","948","ocupation_mulaware","5100003",NULL
+"Carga Y Estiba Portuaria","949","ocupation_mulaware","7299010",NULL
+"Cultivo De Guayaba","95","ocupation_mulaware","142034",NULL
+"Cartera De Comercio De Estados Analiticos","950","ocupation_mulaware","6999991",NULL
+"Cartera De Comunicaciones De Estados Analiticos","951","ocupation_mulaware","7613913",NULL
+"Cartera De Construccion De Estados Analiticos","952","ocupation_mulaware","4199916",NULL
+"Cartera De Energia Electrica De Estados Analiticos","953","ocupation_mulaware","5011911",NULL
+"Cartera De Gobierno Estatal Y Municipal De Estados","954","ocupation_mulaware","9411919",NULL
+"Cartera De Gobierno Federal De Estados Analiticos","955","ocupation_mulaware","9411894",NULL
+"Cartera De Industria Manufacturera De Estados Anal","956","ocupation_mulaware","3999911",NULL
+"Cartera De Otras Actividades De Estados Analiticos","957","ocupation_mulaware","8949896",NULL
+"Cartera De Productos Minerales No Metalicos De Est","958","ocupation_mulaware","3354917",NULL
+"Cartera De Servicios De Esparcimiento De Estados A","959","ocupation_mulaware","8839914",NULL
+"Cultivo De Henequen","96","ocupation_mulaware","144014",NULL
+"Cartera De Servicios De Estados Analiticos","960","ocupation_mulaware","8949911",NULL
+"Cartera De Transportes De Estados Analiticos","961","ocupation_mulaware","7129910",NULL
+"Cartera De Vivienda De Interes Social De Estados A","962","ocupation_mulaware","4111910",NULL
+"Cartera Minera De Estados Analiticos","963","ocupation_mulaware","1329912",NULL
+"Cartera Pesquera De Estados Analiticos","964","ocupation_mulaware","419912",NULL
+"Cartera Petrolera De Estados Analiticos","965","ocupation_mulaware","1211911",NULL
+"Cartera Siderurgica Y De Productos Metalicos De Es","966","ocupation_mulaware","3411915",NULL
+"Casa De Huespedes","967","ocupation_mulaware","8619019",NULL
+"Casas De Bolsa Nacionales","968","ocupation_mulaware","8211039",NULL
+"Casas De Bolsa Privadas","969","ocupation_mulaware","8211047",NULL
+"Cultivo De Jitomate","97","ocupation_mulaware","112095",NULL
+"Caza","970","ocupation_mulaware","500000",NULL
+"Centro De Beneficencia","971","ocupation_mulaware","9221011",NULL
+"Centro Deportivo","972","ocupation_mulaware","8814015",NULL
+"Centro Nocturno","973","ocupation_mulaware","8831019",NULL
+"Centros Cambiarios","974","ocupation_mulaware","6999992",NULL
+"Cerveceria","975","ocupation_mulaware","8722010",NULL
+"Club Social","976","ocupation_mulaware","8813017",NULL
+"Colocacion De Duelas Parquet Lambrines Y Otros Trabajos De Carpinteria","977","ocupation_mulaware","4293015",NULL
+"Comisionista","978","ocupation_mulaware","8426018",NULL
+"Compañias De Fianzas Nacionales","979","ocupation_mulaware","8133019",NULL
+"Cultivo De Lenteja","98","ocupation_mulaware","112102",NULL
+"Compañias De Fianzas Privadas","980","ocupation_mulaware","8133027",NULL
+"Compañias De Seguros Nacionales","981","ocupation_mulaware","8151011",NULL
+"Compañias De Seguros Privadas","982","ocupation_mulaware","8151029",NULL
+"Comunicaciones","983","ocupation_mulaware","7600001",NULL
+"Consulado","984","ocupation_mulaware","9912016",NULL
+"Consumos Personales","985","ocupation_mulaware","6999132",NULL
+"Contaduría Y Auditoría","986","ocupation_mulaware","8400001",NULL
+"Contralor Del H. Congreso Del Estado","987","ocupation_mulaware","9800206",NULL
+"Coordinador De Área O T√©cnico","988","ocupation_mulaware","9800308",NULL
+"Coordinador Operativo","989","ocupation_mulaware","9800219",NULL
+"Cultivo De Limon","99","ocupation_mulaware","142042",NULL
+"Creditos Para Adquisicion De Bienes De Consumo Duradero","990","ocupation_mulaware","6999124",NULL
+"Creditos Personales Al Consumo","991","ocupation_mulaware","6999083",NULL
+"Cónsul","992","ocupation_mulaware","9800117",NULL
+"Decoracion En General","993","ocupation_mulaware","8942014",NULL
+"Departamento Del Df","994","ocupation_mulaware","9411042",NULL
+"Dependencias De Gobierno O Empresas Paraestatales","995","ocupation_mulaware","9900900",NULL
+"Despacho De Otros Profesionistas","996","ocupation_mulaware","8415011",NULL
+"Diputado Al H. Congreso Del Estado","997","ocupation_mulaware","9800204",NULL
+"Diputado Del H. Congreso De La Unión","998","ocupation_mulaware","9800112",NULL
+"Dirección De Área","999","ocupation_mulaware","9800108",NULL

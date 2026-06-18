@@ -1,0 +1,9 @@
+"name","value","taxonomy","code1","code2"
+"PRIORIDAD ALTA - REPORTE DE OPERATIVA","01","catalogo_prioridad",NULL,NULL
+"SIN PRIORIDAD - REPORTE DE OPERATIVA","02","catalogo_prioridad",NULL,NULL
+"EXCEPCION AL REPORTE DE OPERATIVA","03","catalogo_prioridad",NULL,NULL
+"TENTATIVA","04","catalogo_prioridad",NULL,NULL
+"24 HORAS","05","catalogo_prioridad",NULL,NULL
+"24 HORAS - LPB (SUJETO DESIGNADO)","06","catalogo_prioridad",NULL,NULL
+"24 HORAS - LPB (SUJETO RELACIONADO)","07","catalogo_prioridad",NULL,NULL
+"24 HORAS - SUSPENSION DEL PROCESO DE IDENTIFICACION","08","catalogo_prioridad",NULL,NULL

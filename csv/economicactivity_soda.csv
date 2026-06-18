@@ -1,0 +1,1282 @@
+"name","value","taxonomy","code1","code2"
+"Se desconoce (tentativa)","1","economicactivity_soda",NULL,NULL
+"Agricultura","2","economicactivity_soda",NULL,NULL
+"Cultivo de alpiste","3","economicactivity_soda",NULL,NULL
+"Cultivo de arroz","4","economicactivity_soda",NULL,NULL
+"Cultivo de avena","5","economicactivity_soda",NULL,NULL
+"Cultivo de cebada","6","economicactivity_soda",NULL,NULL
+"Cultivo de linaza","7","economicactivity_soda",NULL,NULL
+"Cultivo de maiz","8","economicactivity_soda",NULL,NULL
+"Cultivo de milo","9","economicactivity_soda",NULL,NULL
+"Cultivo de sorgo","10","economicactivity_soda",NULL,NULL
+"Cultivo de soya","11","economicactivity_soda",NULL,NULL
+"Cultivo de trigo","12","economicactivity_soda",NULL,NULL
+"Cultivo de ajo","13","economicactivity_soda",NULL,NULL
+"Cultivo de calabaza","14","economicactivity_soda",NULL,NULL
+"Cultivo de camote","15","economicactivity_soda",NULL,NULL
+"Cultivo de cebolla","16","economicactivity_soda",NULL,NULL
+"Cultivo de chile","17","economicactivity_soda",NULL,NULL
+"Cultivo de esparrago","18","economicactivity_soda",NULL,NULL
+"Cultivo de frijol","19","economicactivity_soda",NULL,NULL
+"Cultivo de garbanzo","20","economicactivity_soda",NULL,NULL
+"Cultivo de jitomate","21","economicactivity_soda",NULL,NULL
+"Cultivo de lenteja","22","economicactivity_soda",NULL,NULL
+"Cultivo de nopal","23","economicactivity_soda",NULL,NULL
+"Cultivo de otras hortalizas","24","economicactivity_soda",NULL,NULL
+"Cultivo de papa","25","economicactivity_soda",NULL,NULL
+"Cultivo de remolacha","26","economicactivity_soda",NULL,NULL
+"Cultivo de tomate","27","economicactivity_soda",NULL,NULL
+"Cultivo de yuca","28","economicactivity_soda",NULL,NULL
+"Cultivo de alfalfa","29","economicactivity_soda",NULL,NULL
+"Cultivo de fresa","30","economicactivity_soda",NULL,NULL
+"Cultivo de melon","31","economicactivity_soda",NULL,NULL
+"Cultivo de piña","32","economicactivity_soda",NULL,NULL
+"Cultivo de sandia","33","economicactivity_soda",NULL,NULL
+"Cultivo de algodon","34","economicactivity_soda",NULL,NULL
+"Cultivo de caña de azucar","35","economicactivity_soda",NULL,NULL
+"Cultivo de tabaco","36","economicactivity_soda",NULL,NULL
+"Cultivo de ajonjoli","37","economicactivity_soda",NULL,NULL
+"Cultivo de cacahuate","38","economicactivity_soda",NULL,NULL
+"Cultivo de cartamo","39","economicactivity_soda",NULL,NULL
+"Cultivo de nuez","40","economicactivity_soda",NULL,NULL
+"Cultivo de olivo","41","economicactivity_soda",NULL,NULL
+"Cultivo de especias","42","economicactivity_soda",NULL,NULL
+"Cultivo de otras semillas","43","economicactivity_soda",NULL,NULL
+"Cultivo de semillas mejoradas","44","economicactivity_soda",NULL,NULL
+"Cultivo de vainilla","45","economicactivity_soda",NULL,NULL
+"Cultivo de flores y plantas de ornato","46","economicactivity_soda",NULL,NULL
+"Cultivo de cafe","47","economicactivity_soda",NULL,NULL
+"Cultivo de aguacate","48","economicactivity_soda",NULL,NULL
+"Cultivo de durazno","49","economicactivity_soda",NULL,NULL
+"Cultivo de guayaba","50","economicactivity_soda",NULL,NULL
+"Cultivo de limon","51","economicactivity_soda",NULL,NULL
+"Cultivo de mango","52","economicactivity_soda",NULL,NULL
+"Cultivo de manzana","53","economicactivity_soda",NULL,NULL
+"Cultivo de naranja","54","economicactivity_soda",NULL,NULL
+"Cultivo de otros arboles frutales","55","economicactivity_soda",NULL,NULL
+"Cultivo de papaya","56","economicactivity_soda",NULL,NULL
+"Cultivo de platano","57","economicactivity_soda",NULL,NULL
+"Cultivo de tamarindo","58","economicactivity_soda",NULL,NULL
+"Cultivo de toronja","59","economicactivity_soda",NULL,NULL
+"Cultivo de vid","60","economicactivity_soda",NULL,NULL
+"Cultivo de henequen","61","economicactivity_soda",NULL,NULL
+"Cultivo de lino","62","economicactivity_soda",NULL,NULL
+"Cultivo de otras fibras duras","63","economicactivity_soda",NULL,NULL
+"Cultivo de agave o mezcal","64","economicactivity_soda",NULL,NULL
+"Cultivo de maguey","65","economicactivity_soda",NULL,NULL
+"Cultivo de copra","66","economicactivity_soda",NULL,NULL
+"Cultivo de cacao","67","economicactivity_soda",NULL,NULL
+"Otros cultivos permanentes","68","economicactivity_soda",NULL,NULL
+"Usuarios menores agricultura","69","economicactivity_soda",NULL,NULL
+"Cartera agricola de estados analiticos","70","economicactivity_soda",NULL,NULL
+"Irrigacion de tierras","71","economicactivity_soda",NULL,NULL
+"Preparacion de tierras de cultivo y otros servicios agricolas","72","economicactivity_soda",NULL,NULL
+"Ganadería","73","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ganado vacuno para carne","74","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ganado vacuno para leche","75","economicactivity_soda",NULL,NULL
+"Cria de ganado de lidia","76","economicactivity_soda",NULL,NULL
+"Cria de ganado caballar","77","economicactivity_soda",NULL,NULL
+"Cria de otros equinos y ganado para el trabajo","78","economicactivity_soda",NULL,NULL
+"Usuarios menores ganaderia","79","economicactivity_soda",NULL,NULL
+"Cartera ganadera de estados analiticos","80","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ganado porcino","81","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ganado ovino","82","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ganado caprino","83","economicactivity_soda",NULL,NULL
+"Cria y explotacion de gallina para produccion de huevo","84","economicactivity_soda",NULL,NULL
+"Cria y explotacion de pollos","85","economicactivity_soda",NULL,NULL
+"Cria y explotacion de otras aves para alimentacion","86","economicactivity_soda",NULL,NULL
+"Cria y explotacion de abejas","87","economicactivity_soda",NULL,NULL
+"Cria y explotacion de conejos y liebres","88","economicactivity_soda",NULL,NULL
+"Cria y explotacion de animales domesticos, para laboratorio y otros fines no alimenticios","89","economicactivity_soda",NULL,NULL
+"Cria y explotacion de gusano de seda","90","economicactivity_soda",NULL,NULL
+"Formacion de praderas y potreros artificiales","91","economicactivity_soda",NULL,NULL
+"Inseminacion artificial y otros servicios de ganaderia","92","economicactivity_soda",NULL,NULL
+"Silvicultura","93","economicactivity_soda",NULL,NULL
+"Plantacion y reforestacion","94","economicactivity_soda",NULL,NULL
+"Policía","1235","economicactivity_soda",NULL,NULL
+"Extraccion de troncos para aserraderos y para pulpa incluso la madera toscamente aserrada","95","economicactivity_soda",NULL,NULL
+"Extraccion de carbon vegetal","96","economicactivity_soda",NULL,NULL
+"Extraccion de chicle","97","economicactivity_soda",NULL,NULL
+"Explotacion de candelilla","98","economicactivity_soda",NULL,NULL
+"Explotacion de hule","99","economicactivity_soda",NULL,NULL
+"Extraccion de colofonia","100","economicactivity_soda",NULL,NULL
+"Extraccion de otras resinas","101","economicactivity_soda",NULL,NULL
+"Explotacion de raices","102","economicactivity_soda",NULL,NULL
+"Extraccion de alquitran vegetal","103","economicactivity_soda",NULL,NULL
+"Extraccion de trementina","104","economicactivity_soda",NULL,NULL
+"Cultivo y explotacion de palma y lechuguilla","105","economicactivity_soda",NULL,NULL
+"Explotacion de barbasco arborescentes y arbustos","106","economicactivity_soda",NULL,NULL
+"Usuarios menores silvicultura, pesca y preservacion de animales salvajes","107","economicactivity_soda",NULL,NULL
+"Cartera silvicola de estados analiticos","108","economicactivity_soda",NULL,NULL
+"Servicios de cortado estimacion del volumen de madera proteccion de bosques y otros servicios relativos a la explotacion forestal","109","economicactivity_soda",NULL,NULL
+"Pesca","110","economicactivity_soda",NULL,NULL
+"Captura de atun bonito barrilete y similares","111","economicactivity_soda",NULL,NULL
+"Captura de sardina y similares","112","economicactivity_soda",NULL,NULL
+"Captura de tiburon cazon raya y similares","113","economicactivity_soda",NULL,NULL
+"Captura de otros peces en estuarios costas o alta mar","114","economicactivity_soda",NULL,NULL
+"Cartera pesquera de estados analiticos","115","economicactivity_soda",NULL,NULL
+"Captura de camaron","116","economicactivity_soda",NULL,NULL
+"Captura de ostion","117","economicactivity_soda",NULL,NULL
+"Captura de otros crustaceos y moluscos marinos","118","economicactivity_soda",NULL,NULL
+"Captura de tortuga y otros reptiles marinos","119","economicactivity_soda",NULL,NULL
+"Captura de mamiferos anfibios y diversos invertebrados de mar","120","economicactivity_soda",NULL,NULL
+"Recoleccion de conchas huevos corales esponjas y perlas","121","economicactivity_soda",NULL,NULL
+"Recoleccion de algas y otras plantas acuaticas","122","economicactivity_soda",NULL,NULL
+"Captura de peces en rios  lagos y estuarios","123","economicactivity_soda",NULL,NULL
+"Captura de crustaceos moluscos reptiles anfibios y otra fauna de agua dulce","124","economicactivity_soda",NULL,NULL
+"Cria y explotacion de ostras","125","economicactivity_soda",NULL,NULL
+"Cria y explotacion de peces  otras especies animales y plantas acuaticas","126","economicactivity_soda",NULL,NULL
+"Servicios de pesquerias maritimas y de agua dulce por contrato","127","economicactivity_soda",NULL,NULL
+"Caza","128","economicactivity_soda",NULL,NULL
+"Captura y preservacion de especies animales salvajes","129","economicactivity_soda",NULL,NULL
+"Extracción y beneficio de carbón mineral y grafito","130","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de carbon mineral y grafito","131","economicactivity_soda",NULL,NULL
+"Extracción de petróleo crudo y gas natural","132","economicactivity_soda",NULL,NULL
+"Exploracion de petroleo por compañias","133","economicactivity_soda",NULL,NULL
+"Extraccion de petroleo crudo y gas natural","134","economicactivity_soda",NULL,NULL
+"Usuarios menores petroleo","135","economicactivity_soda",NULL,NULL
+"Cartera petrolera de estados analiticos","136","economicactivity_soda",NULL,NULL
+"Pidiregas petroleo","137","economicactivity_soda",NULL,NULL
+"Extracción y beneficio de minerales metálicos","138","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de mineral de hierro","139","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de oro plata y otros metales preciosos","140","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de mercurio y antimonio","141","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de cobre  plomo  zinc y otros minerales no ferrosos","142","economicactivity_soda",NULL,NULL
+"Usuarios menores mineria","143","economicactivity_soda",NULL,NULL
+"Cartera minera de estados analiticos","144","economicactivity_soda",NULL,NULL
+"Extraccion de oro, plata y otros metales preciosos","145","economicactivity_soda",NULL,NULL
+"Extracción de minerales no metálicos, excepto sal","146","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de piedra","147","economicactivity_soda",NULL,NULL
+"Extraccion de yeso","148","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de arena y grava","149","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de otros materiales para construccion","150","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de arcillas refractarias","151","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de barita y roca fosforica","152","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de fluorita","153","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de silice","154","economicactivity_soda",NULL,NULL
+"Extraccion y beneficio de otros minerales no metalicos excepto sal","155","economicactivity_soda",NULL,NULL
+"Explotación de sal","156","economicactivity_soda",NULL,NULL
+"Explotacion de sal marina y de yacimientos","157","economicactivity_soda",NULL,NULL
+"Fabricación de alimentos","158","economicactivity_soda",NULL,NULL
+"Deshidratacion de frutas","159","economicactivity_soda",NULL,NULL
+"Empacadora de conservas alimenticias","160","economicactivity_soda",NULL,NULL
+"Empacadora de frutas y legumbres","161","economicactivity_soda",NULL,NULL
+"Fabricacion de concentrados de frutas","162","economicactivity_soda",NULL,NULL
+"Fabricacion de encurtidos","163","economicactivity_soda",NULL,NULL
+"Fabricacion de ates","164","economicactivity_soda",NULL,NULL
+"Fabricacion de queso y miel de tuna","165","economicactivity_soda",NULL,NULL
+"Fabricacion de salsas","166","economicactivity_soda",NULL,NULL
+"Molino de trigo","167","economicactivity_soda",NULL,NULL
+"Molino de maiz","168","economicactivity_soda",NULL,NULL
+"Molino de nixtamal","169","economicactivity_soda",NULL,NULL
+"Molino de arroz","170","economicactivity_soda",NULL,NULL
+"Beneficio de cafe excepto molienda y tostado","171","economicactivity_soda",NULL,NULL
+"Molino y tostador de cafe","172","economicactivity_soda",NULL,NULL
+"Empacadora de te","173","economicactivity_soda",NULL,NULL
+"Beneficio de arroz excepto molienda","174","economicactivity_soda",NULL,NULL
+"Descascarado y tostado de cacahuate y nuez","175","economicactivity_soda",NULL,NULL
+"Descascaradora y tostadora de semilla de calabaza","176","economicactivity_soda",NULL,NULL
+"Molino para otros granos excepto cereales","177","economicactivity_soda",NULL,NULL
+"Molino de avena","178","economicactivity_soda",NULL,NULL
+"Molino de cebada","179","economicactivity_soda",NULL,NULL
+"Molino de otros cereales","180","economicactivity_soda",NULL,NULL
+"Fabricacion de marquetas y estuchados de azucar","181","economicactivity_soda",NULL,NULL
+"Ingenio azucarero","182","economicactivity_soda",NULL,NULL
+"Fabricacion de piloncillo","183","economicactivity_soda",NULL,NULL
+"Destilacion de alcohol etilico","184","economicactivity_soda",NULL,NULL
+"Rastro","185","economicactivity_soda",NULL,NULL
+"Empacadora de carne","186","economicactivity_soda",NULL,NULL
+"Fabricacion de carnes frias y embutidos","187","economicactivity_soda",NULL,NULL
+"Refrigeracion de carnes","188","economicactivity_soda",NULL,NULL
+"Fabricacion y prehidratacion de leche","189","economicactivity_soda",NULL,NULL
+"Pasteurizacion homogeneizacion y envasado de leche","190","economicactivity_soda",NULL,NULL
+"Fabricacion de crema mantequilla y queso","191","economicactivity_soda",NULL,NULL
+"Fabricacion de leche condensada evaporada y pulverizada","192","economicactivity_soda",NULL,NULL
+"Fabricacion de gelatinas","193","economicactivity_soda",NULL,NULL
+"Fabricacion de grenetina","194","economicactivity_soda",NULL,NULL
+"Fabricacion de cajetas yogurts y otros productos a base de leche","195","economicactivity_soda",NULL,NULL
+"Congeladora de productos marinos","196","economicactivity_soda",NULL,NULL
+"Empacadora de otros mariscos","197","economicactivity_soda",NULL,NULL
+"Empacadora de pescado","198","economicactivity_soda",NULL,NULL
+"Fabricacion de pan y pasteles","199","economicactivity_soda",NULL,NULL
+"Fabricacion de conos para nieve","200","economicactivity_soda",NULL,NULL
+"Fabricacion de galletas","201","economicactivity_soda",NULL,NULL
+"Fabricacion de pastas alimenticias","202","economicactivity_soda",NULL,NULL
+"Fabricacion de chocolates","203","economicactivity_soda",NULL,NULL
+"Fabricacion de dulces bombones y confites","204","economicactivity_soda",NULL,NULL
+"Fabricacion de goma de mascar","205","economicactivity_soda",NULL,NULL
+"Tratamiento y envase de miel de abeja","206","economicactivity_soda",NULL,NULL
+"Fabricacion de jarabes","207","economicactivity_soda",NULL,NULL
+"Fabricacion de aceites vegetales comestibles","208","economicactivity_soda",NULL,NULL
+"Fabricacion de mantecas vegetales comestibles","209","economicactivity_soda",NULL,NULL
+"Fabricacion de almidon","210","economicactivity_soda",NULL,NULL
+"Fabricacion de levaduras","211","economicactivity_soda",NULL,NULL
+"Tortilleria","212","economicactivity_soda",NULL,NULL
+"Fabricacion de frituras","213","economicactivity_soda",NULL,NULL
+"Fabricacion de otros preparados alimenticios derivados de cereales","214","economicactivity_soda",NULL,NULL
+"Fabricacion de vinagre","215","economicactivity_soda",NULL,NULL
+"Refinacion de sal","216","economicactivity_soda",NULL,NULL
+"Fabricacion de hielo","217","economicactivity_soda",NULL,NULL
+"Fabricacion de helados nieves y paletas","218","economicactivity_soda",NULL,NULL
+"Deshidratacion de plantas para forrajes","219","economicactivity_soda",NULL,NULL
+"Fabricacion de alimento para ganado y otros animales","220","economicactivity_soda",NULL,NULL
+"Fabricacion de alimentos para aves","221","economicactivity_soda",NULL,NULL
+"Empacadora de especias","222","economicactivity_soda",NULL,NULL
+"Fabricacion de aceites y mantecas animales comestibles","223","economicactivity_soda",NULL,NULL
+"Fabricacion de harina de pescado","224","economicactivity_soda",NULL,NULL
+"Fabricacion de otros productos alimenticios","225","economicactivity_soda",NULL,NULL
+"Fabricacion de pastas para guisos","226","economicactivity_soda",NULL,NULL
+"Fabricación y elaboración de bebidas (agua, refrescos, cerveza, vinos y licores)","227","economicactivity_soda",NULL,NULL
+"Fabricacion de tequila y mezcal","228","economicactivity_soda",NULL,NULL
+"Fabricacion de aguardiente de caña","229","economicactivity_soda",NULL,NULL
+"Fabricacion de sotol","230","economicactivity_soda",NULL,NULL
+"Fabricacion de otros aguardientes no de caña","231","economicactivity_soda",NULL,NULL
+"Fabricacion de vinos y otros licores","232","economicactivity_soda",NULL,NULL
+"Elaboracion de pulque","233","economicactivity_soda",NULL,NULL
+"Fabricacion de sidra  champaña y otras bebidas fermentadas  excepto las malteadas","234","economicactivity_soda",NULL,NULL
+"Fabricacion de malta","235","economicactivity_soda",NULL,NULL
+"Fabricacion de cerveza","236","economicactivity_soda",NULL,NULL
+"Embotellado de aguas minerales","237","economicactivity_soda",NULL,NULL
+"Fabricacion de bebidas gaseosas","238","economicactivity_soda",NULL,NULL
+"Fabricacion de refrescos de frutas naturales","239","economicactivity_soda",NULL,NULL
+"Purificacion de agua  excepto captacion tratamiento conduccion y distribucion de agua potable","240","economicactivity_soda",NULL,NULL
+"Fabricación y beneficio de productos de tabaco","241","economicactivity_soda",NULL,NULL
+"Desecado de tabaco","242","economicactivity_soda",NULL,NULL
+"Fabricacion de cigarros","243","economicactivity_soda",NULL,NULL
+"Fabricacion de puros","244","economicactivity_soda",NULL,NULL
+"Picado de tabaco","245","economicactivity_soda",NULL,NULL
+"Industria textil (fabricación de: hilados y tejidos)","246","economicactivity_soda",NULL,NULL
+"Desfibracion de algodon","247","economicactivity_soda",NULL,NULL
+"Despepite de algodon","248","economicactivity_soda",NULL,NULL
+"Compresora de algodon","249","economicactivity_soda",NULL,NULL
+"Beneficio de lanas","250","economicactivity_soda",NULL,NULL
+"Beneficio de otras fibras textiles","251","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de algodon","252","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de lana","253","economicactivity_soda",NULL,NULL
+"Fabricacion de hilos para coser","254","economicactivity_soda",NULL,NULL
+"Acabado de hilos","255","economicactivity_soda",NULL,NULL
+"Fabricacion de otros hilados y tejidos no sinteticos","256","economicactivity_soda",NULL,NULL
+"Fabricacion de estambres","257","economicactivity_soda",NULL,NULL
+"Fabricacion de sarapes y cobijas","258","economicactivity_soda",NULL,NULL
+"Fabricacion de casimires y paños","259","economicactivity_soda",NULL,NULL
+"Fabricacion de toallas","260","economicactivity_soda",NULL,NULL
+"Fabricacion de colchas","261","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de seda","262","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de lana","263","economicactivity_soda",NULL,NULL
+"Fabricacion de otras telas mixtas de fibras blandas","264","economicactivity_soda",NULL,NULL
+"Fabricacion de cintas agujetas y listones","265","economicactivity_soda",NULL,NULL
+"Fabricacion de encajes","266","economicactivity_soda",NULL,NULL
+"Fabricacion de telas elasticas","267","economicactivity_soda",NULL,NULL
+"Acabado de telas","268","economicactivity_soda",NULL,NULL
+"Fabricacion de calcetines","269","economicactivity_soda",NULL,NULL
+"Fabricacion de medias","270","economicactivity_soda",NULL,NULL
+"Fabricacion de sueteres","271","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de otras fibras sinteticas","272","economicactivity_soda",NULL,NULL
+"Desfibracion de henequen","273","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de henequen","274","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de palma y tule","275","economicactivity_soda",NULL,NULL
+"Fabricacion de tejidos y torcidos de palma","276","economicactivity_soda",NULL,NULL
+"Fabricacion de tejidos y torcidos de ixtle","277","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de yute","278","economicactivity_soda",NULL,NULL
+"Fabricacion de hilados y tejidos de fibra de coco","279","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de lona","280","economicactivity_soda",NULL,NULL
+"Fabricacion de lona","281","economicactivity_soda",NULL,NULL
+"Fabricacion de telas impermeables","282","economicactivity_soda",NULL,NULL
+"Fabricacion de tapetes y alfombras","283","economicactivity_soda",NULL,NULL
+"Fabricacion de telas para tapiceria","284","economicactivity_soda",NULL,NULL
+"Fabricacion de entretelas y fieltros","285","economicactivity_soda",NULL,NULL
+"Beneficio de pelo y cerda para la industria textil","286","economicactivity_soda",NULL,NULL
+"Fabricacion de borras y estopas","287","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de algodon","288","economicactivity_soda",NULL,NULL
+"Fabricación de prendas de vestir y otros artículos confeccionados con textiles y otros materiales excepto calzado","289","economicactivity_soda",NULL,NULL
+"Fabricacion de vestidos y otras prendas exteriores de vestir para dama","290","economicactivity_soda",NULL,NULL
+"Taller de confeccion de vestidos","291","economicactivity_soda",NULL,NULL
+"Fabricacion de otras prendas exteriores de vestir para caballero","292","economicactivity_soda",NULL,NULL
+"Fabricacion de trajes para caballero","293","economicactivity_soda",NULL,NULL
+"Taller de sastreria","294","economicactivity_soda",NULL,NULL
+"Fabricacion de uniformes","295","economicactivity_soda",NULL,NULL
+"Fabricacion de camisas","296","economicactivity_soda",NULL,NULL
+"Fabricacion de otras prendas exteriores de vestir para niño","297","economicactivity_soda",NULL,NULL
+"Fabricacion de corbatas","298","economicactivity_soda",NULL,NULL
+"Fabricacion de guantes","299","economicactivity_soda",NULL,NULL
+"Fabricacion de pañuelos pañoletas y mascadas","300","economicactivity_soda",NULL,NULL
+"Fabricacion de cachuchas y gorras","301","economicactivity_soda",NULL,NULL
+"Fabricacion de sombreros excepto de palma","302","economicactivity_soda",NULL,NULL
+"Fabricacion de sombreros de palma","303","economicactivity_soda",NULL,NULL
+"Fabricacion de chamarras y abrigos","304","economicactivity_soda",NULL,NULL
+"Fabricacion de impermeables","305","economicactivity_soda",NULL,NULL
+"Fabricacion de tirantes","306","economicactivity_soda",NULL,NULL
+"Fabricacion de mantones y chalinas","307","economicactivity_soda",NULL,NULL
+"Fabricacion de rebozos y cinturones tejidos de hilo","308","economicactivity_soda",NULL,NULL
+"Fabricacion de ropa con piel","309","economicactivity_soda",NULL,NULL
+"Fabricacion de corseteria y ropa interior para dama","310","economicactivity_soda",NULL,NULL
+"Inspector","1236","economicactivity_soda",NULL,NULL
+"Fabricacion de ropa interior para caballero","311","economicactivity_soda",NULL,NULL
+"Fabricacion de sabanas","312","economicactivity_soda",NULL,NULL
+"Fabricacion de cortinas de tela y manteleria","313","economicactivity_soda",NULL,NULL
+"Fabricacion de cubre asientos para vehiculos","314","economicactivity_soda",NULL,NULL
+"Fabricacion de tapices plasticos","315","economicactivity_soda",NULL,NULL
+"Fabricacion de algodon absorbente vendas tela adhesiva y productos similares","316","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos bordados y deshilados","317","economicactivity_soda",NULL,NULL
+"Forrado de botones y hebillas","318","economicactivity_soda",NULL,NULL
+"Fabricacion de banderas y adornos de tela","319","economicactivity_soda",NULL,NULL
+"Fabricacion de costales","320","economicactivity_soda",NULL,NULL
+"Fabricación de calzado e industria del cuero","321","economicactivity_soda",NULL,NULL
+"Fabricacion de calzado para deporte excepto de plastico y hule","322","economicactivity_soda",NULL,NULL
+"Fabricacion de alpargatas babuchas y pantuflas","323","economicactivity_soda",NULL,NULL
+"Fabricacion de guaraches y sandalias","324","economicactivity_soda",NULL,NULL
+"Fabricacion de calzado de cuero o piel","325","economicactivity_soda",NULL,NULL
+"Curtiduria","326","economicactivity_soda",NULL,NULL
+"Preparacion de visceras para industrias no alimenticias","327","economicactivity_soda",NULL,NULL
+"Fabricacion de cepillos y plumeros","328","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de cuero para viaje","329","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de cuero y hueso","330","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de cuero y piel para zapatero","331","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos tejidos de cuero","332","economicactivity_soda",NULL,NULL
+"Fabricacion de bandas y correas de cuero","333","economicactivity_soda",NULL,NULL
+"Fabricacion de bolsas y carteras de cuero","334","economicactivity_soda",NULL,NULL
+"Fabricacion de brochas y pinceles","335","economicactivity_soda",NULL,NULL
+"Fabricacion de fornituras militares de cuero","336","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de cuero","337","economicactivity_soda",NULL,NULL
+"Talabarteria","338","economicactivity_soda",NULL,NULL
+"Industria y productos de madera y corcho; excepto muebles","339","economicactivity_soda",NULL,NULL
+"Aserradero","340","economicactivity_soda",NULL,NULL
+"Beneficio de maderas (desflemado estufado cepillado etc)","341","economicactivity_soda",NULL,NULL
+"Fabricacion de triplay y otros aglomerados de madera","342","economicactivity_soda",NULL,NULL
+"Fabricacion de cajas y empaques de madera","343","economicactivity_soda",NULL,NULL
+"Fabricacion de toneles y barricas de madera","344","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de palma vara carrizo mimbre y similares","345","economicactivity_soda",NULL,NULL
+"Fabricacion de ataudes de madera","346","economicactivity_soda",NULL,NULL
+"Fabricacion de juntas y empaques de corcho","347","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de corcho","348","economicactivity_soda",NULL,NULL
+"Fabricacion de asbestos y corchos aislantes","349","economicactivity_soda",NULL,NULL
+"Fabricacion de duelas y otros materiales de madera para piso","350","economicactivity_soda",NULL,NULL
+"Fabricacion de puertas y ventanas de madera","351","economicactivity_soda",NULL,NULL
+"Fabricacion de carrocerias y redilas de madera","352","economicactivity_soda",NULL,NULL
+"Fabricacion de mangos de madera","353","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de madera","354","economicactivity_soda",NULL,NULL
+"Fabricación y reparación de muebles y accesorios; excepto los de metal y los de plástico moldeado","355","economicactivity_soda",NULL,NULL
+"Fabricacion de muebles de madera","356","economicactivity_soda",NULL,NULL
+"Fabricacion de muebles de material sintetico","357","economicactivity_soda",NULL,NULL
+"Fabricacion de persianas de madera","358","economicactivity_soda",NULL,NULL
+"Fabricacion de almohadas y cojines","359","economicactivity_soda",NULL,NULL
+"Fabricacion de colchones y colchonetas","360","economicactivity_soda",NULL,NULL
+"Fabricacion de marcos y molduras de madera","361","economicactivity_soda",NULL,NULL
+"Industria del papel","362","economicactivity_soda",NULL,NULL
+"Fabricacion de papel","363","economicactivity_soda",NULL,NULL
+"Fabricacion de papel para cigarros","364","economicactivity_soda",NULL,NULL
+"Fabricacion de pasta de celulosa","365","economicactivity_soda",NULL,NULL
+"Fabricacion de pasta o pulpa para papel","366","economicactivity_soda",NULL,NULL
+"Fabricacion de carton","367","economicactivity_soda",NULL,NULL
+"Fabricacion de sacos y bolsas de papel para envase","368","economicactivity_soda",NULL,NULL
+"Fabricacion de envases de carton","369","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de carton","370","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de papel","371","economicactivity_soda",NULL,NULL
+"Industrias editorial, de impresión y conexas","372","economicactivity_soda",NULL,NULL
+"Edicion de periodicos y revistas","373","economicactivity_soda",NULL,NULL
+"Edicion de libros y similares","374","economicactivity_soda",NULL,NULL
+"Edicion de libros","375","economicactivity_soda",NULL,NULL
+"Encuadernacion","376","economicactivity_soda",NULL,NULL
+"Fabricacion de formularios y formas continuas","377","economicactivity_soda",NULL,NULL
+"Fabricacion de libretas cuadernos y hojas para encuadernacion","378","economicactivity_soda",NULL,NULL
+"Fotocopiado","379","economicactivity_soda",NULL,NULL
+"Imprenta ( tipografia)","380","economicactivity_soda",NULL,NULL
+"Impresion mediante cilindros de caucho","381","economicactivity_soda",NULL,NULL
+"Impresion mediante cilindros (rotograbado)","382","economicactivity_soda",NULL,NULL
+"Fabricacion de calcomanias","383","economicactivity_soda",NULL,NULL
+"Fabricacion de tipos para imprenta","384","economicactivity_soda",NULL,NULL
+"Grabado e impresion en piedra  vidrio y otros materiales litografia y fotolitografia","385","economicactivity_soda",NULL,NULL
+"Grabado e impresion fotomecanica mediante agua fuerte(heliograbado)","386","economicactivity_soda",NULL,NULL
+"Grabado en metal (fabricacion de cliches y fotograbado)","387","economicactivity_soda",NULL,NULL
+"Industria química","388","economicactivity_soda",NULL,NULL
+"Fabricacion de añil","389","economicactivity_soda",NULL,NULL
+"Fabricacion de anilinas","390","economicactivity_soda",NULL,NULL
+"Fabricacion de otras materias colorantes","391","economicactivity_soda",NULL,NULL
+"Fabricacion de gas acetileno","392","economicactivity_soda",NULL,NULL
+"Fabricacion de acidos industriales","393","economicactivity_soda",NULL,NULL
+"Fabricacion de otras substancias quimicas basicas","394","economicactivity_soda",NULL,NULL
+"Fabricacion de productos amoniacales","395","economicactivity_soda",NULL,NULL
+"Fabricacion de sosa","396","economicactivity_soda",NULL,NULL
+"Fabricacion de abonos y fertilizantes quimicos","397","economicactivity_soda",NULL,NULL
+"Fabricacion de insecticidas y plaguicidas","398","economicactivity_soda",NULL,NULL
+"Fabricacion de hule espuma","399","economicactivity_soda",NULL,NULL
+"Fabricacion de fibras sinteticas","400","economicactivity_soda",NULL,NULL
+"Fabricacion de pinturas  barnices y lacas","401","economicactivity_soda",NULL,NULL
+"Fabricacion de algodon esterilizado  gasas y vendas","402","economicactivity_soda",NULL,NULL
+"Fabricacion de otros productos farmaceuticos y medicamentos","403","economicactivity_soda",NULL,NULL
+"Fabricacion de oxigeno medicinal","404","economicactivity_soda",NULL,NULL
+"Fabricacion de dentifrico","405","economicactivity_soda",NULL,NULL
+"Fabricacion de jabon y detergente","406","economicactivity_soda",NULL,NULL
+"Fabricacion de perfumes y cosmeticos","407","economicactivity_soda",NULL,NULL
+"Fabricacion de esencias","408","economicactivity_soda",NULL,NULL
+"Fabricacion y refinacion de sebo grasas y aceites animales para uso industrial","409","economicactivity_soda",NULL,NULL
+"Fundicion de sebo","410","economicactivity_soda",NULL,NULL
+"Hidrogenadora de productos diversos","411","economicactivity_soda",NULL,NULL
+"Fabricacion de colas y pegamentos","412","economicactivity_soda",NULL,NULL
+"Fabricacion de impermeabilizantes","413","economicactivity_soda",NULL,NULL
+"Fabricacion de cera pulimentos y abrillantadores","414","economicactivity_soda",NULL,NULL
+"Fabricacion de desinfectantes y desodorizantes","415","economicactivity_soda",NULL,NULL
+"Fabricacion de grasas y cremas lustradoras","416","economicactivity_soda",NULL,NULL
+"Fabricacion de lanolina","417","economicactivity_soda",NULL,NULL
+"Fabricacion de aguarras","418","economicactivity_soda",NULL,NULL
+"Fabricacion de cerillos y fosforos","419","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de cera","420","economicactivity_soda",NULL,NULL
+"Fabricacion de velas veladoras y cirios","421","economicactivity_soda",NULL,NULL
+"Fabricacion de tintas para impresion","422","economicactivity_soda",NULL,NULL
+"Fabricacion de dinamita","423","economicactivity_soda",NULL,NULL
+"Fabricacion de mechas para minas","424","economicactivity_soda",NULL,NULL
+"Fabricacion de otros explosivos","425","economicactivity_soda",NULL,NULL
+"Fabricacion de polvora","426","economicactivity_soda",NULL,NULL
+"Fabricacion de productos pirotecnicos","427","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de baquelita","428","economicactivity_soda",NULL,NULL
+"Fabricacion de desincrustantes","429","economicactivity_soda",NULL,NULL
+"Fabricacion de hielo seco","430","economicactivity_soda",NULL,NULL
+"Industrializacion de basura","431","economicactivity_soda",NULL,NULL
+"Refinación de petróleo y derivados del carbón mineral","432","economicactivity_soda",NULL,NULL
+"Fabricacion de gasolina y otros productos derivados de la refinacion de petroleo","433","economicactivity_soda",NULL,NULL
+"Fabricacion de productos petroquimicos basicos","434","economicactivity_soda",NULL,NULL
+"Fabricacion de aceites y lubricantes","435","economicactivity_soda",NULL,NULL
+"Fabricacion de coque y otros derivados del carbon mineral","436","economicactivity_soda",NULL,NULL
+"Fabricacion de materiales asfalticos para pavimentacion y techado","437","economicactivity_soda",NULL,NULL
+"Fabricación de productos de hule y de plástico","438","economicactivity_soda",NULL,NULL
+"Fabricacion de llantas y camaras para vehiculos","439","economicactivity_soda",NULL,NULL
+"Regeneracion de hule","440","economicactivity_soda",NULL,NULL
+"Vulcanizacion de llantas y camaras","441","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos con hule usado","442","economicactivity_soda",NULL,NULL
+"Fabricacion de linoleo","443","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de hule","444","economicactivity_soda",NULL,NULL
+"Fabricacion de laminas perfiles tubos y otros materiales similares de plastico","445","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de polietileno","446","economicactivity_soda",NULL,NULL
+"Fabricacion de celuloide y polietileno","447","economicactivity_soda",NULL,NULL
+"Fabricacion de calzado de plastico","448","economicactivity_soda",NULL,NULL
+"Fabricacion de otros juguetes de plastico","449","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de celuloide","450","economicactivity_soda",NULL,NULL
+"Fabricacion de balones globos y pelotas","451","economicactivity_soda",NULL,NULL
+"Fabricacion de botones de plastico","452","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de plastico","453","economicactivity_soda",NULL,NULL
+"Fabricacion de otros materiales de plastico","454","economicactivity_soda",NULL,NULL
+"Fabricacion de peines peinetas y cepillos para uso personal","455","economicactivity_soda",NULL,NULL
+"Fabricacion de pieles artificiales","456","economicactivity_soda",NULL,NULL
+"Fabricación de productos de minerales no metálicos; excepto del petróleo y del carbón mineral","457","economicactivity_soda",NULL,NULL
+"Fabricacion de vajillas y otros productos de alfareria y ceramica para el hogar","458","economicactivity_soda",NULL,NULL
+"Elaboracion de objetos artisticos de alfareria y ceramica","459","economicactivity_soda",NULL,NULL
+"Fabricacion de azulejos","460","economicactivity_soda",NULL,NULL
+"Fabricacion de loza y porcelana","461","economicactivity_soda",NULL,NULL
+"Fabricacion de muebles y articulos sanitarios","462","economicactivity_soda",NULL,NULL
+"Fabricacion de vidrio","463","economicactivity_soda",NULL,NULL
+"Fabricacion de cristales para automovil","464","economicactivity_soda",NULL,NULL
+"Fabricacion de fibra de vidrio","465","economicactivity_soda",NULL,NULL
+"Fabricacion de ampolletas","466","economicactivity_soda",NULL,NULL
+"Fabricacion de botellas","467","economicactivity_soda",NULL,NULL
+"Fabricacion de crisoles","468","economicactivity_soda",NULL,NULL
+"Fabricacion de otros envases de vidrio","469","economicactivity_soda",NULL,NULL
+"Fabricacion de emplomados","470","economicactivity_soda",NULL,NULL
+"Fabricacion de espejos y lunas","471","economicactivity_soda",NULL,NULL
+"Fabricacion de esferas de vidrio","472","economicactivity_soda",NULL,NULL
+"Fabricacion de objetos artisticos de vidrio y cristal","473","economicactivity_soda",NULL,NULL
+"Fabricacion de otros objetos de cristal","474","economicactivity_soda",NULL,NULL
+"Fabricacion de adobe","475","economicactivity_soda",NULL,NULL
+"Fabricacion de ladrillos","476","economicactivity_soda",NULL,NULL
+"Fabricacion de teja y tubo de arcilla","477","economicactivity_soda",NULL,NULL
+"Fabricacion de materiales para muros","478","economicactivity_soda",NULL,NULL
+"Fabricacion de productos refractarios","479","economicactivity_soda",NULL,NULL
+"Fabricacion de cemento","480","economicactivity_soda",NULL,NULL
+"Fabricacion de concreto cientifico","481","economicactivity_soda",NULL,NULL
+"Fabricacion de concreto para construccion","482","economicactivity_soda",NULL,NULL
+"Fabricacion de bloques de cemento","483","economicactivity_soda",NULL,NULL
+"Fabricacion de yeso","484","economicactivity_soda",NULL,NULL
+"Horno de cal","485","economicactivity_soda",NULL,NULL
+"Fabricacion de tinacos de asbesto","486","economicactivity_soda",NULL,NULL
+"Fabricacion de abrasivos","487","economicactivity_soda",NULL,NULL
+"Fabricacion de esmeriles","488","economicactivity_soda",NULL,NULL
+"Fabricacion de lija","489","economicactivity_soda",NULL,NULL
+"Taller de marmoleria","490","economicactivity_soda",NULL,NULL
+"Fabricacion de mosaicos terrazos y granito","491","economicactivity_soda",NULL,NULL
+"Fabricacion de postes y durmientes de concreto","492","economicactivity_soda",NULL,NULL
+"Fabricacion de tubos de concreto","493","economicactivity_soda",NULL,NULL
+"Usuarios menores industria productos de minerales no metalicos","494","economicactivity_soda",NULL,NULL
+"Cartera de productos minerales no metalicos de est","495","economicactivity_soda",NULL,NULL
+"Industrias metálicas básicas","496","economicactivity_soda",NULL,NULL
+"Fabricacion de fierro esponja","497","economicactivity_soda",NULL,NULL
+"Fundicion de fierro y acero","498","economicactivity_soda",NULL,NULL
+"Planta metalurgica","499","economicactivity_soda",NULL,NULL
+"Usuarios menores de industria siderurgica y productos metalicos","500","economicactivity_soda",NULL,NULL
+"Cartera siderurgica y de productos metalicos de es","501","economicactivity_soda",NULL,NULL
+"Fabricacion de laminas de hierro y acero","502","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de lamina","503","economicactivity_soda",NULL,NULL
+"Fabricacion de tubos de hierro y acero","504","economicactivity_soda",NULL,NULL
+"Fundicion refinacion laminacion extrusion y estiraje de cobre y sus aleaciones","505","economicactivity_soda",NULL,NULL
+"Fundicion laminacion extrusion y estiraje de aluminio y fabricacion de soldaduras aluminotermicas","506","economicactivity_soda",NULL,NULL
+"Fabricacion de tubos de estaño","507","economicactivity_soda",NULL,NULL
+"Fabricacion de equipos para soldar y soldaduras","508","economicactivity_soda",NULL,NULL
+"Fundicion de metales no ferruginosos","509","economicactivity_soda",NULL,NULL
+"Fabricación de productos metálicos; excepto maquinaria y equipo","510","economicactivity_soda",NULL,NULL
+"Fabricacion de cubiertos y cuchilleria","511","economicactivity_soda",NULL,NULL
+"Fabricacion de utensilios agricolas y herramientas de mano","512","economicactivity_soda",NULL,NULL
+"Fabricacion de remaches","513","economicactivity_soda",NULL,NULL
+"Fabricacion de tornillos tuercas y pijas","514","economicactivity_soda",NULL,NULL
+"Fabricacion de clavos cadenas grapas y tachuelas","515","economicactivity_soda",NULL,NULL
+"Fabricacion de candados","516","economicactivity_soda",NULL,NULL
+"Fabricacion de cerraduras","517","economicactivity_soda",NULL,NULL
+"Fabricacion de cortinas de metal","518","economicactivity_soda",NULL,NULL
+"Fabricacion de jaulas de metal","519","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de aluminio","520","economicactivity_soda",NULL,NULL
+"Fabricacion de perfiles puertas y ventanas de metal","521","economicactivity_soda",NULL,NULL
+"Taller de herreria","522","economicactivity_soda",NULL,NULL
+"Fabricacion de butacas de metal","523","economicactivity_soda",NULL,NULL
+"Fabricacion de estufas","524","economicactivity_soda",NULL,NULL
+"Fabricacion de otros muebles de metal","525","economicactivity_soda",NULL,NULL
+"Fabricacion de estructuras de metal","526","economicactivity_soda",NULL,NULL
+"Fabricacion de tanques para envasado de gases o liquidos","527","economicactivity_soda",NULL,NULL
+"Fabricacion de calderas tanques y tinacos de metal","528","economicactivity_soda",NULL,NULL
+"Fabricacion de calentadores para baño","529","economicactivity_soda",NULL,NULL
+"Fabricacion de envases de lamina","530","economicactivity_soda",NULL,NULL
+"Taller de hojalateria","531","economicactivity_soda",NULL,NULL
+"Fabricacion de corcholatas","532","economicactivity_soda",NULL,NULL
+"Fabricacion de alambrados y telas de metal","533","economicactivity_soda",NULL,NULL
+"Fabricacion de alambre","534","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de alambre","535","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de peltre","536","economicactivity_soda",NULL,NULL
+"Galvanizacion de lamina","537","economicactivity_soda",NULL,NULL
+"Galvanizacion de tuberia","538","economicactivity_soda",NULL,NULL
+"Taller de cobrizado","539","economicactivity_soda",NULL,NULL
+"Taller de cromado y niquelado","540","economicactivity_soda",NULL,NULL
+"Taller de esmaltado","541","economicactivity_soda",NULL,NULL
+"Fabricacion de piezas metalicas por fundicion y moldeo excepto para maquinaria equipo y material de transporte","542","economicactivity_soda",NULL,NULL
+"Fabricacion de tubos de cobre  plomo y aluminio","543","economicactivity_soda",NULL,NULL
+"Fabricacion de alfileres agujas y broches","544","economicactivity_soda",NULL,NULL
+"Fabricacion de cajas fuertes","545","economicactivity_soda",NULL,NULL
+"Fabricacion de cierres automaticos de metal","546","economicactivity_soda",NULL,NULL
+"Fabricacion de espuelas frenos y arneses de metal","547","economicactivity_soda",NULL,NULL
+"Fabricacion de hebillas de metal","548","economicactivity_soda",NULL,NULL
+"Fabricacion de hojas para rasurar","549","economicactivity_soda",NULL,NULL
+"Fabricacion de ojillos de metal","550","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de laton","551","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de metal no clasificados en otra parte","552","economicactivity_soda",NULL,NULL
+"Fabricacion de pasadores y horquillas","553","economicactivity_soda",NULL,NULL
+"Fabricacion de planchas industriales","554","economicactivity_soda",NULL,NULL
+"Fabricacion de tapones de metal","555","economicactivity_soda",NULL,NULL
+"Fabricacion de troqueles","556","economicactivity_soda",NULL,NULL
+"Fabricación, ensamble y reparación de maquinaria, equipo y sus partes; excepto los eléctricos","557","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de vehiculos de uso agropecuario","558","economicactivity_soda",NULL,NULL
+"Fabricacion de maquinaria e implementos agricolas","559","economicactivity_soda",NULL,NULL
+"Fabricacion de herramientas de metal","560","economicactivity_soda",NULL,NULL
+"Fabricacion de refacciones y maquinaria industrial","561","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de maquinaria y equipo para la industria de alimentos y bebidas","562","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de maquinaria equipo y tractores para las industrias extractivas y de la construccion","563","economicactivity_soda",NULL,NULL
+"Fabricacion de molinos para granos","564","economicactivity_soda",NULL,NULL
+"Usuarios menores fabricacion maquinaria y articulos electricos","565","economicactivity_soda",NULL,NULL
+"Cartera de fabricacion de maquinaria y articulos e","566","economicactivity_soda",NULL,NULL
+"Fabricacion de maquinas calculadoras registradoras y de escribir","567","economicactivity_soda",NULL,NULL
+"Fabricacion de equipo de procesamiento electronico de datos","568","economicactivity_soda",NULL,NULL
+"Fabricacion de maquinas de coser","569","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de gruas montacargas y otras maquinas para transportar o levantar","570","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de motores no electricos excepto para vehiculos automoviles","571","economicactivity_soda",NULL,NULL
+"Fabricacion de extinguidores","572","economicactivity_soda",NULL,NULL
+"Fabricacion de bombas para agua","573","economicactivity_soda",NULL,NULL
+"Fabricacion de valvulas de metal","574","economicactivity_soda",NULL,NULL
+"Fabricacion de filtros de metal","575","economicactivity_soda",NULL,NULL
+"Fabricacion e instalacion de equipos y aparatos de aire acondicionado calefaccion y refrigeracion","576","economicactivity_soda",NULL,NULL
+"Fabricacion de engranes de metal","577","economicactivity_soda",NULL,NULL
+"Taller mecanico de fabricacion y reparacion de partes industriales","578","economicactivity_soda",NULL,NULL
+"Fabricacion de accesorios para la industria textil","579","economicactivity_soda",NULL,NULL
+"Fabricación y ensamble de maquinaria, equipo, aparatos, accesorios y artículos eléctricos, electrónicos y sus partes","580","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de transformadores motores y maquinaria y equipo para generacion y utilizacion de la energia electrica","581","economicactivity_soda",NULL,NULL
+"Fabricacion de radios tocadiscos grabadoras y televisores","582","economicactivity_soda",NULL,NULL
+"Fabricacion de discos y cintas para grabaciones","583","economicactivity_soda",NULL,NULL
+"Grabacion de discos y cintas","584","economicactivity_soda",NULL,NULL
+"Fabricacion de aparatos de intercomunicacion","585","economicactivity_soda",NULL,NULL
+"Fabricacion de partes dispositivos y accesorios para equipo y aparatos de radio television y comunicaciones","586","economicactivity_soda",NULL,NULL
+"Fabricacion de otros aparatos electricos para el hogar","587","economicactivity_soda",NULL,NULL
+"Fabricacion de refrigeradores y equipos de calefaccion domestica","588","economicactivity_soda",NULL,NULL
+"Fabricacion de acumuladores","589","economicactivity_soda",NULL,NULL
+"Fabricacion de pilas secas","590","economicactivity_soda",NULL,NULL
+"Fabricacion de focos","591","economicactivity_soda",NULL,NULL
+"Fabricacion de cables de metal","592","economicactivity_soda",NULL,NULL
+"Fabricacion de material para instalaciones electricas","593","economicactivity_soda",NULL,NULL
+"Fabricacion de refacciones para aparatos electricos","594","economicactivity_soda",NULL,NULL
+"Fabricacion de anuncios luminosos","595","economicactivity_soda",NULL,NULL
+"Fabricacion de candiles y arbotantes","596","economicactivity_soda",NULL,NULL
+"Fabricacion de lamparas electricas","597","economicactivity_soda",NULL,NULL
+"Construcción, reconstrucción y ensamble de equipo de transporte y sus partes","598","economicactivity_soda",NULL,NULL
+"Fabricacion y ensamble de automoviles y camiones","599","economicactivity_soda",NULL,NULL
+"Fabricacion de carrocerias de metal","600","economicactivity_soda",NULL,NULL
+"Fabricacion de furgones y vagones","601","economicactivity_soda",NULL,NULL
+"Fabricacion y ensamble de otros vehiculos","602","economicactivity_soda",NULL,NULL
+"Fabricacion de pistones bielas anillos cigüeñales y monoblocks para motores","603","economicactivity_soda",NULL,NULL
+"Fabricacion de partes para el sistema de transmision de vehiculos automoviles","604","economicactivity_soda",NULL,NULL
+"Fabricacion de muelles y resortes para vehiculos","605","economicactivity_soda",NULL,NULL
+"Fabricacion de partes para el sistema de frenos de vehiculos automoviles","606","economicactivity_soda",NULL,NULL
+"Fabricacion de bujias","607","economicactivity_soda",NULL,NULL
+"Fabricacion de refacciones y accesorios automotrices","608","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de carros de ferrocarril y otro equipo ferroviario","609","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de buques y barcos","610","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de otros vehiculos acuaticos","611","economicactivity_soda",NULL,NULL
+"Fabricacion ensamble y reparacion de aeronaves","612","economicactivity_soda",NULL,NULL
+"Fabricacion y ensamble de motocicletas bicicletas y otros vehiculos de pedal","613","economicactivity_soda",NULL,NULL
+"Fabricacion de partes refacciones y accesorios para motocicletas bicicletas y otros vehiculos de pedal","614","economicactivity_soda",NULL,NULL
+"Fabricacion de carreolas y andaderas","615","economicactivity_soda",NULL,NULL
+"Fabricación de artículos de joyería","616","economicactivity_soda",NULL,NULL
+"Tallado de piedras preciosas","617","economicactivity_soda",NULL,NULL
+"Otras industrias manufactureras (joyeria, articulos de escritorio, fotograficos, para dentista, para optica, deportivos)","618","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de articulos de optica","619","economicactivity_soda",NULL,NULL
+"Fabricacion de camaras fotograficas de cine y proyectores","620","economicactivity_soda",NULL,NULL
+"Fabricacion de material fotografico","621","economicactivity_soda",NULL,NULL
+"Fabricacion de relojes","622","economicactivity_soda",NULL,NULL
+"Fabricacion de medallas insignias y placas","623","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de joyeria","624","economicactivity_soda",NULL,NULL
+"Orfebreria","625","economicactivity_soda",NULL,NULL
+"Tallado de piedras preciosas","626","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de quincalleria y bisuteria","627","economicactivity_soda",NULL,NULL
+"Fabricacion de cuerdas para guitarra","628","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de instrumentos musicales","629","economicactivity_soda",NULL,NULL
+"Fabricacion de aparatos para gimnasia","630","economicactivity_soda",NULL,NULL
+"Fabricacion de mesas de billar","631","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos para deportes","632","economicactivity_soda",NULL,NULL
+"Fabricacion de otros instrumentos de medicion","633","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de basculas y balanzas","634","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de instrumentos de fisica y quimica","635","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de instrumentos de ingenieria","636","economicactivity_soda",NULL,NULL
+"Fabricacion de aparatos ozonizadores","637","economicactivity_soda",NULL,NULL
+"Fabricacion de taximetros","638","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de aparatos ortopedicos","639","economicactivity_soda",NULL,NULL
+"Fabricacion y reparacion de instrumentos de cirugia","640","economicactivity_soda",NULL,NULL
+"Fabricacion de juguetes excepto los de hule y de plastico moldeados","641","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos para escritorio","642","economicactivity_soda",NULL,NULL
+"Fabricacion de canuteros","643","economicactivity_soda",NULL,NULL
+"Fabricacion de cintas para maquinas calculadoras registradoras y de escribir","644","economicactivity_soda",NULL,NULL
+"Fabricacion de lapices","645","economicactivity_soda",NULL,NULL
+"Fabricacion de pizarrones","646","economicactivity_soda",NULL,NULL
+"Fabricacion de sellos de goma","647","economicactivity_soda",NULL,NULL
+"Fabricacion de sellos para carros de ferrocarril","648","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos para dentista","649","economicactivity_soda",NULL,NULL
+"Fabricacion de cercos para calzado","650","economicactivity_soda",NULL,NULL
+"Fabricacion de hormas para calzado y tacones","651","economicactivity_soda",NULL,NULL
+"Fabricacion de escobas","652","economicactivity_soda",NULL,NULL
+"Fabricacion de armas","653","economicactivity_soda",NULL,NULL
+"Fabricacion de cartuchos","654","economicactivity_soda",NULL,NULL
+"Fabricacion de casquillos","655","economicactivity_soda",NULL,NULL
+"Fabricacion de municiones para caza","656","economicactivity_soda",NULL,NULL
+"Fabricacion de abanicos","657","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de carey","658","economicactivity_soda",NULL,NULL
+"Fabricacion de articulos de concha","659","economicactivity_soda",NULL,NULL
+"Fabricacion de bastones paraguas y sombrillas","660","economicactivity_soda",NULL,NULL
+"Fabricacion de flores artificiales","661","economicactivity_soda",NULL,NULL
+"Fabricacion de otros articulos de pluma de ave","662","economicactivity_soda",NULL,NULL
+"Fabricacion de rotulos","663","economicactivity_soda",NULL,NULL
+"Fabricacion de talco industrial","664","economicactivity_soda",NULL,NULL
+"Fabricacion de tragaluces y marquesinas","665","economicactivity_soda",NULL,NULL
+"Fabricacion de productos manufacturados no clasificados en otra parte","666","economicactivity_soda",NULL,NULL
+"Ajuste programa venta de cartera fobaproa","667","economicactivity_soda",NULL,NULL
+"Ajuste estadistico","668","economicactivity_soda",NULL,NULL
+"Usuarios menores industria manufacturera","669","economicactivity_soda",NULL,NULL
+"Cartera de industria manufacturera de estados anal","670","economicactivity_soda",NULL,NULL
+"Contratación de obras completas de construcción (casas, departamentos, inmuebles, pavimentación, no residenciales, vias de comunicación)","671","economicactivity_soda",NULL,NULL
+"Construccion de casas y techos desarmables","672","economicactivity_soda",NULL,NULL
+"Construccion de inmuebles","673","economicactivity_soda",NULL,NULL
+"Prestamos para la construccion de vivienda  tanto de interes social como provenientes de la reserva para pensiones del personal","674","economicactivity_soda",NULL,NULL
+"Prestamos para la construccion de vivienda para acreditados de ingresos minimos","675","economicactivity_soda",NULL,NULL
+"Desarrolladores de vivienda","676","economicactivity_soda",NULL,NULL
+"Cartera de vivienda de interes social de estados a","677","economicactivity_soda",NULL,NULL
+"Construccion de vivienda tipo medio","678","economicactivity_soda",NULL,NULL
+"Usuarios menores construccion de vivienda tipo medio","679","economicactivity_soda",NULL,NULL
+"Construccion de vivienda residencial","680","economicactivity_soda",NULL,NULL
+"Menores construccion de vivienda residencial","681","economicactivity_soda",NULL,NULL
+"Construccion de edificios para oficinas escuelas hospitales hoteles y otros no residenciales","682","economicactivity_soda",NULL,NULL
+"Construccion de edificios industriales y para fines analogos","683","economicactivity_soda",NULL,NULL
+"Construccion de vias de comunicacion","684","economicactivity_soda",NULL,NULL
+"Pavimentacion","685","economicactivity_soda",NULL,NULL
+"Urbanizacion","686","economicactivity_soda",NULL,NULL
+"Construccion de puertos","687","economicactivity_soda",NULL,NULL
+"Construccion e instalacion de lineas telefonicas torres emisoras de radio y television y otras obras conexas","688","economicactivity_soda",NULL,NULL
+"Construccion de pistas de aterrizaje ductos y otras obras vinculadas a las vias de comunicacion","689","economicactivity_soda",NULL,NULL
+"Construccion de presas","690","economicactivity_soda",NULL,NULL
+"Perforacion de norias y pozos para agua","691","economicactivity_soda",NULL,NULL
+"Construccion e instalacion de plantas generadoras y lineas de transmision y distribucion de energia electrica","692","economicactivity_soda",NULL,NULL
+"Perforacion de pozos petroleros y de gas","693","economicactivity_soda",NULL,NULL
+"Construccion de estadios monumentos y otras obras de ingenieria","694","economicactivity_soda",NULL,NULL
+"Usuarios menores construccion diferente a vivienda","695","economicactivity_soda",NULL,NULL
+"Cartera de construccion de estados analiticos","696","economicactivity_soda",NULL,NULL
+"Servicios especiales prestados por subcontratistas (demoliciones, carpinteria, impermiabilización, inst eslectricas, pintura, plomeria)","697","economicactivity_soda",NULL,NULL
+"Premezclado y colado de concreto","698","economicactivity_soda",NULL,NULL
+"Demolicion de inmuebles","699","economicactivity_soda",NULL,NULL
+"Impermeabilizacion de inmuebles","700","economicactivity_soda",NULL,NULL
+"Taller de plomeria","701","economicactivity_soda",NULL,NULL
+"Instalaciones del sistema electrico incluye sistemas de intercomunicacion","702","economicactivity_soda",NULL,NULL
+"Instalaciones de sistemas de aire acondicionado y calefaccion y otras instalaciones analogas","703","economicactivity_soda",NULL,NULL
+"Servicios de pintado y tapizado de inmuebles","704","economicactivity_soda",NULL,NULL
+"Labrado y colocacion de piedra","705","economicactivity_soda",NULL,NULL
+"Colocacion de duelas parquet lambrines y otros trabajos de carpinteria","706","economicactivity_soda",NULL,NULL
+"Empleado del poder judicial","1237","economicactivity_soda",NULL,NULL
+"Otros servicios de acabado prestados por subcontratistas","707","economicactivity_soda",NULL,NULL
+"Generación, transmisión y distribución de energía eléctrica","708","economicactivity_soda",NULL,NULL
+"Generacion y suministro de energia electrica","709","economicactivity_soda",NULL,NULL
+"Usuarios menores energia electrica","710","economicactivity_soda",NULL,NULL
+"Cartera de energia electrica de estados analiticos","711","economicactivity_soda",NULL,NULL
+"Distribucion de energia electrica","712","economicactivity_soda",NULL,NULL
+"Pidiregas energia electrica","713","economicactivity_soda",NULL,NULL
+"Captación, tratamiento, conducción y distribución de agua potable excepto de riego","714","economicactivity_soda",NULL,NULL
+"Captacion, tratamiento, conduccion y distribucion de agua potable excepto de riego","715","economicactivity_soda",NULL,NULL
+"Compraventa de alimentos, bebidas y productos de tabaco","716","economicactivity_soda",NULL,NULL
+"Compraventa de semillas y granos","717","economicactivity_soda",NULL,NULL
+"Compraventa de frutas","718","economicactivity_soda",NULL,NULL
+"Compraventa de legumbres y hortalizas","719","economicactivity_soda",NULL,NULL
+"Compraventa de chile seco y especias","720","economicactivity_soda",NULL,NULL
+"Compraventa de forrajes en estado natural","721","economicactivity_soda",NULL,NULL
+"Compraventa de otros productos alimenticios agricolas en estado natural","722","economicactivity_soda",NULL,NULL
+"Compraventa de aves en pie","723","economicactivity_soda",NULL,NULL
+"Compraventa de ganado mayor en pie","724","economicactivity_soda",NULL,NULL
+"Compraventa de ganado menor en pie","725","economicactivity_soda",NULL,NULL
+"Compraventa de carne de res y otras especies de ganado","726","economicactivity_soda",NULL,NULL
+"Compraventa de visceras de ganado crudas y semicrudas","727","economicactivity_soda",NULL,NULL
+"Compraventa de carne de aves","728","economicactivity_soda",NULL,NULL
+"Compraventa de huevo","729","economicactivity_soda",NULL,NULL
+"Compraventa de manteca","730","economicactivity_soda",NULL,NULL
+"Compraventa de materias primas animales","731","economicactivity_soda",NULL,NULL
+"Compraventa de pescados y mariscos","732","economicactivity_soda",NULL,NULL
+"Salchichoneria","733","economicactivity_soda",NULL,NULL
+"Tienda de abarrotes y miscelanea","734","economicactivity_soda",NULL,NULL
+"Compraventa de dulces","735","economicactivity_soda",NULL,NULL
+"Compraventa de especias y articulos alimenticios deshidratados","736","economicactivity_soda",NULL,NULL
+"Compraventa de leche","737","economicactivity_soda",NULL,NULL
+"Compraventa de otros productos lacteos","738","economicactivity_soda",NULL,NULL
+"Compraventa de pan y pasteles","739","economicactivity_soda",NULL,NULL
+"Compraventa de sal","740","economicactivity_soda",NULL,NULL
+"Venta y distribucion de despensas familiares","741","economicactivity_soda",NULL,NULL
+"Compraventa de azucar","742","economicactivity_soda",NULL,NULL
+"Compraventa de alimento para ganado","743","economicactivity_soda",NULL,NULL
+"Compraventa de alimentos para aves y otros animales","744","economicactivity_soda",NULL,NULL
+"Compraventa de refrescos aguas gaseosas y aguas purificadas","745","economicactivity_soda",NULL,NULL
+"Compraventa de cerveza","746","economicactivity_soda",NULL,NULL
+"Compraventa de pulque","747","economicactivity_soda",NULL,NULL
+"Compraventa de vinos y licores","748","economicactivity_soda",NULL,NULL
+"Compraventa de tabaco","749","economicactivity_soda",NULL,NULL
+"Compraventa de tabacos puros y cigarros","750","economicactivity_soda",NULL,NULL
+"Compraventa de prendas de vestir y otros artículos de uso personal","751","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de lenceria","752","economicactivity_soda",NULL,NULL
+"Compraventa de ropa","753","economicactivity_soda",NULL,NULL
+"Compraventa de calzado","754","economicactivity_soda",NULL,NULL
+"Compraventa de sombreros","755","economicactivity_soda",NULL,NULL
+"Compraventa de pieles finas con pelo","756","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de merceria y cederia","757","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de boneteria","758","economicactivity_soda",NULL,NULL
+"Compraventa de casimires","759","economicactivity_soda",NULL,NULL
+"Compraventa de otros productos textiles","760","economicactivity_soda",NULL,NULL
+"Compraventa de telas","761","economicactivity_soda",NULL,NULL
+"Compraventa de articulos para deporte","762","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de optica","763","economicactivity_soda",NULL,NULL
+"Compraventa de juguetes","764","economicactivity_soda",NULL,NULL
+"Compraventa de instrumentos y articulos musicales","765","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de plata","766","economicactivity_soda",NULL,NULL
+"Compraventa de otras joyas","767","economicactivity_soda",NULL,NULL
+"Compraventa de relojes","768","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de talabarteria","769","economicactivity_soda",NULL,NULL
+"Compraventa de otros articulos de piel","770","economicactivity_soda",NULL,NULL
+"Compraventa de sillas de montar","771","economicactivity_soda",NULL,NULL
+"Compraventa de libros","772","economicactivity_soda",NULL,NULL
+"Distribucion y compraventa de periodicos y revistas","773","economicactivity_soda",NULL,NULL
+"Compraventa de articulos fotograficos y cinematograficos","774","economicactivity_soda",NULL,NULL
+"Compraventa de medicinas","775","economicactivity_soda",NULL,NULL
+"Compraventa de perfumes","776","economicactivity_soda",NULL,NULL
+"Distribucion de otros productos quimicos farmaceuticos","777","economicactivity_soda",NULL,NULL
+"Compraventa de papeleria y articulos de escritorio","778","economicactivity_soda",NULL,NULL
+"Compraventa de paraguas sombrillas ropa usada y otros articulos de uso personal","779","economicactivity_soda",NULL,NULL
+"Compraventa de artículos para el hogar (electrodomesticos, refacciones, loza y porcelana, antiguedades)","780","economicactivity_soda",NULL,NULL
+"Compraventa de refrigeradores lavadoras y estufas","781","economicactivity_soda",NULL,NULL
+"Compraventa de televisores consolas radios modulares y tocacintas","782","economicactivity_soda",NULL,NULL
+"Compraventa de otros aparatos electricos y electronicos de uso domestico","783","economicactivity_soda",NULL,NULL
+"Compraventa de muebles","784","economicactivity_soda",NULL,NULL
+"Compraventa de maquinas de coser y tejedoras","785","economicactivity_soda",NULL,NULL
+"Compraventa de refacciones y accesorios de maquinas aparatos e instrumentos para el hogar excepto, los de maquinas de coser y tejer","786","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de cristal loza y porcelana","787","economicactivity_soda",NULL,NULL
+"Compraventa de articulos para decoracion","788","economicactivity_soda",NULL,NULL
+"Compraventa de tapetes y alfombras","789","economicactivity_soda",NULL,NULL
+"Compraventa de discos y cassettes","790","economicactivity_soda",NULL,NULL
+"Compraventa de articulos religiosos","791","economicactivity_soda",NULL,NULL
+"Compraventa de antigüedades","792","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de yute y henequen","793","economicactivity_soda",NULL,NULL
+"Compraventa de articulos para regalo","794","economicactivity_soda",NULL,NULL
+"Compraventa de articulos regionales curiosidades y artesanias","795","economicactivity_soda",NULL,NULL
+"Compraventa de flores y adornos florales artificiales","796","economicactivity_soda",NULL,NULL
+"Compraventa de flores y adornos florales naturales","797","economicactivity_soda",NULL,NULL
+"Compraventa de otros articulos para el hogar","798","economicactivity_soda",NULL,NULL
+"Compraventa en tiendas de autoservicio y de departamentos especializados por línea de mercancías","799","economicactivity_soda",NULL,NULL
+"Tienda de autoservicio","800","economicactivity_soda",NULL,NULL
+"Tiendas de departamentos especializados excepto de comestibles","801","economicactivity_soda",NULL,NULL
+"Compraventa de otros aparatos electricos","802","economicactivity_soda",NULL,NULL
+"Compraventa de refacciones para aparatos electricos","803","economicactivity_soda",NULL,NULL
+"Compraventa de gases, combustibles y lubricantes","804","economicactivity_soda",NULL,NULL
+"Compraventa de fluidos y gases","805","economicactivity_soda",NULL,NULL
+"Compraventa de gas para uso domestico o comercial","806","economicactivity_soda",NULL,NULL
+"Compraventa de gasolina y diesel","807","economicactivity_soda",NULL,NULL
+"Compraventa de petroleo combustible","808","economicactivity_soda",NULL,NULL
+"Compraventa de lubricantes","809","economicactivity_soda",NULL,NULL
+"Compraventa de carbon y otros combustibles","810","economicactivity_soda",NULL,NULL
+"Compraventa de materias primas, materiales y auxiliares (algodón, cemento, sanitarios, pieles, ferreteria, madera, pinturas)","811","economicactivity_soda",NULL,NULL
+"Compraventa de algodon","812","economicactivity_soda",NULL,NULL
+"Compraventa de semillas para siembra","813","economicactivity_soda",NULL,NULL
+"Compraventa de cueros y pieles sin curtir","814","economicactivity_soda",NULL,NULL
+"Compraventa de henequen e ixtle","815","economicactivity_soda",NULL,NULL
+"Compraventa de lana","816","economicactivity_soda",NULL,NULL
+"Compraventa de otras materias primas vegetales","817","economicactivity_soda",NULL,NULL
+"Compraventa de otras fibras comerciales","818","economicactivity_soda",NULL,NULL
+"Compraventa de otras materias primas de origen animal","819","economicactivity_soda",NULL,NULL
+"Compraventa de cemento cal yeso y otros productos a base de minerales no metalicos","820","economicactivity_soda",NULL,NULL
+"Compraventa de fierro laminado y en lingotes","821","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de ferreteria","822","economicactivity_soda",NULL,NULL
+"Compraventa de colorantes para la industria","823","economicactivity_soda",NULL,NULL
+"Compraventa de pinturas barnices y brochas","824","economicactivity_soda",NULL,NULL
+"Compraventa de madera","825","economicactivity_soda",NULL,NULL
+"Compraventa de vidrios cristales y emplomados","826","economicactivity_soda",NULL,NULL
+"Compraventa de anilinas","827","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de tlapaleria","828","economicactivity_soda",NULL,NULL
+"Compraventa de costales y bolsas","829","economicactivity_soda",NULL,NULL
+"Compra de articulos sanitarios","830","economicactivity_soda",NULL,NULL
+"Compraventa de material para instalaciones electricas y de sonido","831","economicactivity_soda",NULL,NULL
+"Compraventa de materiales para construccion","832","economicactivity_soda",NULL,NULL
+"Compraventa de tapices","833","economicactivity_soda",NULL,NULL
+"Compraventa de fertilizantes y plaguicidas","834","economicactivity_soda",NULL,NULL
+"Compraventa de articulos de peleteria","835","economicactivity_soda",NULL,NULL
+"Compraventa de desperdicios de papel","836","economicactivity_soda",NULL,NULL
+"Compraventa de fierro usado","837","economicactivity_soda",NULL,NULL
+"Compraventa de substancias quimicas para la industria","838","economicactivity_soda",NULL,NULL
+"Compraventa de ceras y parafinas","839","economicactivity_soda",NULL,NULL
+"Compraventa de desperdicios industriales","840","economicactivity_soda",NULL,NULL
+"Compraventa de materias primas de origen mineral","841","economicactivity_soda",NULL,NULL
+"Compraventa de otros metales y minerales laminados y en lingotes","842","economicactivity_soda",NULL,NULL
+"Compraventa de maquinaria, equipo, instrumentos, aparatos y herramientas, sus refacciones y accesorios","843","economicactivity_soda",NULL,NULL
+"Compraventa de maquinaria equipo e implementos para la agricultura y la ganaderia","844","economicactivity_soda",NULL,NULL
+"Compraventa de articulos para la explotacion de minas","845","economicactivity_soda",NULL,NULL
+"Compraventa de maquinaria equipo implementos y herramientas para trabajar la madera metales y otros materiales","846","economicactivity_soda",NULL,NULL
+"Compraventa de maquinaria nueva","847","economicactivity_soda",NULL,NULL
+"Compraventa de maquinaria usada","848","economicactivity_soda",NULL,NULL
+"Compraventa de equipo de trabajo y proteccion industrial","849","economicactivity_soda",NULL,NULL
+"Compraventa de refacciones para maquinaria","850","economicactivity_soda",NULL,NULL
+"Compraventa de maquinas de escribir","851","economicactivity_soda",NULL,NULL
+"Compraventa de muebles y articulos para oficina","852","economicactivity_soda",NULL,NULL
+"Compraventa de equipo de procesamiento electronico de datos","853","economicactivity_soda",NULL,NULL
+"Compraventa de equipo y mobiliario para hoteles restaurantes billares boliches peluquerias y salones de belleza","854","economicactivity_soda",NULL,NULL
+"Compraventa de equipos de refrigeracion comercial","855","economicactivity_soda",NULL,NULL
+"Compraventa de accesorios para muebles","856","economicactivity_soda",NULL,NULL
+"Compraventa de equipo contra incendio","857","economicactivity_soda",NULL,NULL
+"Compraventa de basculas balanzas y aparatos similares para equipo pesado","858","economicactivity_soda",NULL,NULL
+"Compraventa de articulos medicos","859","economicactivity_soda",NULL,NULL
+"Compraventa de articulos y aparatos ortopedicos","860","economicactivity_soda",NULL,NULL
+"Compraventa de muebles para consultorios y sanatorios","861","economicactivity_soda",NULL,NULL
+"Compraventa de equipos quimicos y para laboratorio","862","economicactivity_soda",NULL,NULL
+"Compraventa de aparatos cientificos y de precision","863","economicactivity_soda",NULL,NULL
+"Venta de vehículos, embarcaciones ó aeronaves  nuevos","864","economicactivity_soda",NULL,NULL
+"Venta de vehículos, embarcaciones ó aeronaves  usados","865","economicactivity_soda",NULL,NULL
+"Servicios de blindaje","866","economicactivity_soda",NULL,NULL
+"Compraventa de equipo de transporte, sus refacciones y accesorios","867","economicactivity_soda",NULL,NULL
+"Compraventa de otros equipos de transporte, sus refacciones y accesorios","868","economicactivity_soda",NULL,NULL
+"Compraventa de automoviles y camiones nuevos","869","economicactivity_soda",NULL,NULL
+"Compraventa de automoviles y camiones usados","870","economicactivity_soda",NULL,NULL
+"Compraventa de bicicletas y sus accesorios","871","economicactivity_soda",NULL,NULL
+"Compraventa de motocicletas y sus accesorios","872","economicactivity_soda",NULL,NULL
+"Compraventa de llantas","873","economicactivity_soda",NULL,NULL
+"Compraventa de refacciones y accesorios nuevos para autos y camiones","874","economicactivity_soda",NULL,NULL
+"Compraventa de refacciones y accesorios usados para automoviles y camiones","875","economicactivity_soda",NULL,NULL
+"Compraventa de partes y refacciones para vehiculos aereos","876","economicactivity_soda",NULL,NULL
+"Compraventa de vehiculos acuaticos y sus refacciones","877","economicactivity_soda",NULL,NULL
+"Compraventa de vehiculos aereos","878","economicactivity_soda",NULL,NULL
+"Compraventa de armas de fuego y sus accesorios","879","economicactivity_soda",NULL,NULL
+"Compraventa de diamantes","880","economicactivity_soda",NULL,NULL
+"Tarjeta de crédito y comercialización de tarjetas de servicios","881","economicactivity_soda",NULL,NULL
+"Compraventa de bienes inmuebles y artículos diversos","882","economicactivity_soda",NULL,NULL
+"Prestamos para la adquisicion de vivienda para acreditados de ingresos minimos","883","economicactivity_soda",NULL,NULL
+"Compra de casa habitacion","884","economicactivity_soda",NULL,NULL
+"Prestamos para la adquisicion de vivienda tanto de interes social como provenientes de la reserva para pensiones del personal","885","economicactivity_soda",NULL,NULL
+"Compraventa de casas y otros inmuebles","886","economicactivity_soda",NULL,NULL
+"Compraventa de terrenos","887","economicactivity_soda",NULL,NULL
+"Actualizacion mensual del saldo operaciones de cre","888","economicactivity_soda",NULL,NULL
+"Adquisicion de vivienda tipo medio","889","economicactivity_soda",NULL,NULL
+"Usuarios menores adquisicion de vivienda tipo medio","890","economicactivity_soda",NULL,NULL
+"Adquisicion de vivienda residencial","891","economicactivity_soda",NULL,NULL
+"Usuarios menores adquisicion de vivienda residencial","892","economicactivity_soda",NULL,NULL
+"Compraventa de armas de fuego","893","economicactivity_soda",NULL,NULL
+"Agencias de rifas y sorteos (quinielas y loteria)","894","economicactivity_soda",NULL,NULL
+"Compraventa de productos veterinarios y otros articulos para el cuidado de los animales","895","economicactivity_soda",NULL,NULL
+"Compraventa de diamantes","896","economicactivity_soda",NULL,NULL
+"Compraventa de equipos y aparatos de aire acondicionado","897","economicactivity_soda",NULL,NULL
+"Compraventa de jarcieria reatas canastas y articulos tejidos de fibra","898","economicactivity_soda",NULL,NULL
+"Compraventa de otros articulos de plastico","899","economicactivity_soda",NULL,NULL
+"Usuarios menores por operaciones de reporto","900","economicactivity_soda",NULL,NULL
+"Compraventa de otros productos de hule","901","economicactivity_soda",NULL,NULL
+"Compraventa de velas y veladoras","902","economicactivity_soda",NULL,NULL
+"Creditos personales al consumo","903","economicactivity_soda",NULL,NULL
+"Prestamos al personal de la institucion","904","economicactivity_soda",NULL,NULL
+"Compraventa de articulos no clasificados en otra parte","905","economicactivity_soda",NULL,NULL
+"Tarjeta de credito","906","economicactivity_soda",NULL,NULL
+"Creditos para adquisicion de bienes de consumo duradero","907","economicactivity_soda",NULL,NULL
+"Consumos personales","908","economicactivity_soda",NULL,NULL
+"Operaciones de arrendamiento capitalizable","909","economicactivity_soda",NULL,NULL
+"Otros creditos al consumo","910","economicactivity_soda",NULL,NULL
+"Automotriz","911","economicactivity_soda",NULL,NULL
+"Adquisicion de bienes muebles","912","economicactivity_soda",NULL,NULL
+"Usuarios menores comercio","913","economicactivity_soda",NULL,NULL
+"Cartera de comercio de estados analiticos","914","economicactivity_soda",NULL,NULL
+"Centros cambiarios","915","economicactivity_soda",NULL,NULL
+"Transporte terrestre","916","economicactivity_soda",NULL,NULL
+"Transporte en autobus urbano y suburbano de pasajeros","917","economicactivity_soda",NULL,NULL
+"Transporte en autobus foraneo de pasajeros","918","economicactivity_soda",NULL,NULL
+"Transporte en automovil de ruleteo","919","economicactivity_soda",NULL,NULL
+"Transporte en automoviles de sitio y turismo","920","economicactivity_soda",NULL,NULL
+"Transporte en automovil de ruta fija","921","economicactivity_soda",NULL,NULL
+"Autotransporte escolar turistico en autobus y otros especializados excepto ambulancias","922","economicactivity_soda",NULL,NULL
+"Autotransporte de materiales de construccion","923","economicactivity_soda",NULL,NULL
+"Agencia de mudanzas","924","economicactivity_soda",NULL,NULL
+"Autotransporte de carga de productos especificos","925","economicactivity_soda",NULL,NULL
+"Transporte de carga foranea","926","economicactivity_soda",NULL,NULL
+"Usuarios menores transportes","927","economicactivity_soda",NULL,NULL
+"Cartera de transportes de estados analiticos","928","economicactivity_soda",NULL,NULL
+"Ferrocarriles","929","economicactivity_soda",NULL,NULL
+"Tranvias y trolebuses","930","economicactivity_soda",NULL,NULL
+"Transporte en ferrocarril urbano (metro)","931","economicactivity_soda",NULL,NULL
+"Transporte por ductos","932","economicactivity_soda",NULL,NULL
+"Transporte por agua","933","economicactivity_soda",NULL,NULL
+"Agencia de vapores y buques","934","economicactivity_soda",NULL,NULL
+"Transportes maritimos de cabotaje","935","economicactivity_soda",NULL,NULL
+"Transporte fluvial y lacustre","936","economicactivity_soda",NULL,NULL
+"Carga y estiba portuaria","937","economicactivity_soda",NULL,NULL
+"Transporte aéreo","938","economicactivity_soda",NULL,NULL
+"Transportacion aerea de pasajeros","939","economicactivity_soda",NULL,NULL
+"Servicios relacionados con el transporte en aeronaves con matricula extranjera","940","economicactivity_soda",NULL,NULL
+"Servicios conexos al transporte","941","economicactivity_soda",NULL,NULL
+"Administracion de caminos puentes y servicios auxiliares","942","economicactivity_soda",NULL,NULL
+"Aeropuerto civil","943","economicactivity_soda",NULL,NULL
+"Administracion de puertos maritimos lacustres y fluviales","944","economicactivity_soda",NULL,NULL
+"Administracion de centrales camioneras y servicios auxiliares","945","economicactivity_soda",NULL,NULL
+"Servicios relacionados con el transporte en general","946","economicactivity_soda",NULL,NULL
+"Servicios de almacenamiento y refrigeracion","947","economicactivity_soda",NULL,NULL
+"Agencia de turismo","948","economicactivity_soda",NULL,NULL
+"Agencia aduanal","949","economicactivity_soda",NULL,NULL
+"Servicios de bascula y de grua para vehiculos","950","economicactivity_soda",NULL,NULL
+"Agencia de ferrocarril","951","economicactivity_soda",NULL,NULL
+"Alquiler de lanchas y veleros","952","economicactivity_soda",NULL,NULL
+"Renta de vehiculos aereos","953","economicactivity_soda",NULL,NULL
+"Comunicaciones","954","economicactivity_soda",NULL,NULL
+"Empresa de telefonos","955","economicactivity_soda",NULL,NULL
+"Empresa de telegrafos","956","economicactivity_soda",NULL,NULL
+"Otros servs. De telecomunicaciones (excepto radio.","957","economicactivity_soda",NULL,NULL
+"Otros servicios de telecomunicaciones (excepto radiodifusion y television)","958","economicactivity_soda",NULL,NULL
+"Menores comunicaciones","959","economicactivity_soda",NULL,NULL
+"Cartera de comunicaciones de estados analiticos","960","economicactivity_soda",NULL,NULL
+"Servicios postales","961","economicactivity_soda",NULL,NULL
+"Servicios de instituciones de crédito, organizaciones auxiliares e instituciones de seguros y fianzas","962","economicactivity_soda",NULL,NULL
+"Servicios de la banca nacional","963","economicactivity_soda",NULL,NULL
+"Servicios de la banca nacional por operaciones de call money","964","economicactivity_soda",NULL,NULL
+"Menores banca desarrollo","965","economicactivity_soda",NULL,NULL
+"Servicios de fondos y fideicomisos de fomento economico","966","economicactivity_soda",NULL,NULL
+"Servicios de la banca privada y mixta multiple","967","economicactivity_soda",NULL,NULL
+"Servicios de la banca privada especializada","968","economicactivity_soda",NULL,NULL
+"Servicios de la banca privada y mixta multiple por operaciones de call money","969","economicactivity_soda",NULL,NULL
+"Servicios de la banca privada especializada por op","970","economicactivity_soda",NULL,NULL
+"Sociedades de ahorro y prestamo","971","economicactivity_soda",NULL,NULL
+"Sociedades de ahorro y credito popular","972","economicactivity_soda",NULL,NULL
+"Sociedades financieras de objeto limitado","973","economicactivity_soda",NULL,NULL
+"Sociedades financieras de objeto multiple reguladas","974","economicactivity_soda",NULL,NULL
+"Sociedades financieras de objeto multiple no reguladas","975","economicactivity_soda",NULL,NULL
+"Usuarios menores banca comercial","976","economicactivity_soda",NULL,NULL
+"Usuarios menores de servicios bancarios","977","economicactivity_soda",NULL,NULL
+"Cartera de servicios bancarios de estados analitic","978","economicactivity_soda",NULL,NULL
+"Almacenes de deposito nacionales","979","economicactivity_soda",NULL,NULL
+"Almacenes de deposito privados","980","economicactivity_soda",NULL,NULL
+"Uniones de credito nacionales","981","economicactivity_soda",NULL,NULL
+"Uniones de credito privadas","982","economicactivity_soda",NULL,NULL
+"Compañias de fianzas nacionales","983","economicactivity_soda",NULL,NULL
+"Compañias de fianzas privadas","984","economicactivity_soda",NULL,NULL
+"Aj. Int. Financieros no bancarios udis","985","economicactivity_soda",NULL,NULL
+"Bolsa de valores","986","economicactivity_soda",NULL,NULL
+"Sociedades de inversion","987","economicactivity_soda",NULL,NULL
+"Compañias de seguros nacionales","988","economicactivity_soda",NULL,NULL
+"Compañias de seguros privadas","989","economicactivity_soda",NULL,NULL
+"Montepío ó casas de empeño","990","economicactivity_soda",NULL,NULL
+"Servicios colaterales a instituciones financieras y de seguros","991","economicactivity_soda",NULL,NULL
+"Inversionista","992","economicactivity_soda",NULL,NULL
+"Agente de bolsa","993","economicactivity_soda",NULL,NULL
+"Casas de bolsa nacionales","994","economicactivity_soda",NULL,NULL
+"Casas de bolsa privadas","995","economicactivity_soda",NULL,NULL
+"Agente de seguros","996","economicactivity_soda",NULL,NULL
+"Casa de cambio","997","economicactivity_soda",NULL,NULL
+"Corresponsal bancario","998","economicactivity_soda",NULL,NULL
+"Caja de ahorros","999","economicactivity_soda",NULL,NULL
+"Montepio","1000","economicactivity_soda",NULL,NULL
+"Prestamista","1001","economicactivity_soda",NULL,NULL
+"Factoring","1002","economicactivity_soda",NULL,NULL
+"Empresas controladoras financieras","1003","economicactivity_soda",NULL,NULL
+"Usuarios menores otros intermediarios financieros publicos","1004","economicactivity_soda",NULL,NULL
+"Usuarios menores otros intermediarios financieros privados","1005","economicactivity_soda",NULL,NULL
+"Administradoras de tarjeta de credito","1006","economicactivity_soda",NULL,NULL
+"Empresas de autofinanciamiento automotriz","1007","economicactivity_soda",NULL,NULL
+"Empresas de autofinanciamiento residencial","1008","economicactivity_soda",NULL,NULL
+"Fobaproa-ipab","1009","economicactivity_soda",NULL,NULL
+"Fobaproa-ipab","1010","economicactivity_soda",NULL,NULL
+"Servicios relacionados con inmuebles","1011","economicactivity_soda",NULL,NULL
+"Alquiler de terrenos locales y edificios no residenciales","1012","economicactivity_soda",NULL,NULL
+"Arrendamiento de inmuebles residenciales","1013","economicactivity_soda",NULL,NULL
+"Servicio de corredores de bienes raices","1014","economicactivity_soda",NULL,NULL
+"Administracion de inmuebles","1015","economicactivity_soda",NULL,NULL
+"Contaduría y auditoría","1016","economicactivity_soda",NULL,NULL
+"Asesores  fiscales y financieros","1017","economicactivity_soda",NULL,NULL
+"Notarías públicas","1018","economicactivity_soda",NULL,NULL
+"Servicios profesionales y técnicos","1019","economicactivity_soda",NULL,NULL
+"Servicios de notarias publicas","1020","economicactivity_soda",NULL,NULL
+"Servicios de bufetes juridicos","1021","economicactivity_soda",NULL,NULL
+"Servicios de contaduria y auditoria; incluso teneduria de libros","1022","economicactivity_soda",NULL,NULL
+"Servicios de asesoria y estudios tecnicos de arquitectura e ingenieria (incluso diseño industrial)","1023","economicactivity_soda",NULL,NULL
+"Despacho de otros profesionistas","1024","economicactivity_soda",NULL,NULL
+"Servicio de investigacion de mercado  solvencia financiera, de patentes  y marcas industriales y otros similares","1025","economicactivity_soda",NULL,NULL
+"Servicios de analisis de sistemas y procesamiento electronico de datos","1026","economicactivity_soda",NULL,NULL
+"Agencia de publicidad","1027","economicactivity_soda",NULL,NULL
+"Agencia noticiosa","1028","economicactivity_soda",NULL,NULL
+"Servicios administrativos de tramite y cobranza; incluso escritorios publicos","1029","economicactivity_soda",NULL,NULL
+"Servicios de copias fotostaticas xerografitas y similares","1030","economicactivity_soda",NULL,NULL
+"Comisionista","1031","economicactivity_soda",NULL,NULL
+"Representacion de artistas","1032","economicactivity_soda",NULL,NULL
+"Representante casas extranjeras","1033","economicactivity_soda",NULL,NULL
+"Representante casas nacionales","1034","economicactivity_soda",NULL,NULL
+"Servicios de instalacion y mantenimiento de maquinaria y equipo por empresas especializadas","1035","economicactivity_soda",NULL,NULL
+"Servicios de agencias de colocacion y seleccion de personal","1036","economicactivity_soda",NULL,NULL
+"Prestacion de otros servicios tecnicos","1037","economicactivity_soda",NULL,NULL
+"Empresas controladoras no financieras","1038","economicactivity_soda",NULL,NULL
+"Empresas de seguridad privada","1039","economicactivity_soda",NULL,NULL
+"Empresas transportadoras de valores","1040","economicactivity_soda",NULL,NULL
+"Servicios de alquiler a empresas","1041","economicactivity_soda",NULL,NULL
+"Arrendamiento de maquinaria","1042","economicactivity_soda",NULL,NULL
+"Arrendadoras financieras nacionales","1043","economicactivity_soda",NULL,NULL
+"Arrendadoras financieras privadas","1044","economicactivity_soda",NULL,NULL
+"Arrendamiento de equipo para procesamiento electronico de datos","1045","economicactivity_soda",NULL,NULL
+"Alquiler de mobiliario y equipo para comercios  servicios y oficinas","1046","economicactivity_soda",NULL,NULL
+"Salon de fiestas","1047","economicactivity_soda",NULL,NULL
+"Alquiler de sillas y vajillas para banquetes","1048","economicactivity_soda",NULL,NULL
+"Alquiler de equipos electronicos","1049","economicactivity_soda",NULL,NULL
+"Alquiler o renta de automoviles sin chofer","1050","economicactivity_soda",NULL,NULL
+"Alquiler de ropa","1051","economicactivity_soda",NULL,NULL
+"Servicios de alojamiento temporal","1052","economicactivity_soda",NULL,NULL
+"Hotel","1053","economicactivity_soda",NULL,NULL
+"Servicios de alojamiento en moteles","1054","economicactivity_soda",NULL,NULL
+"Campos de turismo","1055","economicactivity_soda",NULL,NULL
+"Casa de huespedes","1056","economicactivity_soda",NULL,NULL
+"Preparación y servicio de alimentos y bebidas","1057","economicactivity_soda",NULL,NULL
+"Cafeteria","1058","economicactivity_soda",NULL,NULL
+"Restaurante","1059","economicactivity_soda",NULL,NULL
+"Servicios de alimentos en lencerias taquerias y torterias","1060","economicactivity_soda",NULL,NULL
+"Servicios en ostionerias y preparacion de otros mariscos y pescados","1061","economicactivity_soda",NULL,NULL
+"Neveria y refresqueria","1062","economicactivity_soda",NULL,NULL
+"Servicios en merenderos cenadurias y preparacion de antojitos y platillos regionales","1063","economicactivity_soda",NULL,NULL
+"Bares y cantinas","1064","economicactivity_soda",NULL,NULL
+"Cerveceria","1065","economicactivity_soda",NULL,NULL
+"Servicios en pulquerias","1066","economicactivity_soda",NULL,NULL
+"Usuarios menores turismo","1067","economicactivity_soda",NULL,NULL
+"Hipódromo","1068","economicactivity_soda",NULL,NULL
+"Juegos de feria y apuestas","1069","economicactivity_soda",NULL,NULL
+"Agencias de rifas y sorteos (quinielas y lotería)","1070","economicactivity_soda",NULL,NULL
+"Servicios recreativos y de esparcimiento","1071","economicactivity_soda",NULL,NULL
+"Servicios en balnearios y albercas","1072","economicactivity_soda",NULL,NULL
+"Salon de billar","1073","economicactivity_soda",NULL,NULL
+"Salon de boliche","1074","economicactivity_soda",NULL,NULL
+"Club social","1075","economicactivity_soda",NULL,NULL
+"Centro deportivo","1076","economicactivity_soda",NULL,NULL
+"Servicios y explotacion de playas y parques de descanso clubes de excursionismo de caza y pesca incluso alquiler de lanchas,  caballos, calesas y otros con fines recreativos y deportivos","1077","economicactivity_soda",NULL,NULL
+"Estudios cinematograficos","1078","economicactivity_soda",NULL,NULL
+"Grabacion de sonido en peliculas","1079","economicactivity_soda",NULL,NULL
+"Laboratorios cinematograficos","1080","economicactivity_soda",NULL,NULL
+"Produccion de peliculas","1081","economicactivity_soda",NULL,NULL
+"Distribucion y alquiler de peliculas","1082","economicactivity_soda",NULL,NULL
+"Sala de cine","1083","economicactivity_soda",NULL,NULL
+"Radiodifusora","1084","economicactivity_soda",NULL,NULL
+"Teledifusora","1085","economicactivity_soda",NULL,NULL
+"Teatro","1086","economicactivity_soda",NULL,NULL
+"Actividades de clubes deportivos profesionales","1087","economicactivity_soda",NULL,NULL
+"Estadios y arenas","1088","economicactivity_soda",NULL,NULL
+"Hipodromo","1089","economicactivity_soda",NULL,NULL
+"Plaza de toros","1090","economicactivity_soda",NULL,NULL
+"Promocion de espectaculos deportivos","1091","economicactivity_soda",NULL,NULL
+"Promocion de espectaculos taurinos","1092","economicactivity_soda",NULL,NULL
+"Centro nocturno","1093","economicactivity_soda",NULL,NULL
+"Galerias de artes graficas y museos","1094","economicactivity_soda",NULL,NULL
+"Federaciones y asociaciones deportivas y otras con fines recreativos","1095","economicactivity_soda",NULL,NULL
+"Juegos de feria","1096","economicactivity_soda",NULL,NULL
+"Usuarios menores cinematografia y esparcimiento","1097","economicactivity_soda",NULL,NULL
+"Cartera de servicios de esparcimiento de estados a","1098","economicactivity_soda",NULL,NULL
+"Servicios personales, para el hogar y diversos","1099","economicactivity_soda",NULL,NULL
+"Taller de reparacion general de automoviles y camiones","1100","economicactivity_soda",NULL,NULL
+"Servicios de reparacion de motocicletas y bicicletas","1101","economicactivity_soda",NULL,NULL
+"Servicios de reparacion especializado en partes de automoviles excepto reconstruccion de motores y carrocerias","1102","economicactivity_soda",NULL,NULL
+"Servicios de reparacion de carrocerias pintura tapiceria hojalateria y cristales de automoviles","1103","economicactivity_soda",NULL,NULL
+"Servicios de lavado y lubricacion de automoviles","1104","economicactivity_soda",NULL,NULL
+"Estacionamiento privado para vehiculos","1105","economicactivity_soda",NULL,NULL
+"Estacionamiento publico para vehiculos","1106","economicactivity_soda",NULL,NULL
+"Servicio de reparacion de vehiculos de traccion animal y propulsion a mano","1107","economicactivity_soda",NULL,NULL
+"Taller de reparacion de calzado","1108","economicactivity_soda",NULL,NULL
+"Taller de reparacion de aparatos electricos y electronicos industriales y comerciales","1109","economicactivity_soda",NULL,NULL
+"Taller de reparacion de articulos electricos y electronicos para el hogar","1110","economicactivity_soda",NULL,NULL
+"Servicios de reparacion de relojes y joyas","1111","economicactivity_soda",NULL,NULL
+"Taller de tapiceria","1112","economicactivity_soda",NULL,NULL
+"Taller de reparacion de paraguas y sombrillas","1113","economicactivity_soda",NULL,NULL
+"Taller de reparacion de ropa y medias","1114","economicactivity_soda",NULL,NULL
+"Taller de reparacion de sombreros","1115","economicactivity_soda",NULL,NULL
+"Baños","1116","economicactivity_soda",NULL,NULL
+"Barberia y peluqueria","1117","economicactivity_soda",NULL,NULL
+"Salon de belleza","1118","economicactivity_soda",NULL,NULL
+"Lavanderia","1119","economicactivity_soda",NULL,NULL
+"Tintoreria y planchaduria","1120","economicactivity_soda",NULL,NULL
+"Empresa de servicio de limpieza","1121","economicactivity_soda",NULL,NULL
+"Servicios de fumigacion  desinfeccion y control de plagas","1122","economicactivity_soda",NULL,NULL
+"Servicios de bolerias  masajistas  sanitarios publicos y otros servicios de aseo y limpieza","1123","economicactivity_soda",NULL,NULL
+"Estudio fotografico","1124","economicactivity_soda",NULL,NULL
+"Decoracion en general","1125","economicactivity_soda",NULL,NULL
+"Agencia de inhumaciones","1126","economicactivity_soda",NULL,NULL
+"Panteon","1127","economicactivity_soda",NULL,NULL
+"Usuarios menores servicios profesionales y tecnicos","1128","economicactivity_soda",NULL,NULL
+"Empleado privado","1129","economicactivity_soda",NULL,NULL
+"Taxidermista","1130","economicactivity_soda",NULL,NULL
+"Usuarios menores otras actividades","1131","economicactivity_soda",NULL,NULL
+"Cartera de otras actividades de estados analiticos","1132","economicactivity_soda",NULL,NULL
+"Usuarios menores de servicios","1133","economicactivity_soda",NULL,NULL
+"Cartera de servicios de estados analiticos","1134","economicactivity_soda",NULL,NULL
+"Quehaceres del hogar","1135","economicactivity_soda",NULL,NULL
+"Servicios de enseñanza, investigación científica y difusión cultural","1136","economicactivity_soda",NULL,NULL
+"Servicios de enseñanza prerrimaria y primaria","1137","economicactivity_soda",NULL,NULL
+"Servicios de enseñanza secundaria","1138","economicactivity_soda",NULL,NULL
+"Establecimientos publicos de instruccion  educacion subprofesional y profesional  cultura e investigacion","1139","economicactivity_soda",NULL,NULL
+"Establecimientos privados de instruccion educacion cultura e investigacion","1140","economicactivity_soda",NULL,NULL
+"Servicios de enseñanza comercial y de idioma","1141","economicactivity_soda",NULL,NULL
+"Servicios de capacitacion tecnica de oficios y artesanias","1142","economicactivity_soda",NULL,NULL
+"Servicios de enseñanza de musica danza y otras artes cultura fisica manejo de vehiculos y otros especializados","1143","economicactivity_soda",NULL,NULL
+"Servicios de investigacion cientifica","1144","economicactivity_soda",NULL,NULL
+"Servicios de bibliotecas museos jardines botanicos y otros servicios de difusion cultural","1145","economicactivity_soda",NULL,NULL
+"Servicios médicos, de asistencia social y veterinarios","1146","economicactivity_soda",NULL,NULL
+"Hospitales  sanatorios  clinicas y maternidades","1147","economicactivity_soda",NULL,NULL
+"Servicios medico general y especializado en consultorios","1148","economicactivity_soda",NULL,NULL
+"Servicios de consultorios y clinicas dentales","1149","economicactivity_soda",NULL,NULL
+"Laboratorios de analisis clinicos","1150","economicactivity_soda",NULL,NULL
+"Servicios de laboratorios de radiologia y radioscopia","1151","economicactivity_soda",NULL,NULL
+"Servicios de fisioterapia  bancos de sangre y otros servicios medicos","1152","economicactivity_soda",NULL,NULL
+"Centro de beneficencia","1153","economicactivity_soda",NULL,NULL
+"Servicios veterinarios en clinicas y consultorios  incluso zootecnistas  pensiones de animales y otros servicios auxiliares","1154","economicactivity_soda",NULL,NULL
+"Usuarios menores servicios medicos","1155","economicactivity_soda",NULL,NULL
+"Organizaciones de abogados","1156","economicactivity_soda",NULL,NULL
+"Agrupaciones mercantiles, profesionales, cívicas, políticas, laborales y religiosas","1157","economicactivity_soda",NULL,NULL
+"Asociaciones y confederaciones","1158","economicactivity_soda",NULL,NULL
+"Camaras de comercio","1159","economicactivity_soda",NULL,NULL
+"Camaras industriales","1160","economicactivity_soda",NULL,NULL
+"Sociedades cooperativas","1161","economicactivity_soda",NULL,NULL
+"Organizaciones de abogados medicos ingenieros y otras asociaciones de profesionales","1162","economicactivity_soda",NULL,NULL
+"Organizaciones civicas","1163","economicactivity_soda",NULL,NULL
+"Organizaciones laborales y sindicales","1164","economicactivity_soda",NULL,NULL
+"Organizaciones politicas","1165","economicactivity_soda",NULL,NULL
+"Organizaciones religiosas","1166","economicactivity_soda",NULL,NULL
+"Servicios de administración pública, defensa y seguridad social","1167","economicactivity_soda",NULL,NULL
+"Gobierno federal","1168","economicactivity_soda",NULL,NULL
+"Gobierno estatal","1169","economicactivity_soda",NULL,NULL
+"Gobierno municipal","1170","economicactivity_soda",NULL,NULL
+"Departamento del df","1171","economicactivity_soda",NULL,NULL
+"Usuarios menores gobierno federal","1172","economicactivity_soda",NULL,NULL
+"Cartera de gobierno federal de estados analiticos","1173","economicactivity_soda",NULL,NULL
+"Usuarios menores gobierno estatal y municipal","1174","economicactivity_soda",NULL,NULL
+"Cartera de gobierno estatal y municipal de estados","1175","economicactivity_soda",NULL,NULL
+"Empleado publico  ","1176","economicactivity_soda",NULL,NULL
+"Prestacion de servicios publicos y sociales","1177","economicactivity_soda",NULL,NULL
+"Empleado del sector privado","1178","economicactivity_soda",NULL,NULL
+"Empleado del sector publico  (u.i.f)","1179","economicactivity_soda",NULL,NULL
+"Transmisores de dinero o dispersores/cambistas o centros cambiarios/casas de empeño (u.i.f)","1180","economicactivity_soda",NULL,NULL
+"Negocios relacionados con internet (u.i.f)","1181","economicactivity_soda",NULL,NULL
+"Venta de tarjetas telefonicas prepagadas (u.i.f)","1182","economicactivity_soda",NULL,NULL
+"Estudiante, desempleado, jubilado, pensionado, discapacitado (u.i.f)","1183","economicactivity_soda",NULL,NULL
+"Empleado del sector publico","1184","economicactivity_soda",NULL,NULL
+"Empleado del gobierno federal","1185","economicactivity_soda",NULL,NULL
+"Presidente de la republica","1186","economicactivity_soda",NULL,NULL
+"Secretaria de estado,  titular de entidad / procurador general de la república","1187","economicactivity_soda",NULL,NULL
+"Subsecretaria de estado","1188","economicactivity_soda",NULL,NULL
+"Oficial mayor","1189","economicactivity_soda",NULL,NULL
+"Titular de entidad","1190","economicactivity_soda",NULL,NULL
+"Jefatura de unidad","1191","economicactivity_soda",NULL,NULL
+"Dirección general adjunta","1192","economicactivity_soda",NULL,NULL
+"Dirección de área","1193","economicactivity_soda",NULL,NULL
+"Subdirección de área","1194","economicactivity_soda",NULL,NULL
+"Jefatura de departamento","1195","economicactivity_soda",NULL,NULL
+"Enlace","1196","economicactivity_soda",NULL,NULL
+"Diputado  del h. Congreso de la unión","1197","economicactivity_soda",NULL,NULL
+"Senador de la republica","1198","economicactivity_soda",NULL,NULL
+"Secretaria de la defensa nacional (militar)","1199","economicactivity_soda",NULL,NULL
+"Secretaria de marina (marino)","1200","economicactivity_soda",NULL,NULL
+"Embajador","1201","economicactivity_soda",NULL,NULL
+"Cónsul","1202","economicactivity_soda",NULL,NULL
+"Empleado de gobierno de entidad federativa","1203","economicactivity_soda",NULL,NULL
+"Gobernador constitucional del estado ó jefe de gobierno del df","1204","economicactivity_soda",NULL,NULL
+"Secretario del ramo","1205","economicactivity_soda",NULL,NULL
+"Procurador general de justicia del estado","1206","economicactivity_soda",NULL,NULL
+"Diputado al h. Congreso del estado","1207","economicactivity_soda",NULL,NULL
+"Sub-procurador general de justicia del estad","1208","economicactivity_soda",NULL,NULL
+"Contralor del h. Congreso del estado","1209","economicactivity_soda",NULL,NULL
+"Tesorero del estado","1210","economicactivity_soda",NULL,NULL
+"Sub-secretario","1211","economicactivity_soda",NULL,NULL
+"Vocal ejecutivo","1212","economicactivity_soda",NULL,NULL
+"Oficial mayor de entidad federativa","1213","economicactivity_soda",NULL,NULL
+"Director general","1214","economicactivity_soda",NULL,NULL
+"Director ejecutivo","1215","economicactivity_soda",NULL,NULL
+"Jefe de la policía judicial del estado","1216","economicactivity_soda",NULL,NULL
+"Jefe de unidad","1217","economicactivity_soda",NULL,NULL
+"Director","1218","economicactivity_soda",NULL,NULL
+"Sub-jefe operativo","1219","economicactivity_soda",NULL,NULL
+"Sub-director","1220","economicactivity_soda",NULL,NULL
+"Jefe de departamento","1221","economicactivity_soda",NULL,NULL
+"Coordinador operativo","1222","economicactivity_soda",NULL,NULL
+"Enlace","1223","economicactivity_soda",NULL,NULL
+"Empleado de gobierno municipal o delegaciones (d.f)","1224","economicactivity_soda",NULL,NULL
+"Presidente municipal o delegado","1225","economicactivity_soda",NULL,NULL
+"Sub-delegado","1226","economicactivity_soda",NULL,NULL
+"Regidor","1227","economicactivity_soda",NULL,NULL
+"Director general","1228","economicactivity_soda",NULL,NULL
+"Director","1229","economicactivity_soda",NULL,NULL
+"Subdirector","1230","economicactivity_soda",NULL,NULL
+"Jefe de departamento","1231","economicactivity_soda",NULL,NULL
+"Coordinador de área o técnico","1232","economicactivity_soda",NULL,NULL
+"Analista","1233","economicactivity_soda",NULL,NULL
+"Enlace ó auxiliar administrativo","1234","economicactivity_soda",NULL,NULL
+"Ministro de la suprema corte de justicia de la nación","1238","economicactivity_soda",NULL,NULL
+"Magistrado federal","1239","economicactivity_soda",NULL,NULL
+"Juez federal","1240","economicactivity_soda",NULL,NULL
+"Empleado del poder judicial federal (secretarios, actuarios, etc)","1241","economicactivity_soda",NULL,NULL
+"Magistrado de entidad federativa","1242","economicactivity_soda",NULL,NULL
+"Juez de entidad federativa","1243","economicactivity_soda",NULL,NULL
+"Empleado del poder judicial de entidad federativa (secretarios, actuarios, etc)","1244","economicactivity_soda",NULL,NULL
+"Juez municipal ó de delegación","1245","economicactivity_soda",NULL,NULL
+"Empleado del poder judicial de municipio ó delegación (secretarios, actuarios, etc)","1246","economicactivity_soda",NULL,NULL
+"Servicios de organizaciones internacionales y otros organismos extraterritoriales (u.i.f)","1247","economicactivity_soda",NULL,NULL
+"Dependencias de gobierno o empresas paraestatales","1248","economicactivity_soda",NULL,NULL
+"Servicios de organizaciones internacionales y otros organismos extraterritoriales","1249","economicactivity_soda",NULL,NULL
+"Transmisores de dinero o dispersores","1250","economicactivity_soda",NULL,NULL
+"Cambistas o centros cambiarios","1251","economicactivity_soda",NULL,NULL
+"Estudiante ó menor de edad sin ocupación","1252","economicactivity_soda",NULL,NULL
+"Desempleado","1253","economicactivity_soda",NULL,NULL
+"Jubilado","1254","economicactivity_soda",NULL,NULL
+"Pensionado","1255","economicactivity_soda",NULL,NULL
+"Ama de casa","1256","economicactivity_soda",NULL,NULL
+"Ministros de culto religioso (sacerdote, pastor, monja, etc)","1257","economicactivity_soda",NULL,NULL
+"Instituciones financieras del extranjero","1258","economicactivity_soda",NULL,NULL
+"Consulado","1259","economicactivity_soda",NULL,NULL
+"Gobierno extranjero","1260","economicactivity_soda",NULL,NULL
+"Servicios de oficinas y representaciones de otros paises que gozan de extraterritorialidad","1261","economicactivity_soda",NULL,NULL
+"No clasificada","1262","economicactivity_soda",NULL,NULL
+"Construccion e instalaciones de plantas generadoras","1263","economicactivity_soda",NULL,NULL
+"Generacion, transmisión y distribución de energia","1264","economicactivity_soda",NULL,NULL
+"Administración y supervisión de construcción de vivienda","1265","economicactivity_soda",NULL,NULL
+"Alquiler de oficinas y locales comerciales","1266","economicactivity_soda",NULL,NULL
+"Alquiler de otros inmuebles","1267","economicactivity_soda",NULL,NULL
+"Asalariado / construcción de vivienda unifamiliar","1268","economicactivity_soda",NULL,NULL
+"Construcción de vivienda multifamiliar","1269","economicactivity_soda",NULL,NULL
+"Construcción de vivienda unifamiliar","1270","economicactivity_soda",NULL,NULL
+"Fideicomiso de garantía y administración","1271","economicactivity_soda",NULL,NULL
+"Inmobiliarias y corredores de bienes raíces","1272","economicactivity_soda",NULL,NULL
+"Otras construcciones de ingeniería civil u obra pesada","1273","economicactivity_soda",NULL,NULL
+"Otros intermediarios de comercio al por mayor","1274","economicactivity_soda",NULL,NULL
+"Otros servicios de apoyo a los negocios ","1275","economicactivity_soda",NULL,NULL
+"Otros servicios relacionados con los servicios inmobiliarios","1276","economicactivity_soda",NULL,NULL
+"Otros servicios relacionados con los servicios inmobiliarios ","1277","economicactivity_soda",NULL,NULL
+"Servicios de consultoría en administración","1278","economicactivity_soda",NULL,NULL
+"Sociedades financieras de objeto múltiple","1279","economicactivity_soda",NULL,NULL
+"Actividades asistenciales","1280","economicactivity_soda",NULL,NULL
+"Fideicomisos no empresariales","1281","economicactivity_soda",NULL,NULL

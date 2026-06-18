@@ -1,0 +1,10 @@
+"name","value","taxonomy","code1","code2"
+"Nota de crédito de los documentos relacionados","01","relationTypes",NULL,NULL
+"Nota de débito de los documentos relacionados","02","relationTypes",NULL,NULL
+"Devolución de mercancía sobre facturas o traslados previos","03","relationTypes",NULL,NULL
+"Sustitución de los CFDI previos","04","relationTypes",NULL,NULL
+"Traslados de mercancias facturados previamente","05","relationTypes",NULL,NULL
+"Factura generada por los traslados previos","06","relationTypes",NULL,NULL
+"CFDI por aplicación de anticipo","07","relationTypes",NULL,NULL
+"Factura generada por pagos en parcialidades","08","relationTypes",NULL,NULL
+"Factura generada por pagos diferidos","09","relationTypes",NULL,NULL

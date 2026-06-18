@@ -1,0 +1,5 @@
+"name","value","taxonomy","code1","code2"
+"0 - 10","0_10","numero_trabajadores",NULL,NULL
+"11 - 50","11_50","numero_trabajadores",NULL,NULL
+"51-100","51_100","numero_trabajadores",NULL,NULL
+"101 EN ADELANTE","101_en_adelante","numero_trabajadores",NULL,NULL

@@ -1,0 +1,5 @@
+"name","value","taxonomy","code1","code2"
+"Venta propia colocación presencial","1","transactionsorsendingchannels_soda",NULL,NULL
+"Venta a través de terceros colocación presencial","2","transactionsorsendingchannels_soda",NULL,NULL
+"Venta propia colocación por medios electrónicos","3","transactionsorsendingchannels_soda",NULL,NULL
+"Venta a través de terceros colocación por medios electronicos","4","transactionsorsendingchannels_soda",NULL,NULL

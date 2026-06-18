@@ -1,0 +1,7 @@
+"name","value","taxonomy","code1","code2"
+"Fondeo de cuentas propias","fondeo_de_cuentas_propias","destino_recursos",NULL,NULL
+"Manejo de tesoreria","manejo_de_tesoreria","destino_recursos",NULL,NULL
+"Pago a provedores","pago_a_provedores","destino_recursos",NULL,NULL
+"Pago de nomina","pago_de_nomina","destino_recursos",NULL,NULL
+"Pago de servicios","pago_de_servicios","destino_recursos",NULL,NULL
+"otro (describa)","otro_describa","destino_recursos",NULL,NULL

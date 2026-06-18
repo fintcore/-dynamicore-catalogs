@@ -1,0 +1,9 @@
+"name","value","taxonomy","code1","code2"
+"Entre 18 y 25 años (PF)","1","ageorincorporationdate_soda",NULL,NULL
+"Entre 25 y 50 años (PF)","2","ageorincorporationdate_soda",NULL,NULL
+"Entre 50 y 65 años (PF)","3","ageorincorporationdate_soda",NULL,NULL
+"Más 65 años (PF)","4","ageorincorporationdate_soda",NULL,NULL
+"1 a 3 años (PM)","5","ageorincorporationdate_soda",NULL,NULL
+"4 a 5 años (PM)","6","ageorincorporationdate_soda",NULL,NULL
+"6 a 20 años (PM)","7","ageorincorporationdate_soda",NULL,NULL
+"21 años y más (PM)","8","ageorincorporationdate_soda",NULL,NULL

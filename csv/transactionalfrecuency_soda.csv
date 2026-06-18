@@ -1,0 +1,5 @@
+"name","value","taxonomy","code1","code2"
+"Menos de 2","1","transactionalfrecuency_soda",NULL,NULL
+"De 3 a 6","2","transactionalfrecuency_soda",NULL,NULL
+"Más de 10","3","transactionalfrecuency_soda",NULL,NULL
+"No medido","4","transactionalfrecuency_soda",NULL,NULL

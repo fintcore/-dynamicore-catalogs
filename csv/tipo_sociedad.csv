@@ -1,0 +1,47 @@
+"name","value","taxonomy","code1","code2"
+"Asociación Civil ( A.C)","asociaci_n_civil___a_c_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima (S.A.)","sociedad_an_nima__s_a__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Bursatil (S.A.B.)","sociedad_an_nima_bursatil__s_a_b__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Bursatil de Capital Variable (S.A.B. de C. V.)","sociedad_an_nima_bursatil_de_capital_variable__s_a_b__de_c__v__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable (S. A. de C. V.)","sociedad_an_nima_de_capital_variable__s__a__de_c__v__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Limitado","sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_limitado","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Múltiple Entidad  No Regulada (S.A de C.V. SOFOM ENR)","sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_m_ltiple_entidad__no_regulada__s_a_de_c_v__sofom_enr_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable Sociedad Financiera de Objeto Múltiple Entidad  Regulada (S.A de C.V. SOFOM ER)","sociedad_an_nima_de_capital_variable_sociedad_financiera_de_objeto_m_ltiple_entidad__regulada__s_a_de_c_v__sofom_er_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable, Casa de Bolsa (S.A de C.V. Casa de Bolsa)","sociedad_an_nima_de_capital_variable__casa_de_bolsa__s_a_de_c_v__casa_de_bolsa_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable, Institución de Financiamiento Colectivo (IFC)","sociedad_an_nima_de_capital_variable__instituci_n_de_financiamiento_colectivo__ifc_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable, Institución de Fondos de Pago Electrónico (IFPE)","sociedad_an_nima_de_capital_variable__instituci_n_de_fondos_de_pago_electr_nico__ifpe_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima de Capital Variable, Sociedad Financiera Popular (SOFIPO)","sociedad_an_nima_de_capital_variable__sociedad_financiera_popular__sofipo_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Promotora de Inversión Bursatil (S.A.P.I.B.)","sociedad_an_nima_promotora_de_inversi_n_bursatil__s_a_p_i_b__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Promotora de Inversión de Capital Variable (S.A.P.I. de C.V.)","sociedad_an_nima_promotora_de_inversi_n_de_capital_variable__s_a_p_i__de_c_v__","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Promotora de Inversión, Institución de Financiamiento Colectivo (IFC)","sociedad_an_nima_promotora_de_inversi_n__instituci_n_de_financiamiento_colectivo__ifc_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima Promotora de Inversión, Institución de Fondos de Pago Electrónico (IFPE)","sociedad_an_nima_promotora_de_inversi_n__instituci_n_de_fondos_de_pago_electr_nico__ifpe_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima, Institución de Banca Múltiple (S.A. Institución de Banca Múltiple)","sociedad_an_nima__instituci_n_de_banca_m_ltiple__s_a__instituci_n_de_banca_m_ltiple_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima, Organización Auxiliar del Crédito (S.A. Organización Auxiliar del Crédito)","sociedad_an_nima__organizaci_n_auxiliar_del_cr_dito__s_a__organizaci_n_auxiliar_del_cr_dito_","tipo_sociedad",NULL,NULL
+"Sociedad Anónima, Sociedad de Información Crediticia (S.A. S.I.C.)","sociedad_an_nima__sociedad_de_informaci_n_crediticia__s_a__s_i_c__","tipo_sociedad",NULL,NULL
+"Sociedad Cooperativa (S. C.)","sociedad_cooperativa__s__c__","tipo_sociedad",NULL,NULL
+"Sociedad Cooperativa de Ahorro y Préstamo de Responsabilidad Limitada de Capital Variable (S.C. de A.P. de R.L. de C.V.)","sociedad_cooperativa_de_ahorro_y_pr_stamo_de_responsabilidad_limitada_de_capital_variable__s_c__de_a_p__de_r_l__de_c_v__","tipo_sociedad",NULL,NULL
+"Sociedad Cooperativa de Consumo de Responsabilidad Limitada de Capital Variable (S.C. DE C. DE R.L. DE C.V.)","sociedad_cooperativa_de_consumo_de_responsabilidad_limitada_de_capital_variable__s_c__de_c__de_r_l__de_c_v__","tipo_sociedad",NULL,NULL
+"Sociedad de Ahorro y Prestamo (S.A.P.)","sociedad_de_ahorro_y_prestamo__s_a_p__","tipo_sociedad",NULL,NULL
+"Sociedad de Producción Rural de Responsabilidad Limitada de Capital (S.P.R DE R.L. DE C.V.)","sociedad_de_producci_n_rural_de_responsabilidad_limitada_de_capital__s_p_r_de_r_l__de_c_v__","tipo_sociedad",NULL,NULL
+"Sociedad de Responsabilidad Limitada de capital variable (S.R.L de C.V.)","sociedad_de_responsabilidad_limitada_de_capital_variable__s_r_l_de_c_v__","tipo_sociedad",NULL,NULL
+"Sociedad en Comandita por Acciones (S.C.A.)","sociedad_en_comandita_por_acciones__s_c_a__","tipo_sociedad",NULL,NULL
+"Sociedad en Comandita Simple (S. en C. S.)","sociedad_en_comandita_simple__s__en_c__s__","tipo_sociedad",NULL,NULL
+"Sociedad en Nombre Colectivo (S.N.C)","sociedad_en_nombre_colectivo__s_n_c_","tipo_sociedad",NULL,NULL
+"Sociedad Financiera Comunitaria (S.F.C.)","sociedad_financiera_comunitaria__s_f_c__","tipo_sociedad",NULL,NULL
+"Sociedad Nacional de Crédito (S.N.C.)","sociedad_nacional_de_cr_dito__s_n_c__","tipo_sociedad",NULL,NULL
+"Sociedad por Acciones Simplificada (S.A.S.)","sociedad_por_acciones_simplificada__s_a_s__","tipo_sociedad",NULL,NULL
+"Sociedades Anónimas Promotoras de Inversión (S.A.P.I.)","sociedades_an_nimas_promotoras_de_inversi_n__s_a_p_i__","tipo_sociedad",NULL,NULL
+"Sociedades Civiles ( S.C)","sociedades_civiles___s_c_","tipo_sociedad",NULL,NULL
+"Sin Denominación Social","sin_denominaci_n_social","tipo_sociedad",NULL,NULL
+"Corporation","corporation","tipo_sociedad",NULL,NULL
+"Corporation - Benefit corporation","corporation___benefit_corporation","tipo_sociedad",NULL,NULL
+"Corporation - Close corporation","corporation___close_corporation","tipo_sociedad",NULL,NULL
+"Corporation - Nonprofit corporation","corporation___nonprofit_corporation","tipo_sociedad",NULL,NULL
+"Corporation (C corp)","corporation__c_corp_","tipo_sociedad",NULL,NULL
+"Corporation (S corp)","corporation__s_corp_","tipo_sociedad",NULL,NULL
+"Incorporation (INC)","incorporation__inc_","tipo_sociedad",NULL,NULL
+"Limited (LTD)","limited__ltd_","tipo_sociedad",NULL,NULL
+"Limited liability company (LLC)","limited_liability_company__llc_","tipo_sociedad",NULL,NULL
+"Limited liability partnership (LLP)","limited_liability_partnership__llp_","tipo_sociedad",NULL,NULL
+"Limited partnerships (LP)","limited_partnerships__lp_","tipo_sociedad",NULL,NULL
+"Sole proprietorship","sole_proprietorship","tipo_sociedad",NULL,NULL
