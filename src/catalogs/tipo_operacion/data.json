@@ -1,0 +1,44 @@
+[
+  {
+    "name": "ADMINISTRACION DE CUENTAS DE FONDOS DE PAGO ELECTRONICO",
+    "value": "01",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RECEPCION DE RECURSOS A LA CUENTA DE FONDOS DE PAGO ELECTRONICO",
+    "value": "02",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ENVIO DE RECURSOS DESDE LA CUENTA DE FONDOS DE PAGO ELECTRONICO",
+    "value": "03",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA DE FONDOS DE PAGO ELECTRONICO ENVIADA (OPERACIONES ENTRE CLIENTES)",
+    "value": "04",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA DE FONDOS DE PAGO ELECTRONICO RECIBIDA (OPERACIONES ENTRE CLIENTES)",
+    "value": "05",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SE REPORTA ACTO O CONDUCTA DEL CLIENTE, NO EXISTE OPERACION RELACIONADA A REPORTAR",
+    "value": "50",
+    "taxonomy": "tipo_operacion",
+    "code1": null,
+    "code2": null
+  }
+]

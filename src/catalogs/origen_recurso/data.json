@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Actividad propia de la empresa",
+    "value": "actividad_propia_de_la_empresa",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Capital de la empresa",
+    "value": "capital_de_la_empresa",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Creditos / préstamos",
+    "value": "creditos_prestamos",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Inversiones",
+    "value": "inversiones",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Utilidades de negocio",
+    "value": "utilidades_de_negocio",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Otros- describa",
+    "value": "otros_describa",
+    "taxonomy": "origen_recurso",
+    "code1": null,
+    "code2": null
+  }
+]

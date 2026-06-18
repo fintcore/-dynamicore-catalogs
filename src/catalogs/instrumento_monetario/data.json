@@ -1,0 +1,58 @@
+[
+  {
+    "name": "EFECTIVO",
+    "value": "01",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA INTERBANCARIA RECIBIDA",
+    "value": "02",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA INTERBANCARIA ENVIADA",
+    "value": "03",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA INTERNACIONAL RECIBIDA",
+    "value": "04",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSFERENCIA INTERNACIONAL ENVIADA",
+    "value": "05",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FONDOS DE PAGO ELECTRONICO*",
+    "value": "06",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SE DESCONOCE (TENTATIVA)",
+    "value": "00",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SE REPORTA ACTO O CONDUCTA DEL CLIENTE, NO EXISTE OPERACION RELACIONADA A REPORTAR",
+    "value": "50",
+    "taxonomy": "instrumento_monetario",
+    "code1": null,
+    "code2": null
+  }
+]

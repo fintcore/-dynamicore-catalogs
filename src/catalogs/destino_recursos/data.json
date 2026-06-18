@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Fondeo de cuentas propias",
+    "value": "fondeo_de_cuentas_propias",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Manejo de tesoreria",
+    "value": "manejo_de_tesoreria",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago a provedores",
+    "value": "pago_a_provedores",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago de nomina",
+    "value": "pago_de_nomina",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pago de servicios",
+    "value": "pago_de_servicios",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "otro (describa)",
+    "value": "otro_describa",
+    "taxonomy": "destino_recursos",
+    "code1": null,
+    "code2": null
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "name": "Nota de crédito de los documentos relacionados",
+    "value": "01",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nota de débito de los documentos relacionados",
+    "value": "02",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Devolución de mercancía sobre facturas o traslados previos",
+    "value": "03",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sustitución de los CFDI previos",
+    "value": "04",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Traslados de mercancias facturados previamente",
+    "value": "05",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Factura generada por los traslados previos",
+    "value": "06",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CFDI por aplicación de anticipo",
+    "value": "07",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Factura generada por pagos en parcialidades",
+    "value": "08",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Factura generada por pagos diferidos",
+    "value": "09",
+    "taxonomy": "relationTypes",
+    "code1": null,
+    "code2": null
+  }
+]

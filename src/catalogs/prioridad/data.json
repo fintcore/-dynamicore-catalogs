@@ -1,0 +1,58 @@
+[
+  {
+    "name": "PRIORIDAD ALTA - REPORTE DE OPERATIVA",
+    "value": "01",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SIN PRIORIDAD - REPORTE DE OPERATIVA",
+    "value": "02",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EXCEPCION AL REPORTE DE OPERATIVA",
+    "value": "03",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TENTATIVA",
+    "value": "04",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "24 HORAS ",
+    "value": "05",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "24 HORAS - LPB (SUJETO DESIGNADO)",
+    "value": "06",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "24 HORAS - LPB (SUJETO RELACIONADO)",
+    "value": "07",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "24 HORAS - SUSPENSION DEL PROCESO DE IDENTIFICACION",
+    "value": "08",
+    "taxonomy": "prioridad",
+    "code1": null,
+    "code2": null
+  }
+]
