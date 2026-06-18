@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Aguascalientes",
+    "value": 1,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Baja California",
+    "value": 2,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Baja California Sur",
+    "value": 3,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Campeche",
+    "value": 4,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chiapas",
+    "value": 5,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chihuahua",
+    "value": 6,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CDMX",
+    "value": 7,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Coahuila de Zaragoza",
+    "value": 8,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Colima",
+    "value": 9,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Durango",
+    "value": 10,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guanajuato",
+    "value": 11,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guerrero",
+    "value": 12,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hidalgo",
+    "value": 13,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jalisco",
+    "value": 14,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "México",
+    "value": 15,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Michoacán de Ocampo",
+    "value": 16,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Morelos",
+    "value": 17,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nayarit",
+    "value": 18,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nuevo León",
+    "value": 19,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Oaxaca",
+    "value": 20,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Puebla",
+    "value": 21,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Querétaro",
+    "value": 22,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Quintana Roo",
+    "value": 23,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Luis Potosí",
+    "value": 24,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sinaloa",
+    "value": 25,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sonora",
+    "value": 26,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tabasco",
+    "value": 27,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tamaulipas",
+    "value": 28,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tlaxcala",
+    "value": 29,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Veracruz de Ignacio de la Llave",
+    "value": 30,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yucatán",
+    "value": 31,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zacatecas",
+    "value": 32,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NA (extranjero)",
+    "value": 33,
+    "taxonomy": "states_soda",
+    "code1": null,
+    "code2": null
+  }
+]

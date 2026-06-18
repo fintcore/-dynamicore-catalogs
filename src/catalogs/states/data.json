@@ -1,0 +1,226 @@
+[
+  {
+    "name": "CIUDAD DE MEXICO",
+    "value": "CDMX",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTADO DE MEXICO",
+    "value": "MEX",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGUASCALIENTES",
+    "value": "AGS",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAJA CALIFORNIA",
+    "value": "BC",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAJA CALIFORNIA SUR",
+    "value": "BCS",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMPECHE",
+    "value": "CAMP",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHIAPAS",
+    "value": "CHIS",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHIHUAHUA",
+    "value": "CHIH",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COAHUILA",
+    "value": "COAH",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COLIMA",
+    "value": "COL",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DURANGO",
+    "value": "DGO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUANAJUATO",
+    "value": "GTO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUERRERO",
+    "value": "GRO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HIDALGO",
+    "value": "HGO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JALISCO",
+    "value": "JAL",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MICHOACAN",
+    "value": "MICH",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MORELOS",
+    "value": "MOR",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NAYARIT",
+    "value": "NAY",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NUEVO LEON",
+    "value": "NL",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OAXACA",
+    "value": "OAX",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PUEBLA",
+    "value": "PUE",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUERATARO",
+    "value": "QRO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUINTANA ROO",
+    "value": "QROO",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAN LUIS POTOSI",
+    "value": "SLP",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SINALOA",
+    "value": "SIN",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SONORA",
+    "value": "SON",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TABASCO",
+    "value": "TAB",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TAMAULIPAS",
+    "value": "TAMP",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TLAXCALA",
+    "value": "TLAX",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VERACRUZ",
+    "value": "VER",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "YUCATAN",
+    "value": "YUC",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZACATECAS",
+    "value": "ZAC",
+    "taxonomy": "states",
+    "code1": null,
+    "code2": null
+  }
+]
