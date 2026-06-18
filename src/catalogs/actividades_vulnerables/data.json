@@ -1,0 +1,149 @@
+[
+  {
+    "name": "True",
+    "value": "True",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No",
+    "value": "false",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No",
+    "value": "NA",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Activos virtuales",
+    "value": "activos_virtuales",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Desarrollo inmobiliario (compra-venta)",
+    "value": "desarrollo_inmobiliario_compraventa",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Juegos y Sorteos",
+    "value": "juegos_y_sorteos",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjetas de servicio y crédito",
+    "value": "tarjetas_de_servicio_y_credito",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjetas de prepago y cupones",
+    "value": "tarjetas_de_prepago_y_cupones",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tarjetas de devolución y recompensa",
+    "value": "tarjetas_de_devolucion_y_recompensa",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cheques de Viajero",
+    "value": "cheques_de_viajero",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mutuo, préstamo o crédito",
+    "value": "mutuo_prestamo_o_credito",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Blindaje",
+    "value": "blindaje",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Inmuebles (construcción, desarrollo o intermediacion con compra-venta)",
+    "value": "inmuebles_construccion_desarrollo_o_intermediacion_con_compraventa",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Metales y Joyas",
+    "value": "metales_y_joyas",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Obras de Arte",
+    "value": "obras_de_arte",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vehiculos (comercialización, distribución ya sea aereos, terrestres o maritimos)",
+    "value": "vehiculos_comercializacion_distribucion_ya_sea_aereos_terrestres_o_maritimos",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Traslado de valores",
+    "value": "traslado_de_valores",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Servicios profesionales ( administración, manejo de recursos, valores, cuentas bancarias de sus clientes)",
+    "value": "servicios_profesionales_administracion_manejo_de_recursos_valores_cuentas_bancarias_de_sus_clientes",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Donativos",
+    "value": "donativos",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comercio exterior",
+    "value": "comercio_exterior",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arrendamiento de inmuebles",
+    "value": "arrendamiento_de_inmuebles",
+    "taxonomy": "actividades_vulnerables",
+    "code1": null,
+    "code2": null
+  }
+]

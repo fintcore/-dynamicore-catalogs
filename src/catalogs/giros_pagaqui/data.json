@@ -1,0 +1,1661 @@
+[
+  {
+    "name": "SERVICIOS VETERINARIOS",
+    "value": "742",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COOPERATIVAS AGRICOLAS",
+    "value": "763",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE HORTICULTURA Y DE JARDINERIA",
+    "value": "780",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS EN GENERAL- RESIDENCIAL Y COMERCIAL",
+    "value": "1520",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS ,CALEFACCION VENTAS SERVICIO E INSTAL",
+    "value": "1711",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS ELECTRICISTAS",
+    "value": "1731",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS ,YESO ,CANTERA Y MAMPOSTERIA ,TEJAS",
+    "value": "1740",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS CARPINTERIA",
+    "value": "1750",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS TECHOS ESTRUCTURAS Y LAMINAS",
+    "value": "1761",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS CONSTRUCTORAS",
+    "value": "1771",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTAS ,DEMOLICIONES ,PERFORACION ,CRISTAL",
+    "value": "1799",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PUBLICACIONES E IMPRESIONES EN GENERAL",
+    "value": "2741",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIMPIEZA ESPECIALIZADA PULIDOS Y SERVICIOS SANITAR",
+    "value": "2842",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA DE AUTOS",
+    "value": "3351",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSBORDADORES ,TRANSPORTE LOCAL Y TRANSPORTE URBANO",
+    "value": "4111",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE AMBULANCIA",
+    "value": "4119",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIMOSINAS ,TAXIS",
+    "value": "4121",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUTOBUSES FORANEOS",
+    "value": "4131",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPA?IAS DE MUDANZAS Y ALMACENAJE  ,FLETES MAQUIN",
+    "value": "4214",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRASLADOS FLETES ,SERVICIOS DE MENSAJERIA",
+    "value": "4215",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALMACENES DEPOSITOS ,BODEGAS",
+    "value": "4225",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LINEAS  DE CRUCEROS ,BARCOS DE VAPOR",
+    "value": "4411",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA/ARRENDAMIENTO YATES Y LANCHAS",
+    "value": "4457",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO/ACCESORIOS MARITIMOS",
+    "value": "4468",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OTRAS LINEAS AEREAS -FLETES AEREOS- NO CLASIFICADA",
+    "value": "4511",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENCIAS DE VIAJES OPERADORAS DE VIAJES",
+    "value": "4722",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE TRANSPORTE -NO CLASIFICADO",
+    "value": "4789",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPOS DE TELECOMUNICACION INCLUYENDO VENTA DE TE",
+    "value": "4812",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE TELECOMUNICACION INCLUYENDO LLAMADAS",
+    "value": "4814",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMERCIOS ELECTRONICOS ,VENTAS A TRAVES DE INTERNE",
+    "value": "4816",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAGO DE SERVICIO POR TELEVISION CABLE/POR EVENTO",
+    "value": "4899",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS GUBERNAMENTALES AGUA ELECTRICIDAD SANITA",
+    "value": "4900",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VEHICULOS DE MOTOR ACCESORIOS Y AUTO PARTES",
+    "value": "5013",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MUEBLES PARA OFICINA Y COMERCIOS",
+    "value": "5021",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MATERIALES PARA LA CONSTRUCCION NO CLASIFICADOS",
+    "value": "5039",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPOS DE OFICINA FOTOGRAFICO FOTOCOPIADO Y MICRO",
+    "value": "5044",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPUTADORAS EQUIPO PERIFERICO DE COMPUTADORAS SOF",
+    "value": "5045",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPO COMERCIAL NO CLASIFICADO",
+    "value": "5046",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPO Y SUMINISTROS HOSPITALES,,EQUIPO Y SUMINIST",
+    "value": "5047",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CENTROS DE SERVICIO PARA EQUIPOS DE OFICINA",
+    "value": "5051",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PARTES Y EQUIPO ELECTRICO",
+    "value": "5065",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FERRETERIAS ACCESORIOS Y EQUIPO",
+    "value": "5072",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPO PLOMERIA Y CALEFACCION",
+    "value": "5074",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACCESORIOS INDUSTRIALES NO CLASIFICADOS",
+    "value": "5085",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "METALES Y PIEDRAS PRECIOSAS RELOJERIA Y JOYERIA",
+    "value": "5094",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BIENES DURADEROS NO CLASIFICADOS",
+    "value": "5099",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS DE ESCRITORIO OFICINA Y PAPELERIA",
+    "value": "5111",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICINAS MEDICINAS DE PATENTE FARMACOS DIVERSOS",
+    "value": "5122",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MERCERIAS",
+    "value": "5131",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UNIFORMES HOMBRES / MUJERES / NI�OS",
+    "value": "5137",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CALZADO",
+    "value": "5139",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRODUCTOS QUIMICOS Y ALIACIONES NO CLASIFICADOS",
+    "value": "5169",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PETROLEO Y PRODUCTOS DERIVADOS",
+    "value": "5172",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBROS PERIODICOS Y REVISTAS",
+    "value": "5192",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACCESORIOS PARA FLORERIAS FLORES E INVERNADEROS",
+    "value": "5193",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDOR DE PINTURAS Y BARNICES",
+    "value": "5198",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PERECEDEROS  NO CLASIFICADOS",
+    "value": "5199",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALMACEN DE ELECTRODOMESTICOS",
+    "value": "5200",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CIMBRAS / MADERERIAS ,MATERIALES PARA CONSTRUCCION",
+    "value": "5211",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAPEL TAPIZ ,PINTURAS Y PAPEL TAPIZ ,VIDRIERIAS",
+    "value": "5231",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FERRETERIA",
+    "value": "5251",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACCESORIOS JARDIN ,ACCESORIOS JARDININERIA,",
+    "value": "5261",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES CAMPERS Y REMOLQUES",
+    "value": "5271",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE PARTICIPACION ESTATAL",
+    "value": "5331",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ABARROTES EN GENERAL, SUPERMERCADOS",
+    "value": "5411",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ABARROTES MISCE NATURISTAS CARNICERIAS, PESCADERIAS, VERDULERIAS",
+    "value": "5422",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DULCERIAS, PASTELERIAS Y CONFITERIAS, SEMILLAS",
+    "value": "5441",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LECHERIAS CREMERIAS LACTEOS",
+    "value": "5451",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PANADERIAS",
+    "value": "5462",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES DE AUTOMOVILES NUEVOS",
+    "value": "5511",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES DE AUTOMOVILES  USADOS",
+    "value": "5521",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LLANTAS AUTOMOTORES DISTRIBUIDOR DE LLANTAS AUTOMO",
+    "value": "5532",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUTOPARTES ACCESORIOS AUTOMOTORES",
+    "value": "5533",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTACIONES DE SERVICIO GASOLINERIAS ESTACIONES DE",
+    "value": "5541",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISPENSADOR AUTOMATICO DE GASOLINA",
+    "value": "5542",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES DE YATES BARCOS LANCHAS",
+    "value": "5551",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES Y AGENCIAS MOTOCICLETAS",
+    "value": "5571",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES DE AUTOMOTORES EN GENERAL AVIONES",
+    "value": "5599",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOUTIQUE ROPA PARA NI�OS,,ROPA CABALLEROS Y NI�OS",
+    "value": "5611",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": ",ROPA CASUAL DAMAS ,BOUTIQUES ROPA CASUAL DAMAS",
+    "value": "5621",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": ",BOUTIQUE ROPA ESPECIAL ,BOUTIQUES LENCERIAS",
+    "value": "5631",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOUTIQUES ROPA NI?OS Y BEBES ,ROPA NI?OS Y BEBES",
+    "value": "5641",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOUTIQUES ROPA PARA TODA LA FAMILIA ,ROPA PARA TOD",
+    "value": "5651",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ROPA EQUITACION ,ROPA DEPORTIVA ,ROPA PARA DEPORT",
+    "value": "5655",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZAPATERIAS",
+    "value": "5661",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PIELES FINAS",
+    "value": "5681",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ROPA PARA CABALLEROS Y DAMAS  ,BOUTIQUES ROPA PARA",
+    "value": "5691",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALTA COSTURA CABALLEROS Y DAMAS,,ALTA COSTURA DAMA",
+    "value": "5697",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PELUCAS Y BISO?ES",
+    "value": "5698",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ROPA Y ACCESORIOS MISCELANEOS ,ROPA MISCELANEO",
+    "value": "5699",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MOBILIARIO ESPECIAL PARA EL HOGAR MISCELANEO",
+    "value": "5712",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALFOMBRAS Y TAPETES",
+    "value": "5713",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORTINAS CORTINEROS  Y TAPICERIAS",
+    "value": "5714",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACCESORIOS PARA CHIMENEAS CHIMENEAS",
+    "value": "5718",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EQUIPAMIENTO PARA EL HOGAR NO ELECTRODOMESTICOS",
+    "value": "5719",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACCESORIOS ELECTRODOMESTICOS",
+    "value": "5722",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE ELECTRONICA",
+    "value": "5732",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE MUSICA INSTRUMENTOS MUSICALES PIANOS PA",
+    "value": "5733",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE SOFTWARE PARA COMPUTADORAS",
+    "value": "5734",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDA DE DISCOS",
+    "value": "5735",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALIMENTOS PROVEEDORES Y DISTRIBUIDORES",
+    "value": "5811",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RESTAURANTES, CAFETERIAS Y BEBIDAS",
+    "value": "5812",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BARES BEBIDAS ALCOHOLICAS ,TABERNAS ,DISCOTECAS",
+    "value": "5813",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMERCIO QUE VENDE COMIDA PREPARADA PARA CONSUMO",
+    "value": "5814",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DROGUERIAS Y FARMACIAS",
+    "value": "5912",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DEPOSITOS DE CERVEZAS Y VINATERIAS",
+    "value": "5921",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": ",TIENDAS DE ARTICULOS USADOS  ,TIENDAS DE ARTICUL",
+    "value": "5931",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE ANTIGsEDADES BAZARES VENTA REPARACION R",
+    "value": "5932",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CASAS DE EMPE?O",
+    "value": "5933",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VENTAS DE SALDOS",
+    "value": "5935",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BICICLETAS VENTA Y REPARACION",
+    "value": "5940",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DEPORTES Y ACCESORIOS",
+    "value": "5941",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBRERIAS",
+    "value": "5942",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS DE ESCRITORIO ,ARTICULOS DE OFICINA ,AR",
+    "value": "5943",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RELOJERIAS ,JOYERIAS ,PLATERIAS",
+    "value": "5944",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JUEGOS DE MESA Y PASATIEMPOS ,JUGUETERIAS JUGOS DE",
+    "value": "5945",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS Y ACCESORIOS FOTOGRAFICOS",
+    "value": "5946",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE REGALOS ,REGALOS Y ARTESANIAS ,TARJETA",
+    "value": "5947",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULO DE PIEL ,MALETAS Y EQUIPAJES",
+    "value": "5948",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TELAS Y CASIMIRES, MERCERIAS, BONETERIAS, CORCETERIAS",
+    "value": "5949",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CRISTALERIAS",
+    "value": "5950",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MERCADO DIRECTO VENTAS POR CATALOGO",
+    "value": "5964",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MERCADEO DIRECTO TIENDAS AL MENUDEO QUE TAMBIEN VE",
+    "value": "5965",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MERCADEO DIRECTO   COMERCIANTES QUE PRESTAN SERVICIOS",
+    "value": "5967",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MERCADEO DIRECTO NO CLASIFICADO",
+    "value": "5969",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS PARA EL ARTISTAS, ARTICULOS DE ARTE Y PINTURA",
+    "value": "5970",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GALERIAS DE ARTE, DISTRIBUIDORES DE ARTE",
+    "value": "5971",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS RELIGIOSOS",
+    "value": "5973",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULOS PARA LA SORDERA VENTAS REPARACION Y ACCESORIOS",
+    "value": "5975",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTICULO ORTOPEDICOS PROTESIS VENTA REPARACION Y A",
+    "value": "5976",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS COSMETICOS",
+    "value": "5977",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDOR DE GAS",
+    "value": "5983",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FLORERIAS",
+    "value": "5992",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TABAQUERIAS",
+    "value": "5993",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PUESTOS DE PERIODICOS Y REVISTAS",
+    "value": "5994",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDAS DE MASCOTAS ALIMENTO Y ACCESORIOS",
+    "value": "5995",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VENTA SERVICIO ACCESORIOS ALBERCAS",
+    "value": "5996",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUIDORES DE HIELO, FUEGOS ARTIFICIALES",
+    "value": "5999",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BANCOS DISPOSICIONES DE EFECTIVO EN VENTANILLA,,IN",
+    "value": "6010",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUTOFINANCIAMIENTOS SERVICIOS FINANCIEROS,,BANCOS",
+    "value": "6012",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENTES TRANSACCIONES DE BOLSA",
+    "value": "6211",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASEGURADORAS VENTAS DE SEGUROS POLIZAS",
+    "value": "6300",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HOTELES MOTELES CENTROS",
+    "value": "7011",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIEMPO COMPARTIDO",
+    "value": "7012",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS LAVANDERIA,,SERVICIO LIMPIEZA Y LAVANDERIA",
+    "value": "7210",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TINTORERIAS",
+    "value": "7216",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIMPIEZA TAPETES ,LIMPIEZA ALFOMBRAS",
+    "value": "7217",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTUDIOS FOTOGRAFICOS",
+    "value": "7221",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SALONES DE BELLEZA ,PELUQUERIAS ,ESTETICAS",
+    "value": "7230",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIMPIEZA DE SOMBREROS ,REPARACION DE CALZADO Y BOL",
+    "value": "7251",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS FUNERARIOS ,CREMATORIOS,",
+    "value": "7261",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTADORES PREPARACION DE DECLARACION DE IMPUESTOS",
+    "value": "7276",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASESOR FINANCIERO ,CONSEJEROS Y ASESORES PERSONALE",
+    "value": "7277",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASESORIAS COMPRA/VENTA BIENES INMUEBLES",
+    "value": "7278",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA UNIFORMES ,RENTA DISFRACES ,RENTA SMOKINGS",
+    "value": "7296",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SALONES MASAJES",
+    "value": "7297",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CLINICAS BELLEZA, CLINICA SALUD",
+    "value": "7298",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA DEPARTAMENTOS EDIFICIO DE DEPARTAMENTOS ,OTR",
+    "value": "7299",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS PUBLICITARIOS",
+    "value": "7311",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FOTOGRAFIA ARTE Y ANUNCIOS COMERCIALES,,ARTES Y AN",
+    "value": "7333",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO DE FOTOCOPIADO REPRODUCCIONES Y ANTEPROYE",
+    "value": "7338",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS FUMIGACION ,SERVICIOS EXTERMINIO DE PLAG",
+    "value": "7342",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE CONSERJERIA LIMPIEZA Y MANTENIMIENTO",
+    "value": "7349",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENCIAS DE EMPLEOS, SERVICIOS EVENTOS ESPECIALES",
+    "value": "7361",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO DE PROCESAMIENTO DE DATOS, PROGRAMACION",
+    "value": "7372",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE CONSULTA/ENCUESTAS DE INFORMACION",
+    "value": "7375",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MANTENIMIENTO REPARACION DE COMPUTADORAS SERVICIOS",
+    "value": "7379",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS RELACIONES PUBLICAS ,SERVICIOS CONSULTOR",
+    "value": "7392",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUARDIAS DE SEGURIDAD ,AGENCIAS DETECTIVES PRIVADO",
+    "value": "7393",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA MUEBLES ,RENTA DE HERRAMIENTAS EQUIPO Y MUEB",
+    "value": "7394",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LABORATORIOS FOTOGRAFICOS- REVELADO Y RETOQUE",
+    "value": "7395",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OTROS SERVICIOS EMPRESARIALES NO CLASIFICADOS",
+    "value": "7399",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARRENDADORAS DE AUTOS NO CLASIFICADAS",
+    "value": "7512",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA CAMIONES,  ACCESORIOS PARA VEHICULOS",
+    "value": "7513",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA CASAS RODANTES ,RENTA VEHICULOS RECREATIVOS",
+    "value": "7519",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTACIONAMIENTOS/PENSIONES",
+    "value": "7523",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES HOJALATERIA",
+    "value": "7531",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES VULCANIZADORAS",
+    "value": "7534",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES PINTURA DE AUTOS",
+    "value": "7535",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES MECANICOS",
+    "value": "7538",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO LAVADO DE AUTOS",
+    "value": "7542",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO GRUAS Y TRASLADOS",
+    "value": "7549",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLER DE REPARACION APARATOS ELECTRONICOS",
+    "value": "7622",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLER DE REPARACION AIRE ACONDICIONADO",
+    "value": "7623",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES DE REPARACION ELECTRICOS",
+    "value": "7629",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLER DE REPARACION RELOJES",
+    "value": "7631",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RETAPIZADOS ,TALLER DE REPARACION MUEBLES Y ACABAD",
+    "value": "7641",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLER SOLDADURA ELECTRICA Y AUTOGENA",
+    "value": "7692",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TALLERES DE REPARACION MISCELANEOS NO CLASIFICADOS",
+    "value": "7699",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRODUCCION Y DISTRIBUCION DE PELICULAS Y VIDEOS",
+    "value": "7829",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CINES TEATROS",
+    "value": "7832",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA DE VIDEOS",
+    "value": "7841",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAILE SALONES Y  ESCUELAS DE BAILE",
+    "value": "7911",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TEATROS Y CINES",
+    "value": "7922",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BANDAS ORQUESTAS GRUPOS,DIVERSIONES NO CLASIFICADO",
+    "value": "7929",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BILLARRES",
+    "value": "7932",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOLICHES",
+    "value": "7933",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CLUBES DEPORTIVOS PROFESIONALES",
+    "value": "7941",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EXHIBICIONES Y ATRACCIONES TURISTICAS",
+    "value": "7991",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMPOS DE GOLF PUBLICO",
+    "value": "7992",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VENTA DE VIDEO JUEGOS ACCESORIOS",
+    "value": "7993",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VIDEO JUEGOS ESTABLECIMIENTOS",
+    "value": "7994",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CASINOS CASAS DE JUEGO ,APUESTAS INCLUYE BILLETES",
+    "value": "7995",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ADIVINOS LECTURA DE CARTAS, CIRCOS, PARQUES DE DIVERSION",
+    "value": "7996",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CLUBS DEPORTIVOS MEMBRESIAS,,CURSOS PRIVADOS DE GO",
+    "value": "7997",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACUARIOS ESPECTACULOS MARINOS",
+    "value": "7998",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JARDINES BOTANICOS",
+    "value": "7999",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOCTORES OTRAS ESPECIALIDADES,,MEDICOS",
+    "value": "8011",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORTODONCISTAS ,DENTISTAS",
+    "value": "8021",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIROPRACTICOS",
+    "value": "8041",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OPTOMETRISTAS ,OFTALMOLOGOS",
+    "value": "8042",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OPTICAS LENTES Y ANTEOJOS",
+    "value": "8043",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PEDICURISTAS,,QUIROPEDISTAS",
+    "value": "8049",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE RECUPERACION ,SERVICIOS DE ENFERMERAS",
+    "value": "8050",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HOSPITALES",
+    "value": "8062",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LABORATORIOS DENTALES ,LABORATORIOS MEDICOS",
+    "value": "8071",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS MEDICOS Y PARAMEDICOS NO CLASIFICADOS",
+    "value": "8099",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS LEGALES ,ABOGADOS",
+    "value": "8111",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCUELAS SECUNDARIAS ,ESCUELAS PRIMARIAS",
+    "value": "8211",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UNIVERSIDADES ,COLEGIOS Y PREPARATORIAS",
+    "value": "8220",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCUELAS ADMINISTRACION Y COMERCIALES",
+    "value": "8244",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCUELAS PROFESIONALES",
+    "value": "8249",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCUELAS Y ACADEMIAS NO CLASIFICADAS",
+    "value": "8299",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUARDERIAS",
+    "value": "8351",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES DE SERVICIO SOCIAL",
+    "value": "8398",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASOCIACIONES CIVICAS Y  FRATERNIDADES",
+    "value": "8641",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES RELIGIOSAS",
+    "value": "8661",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASOCIACIONES AUTOMOVILISTICAS",
+    "value": "8675",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SINDICATOS ,ASOCIACIONES- NO CLASIFICADAS",
+    "value": "8699",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LABORATORIOS DE PRUEBAS ,NO MEDICOS",
+    "value": "8734",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROYECTOS INGENIERILES Y DE ARQUITECTURA",
+    "value": "8911",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS CONTABILIDAD ,SERVICIOS CONTABLES",
+    "value": "8931",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS PROFESIONALES NO CLASIFICADOS",
+    "value": "8999",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MULTAS",
+    "value": "9222",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAGOS DE IMPUESTOS",
+    "value": "9311",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOMBERO",
+    "value": "9399",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDICAR CUAL",
+    "value": "OTROS",
+    "taxonomy": "giros_pagaqui",
+    "code1": null,
+    "code2": null
+  }
+]

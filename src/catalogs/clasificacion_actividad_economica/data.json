@@ -1,0 +1,72 @@
+[
+  {
+    "name": "CLASIFICACIÓN",
+    "value": "CLASIFICACIÓN",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS COMUNALES  SOCIALES Y PERSONALES",
+    "value": "SERVICIOS COMUNALES  SOCIALES Y PERSONALES",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS FINANCIEROS  SEGUROS Y BIENES INMUEBLES",
+    "value": "SERVICIOS FINANCIEROS  SEGUROS Y BIENES INMUEBLES",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGROPECUARIO  SILVICULTURA Y PESCA",
+    "value": "AGROPECUARIO  SILVICULTURA Y PESCA",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMERCIO  RESTAURANTES Y HOTELES",
+    "value": "COMERCIO  RESTAURANTES Y HOTELES",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA",
+    "value": "INDUSTRIA MANUFACTURERA",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONSTRUCCION",
+    "value": "CONSTRUCCION",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ELECTRICIDAD  GAS Y AGUA POTABLE",
+    "value": "ELECTRICIDAD  GAS Y AGUA POTABLE",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "POLITICAMENTE EXPUESTOS",
+    "value": "POLITICAMENTE EXPUESTOS",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MINERIA",
+    "value": "MINERIA",
+    "taxonomy": "clasificacion_actividad_economica",
+    "code1": null,
+    "code2": null
+  }
+]

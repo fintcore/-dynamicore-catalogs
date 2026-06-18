@@ -1,0 +1,30 @@
+[
+  {
+    "name": "MICRO",
+    "value": "micro",
+    "taxonomy": "sector_clasificacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PEQUEÑA",
+    "value": "pequena",
+    "taxonomy": "sector_clasificacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDIANA",
+    "value": "mediana",
+    "taxonomy": "sector_clasificacion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GRANDE",
+    "value": "grande",
+    "taxonomy": "sector_clasificacion",
+    "code1": null,
+    "code2": null
+  }
+]

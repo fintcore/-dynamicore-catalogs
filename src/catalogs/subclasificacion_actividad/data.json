@@ -1,0 +1,1045 @@
+[
+  {
+    "name": "ORGANIZACIONES DEPORTIVAS",
+    "value": "ORGANIZACIONES DEPORTIVAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ADMINISTRACION Y ARRENDAMIENTO DE INMUEBLES",
+    "value": "ADMINISTRACION Y ARRENDAMIENTO DE INMUEBLES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE BIENES MUEBLES",
+    "value": "COMPRAVENTA DE BIENES MUEBLES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENCIA ADUANAL",
+    "value": "AGENCIA ADUANAL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENCIAS DE MUDANZA",
+    "value": "AGENCIAS DE MUDANZA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS PROFESIONALES Y TECNICOS",
+    "value": "SERVICIOS PROFESIONALES Y TECNICOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENCIA DE TURISMO",
+    "value": "AGENCIA DE TURISMO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE JUEGOS Y SORTEOS",
+    "value": "SERVICIOS DE JUEGOS Y SORTEOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENTE DE BOLSA",
+    "value": "AGENTE DE BOLSA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENTE DE SEGUROS",
+    "value": "AGENTE DE SEGUROS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGROPECUARIO SILVICULTURA Y PESCA",
+    "value": "AGROPECUARIO SILVICULTURA Y PESCA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES CIVICAS, LABORALES Y SINDICALES",
+    "value": "ORGANIZACIONES CIVICAS, LABORALES Y SINDICALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALMACENES DE DEPOSITO NACIONALES",
+    "value": "ALMACENES DE DEPOSITO NACIONALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALMACENES DE DEPOSITO PRIVADOS",
+    "value": "ALMACENES DE DEPOSITO PRIVADOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER DE MOBILIARIO",
+    "value": "ALQUILER DE MOBILIARIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER DE VEHICULOS TERRESTES, MARITIMOS Y AEREOS",
+    "value": "ALQUILER DE VEHICULOS TERRESTES, MARITIMOS Y AEREOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER DE ROPA",
+    "value": "ALQUILER DE ROPA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER DE DE INMUEBLES",
+    "value": "ALQUILER DE DE INMUEBLES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER O RENTA DE AUTOMOVILES SIN CHOFER",
+    "value": "ALQUILER O RENTA DE AUTOMOVILES SIN CHOFER",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AMA DE CASA",
+    "value": "AMA DE CASA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS FINANCIEROS ASESORES, COMICIONISTAS, ARENDADOREAS NACIONALES Y PRIVADAS, TRASMISORES O DISPERSORES DE DINERO ETC",
+    "value": "SERVICIOS FINANCIEROS ASESORES, COMICIONISTAS, ARENDADOREAS NACIONALES Y PRIVADAS, TRASMISORES O DISPERSORES DE DINERO ETC",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA MAQUINARIA Y SUS REFACCIONES",
+    "value": "COMPRAVENTA MAQUINARIA Y SUS REFACCIONES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO AUTOMOTRIZ",
+    "value": "SERVICIO AUTOMOTRIZ",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE BELLEZA",
+    "value": "SERVICIOS DE BELLEZA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ALIMENTOS Y BEBIDAS",
+    "value": "COMPRAVENTA DE ALIMENTOS Y BEBIDAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOLSA DE VALORES",
+    "value": "BOLSA DE VALORES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAJA DE AHORROS",
+    "value": "CAJA DE AHORROS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMARAS INDUSTRIALES",
+    "value": "CAMARAS INDUSTRIALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMBISTAS O CENTROS CAMBIARIOS",
+    "value": "CAMBISTAS O CENTROS CAMBIARIOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CASA DE CAMBIO",
+    "value": "CASA DE CAMBIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CASAS DE BOLSA NACIONALES",
+    "value": "CASAS DE BOLSA NACIONALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CASAS DE BOLSA PRIVADAS",
+    "value": "CASAS DE BOLSA PRIVADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASOCIACIONES CIVILES",
+    "value": "ASOCIACIONES CIVILES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CENTROS CAMBIARIOS",
+    "value": "CENTROS CAMBIARIOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMISIONISTA",
+    "value": "COMISIONISTA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPAÑIAS DE FIANZAS NACIONALES",
+    "value": "COMPAÑIAS DE FIANZAS NACIONALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPAÑIAS DE FIANZAS PRIVADAS",
+    "value": "COMPAÑIAS DE FIANZAS PRIVADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPAÑIAS DE SEGUROS NACIONALES",
+    "value": "COMPAÑIAS DE SEGUROS NACIONALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPAÑIAS DE SEGUROS PRIVADAS",
+    "value": "COMPAÑIAS DE SEGUROS PRIVADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE INMUEBLES",
+    "value": "COMPRAVENTA DE INMUEBLES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE MUEBLES Y ARTICULOS PARA EL HOGAR",
+    "value": "COMPRAVENTA DE MUEBLES Y ARTICULOS PARA EL HOGAR",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARMAS DE FUEGO Y SUS ACCESORIOS",
+    "value": "COMPRAVENTA DE ARMAS DE FUEGO Y SUS ACCESORIOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICULOS DE CRISTAL LOZA Y PORCELANA",
+    "value": "COMPRAVENTA DE ARTICULOS DE CRISTAL LOZA Y PORCELANA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE MATERIALES PARA LA CONSTRUCCION",
+    "value": "COMPRAVENTA DE MATERIALES PARA LA CONSTRUCCION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTE DE INMOBILIARIO Y ARTICULOS DEL SECTOR SALUD",
+    "value": "COMPRAVENTE DE INMOBILIARIO Y ARTICULOS DEL SECTOR SALUD",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE JOYERIA",
+    "value": "COMPRAVENTA DE JOYERIA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICULOS CINEMATOGRAFICOS Y SUS REFACCIONES",
+    "value": "COMPRAVENTA DE ARTICULOS CINEMATOGRAFICOS Y SUS REFACCIONES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICULOS NO CLASIFICADOS EN OTRA PARTE",
+    "value": "COMPRAVENTA DE ARTICULOS NO CLASIFICADOS EN OTRA PARTE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRA VENTA DE ARTICULOS PARA LA DECORACION, ADORNOS, RELAGALOS, ETC",
+    "value": "COMPRA VENTA DE ARTICULOS PARA LA DECORACION, ADORNOS, RELAGALOS, ETC",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE TRANSPORTES AEREOS, MARITIMOS Y TERRESTRES",
+    "value": "COMPRAVENTA DE TRANSPORTES AEREOS, MARITIMOS Y TERRESTRES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE BIENES INMUEBLES",
+    "value": "SERVICIOS DE BIENES INMUEBLES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ROPA Y CALZADO",
+    "value": "COMPRAVENTA DE ROPA Y CALZADO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE EQUIPO CONTRA INCENDIO",
+    "value": "COMPRAVENTA DE EQUIPO CONTRA INCENDIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE MOBILIARIO",
+    "value": "COMPRAVENTA DE MOBILIARIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTES DE ARTICULOS RELACIONADOS CON EL COMBUSTIBLE",
+    "value": "COMPRAVENTES DE ARTICULOS RELACIONADOS CON EL COMBUSTIBLE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE INSTRUMENTOS MUSICALES Y REFACCIONES",
+    "value": "COMPRAVENTA DE INSTRUMENTOS MUSICALES Y REFACCIONES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRA VENTA DE ARTICULOS RELACIONADOS A LA INDUSTRIA TEXTILERA",
+    "value": "COMPRA VENTA DE ARTICULOS RELACIONADOS A LA INDUSTRIA TEXTILERA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE JUGUETES",
+    "value": "COMPRAVENTA DE JUGUETES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICOLOS RELACIONADOS AL SECTOR EDITORIAL E IMPRENTA",
+    "value": "COMPRAVENTA DE ARTICOLOS RELACIONADOS AL SECTOR EDITORIAL E IMPRENTA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE MEDICAMENTOS",
+    "value": "COMPRAVENTA DE MEDICAMENTOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE PAPELERIA Y ARTICULOS DE OFICINA",
+    "value": "COMPRAVENTA DE PAPELERIA Y ARTICULOS DE OFICINA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICULOS ELECTRICOS",
+    "value": "COMPRAVENTA DE ARTICULOS ELECTRICOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE PLASTICO, HULES Y SUS DERIVADOS",
+    "value": "COMPRAVENTA DE PLASTICO, HULES Y SUS DERIVADOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE REFACCIONES DE TRANSPORTES",
+    "value": "COMPRAVENTA DE REFACCIONES DE TRANSPORTES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE PERFUMES",
+    "value": "COMPRAVENTA DE PERFUMES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRA VENTA DE ARTICULOS VETERINARIOS",
+    "value": "COMPRA VENTA DE ARTICULOS VETERINARIOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE TABACO",
+    "value": "COMPRAVENTA DE TABACO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TELECOMUNICACIONES",
+    "value": "TELECOMUNICACIONES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION ENSAMBLE Y REPARACION DE VEHICULOS",
+    "value": "FABRICACION ENSAMBLE Y REPARACION DE VEHICULOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONSTRUCCION",
+    "value": "CONSTRUCCION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE LA BANCA NACIONAL",
+    "value": "SERVICIOS DE LA BANCA NACIONAL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "(INSTALACION, PERFORACION, GENERACION, SUMINISTRACION, DISTRIBUCION CAPTACION TRATAMIENTO) DE ELECTRICIDAD GAS Y AGUA POTABLE",
+    "value": "(INSTALACION, PERFORACION, GENERACION, SUMINISTRACION, DISTRIBUCION CAPTACION TRATAMIENTO) DE ELECTRICIDAD GAS Y AGUA POTABLE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "POLITICAMENTE EXPUESTOS",
+    "value": "POLITICAMENTE EXPUESTOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CREDITOS PARA ADQUISICION DE BIENES DE CONSUMO DURADERO",
+    "value": "CREDITOS PARA ADQUISICION DE BIENES DE CONSUMO DURADERO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CREDITOS PERSONALES AL CONSUMO",
+    "value": "CREDITOS PERSONALES AL CONSUMO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACTIVOS VIRTUALES",
+    "value": "ACTIVOS VIRTUALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES POLITICAS Y GUBERNAMENTALES",
+    "value": "ORGANIZACIONES POLITICAS Y GUBERNAMENTALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DESEMPLEADO",
+    "value": "DESEMPLEADO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISTRIBUCION DE OTROS PRODUCTOS QUIMICOS FARMACEUTICOS",
+    "value": "DISTRIBUCION DE OTROS PRODUCTOS QUIMICOS FARMACEUTICOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE PRODUCTOS DE CERAMICA, AZULEJOS, LOZA ETC",
+    "value": "FABRICACION DE PRODUCTOS DE CERAMICA, AZULEJOS, LOZA ETC",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADO DE PUBLICO",
+    "value": "EMPLEADO DE PUBLICO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADO PRIVADO",
+    "value": "EMPLEADO PRIVADO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS RELACIONADOS CON LA HIGIENE PERSONAL",
+    "value": "SERVICIOS RELACIONADOS CON LA HIGIENE PERSONAL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPRESAS CONTROLADORAS FINANCIERAS",
+    "value": "EMPRESAS CONTROLADORAS FINANCIERAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE SEGURIDAD PRIVADA",
+    "value": "SERVICIOS DE SEGURIDAD PRIVADA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRASLADO DE VALORES",
+    "value": "TRASLADO DE VALORES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTACIONAMIENTO",
+    "value": "ESTACIONAMIENTO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTUDIANTE",
+    "value": "ESTUDIANTE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MINERIA",
+    "value": "MINERIA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA DERIVADOS DEL PETROLEO",
+    "value": "INDUSTRIA MANUFACTURERA DERIVADOS DEL PETROLEO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE VIDRIO, CRISTALES Y SUS DERIVADOS",
+    "value": "FABRICACION DE VIDRIO, CRISTALES Y SUS DERIVADOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION Y REPARACION DE ARTICULOS DE JOYERIA",
+    "value": "FABRICACION Y REPARACION DE ARTICULOS DE JOYERIA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA ALIMENTOS Y BEBIDAS: FABRICACION EXTRACCCION, DESTILACION, DESHIDRATACION ETC)",
+    "value": "INDUSTRIA MANUFACTURERA ALIMENTOS Y BEBIDAS: FABRICACION EXTRACCCION, DESTILACION, DESHIDRATACION ETC)",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE MAQUINARIA Y SUS REFACCIONES",
+    "value": "FABRICACION DE MAQUINARIA Y SUS REFACCIONES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE MATERIALES PARA LA CONSTRUCCCION",
+    "value": "FABRICACION DE MATERIALES PARA LA CONSTRUCCCION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA INDUSTRIA TEXTIL FRABRICACION DE EN BASE ALGODON, TELAS, CUERO, PIEL",
+    "value": "INDUSTRIA MANUFACTURERA INDUSTRIA TEXTIL FRABRICACION DE EN BASE ALGODON, TELAS, CUERO, PIEL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA NO CLASIFICADOS EN OTRA PARTE",
+    "value": "INDUSTRIA MANUFACTURERA NO CLASIFICADOS EN OTRA PARTE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE ROTULOS",
+    "value": "FABRICACION DE ROTULOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE SELLOS PARA CARROS DE FERROCARRIL",
+    "value": "FABRICACION DE SELLOS PARA CARROS DE FERROCARRIL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE TALCO INDUSTRIAL",
+    "value": "FABRICACION DE TALCO INDUSTRIAL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE TAXIMETROS",
+    "value": "FABRICACION DE TAXIMETROS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA EDITORIAL E IMPRENTA",
+    "value": "INDUSTRIA MANUFACTURERA EDITORIAL E IMPRENTA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE TRAGALUCES Y MARQUESINAS",
+    "value": "FABRICACION DE TRAGALUCES Y MARQUESINAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION DE TUBOS DE COBRE PLOMO Y ALUMINIO",
+    "value": "FABRICACION DE TUBOS DE COBRE PLOMO Y ALUMINIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FABRICACION E INSTALACION DE EQUIPOS Y APARATOS DE AIRE ACONDICIONADO CALEFACCION Y REFRIGERACION",
+    "value": "FABRICACION E INSTALACION DE EQUIPOS Y APARATOS DE AIRE ACONDICIONADO CALEFACCION Y REFRIGERACION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FACTORING",
+    "value": "FACTORING",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE ENTRETENIMIENTO",
+    "value": "SERVICIOS DE ENTRETENIMIENTO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES POLITICAS Y GUBERNAMENTALES EXTRANJEROS",
+    "value": "ORGANIZACIONES POLITICAS Y GUBERNAMENTALES EXTRANJEROS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DEL SECTOR SALUD PUBLICOS Y PRIVADOS",
+    "value": "SERVICIOS DEL SECTOR SALUD PUBLICOS Y PRIVADOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE HOTELERIA",
+    "value": "SERVICIOS DE HOTELERIA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA FABRICACION DE ARTICULOS EN BASE DE PAPEL",
+    "value": "INDUSTRIA MANUFACTURERA FABRICACION DE ARTICULOS EN BASE DE PAPEL",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA EN MATERIA QUIMICA",
+    "value": "INDUSTRIA MANUFACTURERA EN MATERIA QUIMICA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INSTITUCIONES FINANCIERAS DEL EXTRANJERO",
+    "value": "INSTITUCIONES FINANCIERAS DEL EXTRANJERO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INVERSIONISTA",
+    "value": "INVERSIONISTA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JUBILADO",
+    "value": "JUBILADO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ORGANIZACIONES RELIGIOSAS",
+    "value": "ORGANIZACIONES RELIGIOSAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONTEPIO",
+    "value": "MONTEPIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONTEPIO O CASAS DE EMPEÑO",
+    "value": "MONTEPIO O CASAS DE EMPEÑO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIO RERLACIONADOS CON INTERNET",
+    "value": "SERVICIO RERLACIONADOS CON INTERNET",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NOTARIAS",
+    "value": "NOTARIAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OTROS CREDITOS AL CONSUMO",
+    "value": "OTROS CREDITOS AL CONSUMO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PLANTA METALURGICA",
+    "value": "PLANTA METALURGICA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE PUBLICIDAD",
+    "value": "SERVICIOS DE PUBLICIDAD",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HOGAR",
+    "value": "HOGAR",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RENTA DE TRANSPORTE AEREO",
+    "value": "RENTA DE TRANSPORTE AEREO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORREDOR INMOBILIARIO",
+    "value": "CORREDOR INMOBILIARIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALQUILER DE EMPRESAS",
+    "value": "ALQUILER DE EMPRESAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE BLINDAJE",
+    "value": "SERVICIOS DE BLINDAJE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS EDUCATIVOS PUBLICOS Y PRIVADOS",
+    "value": "SERVICIOS EDUCATIVOS PUBLICOS Y PRIVADOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE FONDOS Y FIDEICOMISOS DE FOMENTO ECONOMICO",
+    "value": "SERVICIOS DE FONDOS Y FIDEICOMISOS DE FOMENTO ECONOMICO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE INSTITUCIONES DE CREDITO ORGANIZACIONES AUXILIARES E INSTITUCIONES DE SEGUROS Y FIANZAS",
+    "value": "SERVICIOS DE INSTITUCIONES DE CREDITO ORGANIZACIONES AUXILIARES E INSTITUCIONES DE SEGUROS Y FIANZAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE LA BANCA PRIVADA Y MIXTA MULTIPLE",
+    "value": "SERVICIOS DE LA BANCA PRIVADA Y MIXTA MULTIPLE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS DE MANTENIMIENTO Y REPARACION DE VEHICULOS",
+    "value": "SERVICIOS DE MANTENIMIENTO Y REPARACION DE VEHICULOS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS RELACIONADOS CON EL TRASPORTE (URBANO, SUBURBANO FORANEO, RULETERO, SITIO Y TURISMO, CARGA, ETC)",
+    "value": "SERVICIOS RELACIONADOS CON EL TRASPORTE (URBANO, SUBURBANO FORANEO, RULETERO, SITIO Y TURISMO, CARGA, ETC)",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES DE AHORRO Y CREDITO POPULAR",
+    "value": "SOCIEDADES DE AHORRO Y CREDITO POPULAR",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES DE AHORRO Y PRESTAMO",
+    "value": "SOCIEDADES DE AHORRO Y PRESTAMO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES DE INVERSION",
+    "value": "SOCIEDADES DE INVERSION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES FINANCIERAS DE OBJETO LIMITADO",
+    "value": "SOCIEDADES FINANCIERAS DE OBJETO LIMITADO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES FINANCIERAS DE OBJETO MULTIPLE NO REGULADAS",
+    "value": "SOCIEDADES FINANCIERAS DE OBJETO MULTIPLE NO REGULADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOCIEDADES FINANCIERAS DE OBJETO MULTIPLE REGULADAS",
+    "value": "SOCIEDADES FINANCIERAS DE OBJETO MULTIPLE REGULADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIENDA DE AUTOSERVICIO Y COMPRAVENTA DE ARTICULOS PARA AUTOSERVICIO",
+    "value": "TIENDA DE AUTOSERVICIO Y COMPRAVENTA DE ARTICULOS PARA AUTOSERVICIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSMISORES DE DINERO O DISPERSORES",
+    "value": "TRANSMISORES DE DINERO O DISPERSORES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UNIONES DE CREDITO NACIONALES",
+    "value": "UNIONES DE CREDITO NACIONALES",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UNIONES DE CREDITO PRIVADAS",
+    "value": "UNIONES DE CREDITO PRIVADAS",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVICIOS RELACIONADOS CON MEDIO CINEMATOGRAFICOS Y DE COMUNICACION",
+    "value": "SERVICIOS RELACIONADOS CON MEDIO CINEMATOGRAFICOS Y DE COMUNICACION",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "USUARIOS MENORES COMERCIO",
+    "value": "USUARIOS MENORES COMERCIO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDUSTRIA MANUFACTURERA",
+    "value": "INDUSTRIA MANUFACTURERA",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "USUARIOS MENORES TURISMO",
+    "value": "USUARIOS MENORES TURISMO",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMPRAVENTA DE ARTICULOS NO RELACIONADOS EN OTRA PARTE",
+    "value": "COMPRAVENTA DE ARTICULOS NO RELACIONADOS EN OTRA PARTE",
+    "taxonomy": "subclasificacion_actividad",
+    "code1": null,
+    "code2": null
+  }
+]
