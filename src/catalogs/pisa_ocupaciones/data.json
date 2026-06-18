@@ -1,0 +1,660 @@
+[
+  {
+    "name": "INVESTIGADOR",
+    "value": 50,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGENTE DE SEGUROS",
+    "value": 2,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGRICULTOR-ARRENDATARIO",
+    "value": 3,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGRICULTOR-PROPIETARIO",
+    "value": 4,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AGRONOMO",
+    "value": 5,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALBANIL",
+    "value": 6,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARRENDADOR DE INMUEBLES",
+    "value": 8,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARTISTA",
+    "value": 9,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASISTENTE",
+    "value": 10,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR ADMINISTRATIVO",
+    "value": 11,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR CONTABLE",
+    "value": 12,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR DE AREA",
+    "value": 13,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AVICULTOR",
+    "value": 14,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AYUDANTE DE OFICIOS",
+    "value": 15,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BARRENDERO/LIMPIA",
+    "value": 16,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAJERO",
+    "value": 17,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CARNICERO/TABLAJERO",
+    "value": 18,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CARPINTERO",
+    "value": 19,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COCINERO",
+    "value": 20,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMERCIANTE / PROPIETARIO",
+    "value": 21,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMISIONISTA",
+    "value": 22,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONCESIONARIO DE TRANSPORTE",
+    "value": 23,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONSTRUCTOR",
+    "value": 24,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTADOR PUBLICO",
+    "value": 25,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTRATISTA",
+    "value": 26,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORREDOR DE BIENES RAICES",
+    "value": 27,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COSMETOLOGA/COSMEATRA",
+    "value": 28,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COSTURERA/MODISTA",
+    "value": 29,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHOFER",
+    "value": 30,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DENTISTA/ODONTOLOGO",
+    "value": 31,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DEPORTISTA",
+    "value": 32,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EDUCADORA",
+    "value": 33,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ELECTRICISTA",
+    "value": 34,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADA DOMESTICA",
+    "value": 35,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ENFERMERO (A)",
+    "value": 36,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESCRITOR",
+    "value": 37,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTILISTA/PELUQUERO",
+    "value": 38,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FLORISTA",
+    "value": 40,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FUNCIONARIO PUBLICO",
+    "value": 41,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GERENTE/DIRECTOR",
+    "value": 42,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GESTOR",
+    "value": 43,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUARDAESPALDAS/SEGURIDAD",
+    "value": 44,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HERRERO",
+    "value": 45,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HOJALATERO",
+    "value": 46,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INGENIERO CIVIL/ARQUITECTO",
+    "value": 47,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INGENIERO EN SISTEMAS/INFORMATICA",
+    "value": 48,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INTENDENCIA",
+    "value": 49,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JEFE DE DEPARTAMENTO/AREA",
+    "value": 51,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JOYERO/LAPIDARIO",
+    "value": 52,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JUBILADO/PENSIONADO",
+    "value": 53,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAESTRO DE E.FISICA/E. ARTISTICA",
+    "value": 54,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MECANICO",
+    "value": 55,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ESPECIALISTA",
+    "value": 56,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO GENERAL",
+    "value": 57,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MESERO",
+    "value": 58,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MICROEMPRESARIO",
+    "value": 59,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MILITAR (CON RANGO)",
+    "value": 60,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MODELO",
+    "value": 61,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MUSICO",
+    "value": 62,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OBRERO",
+    "value": 63,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OBRERO ESPECIALIZADO",
+    "value": 64,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OCULISTA",
+    "value": 65,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OTRO (S)",
+    "value": 66,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAILERO",
+    "value": 67,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PARAMEDICO",
+    "value": 68,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PERIODISTA/REPORTERO",
+    "value": 69,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PINTOR",
+    "value": 70,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PLOMERO/FONTANERO",
+    "value": 71,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "POLICIA",
+    "value": 72,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESIONISTA (OTRO TITULO)",
+    "value": 73,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESOR EDUCACION PRIMARIA/SECUNDARIA",
+    "value": 74,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESOR EDUCACION SUPERIOR/UNIVERSITARI",
+    "value": 75,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROPIETARIO DE TALLER",
+    "value": 76,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PSICOLOGO",
+    "value": 77,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PUBLICISTA/DISENADOR",
+    "value": 78,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO/BIOLOGO",
+    "value": 79,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SACERDOTE/RELIGIOSO (A)",
+    "value": 80,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERVIDOR PUBLICO",
+    "value": 81,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOLDADO",
+    "value": 82,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUPERVISOR DE OBRA CIVIL",
+    "value": 83,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUPERVISOR DE PLANTA INDUSTRIAL",
+    "value": 84,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ESPECIALIZADO",
+    "value": 85,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRABAJADORA SOCIAL",
+    "value": 86,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VENDEDOR",
+    "value": 87,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VETERINARIO",
+    "value": 88,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VIGILANTE/GUARDIA",
+    "value": 89,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZAPATERO/TEJEDOR/BORDADOR",
+    "value": 90,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DESEMPLEADO",
+    "value": 92,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADO PRIVADO",
+    "value": 93,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADA PUBLICO",
+    "value": 97,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AMA DE CASA",
+    "value": 7,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTUDIANTE",
+    "value": 39,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "(0) SIN OCUPACION",
+    "value": 99,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ABOGADO",
+    "value": 1,
+    "taxonomy": "pisa_ocupaciones",
+    "code1": null,
+    "code2": null
+  }
+]

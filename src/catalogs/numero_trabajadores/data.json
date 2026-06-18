@@ -1,0 +1,30 @@
+[
+  {
+    "name": "0 - 10",
+    "value": "0_10",
+    "taxonomy": "numero_trabajadores",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "11 - 50",
+    "value": "11_50",
+    "taxonomy": "numero_trabajadores",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "51-100",
+    "value": "51_100",
+    "taxonomy": "numero_trabajadores",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "101 EN ADELANTE",
+    "value": "101_en_adelante",
+    "taxonomy": "numero_trabajadores",
+    "code1": null,
+    "code2": null
+  }
+]

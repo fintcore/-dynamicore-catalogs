@@ -1,0 +1,3740 @@
+[
+  {
+    "name": "ING. EN DISENO",
+    "value": 73,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO RADIOLOGO",
+    "value": 299,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO REHABILITADOR",
+    "value": 300,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "(0) SIN PROFESION",
+    "value": 1,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ABOGADO",
+    "value": 2,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ACTUARIO",
+    "value": 3,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANALISTA DE SISTEMAS",
+    "value": 4,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASISTENTE EDUCATIVO",
+    "value": 5,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASISTENTE EJECUTIVO",
+    "value": 6,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASISTENTE MEDICO",
+    "value": 7,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR ADMINISTRATIVO",
+    "value": 8,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR CONTABLE",
+    "value": 9,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR DE EDUCADORA",
+    "value": 10,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUXILIAR DE ELECTRONICA",
+    "value": 11,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CARPINTERO",
+    "value": 12,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMERCIO",
+    "value": 13,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONTROLADOR DE TRAFICO AEREO",
+    "value": 14,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COREOGRAFO",
+    "value": 15,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CORTE Y CONFECCION",
+    "value": 16,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COSMETOLOGIA",
+    "value": 17,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DECORADOR",
+    "value": 18,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DECORADOR DE INTERIORES",
+    "value": 19,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DENTISTA",
+    "value": 20,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DIBUJO TECNICO",
+    "value": 21,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DISENO INDUSTRIAL DE PATRONES",
+    "value": 22,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ELECTRICISTA",
+    "value": 23,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ELECTROMECANICO",
+    "value": 24,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMBALSAMADOR DE CADAVERES",
+    "value": 25,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EMPLEADO",
+    "value": 26,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ENFERMERIA",
+    "value": 27,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ENSENANZA SUPERIOR",
+    "value": 28,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTETICISTA",
+    "value": 29,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTILISTA",
+    "value": 30,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FISICO MATEMATICO",
+    "value": 31,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GESTOR",
+    "value": 32,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HISTOPATOLOGO",
+    "value": 33,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HISTOTECNOLOGO",
+    "value": 34,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AGROINDUSTRIAL",
+    "value": 35,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AGRONOMO",
+    "value": 36,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AGRONOMO FITOTECNISTA",
+    "value": 37,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AGRONOMO ZOOTECNISTA",
+    "value": 38,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AGROPECUARIO ZOOTECNISTA",
+    "value": 39,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AMBIENTAL",
+    "value": 40,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. ARQUITECTO",
+    "value": 41,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. ASEGURADOR",
+    "value": 42,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. ASEGURADOR DE CALIDAD",
+    "value": 43,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. AUTOMOTRIZ",
+    "value": 44,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. BIOLOGO",
+    "value": 45,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. BIOQUIMICO",
+    "value": 46,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. BIOQUIMICO DE ALIMENTOS",
+    "value": 47,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. CIVIL",
+    "value": 48,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. CONSULTOR",
+    "value": 49,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. CONTRATISTA",
+    "value": 50,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. DE CALIDAD",
+    "value": 51,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. DE COMPRAS",
+    "value": 52,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. DE MINAS",
+    "value": 53,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ADMINISTRACION",
+    "value": 54,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN AERONAUTICA",
+    "value": 55,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ALIMENTOS",
+    "value": 56,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN APLICACION",
+    "value": 57,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ARTES",
+    "value": 58,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN AUDIO",
+    "value": 59,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN AUTOMATIZACION",
+    "value": 60,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CALIBRACION",
+    "value": 61,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN COMBUSTION INTERNA",
+    "value": 62,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN COMPUTACION",
+    "value": 63,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN COMUNICACIONES",
+    "value": 64,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CONSTRUCCION",
+    "value": 65,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CONTROL DE CALIDAD",
+    "value": 66,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CONTROL DE INSTRUMENTO",
+    "value": 67,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CONTROL DE PROCESOS",
+    "value": 68,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN CONTROL DE PRODUCCION",
+    "value": 69,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN COSTOS",
+    "value": 70,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN DESARROLLO RURAL",
+    "value": 71,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN DESARROLLO SOCIAL",
+    "value": 72,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN DISENO MECANICO",
+    "value": 74,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN DISENO TEXTIL",
+    "value": 75,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ECOLOGIA",
+    "value": 76,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ELECTRICIDAD",
+    "value": 77,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ELECTRICIDAD INDUSTRIAL",
+    "value": 78,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ELECTROMECANICA",
+    "value": 79,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ELECTRONICA",
+    "value": 80,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN EVALUACION",
+    "value": 81,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN GEOFISICA",
+    "value": 82,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN GEOLOGIA",
+    "value": 83,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN GEOQUIMICA",
+    "value": 84,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN HIDROLOGIA",
+    "value": 85,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN INFORMATICA",
+    "value": 86,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN INFORMATICA DE RED",
+    "value": 87,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN INSTRUMENTACION",
+    "value": 88,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN INVESTIGACION",
+    "value": 89,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN LOGISTICA",
+    "value": 90,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MANTENIMIENTO",
+    "value": 91,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MANTENIMIENTO ELECTRICO",
+    "value": 92,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MANUFACTURA",
+    "value": 93,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MAQUINAS",
+    "value": 94,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MATERIALES",
+    "value": 95,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MERCADOTECNIA",
+    "value": 96,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN METODOS",
+    "value": 97,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN MOLDEO",
+    "value": 98,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN NEOMATIZACION",
+    "value": 99,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PLANEACION",
+    "value": 100,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PROCESOS",
+    "value": 101,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PROCESOS DE PRODUCCION",
+    "value": 102,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PRODUCCION",
+    "value": 103,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PROTECCION AMBIENTAL",
+    "value": 104,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN PROYECTOS",
+    "value": 105,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN REFRIGERACION",
+    "value": 106,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN ROBOTICA",
+    "value": 107,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SERVICIOS",
+    "value": 108,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SISTEMAS",
+    "value": 109,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SISTEMAS DE AIRE",
+    "value": 110,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SISTEMAS DE INFORMACION",
+    "value": 111,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SISTEMAS ELECTRICOS",
+    "value": 112,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN SOLDADURA",
+    "value": 113,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN TECNOLOGIA DE LA MADERA",
+    "value": 114,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN TELECOMUNICACIONES",
+    "value": 115,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EN TRANSMISIONES",
+    "value": 116,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. EVALUADOR",
+    "value": 117,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. FISICO",
+    "value": 118,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. FORESTAL",
+    "value": 119,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. HERRAMENTAL",
+    "value": 120,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL",
+    "value": 121,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL ELECTRICO",
+    "value": 122,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL EN PRODUCCION",
+    "value": 123,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL EN QUIMICA",
+    "value": 124,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL MECANICO",
+    "value": 125,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL MECANICO DISEÃ‘O",
+    "value": 126,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL QUIMICO",
+    "value": 127,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INDUSTRIAL Y DE SISTEMAS",
+    "value": 128,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. INSTRUMENTISTA",
+    "value": 129,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO",
+    "value": 130,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO AGRICOLA",
+    "value": 131,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO AUTOMOTRIZ",
+    "value": 132,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO ELECTRICO",
+    "value": 133,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO INDUSTRIAL",
+    "value": 134,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. MECANICO NAVAL",
+    "value": 135,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. METALURGICO",
+    "value": 136,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. METROLOGO",
+    "value": 137,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. NAVAL",
+    "value": 138,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. PESQUERO",
+    "value": 139,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. PETROLERO",
+    "value": 140,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. PROGRAMADOR",
+    "value": 141,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. QUIMICO",
+    "value": 142,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. QUIMICO INDUSTRIAL",
+    "value": 143,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ING. TEXTIL",
+    "value": 144,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INGENIERIA",
+    "value": 145,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. AGROPECUARIO",
+    "value": 146,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION",
+    "value": 147,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION AGROPECUARIO",
+    "value": 148,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION DE EMPRESAS",
+    "value": 149,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION FINANCIERA",
+    "value": 150,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION INDUSTRIAL",
+    "value": 151,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ADMINISTRACION TURISTICA",
+    "value": 152,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN AGRONOMIA",
+    "value": 153,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ANALISIS QUIMICO",
+    "value": 154,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ANTROPOLOGIA",
+    "value": 155,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ANTROPOLOGIA SOCIAL",
+    "value": 156,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ARQUEOLOGIA",
+    "value": 157,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ARTES VISUALES",
+    "value": 158,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN AUDICION Y LENGUAJE",
+    "value": 159,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN BIBLIOTECONOMIA",
+    "value": 160,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN BIOLOGIA",
+    "value": 161,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN BIOTECNOLOGIA AMBIENTAL",
+    "value": 162,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CIENCIAS ADUANALES",
+    "value": 163,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CIENCIAS BIOLOGICAS",
+    "value": 164,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CIENCIAS DE LA COMUNICACIÃ“N",
+    "value": 165,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CIENCIAS DE LA EDUCACION",
+    "value": 166,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CIENCIAS SOCIALES",
+    "value": 167,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMERCIO",
+    "value": 168,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMERCIO EXTERIOR",
+    "value": 169,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMERCIO INDUSTRIAL",
+    "value": 170,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMERCIO INTERNACIONAL",
+    "value": 171,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMERCIO INTERNO",
+    "value": 172,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMPUTACION",
+    "value": 173,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN COMUNICACION",
+    "value": 174,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CONTADURIA",
+    "value": 175,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CONTADURIA PRIVADA",
+    "value": 176,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CONTADURIA PUBLICA",
+    "value": 177,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CONTADURIA TECNICA",
+    "value": 178,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN CRIMINOLOGIA",
+    "value": 179,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DERECHO",
+    "value": 180,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DISENO DE INTERIORES",
+    "value": 181,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DISENO DE MODAS",
+    "value": 182,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DISENO GRAFICO",
+    "value": 183,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DISENO INDUSTRIAL",
+    "value": 184,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DISENO TEXTIL",
+    "value": 185,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN DOCENCIA TECNOLOGICA",
+    "value": 186,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ECOLOGIA",
+    "value": 187,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ECONOMIA",
+    "value": 188,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDIFICACION DE OBRA",
+    "value": 189,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION",
+    "value": 190,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION ARTISTICA",
+    "value": 191,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION ESPECIAL",
+    "value": 192,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION FISICA",
+    "value": 193,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION MUSICAL",
+    "value": 194,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION PREESCOLAR",
+    "value": 195,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION PRIMARIA",
+    "value": 196,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN EDUCACION SECUNDARIA",
+    "value": 197,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ENFERMERIA",
+    "value": 198,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ESPANOL",
+    "value": 199,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN ESTOMATOLOGIA",
+    "value": 200,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN FILOSOFIA Y LETRAS",
+    "value": 201,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN FINANZAS",
+    "value": 202,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN FISICA",
+    "value": 203,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN FISICO MATEMATICO",
+    "value": 204,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN GASTRONOMIA",
+    "value": 205,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN GEOGRAFIA",
+    "value": 206,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN GEOLOGIA",
+    "value": 207,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN GRAFOSCOPIA",
+    "value": 208,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN HISTORIA",
+    "value": 209,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN HOTELERIA",
+    "value": 210,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN IDIOMAS",
+    "value": 211,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN INFORMACION",
+    "value": 212,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN INFORMATICA",
+    "value": 213,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN INGLES",
+    "value": 214,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN JURIDICO",
+    "value": 215,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN LENGUA Y LITERATURA",
+    "value": 216,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN LENGUAS EXTRANJERAS",
+    "value": 217,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN LENGUAS MODERNAS",
+    "value": 218,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN LETRAS HISPANICAS",
+    "value": 219,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN LETRAS LATINOAMERICANA",
+    "value": 220,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN MANTENIMIENTO INDUSTRIAL",
+    "value": 221,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN MATEMATICAS",
+    "value": 222,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN MEDIOS MASIVOS DE COMUNICACIÃ“N",
+    "value": 223,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN MERCADOCTENIA",
+    "value": 224,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN MUSICA",
+    "value": 225,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN NEGOCIOS INTERNACIONALES",
+    "value": 226,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN NUTRICION",
+    "value": 227,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN OPERACIONES AERONAUTICAS",
+    "value": 228,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN OPTOMETRIA",
+    "value": 229,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PEDAGOGIA",
+    "value": 230,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PERIODISMO",
+    "value": 231,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PLANEACION",
+    "value": 232,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PODOLOGIA",
+    "value": 233,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PROBLEMAS DE APRENDIZAJE",
+    "value": 234,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PRODUCCION ESCENICA",
+    "value": 235,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PSICOLOGIA",
+    "value": 236,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PSICOLOGIA CLINICA",
+    "value": 237,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PSICOLOGIA EDUCATIVA",
+    "value": 238,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PSICOPEDAGOGIA",
+    "value": 239,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN PUBLICIDAD",
+    "value": 240,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN QUIMICA",
+    "value": 241,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RECURSOS HUMANOS",
+    "value": 242,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RELACIONES COMERCIALES",
+    "value": 243,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RELACIONES HUMANAS",
+    "value": 244,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RELACIONES INDUSTRIALES",
+    "value": 245,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RELACIONES INTERNACIONALES",
+    "value": 246,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RELACIONES PUBLICAS",
+    "value": 247,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN RESTAURACION DE BIENES",
+    "value": 248,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN SALUD PUBLICA",
+    "value": 249,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN SISTEMAS COMPUTACIONALES",
+    "value": 250,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN SOCIOLOGIA",
+    "value": 251,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN TECNOLOGIA",
+    "value": 252,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN TECNOLOGIA AMBIENTAL",
+    "value": 253,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN TRABAJO SOCIAL",
+    "value": 254,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN TURISMO",
+    "value": 255,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIC. EN URBANISMO",
+    "value": 256,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LICENCIATURA",
+    "value": 257,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LOCUTOR",
+    "value": 258,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAESTRIA EN EDUCACION",
+    "value": 259,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAESTRIA EN FINANZAS Y NEGOCIO",
+    "value": 260,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAESTRO DE CULTURA DE BELLEZA",
+    "value": 261,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MANEJO FORESTAL",
+    "value": 262,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO",
+    "value": 263,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ACUPUNTURISTA",
+    "value": 264,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ANATOMAPATOLOGO",
+    "value": 265,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ANESTESIOLOGO",
+    "value": 266,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ANGIOLOGO",
+    "value": 267,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO CIRUJANO",
+    "value": 268,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO CIRUJANO DENTISTA",
+    "value": 269,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO CIRUJANO OFTALMOLOGO",
+    "value": 270,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO CIRUJANO PARTERO",
+    "value": 271,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO COSMEATRA",
+    "value": 272,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO DENTISTA",
+    "value": 273,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO DERMATOLOGO",
+    "value": 274,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO DIETISTA",
+    "value": 275,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO FORENSE",
+    "value": 276,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO GENERAL",
+    "value": 277,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO GINECOBSTETRA",
+    "value": 278,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO GINECOLOGO",
+    "value": 279,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO GINECOOBSTETRA",
+    "value": 280,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO HEMATOLOGO",
+    "value": 281,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO HOMEOPATA",
+    "value": 282,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO LEGISTA",
+    "value": 283,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO NATURISTA",
+    "value": 284,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO NEUMOLOGO",
+    "value": 285,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO NEUROCIRUJANO",
+    "value": 286,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO NEUROLOGO",
+    "value": 287,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ODONTOLOGO",
+    "value": 288,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO OFTALMOLOGO",
+    "value": 289,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO OPTOMETRISTA",
+    "value": 290,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ORTODONCISTA",
+    "value": 291,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO ORTOPEDISTA",
+    "value": 292,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO OTORRINOLARINGOLOGO",
+    "value": 293,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO PATOLOGO",
+    "value": 294,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO PEDIATRA",
+    "value": 295,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO PSICOLOGO",
+    "value": 296,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO PSICOTERAPEUTA",
+    "value": 297,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO PSIQUIATRA",
+    "value": 298,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO TERAPEUTA",
+    "value": 301,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO TRAUMATOLOGO",
+    "value": 302,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEDICO VETERINARIO / ZOOTECNISTA",
+    "value": 303,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "METALURGIA",
+    "value": 304,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NOTARIO PUBLICO",
+    "value": 305,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OFICIAL DE OPERACIONES AEREAS",
+    "value": 306,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PARAMEDICO",
+    "value": 307,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PILOTO AVIADOR",
+    "value": 308,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PLANIFICACION AGROPECUARIA",
+    "value": 309,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRODUCTOR",
+    "value": 310,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESIONAL INDEPENDIENTE",
+    "value": 311,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESOR",
+    "value": 312,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESOR DE MUSICA",
+    "value": 313,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROFESOR EN ELECTRONICA",
+    "value": 314,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROTESISTA",
+    "value": 315,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PROTESISTA DENTAL",
+    "value": 316,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO AGRICOLA",
+    "value": 317,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO ANALISTA",
+    "value": 318,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO BACTERIOLOGO",
+    "value": 319,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO BIOLOGO",
+    "value": 320,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO CLINICO",
+    "value": 321,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO DE PROCESOS",
+    "value": 322,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO EN ALIMENTOS",
+    "value": 323,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO FARMACEUTICO",
+    "value": 324,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO FARMACOBIOLOGO",
+    "value": 325,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO FORENSE",
+    "value": 326,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO INDUSTRIAL",
+    "value": 327,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO LABORATORISTA",
+    "value": 328,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "QUIMICO METALURGICO",
+    "value": 329,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REPORTERO",
+    "value": 330,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SECRETARIADO",
+    "value": 331,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO",
+    "value": 332,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AEROLOGISTA",
+    "value": 333,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AFINADOR",
+    "value": 334,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AGRICOLA",
+    "value": 335,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AGRONOMO",
+    "value": 336,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AGROPECUARIO",
+    "value": 337,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ANALISTA",
+    "value": 338,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ASESOR",
+    "value": 339,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ASISTENTE EDUCATIVO",
+    "value": 340,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AUTOMOTRIZ",
+    "value": 341,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO AUXILIAR",
+    "value": 342,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO BIBLIOTECARIO",
+    "value": 343,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO CAPTURISTA",
+    "value": 344,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO CARTOGRAFO",
+    "value": 345,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO DE PRENSA",
+    "value": 346,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO DE PROCESOS",
+    "value": 347,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO DENTAL",
+    "value": 348,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO DEPORTIVO",
+    "value": 349,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EJECUTIVO",
+    "value": 350,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ELECTROCARDIOLOGO",
+    "value": 351,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO ELECTROMECANICO",
+    "value": 352,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EMBOBINADOR",
+    "value": 353,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ADMINISTRACION",
+    "value": 354,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AIRE ACONDICIONADO",
+    "value": 355,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AJUSTE",
+    "value": 356,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ALARMAS",
+    "value": 357,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ALIMENTOS",
+    "value": 358,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ALMACEN",
+    "value": 359,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ARQUITECTURA",
+    "value": 360,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ARTES",
+    "value": 361,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ARTES GRAFICAS",
+    "value": 362,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ARTES PLASTICAS",
+    "value": 363,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ASEGURAMIENTO DE CALIDAD",
+    "value": 364,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AUDIO",
+    "value": 365,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AUTOMATIZACION",
+    "value": 366,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AUXILIO",
+    "value": 367,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN AVIACION",
+    "value": 368,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN BOBINAS",
+    "value": 369,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CALDERAS",
+    "value": 370,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CALIBRACION",
+    "value": 371,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CALIDAD",
+    "value": 372,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CARTOGRAFIA",
+    "value": 373,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CLIMAS",
+    "value": 374,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COMERCIALIZACION",
+    "value": 375,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COMPUTACION",
+    "value": 376,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COMPUTO Y ADMINISTRACION",
+    "value": 377,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COMUNICACION",
+    "value": 378,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONSTRUCCION",
+    "value": 379,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONTABILIDAD",
+    "value": 380,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONTABILIDAD INDUSTRIAL",
+    "value": 381,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONTROL",
+    "value": 382,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONTROL CONTABLE",
+    "value": 383,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN CONTROL DE CALIDAD",
+    "value": 384,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COPIADORAS",
+    "value": 385,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN COSTOS",
+    "value": 386,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DECORACION",
+    "value": 387,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DESARROLLO",
+    "value": 388,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DIESEL",
+    "value": 389,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DISEÃ‘O DE MODAS",
+    "value": 390,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DISEÃ‘O GRAFICO",
+    "value": 391,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN DOCENCIA",
+    "value": 392,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EDICIONES",
+    "value": 393,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EDUCACION",
+    "value": 394,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTRICIDAD",
+    "value": 395,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTRICIDAD INDUSTRIAL",
+    "value": 396,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTRODOMESTICOS",
+    "value": 397,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTROENCEFALOGRAMA",
+    "value": 398,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTROEROSION",
+    "value": 399,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ELECTRONICA",
+    "value": 400,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EMERGENCIAS MEDICAS",
+    "value": 401,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EMPAQUES",
+    "value": 402,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ENCUADERNACION",
+    "value": 403,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ENFERMERIA",
+    "value": 404,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EQUIPO MEDICO",
+    "value": 405,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ESTADISTICA",
+    "value": 406,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN EVALUACION",
+    "value": 407,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FABRICACION",
+    "value": 408,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FERMENTACION",
+    "value": 409,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FINANZAS",
+    "value": 410,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FORMACION",
+    "value": 411,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FOTOGRAFIA",
+    "value": 412,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FOTOGRAMETRIA",
+    "value": 413,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FRUTICULTURA",
+    "value": 414,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN FUNDICION",
+    "value": 415,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN GAS",
+    "value": 416,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN GASTRONOMIA",
+    "value": 417,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN HERRAMIENTAS",
+    "value": 418,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN HIDRAULICA",
+    "value": 419,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN HOTELERIA",
+    "value": 420,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ILUMINACION",
+    "value": 421,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN INFORMACION",
+    "value": 422,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN INFORMATICA",
+    "value": 423,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN INSTALACIONES",
+    "value": 424,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN INSTRUMENTACION",
+    "value": 425,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN INVESTIGACION",
+    "value": 426,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN LINEA",
+    "value": 427,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN LINEA BLANCA",
+    "value": 428,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN LITOGRAFIA",
+    "value": 429,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MANTENIMIENTO",
+    "value": 430,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MANUFACTURAS",
+    "value": 431,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MAQUINARIA AGRICOLA",
+    "value": 432,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MAQUINAS",
+    "value": 433,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MAQUINAS DE OFICINA",
+    "value": 434,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MATERIALES",
+    "value": 435,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MECANICA AUTOMOTRIZ",
+    "value": 436,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MECANICA INDUSTRIAL",
+    "value": 437,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MEDICINA",
+    "value": 438,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MEDICION",
+    "value": 439,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN METALURGIA",
+    "value": 440,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN METODOS",
+    "value": 441,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN METROLOGIA",
+    "value": 442,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MOLDEO",
+    "value": 443,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MONTACARGAS",
+    "value": 444,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN MONTAJE",
+    "value": 445,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN NUTRICION",
+    "value": 446,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN OBRAS",
+    "value": 447,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN OFIMATICA",
+    "value": 448,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN OPERACION",
+    "value": 449,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN OPERACION DE MAQUINA",
+    "value": 450,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN ORIENTACION",
+    "value": 451,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN OXIGENO",
+    "value": 452,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PATOLOGIA",
+    "value": 453,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PEDAGOGIA",
+    "value": 454,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PERIODISMO",
+    "value": 455,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PLASTICOS",
+    "value": 456,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PLOMERIA",
+    "value": 457,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN POLICIOLOGIA",
+    "value": 458,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN POLICULTURA",
+    "value": 459,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PRENSA",
+    "value": 460,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROCESOS",
+    "value": 461,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROCESOS DE PRODUCCION",
+    "value": 462,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROCESOS ELECTRICOS",
+    "value": 463,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PRODUCCION",
+    "value": 464,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PRODUCCION DE HERRAMIENTAS",
+    "value": 465,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PRODUCTIVIDAD",
+    "value": 466,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROGRAMACION",
+    "value": 467,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROTESIS DENTAL",
+    "value": 468,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PROYECTOS",
+    "value": 469,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN PUERICULTURA",
+    "value": 470,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN RADIO / T.V.",
+    "value": 471,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN RADIOCOMUNICACIONES",
+    "value": 472,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN RADIOLOGIA",
+    "value": 473,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN REDES",
+    "value": 474,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN RELOJERIA",
+    "value": 475,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN REPARACIONES",
+    "value": 476,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SALUD",
+    "value": 477,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SEGURIDAD E HIGIENE",
+    "value": 478,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SEGURIDAD INDUSTRIAL",
+    "value": 479,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SENALES",
+    "value": 480,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SERVICIOS",
+    "value": 481,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SERVICIOS ESPECIALES",
+    "value": 482,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SISTEMAS AEREOS",
+    "value": 483,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SISTEMAS COMPUTACION",
+    "value": 484,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SISTEMAS DE CALIDAD",
+    "value": 485,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SOLDADURA",
+    "value": 486,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SONIDO",
+    "value": 487,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN SOPORTE",
+    "value": 488,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TALLERES",
+    "value": 489,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TELECOMUNICACIONES",
+    "value": 490,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TELEFONIA",
+    "value": 491,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TINTAS",
+    "value": 492,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TOPOGRAFIA",
+    "value": 493,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TRABAJO SOCIAL",
+    "value": 494,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TRATAMIENTOS",
+    "value": 495,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN TURISMO",
+    "value": 496,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN URGENCIAS",
+    "value": 497,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN VENTAS",
+    "value": 498,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN VERIFICACION",
+    "value": 499,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN VERIFICACION SANITARIA",
+    "value": 500,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN VIA",
+    "value": 501,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO EN VIVIENDA",
+    "value": 502,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO FARMACEUTICO",
+    "value": 503,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO FISCAL",
+    "value": 504,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO FORESTAL",
+    "value": 505,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO FUNDIDOR",
+    "value": 506,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO GRAFICO",
+    "value": 507,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO HIDRAULICO",
+    "value": 508,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO INDUSTRIAL",
+    "value": 509,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO LABORATORISTA",
+    "value": 510,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO LABORATORISTA CLINICO",
+    "value": 511,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO LABORATORISTA QUIMICO",
+    "value": 512,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO MECANICO DE AVIACION",
+    "value": 513,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO MINERO",
+    "value": 514,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO OPERADOR DE AMBULANCIA",
+    "value": 515,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO OPERADOR DE PLANTA",
+    "value": 516,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO OPTOMETRISTA",
+    "value": 517,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO PECUARIO",
+    "value": 518,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO POLIVALENTE",
+    "value": 519,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO PORTICULTOR",
+    "value": 520,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO PRACTICO",
+    "value": 521,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO PROBADOR",
+    "value": 522,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO PROMOTOR",
+    "value": 523,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO QUIMICO",
+    "value": 524,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO QUIMICO INDUSTRIAL",
+    "value": 525,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO QUIROPEDISTA",
+    "value": 526,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO REACTORISTA",
+    "value": 527,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO REGULADOR DE COMUNICACION",
+    "value": 528,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO SUPERVISOR",
+    "value": 529,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO TORNERO",
+    "value": 530,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TECNICO VETERINARIO",
+    "value": 531,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TERAPEUTA FISICO",
+    "value": 532,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRADUCTOR",
+    "value": 533,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRANSPORTISTA",
+    "value": 534,
+    "taxonomy": "pisa_profesion",
+    "code1": null,
+    "code2": null
+  }
+]
