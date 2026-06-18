@@ -12,7 +12,7 @@ export function createCatalog<T extends CatalogRecord, K extends keyof T>(
     search: (query, fields) => {
       const q = query.toLowerCase();
       return data.filter((item) => {
-        const keys = fields ?? (Object.keys(item) as (keyof T)[]);
+        const keys = fields !== undefined && fields !== null ? fields : (Object.keys(item) as (keyof T)[]);
         return keys.some((k) => String(item[k]).toLowerCase().includes(q));
       });
     },
