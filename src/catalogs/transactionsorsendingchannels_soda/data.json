@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Venta propia colocación presencial",
+    "value": 1,
+    "taxonomy": "transactionsorsendingchannels_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venta a través de terceros colocación presencial",
+    "value": 2,
+    "taxonomy": "transactionsorsendingchannels_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venta propia colocación por medios electrónicos",
+    "value": 3,
+    "taxonomy": "transactionsorsendingchannels_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venta a través de terceros colocación por medios electronicos",
+    "value": 4,
+    "taxonomy": "transactionsorsendingchannels_soda",
+    "code1": null,
+    "code2": null
+  }
+]

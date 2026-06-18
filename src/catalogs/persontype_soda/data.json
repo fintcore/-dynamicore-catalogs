@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Física",
+    "value": 1,
+    "taxonomy": "persontype_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Moral",
+    "value": 2,
+    "taxonomy": "persontype_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fideicomiso",
+    "value": 3,
+    "taxonomy": "persontype_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Física con Actividad Empresarial",
+    "value": 4,
+    "taxonomy": "persontype_soda",
+    "code1": null,
+    "code2": null
+  }
+]

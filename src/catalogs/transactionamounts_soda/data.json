@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Mínimo (0-5,000,000)",
+    "value": 1,
+    "taxonomy": "transactionamounts_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bajo (5,000,000.01 - 10,000,000)",
+    "value": 2,
+    "taxonomy": "transactionamounts_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Medio (10,000,000.01- 25,000,000)",
+    "value": 3,
+    "taxonomy": "transactionamounts_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Alto (25,000,000.01-50,000,000)",
+    "value": 4,
+    "taxonomy": "transactionamounts_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Máximo (50,000,000.01 - 999,999,999)",
+    "value": 5,
+    "taxonomy": "transactionamounts_soda",
+    "code1": null,
+    "code2": null
+  }
+]

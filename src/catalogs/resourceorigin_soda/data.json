@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Sueldo",
+    "value": 1,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Actividad Económica",
+    "value": 2,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Proveedor de recursos",
+    "value": 3,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No identificado plenamente",
+    "value": 4,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Capital Semilla",
+    "value": 5,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Capital Privado",
+    "value": 6,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Crowdfunding",
+    "value": 7,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FIBRAS (Fideicomiso de Inversión y Bienes Raíces)",
+    "value": 8,
+    "taxonomy": "resourceorigin_soda",
+    "code1": null,
+    "code2": null
+  }
+]

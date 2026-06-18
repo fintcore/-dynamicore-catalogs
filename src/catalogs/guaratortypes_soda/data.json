@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Aval Persona Física y Persona Moral",
+    "value": 1,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Con Aval",
+    "value": 2,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Aval Persona Moral",
+    "value": 3,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sin Aval",
+    "value": 4,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Aval PF",
+    "value": 5,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "N/A",
+    "value": 6,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Obligado Solidario",
+    "value": 7,
+    "taxonomy": "guaratortypes_soda",
+    "code1": null,
+    "code2": null
+  }
+]

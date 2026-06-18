@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Menos de 1 año",
+    "value": 1,
+    "taxonomy": "customerseniority_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Más de un año y hasta 3",
+    "value": 2,
+    "taxonomy": "customerseniority_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Más de 3 años",
+    "value": 3,
+    "taxonomy": "customerseniority_soda",
+    "code1": null,
+    "code2": null
+  }
+]

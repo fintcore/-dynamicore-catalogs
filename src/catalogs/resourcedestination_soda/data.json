@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Destino adquisición Activo Fijo",
+    "value": 1,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Capital de Trabajo",
+    "value": 2,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Destino Pago de Deudas",
+    "value": 3,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Destino bienes y servicios de consumo",
+    "value": 4,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No identificado plenamente",
+    "value": 5,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Construcción de Obra",
+    "value": 6,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Financiamiento",
+    "value": 7,
+    "taxonomy": "resourcedestination_soda",
+    "code1": null,
+    "code2": null
+  }
+]

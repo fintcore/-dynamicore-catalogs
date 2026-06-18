@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Menos de 2",
+    "value": 1,
+    "taxonomy": "transactionalfrecuency_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "De 3 a 6",
+    "value": 2,
+    "taxonomy": "transactionalfrecuency_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Más de 10",
+    "value": 3,
+    "taxonomy": "transactionalfrecuency_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No medido",
+    "value": 4,
+    "taxonomy": "transactionalfrecuency_soda",
+    "code1": null,
+    "code2": null
+  }
+]

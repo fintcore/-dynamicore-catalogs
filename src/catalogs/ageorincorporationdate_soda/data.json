@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Entre 18 y 25 años (PF)",
+    "value": 1,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Entre 25 y 50 años (PF)",
+    "value": 2,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Entre 50 y 65 años (PF)",
+    "value": 3,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Más 65 años (PF)",
+    "value": 4,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "1 a 3 años (PM)",
+    "value": 5,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "4 a 5 años (PM)",
+    "value": 6,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "6 a 20 años (PM)",
+    "value": 7,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "21 años y más (PM)",
+    "value": 8,
+    "taxonomy": "ageorincorporationdate_soda",
+    "code1": null,
+    "code2": null
+  }
+]

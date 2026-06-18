@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Prendaria",
+    "value": 1,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hipotecaria",
+    "value": 2,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fiduciaria",
+    "value": 3,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arrendataria",
+    "value": 4,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fianza",
+    "value": 5,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Otro",
+    "value": 6,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sin Garantía",
+    "value": 7,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "N/A",
+    "value": 8,
+    "taxonomy": "guarantees_soda",
+    "code1": null,
+    "code2": null
+  }
+]

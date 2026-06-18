@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Crédito Liquidez",
+    "value": 1,
+    "taxonomy": "products_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Crédito Puente o Prepuente",
+    "value": 2,
+    "taxonomy": "products_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Crédito Simple",
+    "value": 3,
+    "taxonomy": "products_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Crédito Puente",
+    "value": 4,
+    "taxonomy": "products_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Crédito Cuenta Corriente",
+    "value": 5,
+    "taxonomy": "products_soda",
+    "code1": null,
+    "code2": null
+  }
+]
