@@ -1,0 +1,1388 @@
+[
+  {
+    "name": "Guyana",
+    "value": "Guyana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Haití",
+    "value": "Haiti",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Indonesia",
+    "value": "Indonesia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irak",
+    "value": "Irak",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irán",
+    "value": "Iran",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irlanda",
+    "value": "Irlanda",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Afganistán",
+    "value": "Afganistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Albania",
+    "value": "Albania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Alemania",
+    "value": "Alemania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Andorra",
+    "value": "Andorra",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Angola",
+    "value": "Angola",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Antigua y Barbuda",
+    "value": "Antigua y Barbuda",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arabia Saudita",
+    "value": "Arabia Saudita",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argelia",
+    "value": "Argelia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argentina",
+    "value": "Argentina",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Armenia",
+    "value": "Armenia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Australia",
+    "value": "Australia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Austria",
+    "value": "Austria",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Azerbaiyán",
+    "value": "Azerbaiyan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bahamas",
+    "value": "Bahamas",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bangladés",
+    "value": "Banglades",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Barbados",
+    "value": "Barbados",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Baréin",
+    "value": "Barein",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bélgica",
+    "value": "Belgica",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Belice",
+    "value": "Belice",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Benín",
+    "value": "Benin",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bielorrusia",
+    "value": "Bielorrusia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Birmania",
+    "value": "Birmania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bolivia",
+    "value": "Bolivia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bosnia-Herzegovina",
+    "value": "Bosnia-Herzegovina",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Botsuana",
+    "value": "Botsuana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brasil",
+    "value": "Brasil",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brunéi",
+    "value": "Brunei",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bulgaria",
+    "value": "Bulgaria",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burkina Faso",
+    "value": "Burkina Faso",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burundi",
+    "value": "Burundi",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bután",
+    "value": "Butan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cabo Verde",
+    "value": "Cabo Verde",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Camboya",
+    "value": "Camboya",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Camerún",
+    "value": "Camerun",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Canadá",
+    "value": "Canada",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Catar",
+    "value": "Catar",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chad",
+    "value": "Chad",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chile",
+    "value": "Chile",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "China",
+    "value": "China",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chipre",
+    "value": "Chipre",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Colombia",
+    "value": "Colombia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comoras",
+    "value": "Comoras",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Congo",
+    "value": "Congo",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea del Norte",
+    "value": "Corea del Norte",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea del Sur",
+    "value": "Corea del Sur",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Costa de Marfil",
+    "value": "Costa de Marfil",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Costa Rica",
+    "value": "Costa Rica",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Croacia",
+    "value": "Croacia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cuba",
+    "value": "Cuba",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dinamarca",
+    "value": "Dinamarca",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dominica",
+    "value": "Dominica",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ecuador",
+    "value": "Ecuador",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Egipto",
+    "value": "Egipto",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "El Salvador",
+    "value": "El Salvador",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Emiratos Árabes Unidos",
+    "value": "Emiratos Arabes Unidos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eritrea",
+    "value": "Eritrea",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eslovaquia",
+    "value": "Eslovaquia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eslovenia",
+    "value": "Eslovenia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "España",
+    "value": "Espana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estados Unidos",
+    "value": "Estados Unidos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estonia",
+    "value": "Estonia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Etiopía",
+    "value": "Etiopia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Filipinas",
+    "value": "Filipinas",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Finlandia",
+    "value": "Finlandia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fiyi",
+    "value": "Fiyi",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Francia",
+    "value": "Francia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gabón",
+    "value": "Gabon",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gambia",
+    "value": "Gambia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Georgia",
+    "value": "Georgia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ghana",
+    "value": "Ghana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Granada",
+    "value": "Granada",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Grecia",
+    "value": "Grecia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guatemala",
+    "value": "Guatemala",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea",
+    "value": "Guinea",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea Ecuatorial",
+    "value": "Guinea Ecuatorial",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea-Bisáu",
+    "value": "Guinea-Bisau",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Honduras",
+    "value": "Honduras",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hungría",
+    "value": "Hungria",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "India",
+    "value": "India",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islandia",
+    "value": "Islandia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Marshall",
+    "value": "Islas Marshall",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Salomón",
+    "value": "Islas Salomon",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Israel",
+    "value": "Israel",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Italia",
+    "value": "Italia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jamaica",
+    "value": "Jamaica",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Japón",
+    "value": "Japon",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jordania",
+    "value": "Jordania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kazajistán",
+    "value": "Kazajistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kenia",
+    "value": "Kenia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kirguistán",
+    "value": "Kirguistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kiribati",
+    "value": "Kiribati",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kosovo",
+    "value": "Kosovo",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kuwait",
+    "value": "Kuwait",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Laos",
+    "value": "Laos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lesoto",
+    "value": "Lesoto",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Letonia",
+    "value": "Letonia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Líbano",
+    "value": "Libano",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liberia",
+    "value": "Liberia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Libia",
+    "value": "Libia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liechtenstein",
+    "value": "Liechtenstein",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lituania",
+    "value": "Lituania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Luxemburgo",
+    "value": "Luxemburgo",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macedonia",
+    "value": "Macedonia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Madagascar",
+    "value": "Madagascar",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malasia",
+    "value": "Malasia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malaui",
+    "value": "Malaui",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Maldivas",
+    "value": "Maldivas",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malí",
+    "value": "Mali",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malta",
+    "value": "Malta",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Marruecos",
+    "value": "Marruecos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauricio",
+    "value": "Mauricio",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauritania",
+    "value": "Mauritania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "México",
+    "value": "Mexico",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Micronesia",
+    "value": "Micronesia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Moldavia",
+    "value": "Moldavia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mónaco",
+    "value": "Monaco",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mongolia",
+    "value": "Mongolia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Montenegro",
+    "value": "Montenegro",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mozambique",
+    "value": "Mozambique",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Myanmar",
+    "value": "Myanmar",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Namibia",
+    "value": "Namibia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nauru",
+    "value": "Nauru",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nepal",
+    "value": "Nepal",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nicaragua",
+    "value": "Nicaragua",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Níger",
+    "value": "Niger",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nigeria",
+    "value": "Nigeria",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Noruega",
+    "value": "Noruega",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nueva Zelanda",
+    "value": "Nueva Zelanda",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Omán",
+    "value": "Oman",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Países Bajos",
+    "value": "Paises Bajos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pakistán",
+    "value": "Pakistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Palaos",
+    "value": "Palaos",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Palestina",
+    "value": "Palestina",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Panamá",
+    "value": "Panama",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Papúa Nueva Guinea",
+    "value": "Papua Nueva Guinea",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Paraguay",
+    "value": "Paraguay",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Perú",
+    "value": "Peru",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Polonia",
+    "value": "Polonia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Portugal",
+    "value": "Portugal",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Reino Unido",
+    "value": "Reino Unido",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Centroafricana",
+    "value": "Republica Centroafricana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Checa",
+    "value": "Republica Checa",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Democrática del Congo",
+    "value": "Republica Democratica del Congo",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Dominicana",
+    "value": "Republica Dominicana",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ruanda",
+    "value": "Ruanda",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rumania",
+    "value": "Rumania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rusia",
+    "value": "Rusia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Samoa",
+    "value": "Samoa",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Cristóbal y Nieves",
+    "value": "San Cristobal y Nieves",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Marino",
+    "value": "San Marino",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Vicente y las Granadinas",
+    "value": "San Vicente y las Granadinas",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Lucía",
+    "value": "Santa Lucia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santo Tomé y Príncipe",
+    "value": "Santo Tome y Principe",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Senegal",
+    "value": "Senegal",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Serbia",
+    "value": "Serbia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Seychelles",
+    "value": "Seychelles",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sierra Leona",
+    "value": "Sierra Leona",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Singapur",
+    "value": "Singapur",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Siria",
+    "value": "Siria",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Somalia",
+    "value": "Somalia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sri Lanka",
+    "value": "Sri Lanka",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suazilandia",
+    "value": "Suazilandia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudáfrica",
+    "value": "Sudafrica",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudán",
+    "value": "Sudan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudán del Sur",
+    "value": "Sudan del Sur",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suecia",
+    "value": "Suecia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suiza",
+    "value": "Suiza",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Surinam",
+    "value": "Surinam",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tailandia",
+    "value": "Tailandia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Taiwán",
+    "value": "Taiwan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tanzania",
+    "value": "Tanzania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tayikistán",
+    "value": "Tayikistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Timor Oriental",
+    "value": "Timor Oriental",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Togo",
+    "value": "Togo",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tonga",
+    "value": "Tonga",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Trinidad y Tobago",
+    "value": "Trinidad y Tobago",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Túnez",
+    "value": "Tunez",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turkmenistán",
+    "value": "Turkmenistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turquía",
+    "value": "Turquia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tuvalu",
+    "value": "Tuvalu",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ucrania",
+    "value": "Ucrania",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uganda",
+    "value": "Uganda",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uruguay",
+    "value": "Uruguay",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uzbekistán",
+    "value": "Uzbekistan",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vanuatu",
+    "value": "Vanuatu",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vaticano",
+    "value": "Vaticano",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venezuela",
+    "value": "Venezuela",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vietnam",
+    "value": "Vietnam",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yemen",
+    "value": "Yemen",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yibuti",
+    "value": "Yibuti",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zambia",
+    "value": "Zambia",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zimbabue",
+    "value": "Zimbabue",
+    "taxonomy": "enpagos_pais",
+    "code1": null,
+    "code2": null
+  }
+]

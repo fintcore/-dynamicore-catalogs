@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Mexicano ",
+    "value": 1,
+    "taxonomy": "nationality_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Extranjero",
+    "value": 2,
+    "taxonomy": "nationality_soda",
+    "code1": null,
+    "code2": null
+  }
+]

@@ -1,0 +1,1451 @@
+[
+  {
+    "name": "Croacia",
+    "value": "HX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "México",
+    "value": "MX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "África Del Sur",
+    "value": "ZA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Albania",
+    "value": "AN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Alemania",
+    "value": "DW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Andorra",
+    "value": "AD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Angola",
+    "value": "AO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Anguila",
+    "value": "AI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Antigua Y Barbado",
+    "value": "AG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Antillas Holandesas",
+    "value": "NN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arabia Saudita",
+    "value": "SA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argelia",
+    "value": "DZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argentina",
+    "value": "AT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arabia",
+    "value": "AW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ascensión",
+    "value": "AS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Australia",
+    "value": "AU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Austria",
+    "value": "DF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Azores",
+    "value": "AX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bahamas",
+    "value": "BS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Baréin",
+    "value": "BH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bangladés",
+    "value": "BD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Barbados",
+    "value": "BB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bélgica",
+    "value": "BE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Belice",
+    "value": "BZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Benín",
+    "value": "BJ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bermudas",
+    "value": "BU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Birmania",
+    "value": "BK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bolivia",
+    "value": "BO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bosnia Herzegovina",
+    "value": "BX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Botswana",
+    "value": "BW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brasil",
+    "value": "BR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brunéi",
+    "value": "BN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bulgaria",
+    "value": "BG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burkina",
+    "value": "BF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burundi",
+    "value": "BI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bután",
+    "value": "BM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cabo Verde",
+    "value": "CV",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Camerún",
+    "value": "CM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Canadá",
+    "value": "CN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cariacou",
+    "value": "CU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chad",
+    "value": "CD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chile",
+    "value": "CL",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "China (pekin)",
+    "value": "CP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chipre",
+    "value": "CY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ciudad Del Vaticano",
+    "value": "VC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Colombia",
+    "value": "CB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comoros",
+    "value": "CJ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Congo",
+    "value": "CG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corcega",
+    "value": "CC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea Del Norte",
+    "value": "KX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea Del Sur",
+    "value": "KR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Costa De Marfil",
+    "value": "IC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cuba",
+    "value": "HR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dinamarca",
+    "value": "DK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Djibouti",
+    "value": "DJ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dominicana",
+    "value": "DM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ecuador",
+    "value": "EC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Egipto",
+    "value": "EG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "El Salvador",
+    "value": "SV",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Emiratos Arabes Unidos",
+    "value": "UM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "España",
+    "value": "ES",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estados Unidos",
+    "value": "US",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eslovenia",
+    "value": "XN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estonia",
+    "value": "SU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Etiopia",
+    "value": "ET",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fiji",
+    "value": "FJ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Filipinas",
+    "value": "PH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Finlandia",
+    "value": "FI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Francia",
+    "value": "FR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gabón",
+    "value": "GB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gales / Isla Futura",
+    "value": "WT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gambia",
+    "value": "GM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ghana",
+    "value": "GH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gibraltar",
+    "value": "GI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Granada",
+    "value": "GD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Grecia",
+    "value": "GR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Groenlandia",
+    "value": "GE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guadalupe",
+    "value": "GP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guatemala",
+    "value": "GT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guyana",
+    "value": "GY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guayana Francesa",
+    "value": "GF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea",
+    "value": "GN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea Bissau",
+    "value": "GW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea Ecuatorial",
+    "value": "GQ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Haití",
+    "value": "HA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Holanda",
+    "value": "NL",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Honduras",
+    "value": "HN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hong Kong",
+    "value": "HK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hungría",
+    "value": "HU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "India",
+    "value": "IB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Indonesia",
+    "value": "IF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irán",
+    "value": "IR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irak",
+    "value": "IQ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irlanda",
+    "value": "IE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islandia",
+    "value": "IS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Caimán",
+    "value": "CI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas De Sotavento",
+    "value": "LE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Falkland (malvinas)",
+    "value": "FA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Faroe",
+    "value": "FE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Pitcairn",
+    "value": "PS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Reunión",
+    "value": "RE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Santa Cruz",
+    "value": "ST",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Salmón",
+    "value": "SI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Virgenes Inglesas",
+    "value": "VG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Israel",
+    "value": "IG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Italia",
+    "value": "IT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jamaica",
+    "value": "JM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Japón",
+    "value": "JP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jordania",
+    "value": "JO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kampuchea",
+    "value": "KA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Katar",
+    "value": "OA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kenya",
+    "value": "KE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kiribati",
+    "value": "KI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kuwait",
+    "value": "KW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Laos",
+    "value": "LO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lesotho",
+    "value": "LS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Letonia",
+    "value": "LX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Libano",
+    "value": "LB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liberia",
+    "value": "LR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Libia",
+    "value": "LV",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liechtenstein",
+    "value": "CH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lituania",
+    "value": "LT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Luxemburgo",
+    "value": "LU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macao",
+    "value": "MJ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macedonia",
+    "value": "MH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Madagascar",
+    "value": "MG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Madeira",
+    "value": "MD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malasia",
+    "value": "MY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malawi",
+    "value": "MW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Maldivias",
+    "value": "MV",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mali",
+    "value": "ML",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malta",
+    "value": "MT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Marruecos",
+    "value": "RC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Martinico",
+    "value": "MQ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauricio",
+    "value": "MU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauritania",
+    "value": "MR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Afganistán",
+    "value": "AF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mongolia",
+    "value": "MC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Montenegro",
+    "value": "MM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Montserrat",
+    "value": "MK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mozambique",
+    "value": "MZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nauru",
+    "value": "NA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nepal",
+    "value": "NP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nicaragua",
+    "value": "NI",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nigeria",
+    "value": "NR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Noruega",
+    "value": "NO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nueva Caledonia",
+    "value": "NW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nueva Zelanda",
+    "value": "NZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Oman",
+    "value": "OM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pakistan",
+    "value": "PK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Panamá",
+    "value": "PM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Papua Nueva Guinea",
+    "value": "PG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Paraguay",
+    "value": "PY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Perú",
+    "value": "PU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Polonia",
+    "value": "PL",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Polinesia",
+    "value": "FP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Portugal",
+    "value": "PT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Reino Unido",
+    "value": "UK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rep. Central Africana",
+    "value": "CF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Checa Eslovaca",
+    "value": "CS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República De Georgia",
+    "value": "GX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Dominicana",
+    "value": "DO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rumanía",
+    "value": "RO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rusia",
+    "value": "RU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rwanda",
+    "value": "RW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Samoa Oeste",
+    "value": "WS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Cristóbal De Nevais",
+    "value": "KN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Kitts",
+    "value": "SS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Pierre Y Miquelon",
+    "value": "SP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Vincent Y Las Granadas",
+    "value": "SF",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Helena",
+    "value": "SH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Lucia",
+    "value": "LC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sao Tome Y Principado",
+    "value": "MP",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Senegal",
+    "value": "SN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Serbia",
+    "value": "SX",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Siria",
+    "value": "SY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Somalia",
+    "value": "SO",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sri Lanka",
+    "value": "LK",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudan",
+    "value": "SB",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suecia",
+    "value": "SE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suiza",
+    "value": "SW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Surinam",
+    "value": "SR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Swazilandia",
+    "value": "SZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tailandia",
+    "value": "TH",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Taiwan",
+    "value": "TW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tanzania",
+    "value": "TZ",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Timor Oriental",
+    "value": "EM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Togo",
+    "value": "TG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tonga",
+    "value": "TA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Trinidad Y Tobago",
+    "value": "TT",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tristan De Cunha",
+    "value": "TD",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tunez",
+    "value": "TU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turcos Y Islas Caicos",
+    "value": "TC",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turquia",
+    "value": "TR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tuvala",
+    "value": "TV",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uganda",
+    "value": "UG",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ucrania",
+    "value": "UA",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uruguay",
+    "value": "UY",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vanuatu",
+    "value": "VU",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venezuela",
+    "value": "VE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vietnam",
+    "value": "VN",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yemen (del Norte)",
+    "value": "YS",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yemen (del Sur)",
+    "value": "YE",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zaire",
+    "value": "ZR",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zambia",
+    "value": "ZM",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zimbabwe",
+    "value": "ZW",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "No Definido",
+    "value": "ND",
+    "taxonomy": "cc_pais",
+    "code1": null,
+    "code2": null
+  }
+]

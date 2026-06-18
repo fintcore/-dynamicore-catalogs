@@ -1,0 +1,1745 @@
+[
+  {
+    "name": "Barbados",
+    "value": 19,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bielorrusia",
+    "value": 20,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Armenia",
+    "value": 10,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Aruba",
+    "value": 11,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ascensión",
+    "value": 12,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Australia",
+    "value": 13,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Austria",
+    "value": 14,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Azerbaiyán",
+    "value": 15,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Azores",
+    "value": 16,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Baréin",
+    "value": 17,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bangladés",
+    "value": 18,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Afganistán",
+    "value": 1,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Albania",
+    "value": 2,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argelia",
+    "value": 3,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Samoa Americana",
+    "value": 4,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Andorra",
+    "value": 5,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Angola",
+    "value": 6,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Anguila",
+    "value": 7,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Antigua y Barbuda",
+    "value": 8,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Argentina",
+    "value": 9,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bélgica",
+    "value": 21,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Belice",
+    "value": 22,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Benín",
+    "value": 23,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bermudas",
+    "value": 24,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bután",
+    "value": 25,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bolivia",
+    "value": 26,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bosnia y Herzegovina",
+    "value": 27,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Botsuana",
+    "value": 28,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brasil",
+    "value": 29,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Vírgenes Británicas",
+    "value": 30,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Brunéi",
+    "value": 31,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bulgaria",
+    "value": 32,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burkina Faso",
+    "value": 33,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Burundi",
+    "value": 34,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Camboya",
+    "value": 35,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Camerún",
+    "value": 36,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Campione d’Italia",
+    "value": 37,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Canadá",
+    "value": 38,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Canarias",
+    "value": 39,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zona Especial Canaria",
+    "value": 40,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cabo Verde",
+    "value": 41,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Caimán",
+    "value": 42,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Centroafricana",
+    "value": 43,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chad",
+    "value": 44,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chile",
+    "value": 45,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "China",
+    "value": 46,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Taipéi Chino",
+    "value": 47,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": " Isla de Navidad",
+    "value": 48,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": " Islas Cocos (Keeling)",
+    "value": 49,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Colombia",
+    "value": 50,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Comoras",
+    "value": 51,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Cook",
+    "value": 52,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Costa Rica",
+    "value": 53,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Croacia",
+    "value": 54,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Cuba",
+    "value": 55,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Curazao",
+    "value": 56,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Chipre",
+    "value": 57,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Checa",
+    "value": 58,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Democrática del Congo",
+    "value": 59,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea del Norte",
+    "value": 60,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dinamarca",
+    "value": 61,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yibuti",
+    "value": 62,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Dominica",
+    "value": 63,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República Dominicana",
+    "value": 64,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ecuador",
+    "value": 65,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Egipto",
+    "value": 66,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "El Salvador",
+    "value": 67,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea Ecuatorial",
+    "value": 68,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eritrea",
+    "value": 69,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estonia",
+    "value": 70,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Esuatini",
+    "value": 71,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Etiopía",
+    "value": 72,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Malvinas",
+    "value": 73,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Feroe",
+    "value": 74,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Fiyi",
+    "value": 75,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Finlandia",
+    "value": 76,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Francia",
+    "value": 77,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Polinesia Francesa",
+    "value": 78,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gabón",
+    "value": 79,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Georgia",
+    "value": 80,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Alemania",
+    "value": 81,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ghana",
+    "value": 82,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gibraltar",
+    "value": 83,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Grecia",
+    "value": 84,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Groenlandia",
+    "value": 85,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Granada",
+    "value": 86,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guam",
+    "value": 87,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guatemala",
+    "value": 88,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guernesey",
+    "value": 89,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas del Canal",
+    "value": 90,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea",
+    "value": 91,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guinea-Bisáu",
+    "value": 92,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Guyana",
+    "value": 93,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Haití",
+    "value": 94,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Sede",
+    "value": 95,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Honduras",
+    "value": 96,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hong Kong",
+    "value": 97,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Hungría",
+    "value": 98,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islandia",
+    "value": 99,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "India",
+    "value": 100,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Indonesia",
+    "value": 101,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irán",
+    "value": 102,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irak",
+    "value": 103,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Isla de Man",
+    "value": 104,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Israel",
+    "value": 105,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Italia",
+    "value": 106,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Costa de Marfil",
+    "value": 107,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jamaica",
+    "value": 108,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Japón",
+    "value": 109,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jersey",
+    "value": 110,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Jordania",
+    "value": 111,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kazajistán",
+    "value": 112,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kenia",
+    "value": 113,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kiribati",
+    "value": 114,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kosovo",
+    "value": 115,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kuwait",
+    "value": 116,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Kirguistán",
+    "value": 117,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Labuán",
+    "value": 118,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Laos",
+    "value": 119,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Letonia",
+    "value": 120,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Líbano",
+    "value": 121,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lesoto",
+    "value": 122,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liberia",
+    "value": 123,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Libia",
+    "value": 124,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Liechtenstein",
+    "value": 125,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Lituania",
+    "value": 126,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Luxemburgo",
+    "value": 127,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macao",
+    "value": 128,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macedonia",
+    "value": 129,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Madagascar",
+    "value": 130,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Madeira",
+    "value": 131,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malaui",
+    "value": 132,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malasia",
+    "value": 133,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malí",
+    "value": 134,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Malta",
+    "value": 135,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauritania",
+    "value": 136,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mauricio",
+    "value": 137,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "México",
+    "value": 138,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Moldavia",
+    "value": 139,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mónaco",
+    "value": 140,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mongolia",
+    "value": 141,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Montenegro",
+    "value": 142,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Montserrat",
+    "value": 143,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Marruecos",
+    "value": 144,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Mozambique",
+    "value": 145,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Myanmar",
+    "value": 146,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Namibia",
+    "value": 147,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nauru",
+    "value": 148,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nepal",
+    "value": 149,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Países Bajos",
+    "value": 150,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Antillas Neerlandesas",
+    "value": 151,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nevis",
+    "value": 152,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nueva Caledonia",
+    "value": 153,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nueva Zelanda",
+    "value": 154,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nicaragua",
+    "value": 155,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Níger",
+    "value": 156,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Nigeria",
+    "value": 157,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Niue",
+    "value": 158,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Isla Norfolk",
+    "value": 159,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Macedonia del Norte",
+    "value": 160,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Noruega",
+    "value": 161,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Omán",
+    "value": 162,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zona Libre de Ostrava",
+    "value": 163,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas del Pacífico",
+    "value": 164,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Pakistán",
+    "value": 165,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Palaos",
+    "value": 166,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Palestina",
+    "value": 167,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Panamá",
+    "value": 168,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Papúa Nueva Guinea",
+    "value": 169,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Paraguay",
+    "value": 170,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Patau",
+    "value": 171,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Perú",
+    "value": 172,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Filipinas",
+    "value": 173,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Pitcairn",
+    "value": 174,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Polonia",
+    "value": 175,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Portugal",
+    "value": 176,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Puerto Rico",
+    "value": 177,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Catar",
+    "value": 178,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Isla Qeshm",
+    "value": 179,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Irlanda",
+    "value": 180,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Maldivas",
+    "value": 181,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "República del Congo",
+    "value": 182,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Marshall",
+    "value": 183,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rumanía",
+    "value": 184,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Rusia",
+    "value": 185,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ruanda",
+    "value": 186,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Elena",
+    "value": 187,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Cristóbal y Nieves",
+    "value": 188,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santa Lucía",
+    "value": 189,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Pedro y Miquelón",
+    "value": 190,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Vicente y las Granadinas",
+    "value": 191,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Samoa",
+    "value": 192,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "San Marino",
+    "value": 193,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Santo Tomé y Príncipe",
+    "value": 194,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Arabia Saudita",
+    "value": 195,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Senegal",
+    "value": 196,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Serbia",
+    "value": 197,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Seychelles",
+    "value": 198,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sierra Leona",
+    "value": 199,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Singapur",
+    "value": 200,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eslovaquia",
+    "value": 201,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Eslovenia",
+    "value": 202,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Salomón",
+    "value": 203,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Somalia",
+    "value": 204,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudáfrica",
+    "value": 205,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Corea del Sur",
+    "value": 206,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudán del Sur",
+    "value": 207,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "España",
+    "value": 208,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sri Lanka",
+    "value": 209,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Sudán",
+    "value": 210,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Surinam",
+    "value": 211,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Archipiélago de Svalbard",
+    "value": 212,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suazilandia",
+    "value": 213,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suecia",
+    "value": 214,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Suiza",
+    "value": 215,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Siria",
+    "value": 216,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Taiwán",
+    "value": 217,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tayikistán",
+    "value": 218,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tanzania",
+    "value": 219,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tailandia",
+    "value": 220,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Bahamas",
+    "value": 221,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Gambia",
+    "value": 222,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Timor Oriental",
+    "value": 223,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Togo",
+    "value": 224,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tokelau",
+    "value": 225,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tonga",
+    "value": 226,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Trieste",
+    "value": 227,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Trinidad y Tobago",
+    "value": 228,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tristán de Acuña",
+    "value": 229,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Túnez",
+    "value": 230,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turquía",
+    "value": 231,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Turkmenistán",
+    "value": 232,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Turcas y Caicos",
+    "value": 233,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Tuvalu",
+    "value": 234,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uganda",
+    "value": 235,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Ucrania",
+    "value": 236,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Emiratos Árabes Unidos",
+    "value": 237,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Reino Unido",
+    "value": 238,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Estados Unidos",
+    "value": 239,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uruguay",
+    "value": 240,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Uzbekistán",
+    "value": 241,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vanuatu",
+    "value": 242,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Venezuela",
+    "value": 243,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Vietnam",
+    "value": 244,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Islas Vírgenes de EE.UU.",
+    "value": 245,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Samoa Occidental",
+    "value": 246,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Yemen",
+    "value": 247,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zambia",
+    "value": 248,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "Zimbabue",
+    "value": 249,
+    "taxonomy": "countries_soda",
+    "code1": null,
+    "code2": null
+  }
+]

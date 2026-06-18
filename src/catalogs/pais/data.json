@@ -1,0 +1,1605 @@
+[
+  {
+    "name": "NA",
+    "value": "NA",
+    "taxonomy": "pais",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANGOLA",
+    "value": "101",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ARGELIA",
+    "value": "102",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "BENIN",
+    "value": "104",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "BOTSWANA",
+    "value": "105",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "BURKINA FASO",
+    "value": "106",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "BURUNDI",
+    "value": "107",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "CABO VERDE",
+    "value": "108",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "CAMERUN",
+    "value": "109",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "RUANDA",
+    "value": "112",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "REPUBLICA PUPULAR DEL CONGO",
+    "value": "113",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "COSTA DE MARFIL",
+    "value": "114",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "CHAD",
+    "value": "115",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "DJIBOUTI",
+    "value": "116",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "EGIPTO",
+    "value": "117",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ERITREA",
+    "value": "118",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ETIOPIA",
+    "value": "119",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GABON",
+    "value": "120",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GAMBIA",
+    "value": "121",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GHANA",
+    "value": "122",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GUINEA",
+    "value": "123",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GUINEA BISSAU",
+    "value": "124",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "GUINEA ECUATORIAL",
+    "value": "125",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "KENIA",
+    "value": "126",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "LESOTHO",
+    "value": "127",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "LIBERIA",
+    "value": "128",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "LIBIA",
+    "value": "129",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MADAGASCAR",
+    "value": "130",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MALAWI",
+    "value": "133",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MALI",
+    "value": "134",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MARRUECOS",
+    "value": "135",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MAURICIO",
+    "value": "136",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MAURITANIA",
+    "value": "137",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ISLAS ANGLONORMANDAS",
+    "value": "138",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "MOZAMBIQUE",
+    "value": "139",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "NAMIBIA",
+    "value": "140",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "NIGER",
+    "value": "141",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "NIGERIA",
+    "value": "142",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "REPUBLICA CENTROAFRICANA",
+    "value": "143",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SAN PEDRO Y MIQUELON",
+    "value": "145",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ISLA SANTA HELENA",
+    "value": "147",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SANTO TOME Y PRINCIPE",
+    "value": "148",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SENEGAL",
+    "value": "149",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SEYCHELLES",
+    "value": "150",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SIERRA LEONA",
+    "value": "151",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "COMORAS",
+    "value": "152",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SOMALIA",
+    "value": "153",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SUDAFRICA",
+    "value": "154",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SUAZILANDIA",
+    "value": "160",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "TANZANIA",
+    "value": "161",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "TOGO",
+    "value": "162",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "TUNEZ",
+    "value": "164",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "UGANDA",
+    "value": "165",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ZAMBIA",
+    "value": "167",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ZIMBABWE",
+    "value": "168",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "REPUBLICA DEMOCRATICA DEL CONGO",
+    "value": "169",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "REPUBLICA ARABE SAHARAUI DEMOCRATICA",
+    "value": "170",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SUDAN",
+    "value": "171",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "SUDAN DEL SUR",
+    "value": "172",
+    "taxonomy": "pais",
+    "code1": "AFRICA",
+    "code2": 100
+  },
+  {
+    "name": "ANGUILA",
+    "value": "201",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ANTIGUA Y BARBUDA",
+    "value": "202",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ARGENTINA",
+    "value": "204",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ARUBA",
+    "value": "205",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BAHAMAS",
+    "value": "206",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BARBADOS",
+    "value": "207",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BELICE",
+    "value": "208",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BERMUDAS",
+    "value": "209",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BOLIVIA",
+    "value": "210",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BRASIL",
+    "value": "211",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLAS CAIMAN",
+    "value": "212",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "CANADA",
+    "value": "213",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "COLOMBIA",
+    "value": "214",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "COSTA RICA",
+    "value": "215",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "CUBA",
+    "value": "216",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "CHILE",
+    "value": "217",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "DOMINICA",
+    "value": "218",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ECUADOR",
+    "value": "219",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "EL SALVADOR",
+    "value": "220",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ESTADOS UNIDOS DE AMERICA",
+    "value": "221",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GRANADA",
+    "value": "222",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GROENLANDIA",
+    "value": "223",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GUADALUPE",
+    "value": "224",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GUATEMALA",
+    "value": "225",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GUYANA",
+    "value": "226",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "GUAYANA FRANCESA",
+    "value": "227",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "HAITI",
+    "value": "228",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "HONDURAS",
+    "value": "229",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "JAMAICA",
+    "value": "230",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "MALVINAS",
+    "value": "231",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLA DE MONTSERRAT",
+    "value": "233",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "NICARAGUA",
+    "value": "234",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "PANAMA",
+    "value": "235",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "PARAGUAY",
+    "value": "236",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "PERU",
+    "value": "237",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "PUERTO RICO",
+    "value": "238",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "REPUBLICA DOMINICANA",
+    "value": "239",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "SAN CRISTOBAL Y NIEVES",
+    "value": "240",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLA DE MAN",
+    "value": "241",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "SAN VICENTE Y LAS GRANADINAS",
+    "value": "242",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "SANTA LUCIA",
+    "value": "243",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "SURINAM",
+    "value": "244",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "TRINIDAD Y TOBAGO",
+    "value": "245",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLAS TURCAS Y CAICOS",
+    "value": "246",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "URUGUAY",
+    "value": "247",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLAS VIRGENES DE LOS ESTADOS UNIDOS",
+    "value": "248",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLAS VIRGENES BRITANICAS",
+    "value": "249",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "VENEZUELA",
+    "value": "250",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "CURAZAO",
+    "value": "251",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "ISLA DE SAINT MARTEEN",
+    "value": "252",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "BONAIRE, SAN EUSTAQUIO, SABA",
+    "value": "253",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "MEXICO",
+    "value": "260",
+    "taxonomy": "pais",
+    "code1": "AMERICA",
+    "code2": 200
+  },
+  {
+    "name": "AFGANISTAN",
+    "value": "301",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "ARABIA SAUDITA",
+    "value": "302",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "ARMENIA",
+    "value": "303",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "AZERBAIYAN",
+    "value": "304",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "BAHREIN",
+    "value": "305",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "BANGLADESH",
+    "value": "306",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "BHUTAN",
+    "value": "307",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "BRUNEI ",
+    "value": "308",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "CAMBOYA",
+    "value": "309",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "COREA DEL NORTE",
+    "value": "312",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "COREA DEL SUR",
+    "value": "313",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "CHINA",
+    "value": "315",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TAIWAN",
+    "value": "316",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "CHIPRE",
+    "value": "318",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "EMIRATOS ARABES UNIDOS",
+    "value": "321",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "FILIPINAS",
+    "value": "322",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "GEORGIA",
+    "value": "323",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "INDIA",
+    "value": "325",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "INDONESIA",
+    "value": "326",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "IRAN",
+    "value": "327",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "IRAQ",
+    "value": "328",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "ISRAEL",
+    "value": "329",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "JAPON",
+    "value": "330",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "JORDANIA",
+    "value": "331",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "KAZAJSTAN",
+    "value": "332",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "KIRGUISTAN",
+    "value": "333",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "KUWAIT",
+    "value": "334",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "LIBANO",
+    "value": "335",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "MALASIA",
+    "value": "337",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "MALDIVAS",
+    "value": "338",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "MONGOLIA",
+    "value": "339",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "MYANMAR",
+    "value": "340",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "NEPAL",
+    "value": "341",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "OMAN",
+    "value": "342",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "PAKISTAN",
+    "value": "343",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "QATAR",
+    "value": "344",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "LAOS",
+    "value": "345",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "SINGAPUR",
+    "value": "346",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "SIRIA",
+    "value": "347",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "SRI LANKA",
+    "value": "348",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TAILANDIA",
+    "value": "349",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TAYIKISTAN",
+    "value": "350",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TURKMENISTAN",
+    "value": "351",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TURQUIA",
+    "value": "352",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "UZBEKISTAN",
+    "value": "353",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "VIETNAM",
+    "value": "354",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "YEMEN",
+    "value": "355",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "PALAOS",
+    "value": "356",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "TIMOR ORIENTAL",
+    "value": "357",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "PALESTINA",
+    "value": "358",
+    "taxonomy": "pais",
+    "code1": "ASIA",
+    "code2": 300
+  },
+  {
+    "name": "ALBANIA",
+    "value": "401",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ALEMANIA",
+    "value": "402",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ANDORRA",
+    "value": "403",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "AUSTRIA",
+    "value": "405",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "BIELORRUSIA",
+    "value": "407",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "BELGICA",
+    "value": "408",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "BOSNIA Y HERZEGOVINA",
+    "value": "409",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "BULGARIA",
+    "value": "410",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "CROACIA",
+    "value": "411",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "DINAMARCA",
+    "value": "412",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ESLOVAQUIA",
+    "value": "413",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ESLOVENIA",
+    "value": "414",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ESPAÑA",
+    "value": "415",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ESTONIA",
+    "value": "416",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ISLAS FEROE",
+    "value": "417",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "FINLANDIA",
+    "value": "418",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "FRANCIA",
+    "value": "419",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "GIBRALTAR",
+    "value": "420",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "GRECIA",
+    "value": "421",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "HUNGRIA",
+    "value": "422",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "IRLANDA",
+    "value": "423",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ISLANDIA",
+    "value": "424",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": " ITALIANA",
+    "value": "425",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "LETONIA",
+    "value": "426",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "LIECHTENSTEIN",
+    "value": "427",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "LITUANIA",
+    "value": "428",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "LUXEMBURGO",
+    "value": "429",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "MACEDONIA",
+    "value": "430",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "MALTA",
+    "value": "431",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "MOLDAVIA",
+    "value": "433",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "MONACO",
+    "value": "434",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "NORUEGA",
+    "value": "435",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "PAISES BAJOS",
+    "value": "436",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "POLONIA",
+    "value": "437",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "PORTUGAL",
+    "value": "438",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "REINO UNIDO DE GRAN BRETAÑA E IRLANDA",
+    "value": "439",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "CHEQUIA",
+    "value": "440",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "RUMANIA",
+    "value": "441",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "RUSIA",
+    "value": "442",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "SAN MARINO",
+    "value": "443",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "ESTADO DE LA CIUDAD DEL VATICANO",
+    "value": "444",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "SUECIA",
+    "value": "445",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "SUIZA",
+    "value": "446",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "UCRANIA",
+    "value": "447",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "SERBIA",
+    "value": "452",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "MONTENEGRO",
+    "value": "453",
+    "taxonomy": "pais",
+    "code1": "EUROPA",
+    "code2": 400
+  },
+  {
+    "name": "AUSTRALIA",
+    "value": "501",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "ISLAS COOK",
+    "value": "503",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "GUAM",
+    "value": "505",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "KIRIBATI",
+    "value": "507",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "ISLAS MARIANAS DEL NORTE",
+    "value": "512",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "LAS ISLAS MARSHALL",
+    "value": "513",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "MICRONESIA",
+    "value": "514",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "NAURU",
+    "value": "516",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "NIUE",
+    "value": "517",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "NUEVA ZELANDA",
+    "value": "520",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "ISLA WAKE",
+    "value": "522",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "PAPUA NUEVA GUINEA",
+    "value": "523",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "ISLAS PITCAIRN",
+    "value": "524",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "ISLAS SALOMON",
+    "value": "526",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "SAMOA",
+    "value": "527",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "SAMOA AMERICANA",
+    "value": "528",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "TOKELAU",
+    "value": "530",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "TONGA",
+    "value": "531",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "TUVALU",
+    "value": "532",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "VANUATU",
+    "value": "533",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "WALLIS Y FUTUNA",
+    "value": "534",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  },
+  {
+    "name": "LAS ISLAS FIJI",
+    "value": "535",
+    "taxonomy": "pais",
+    "code1": "OCEANIA",
+    "code2": 500
+  }
+]

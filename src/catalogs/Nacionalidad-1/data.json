@@ -1,0 +1,1689 @@
+[
+  {
+    "name": "AFGANA",
+    "value": "AFGANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALBANESA",
+    "value": "ALBANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ALEMANA",
+    "value": "ALEMANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANDORRANA",
+    "value": "ANDORRANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANGOLESA",
+    "value": "ANGOLESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANTIGUA Y BARBUDA",
+    "value": "ANTIGUA Y BARBUDA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAUDI",
+    "value": "SAUDI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARGELIANA",
+    "value": "ARGELIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARGENTINA",
+    "value": "ARGENTINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARMENIA",
+    "value": "ARMENIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUSTRALIANA",
+    "value": "AUSTRALIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AUSTRIACA",
+    "value": "AUSTRIACA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "AZERBAIYANA",
+    "value": "AZERBAIYANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAHAMEÑA",
+    "value": "BAHAMEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BAHREINI",
+    "value": "BAHREINI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BANGLADESI",
+    "value": "BANGLADESI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BARBADENSE",
+    "value": "BARBADENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BIELORRUSA",
+    "value": "BIELORRUSA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BELGA",
+    "value": "BELGA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BELICEÑA",
+    "value": "BELICEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BENIN",
+    "value": "BENIN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BHUTANESA",
+    "value": "BHUTANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOLIVIANA",
+    "value": "BOLIVIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOSNIA",
+    "value": "BOSNIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BOTSWANESA",
+    "value": "BOTSWANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BRASILEÑA",
+    "value": "BRASILEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BRUNEANO",
+    "value": "BRUNEANO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BULGARA",
+    "value": "BULGARA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BURKINA FASO",
+    "value": "BURKINA FASO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BURUNDESA",
+    "value": "BURUNDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CABOVERDIANA",
+    "value": "CABOVERDIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMBOYANA",
+    "value": "CAMBOYANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAMERUNESA",
+    "value": "CAMERUNESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CANADIENSE",
+    "value": "CANADIENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHADIANA",
+    "value": "CHADIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHECA",
+    "value": "CHECA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHILENA",
+    "value": "CHILENA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHINA",
+    "value": "CHINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CHIPRIOTA",
+    "value": "CHIPRIOTA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COLOMBIANA",
+    "value": "COLOMBIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COMORENSE",
+    "value": "COMORENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COSTARRICENSE",
+    "value": "COSTARRICENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MARFILEÑA",
+    "value": "MARFILEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CROATA",
+    "value": "CROATA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CUBANA",
+    "value": "CUBANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DANESA",
+    "value": "DANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DJIBOUTI",
+    "value": "DJIBOUTI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOMINICA",
+    "value": "DOMINICA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ECUATORIANA",
+    "value": "ECUATORIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "EGIPCIA",
+    "value": "EGIPCIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SALVADOREÑA",
+    "value": "SALVADOREÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARABE",
+    "value": "ARABE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ERITREA",
+    "value": "ERITREA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESLOVACA",
+    "value": "ESLOVACA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESLOVENIA",
+    "value": "ESLOVENIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESPAÑOLA",
+    "value": "ESPAÑOLA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PALESTINA",
+    "value": "PALESTINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTADOUNIDENSE",
+    "value": "ESTADOUNIDENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTONIA",
+    "value": "ESTONIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ETIOPE",
+    "value": "ETIOPE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MACEDONIA",
+    "value": "MACEDONIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUSA",
+    "value": "RUSA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FIJIANA",
+    "value": "FIJIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FILIPINA",
+    "value": "FILIPINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FINLANDESA",
+    "value": "FINLANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "FRANCESA",
+    "value": "FRANCESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GABONESA",
+    "value": "GABONESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GAMBIANA",
+    "value": "GAMBIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GEORGIA",
+    "value": "GEORGIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GHANATA",
+    "value": "GHANATA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GRANADINA",
+    "value": "GRANADINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GRIEGA",
+    "value": "GRIEGA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUATEMALTECA",
+    "value": "GUATEMALTECA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUINEANA",
+    "value": "GUINEANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ECUATOGUINEANA",
+    "value": "ECUATOGUINEANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GUYANESA",
+    "value": "GUYANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HAITIANA",
+    "value": "HAITIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HONDUREÑA",
+    "value": "HONDUREÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HUNGARA",
+    "value": "HUNGARA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HINDU",
+    "value": "HINDU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "INDONESIA",
+    "value": "INDONESIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "IRANI",
+    "value": "IRANI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "IRAQUI",
+    "value": "IRAQUI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "IRLANDESA",
+    "value": "IRLANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLANDESA",
+    "value": "ISLANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS COOK (LAS)",
+    "value": "ISLAS COOK (LAS)",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS MARSHALL (LAS)",
+    "value": "ISLAS MARSHALL (LAS)",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS SALOMÓN (LAS)",
+    "value": "ISLAS SALOMÓN (LAS)",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISRAELI",
+    "value": "ISRAELI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ITALIANA",
+    "value": "ITALIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JAMAIQUINA",
+    "value": "JAMAIQUINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JAPONESA",
+    "value": "JAPONESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "JORDANA",
+    "value": "JORDANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KAZAJSTÁN",
+    "value": "KAZAJSTÁN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KENIANA",
+    "value": "KENIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KIRGUIS",
+    "value": "KIRGUIS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KIRIBATI",
+    "value": "KIRIBATI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "KUWAITI",
+    "value": "KUWAITI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MOLDAVA",
+    "value": "MOLDAVA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LESOTHENSE",
+    "value": "LESOTHENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LETONIA",
+    "value": "LETONIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBANESA",
+    "value": "LIBANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBERIANA",
+    "value": "LIBERIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIBIA",
+    "value": "LIBIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIECHTENSTENSE",
+    "value": "LIECHTENSTENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LITUANA",
+    "value": "LITUANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LUXEMBURGUESA",
+    "value": "LUXEMBURGUESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALGACHE",
+    "value": "MALGACHE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALASIA",
+    "value": "MALASIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALAWIANA",
+    "value": "MALAWIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALDIVA",
+    "value": "MALDIVA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALIENSE",
+    "value": "MALIENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MALTESA",
+    "value": "MALTESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MARROQUI",
+    "value": "MARROQUI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAURICIANA",
+    "value": "MAURICIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MAURITANA",
+    "value": "MAURITANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MEXICANA",
+    "value": "MEXICANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MICRONECIA",
+    "value": "MICRONECIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONEGASCA",
+    "value": "MONEGASCA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONGOLESA",
+    "value": "MONGOLESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONTENEGRUINA",
+    "value": "MONTENEGRUINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MOZAMBIQUEÑA",
+    "value": "MOZAMBIQUEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BIRMANA",
+    "value": "BIRMANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NAMIBIANA",
+    "value": "NAMIBIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NAURUANA",
+    "value": "NAURUANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NEPALESA",
+    "value": "NEPALESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NICARAGUENSE",
+    "value": "NICARAGUENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NIGERIANA",
+    "value": "NIGERIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NIGERINA",
+    "value": "NIGERINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NIUE",
+    "value": "NIUE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NORUEGA",
+    "value": "NORUEGA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NEOZELANDESA",
+    "value": "NEOZELANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "OMANESA",
+    "value": "OMANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NEERLANDESA",
+    "value": "NEERLANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAKISTANI",
+    "value": "PAKISTANI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PALAU",
+    "value": "PALAU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PANAMEÑA",
+    "value": "PANAMEÑA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PAPUENSE",
+    "value": "PAPUENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PARAGUAYA",
+    "value": "PARAGUAYA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PERUANA",
+    "value": "PERUANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "POLACA",
+    "value": "POLACA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PORTUGUESA",
+    "value": "PORTUGUESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CATARI",
+    "value": "CATARI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BRITÁNICA",
+    "value": "BRITÁNICA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SIRIA",
+    "value": "SIRIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CENTROAFRICANA",
+    "value": "CENTROAFRICANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "COREANA",
+    "value": "COREANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CONGOLESA",
+    "value": "CONGOLESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LAOSIANA",
+    "value": "LAOSIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "DOMINICANA",
+    "value": "DOMINICANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SURCOREANA",
+    "value": "SURCOREANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TANZANIANA",
+    "value": "TANZANIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RUMANA",
+    "value": "RUMANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "RWANDESA",
+    "value": "RWANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAINT KITTS Y NEVIS",
+    "value": "SAINT KITTS Y NEVIS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAMOA",
+    "value": "SAMOA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAN MARINENSE",
+    "value": "SAN MARINENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SAN VICENTE Y LAS GRANADINAS",
+    "value": "SAN VICENTE Y LAS GRANADINAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SANTA LUCIENSE",
+    "value": "SANTA LUCIENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VATICANA",
+    "value": "VATICANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SANTOTOMENSE",
+    "value": "SANTOTOMENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SENEGALESA",
+    "value": "SENEGALESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERBIA",
+    "value": "SERBIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SERBIA Y MONTENEGRO",
+    "value": "SERBIA Y MONTENEGRO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SEYCHELLES",
+    "value": "SEYCHELLES",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SIERRA LEONESA",
+    "value": "SIERRA LEONESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SINGAPORENSE",
+    "value": "SINGAPORENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SOMALI",
+    "value": "SOMALI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESRILANQUESA",
+    "value": "ESRILANQUESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUDAFRICANA",
+    "value": "SUDAFRICANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUDANESA",
+    "value": "SUDANESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUECA",
+    "value": "SUECA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SUIZA",
+    "value": "SUIZA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SURINAMENSE",
+    "value": "SURINAMENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SWAZI",
+    "value": "SWAZI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TAILANDESA",
+    "value": "TAILANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TAYIKA",
+    "value": "TAYIKA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TIMORENSE",
+    "value": "TIMORENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TOGOLES",
+    "value": "TOGOLES",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TONGANA",
+    "value": "TONGANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRINITARIA",
+    "value": "TRINITARIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TUNECINA",
+    "value": "TUNECINA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TURKMENISTÁN",
+    "value": "TURKMENISTÁN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TURCA",
+    "value": "TURCA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TUVALU",
+    "value": "TUVALU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UCRANIANA",
+    "value": "UCRANIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "UGANDESA",
+    "value": "UGANDESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "URUGUAYA",
+    "value": "URUGUAYA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "USBEKA",
+    "value": "USBEKA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VANUATU",
+    "value": "VANUATU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VENEZOLANA",
+    "value": "VENEZOLANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "VIET NAM",
+    "value": "VIET NAM",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "YEMENI",
+    "value": "YEMENI",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZAMBIANA",
+    "value": "ZAMBIANA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZIMBABWENSE",
+    "value": "ZIMBABWENSE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANGUILA",
+    "value": "ANGUILA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ANTILLAS NEERLANDESAS",
+    "value": "ANTILLAS NEERLANDESAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARCHIPIÉLAGO DE SVALBARD",
+    "value": "ARCHIPIÉLAGO DE SVALBARD",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ARUBA",
+    "value": "ARUBA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ASCENSIÓN",
+    "value": "ASCENSIÓN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "BERMUDAS",
+    "value": "BERMUDAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "CAPCIONE D ITALIA",
+    "value": "CAPCIONE D ITALIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ESTADO LIBRE ASOCIADO DE PUERTO RICO",
+    "value": "ESTADO LIBRE ASOCIADO DE PUERTO RICO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GIBRALTAR",
+    "value": "GIBRALTAR",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "GROENLANDIA",
+    "value": "GROENLANDIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "HONG KONG",
+    "value": "HONG KONG",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA CAIMÁN",
+    "value": "ISLA CAIMÁN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA DE CHRISTMAS",
+    "value": "ISLA DE CHRISTMAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA NORFOLK",
+    "value": "ISLA NORFOLK",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA DE SAN PEDRO Y MIQUELÓN",
+    "value": "ISLA DE SAN PEDRO Y MIQUELÓN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA DEL HOMBRE",
+    "value": "ISLA DEL HOMBRE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLA QESH",
+    "value": "ISLA QESH",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS AZORES",
+    "value": "ISLAS AZORES",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS CANARIAS",
+    "value": "ISLAS CANARIAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS DE COCOS O KELLING",
+    "value": "ISLAS DE COCOS O KELLING",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS DE GUERNESEY, JERSEY, ALDERNEY, ISLA GREAT SARK, HERM,LITTLE SARK, BRECHOU, JETHOU",
+    "value": "ISLAS DE GUERNESEY, JERSEY, ALDERNEY, ISLA GREAT SARK, HERM,LITTLE SARK, BRECHOU, JETHOU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LIHOU(ISLAS DEL CANAL)",
+    "value": "LIHOU(ISLAS DEL CANAL)",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS MALVINAS",
+    "value": "ISLAS MALVINAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS PACIFICO",
+    "value": "ISLAS PACIFICO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS TURCAS Y CAICOS",
+    "value": "ISLAS TURCAS Y CAICOS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS VÍRGENES BRITÁNICAS",
+    "value": "ISLAS VÍRGENES BRITÁNICAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ISLAS VÍRGENES DE ESTADOS UNIDOS DE AMERICA",
+    "value": "ISLAS VÍRGENES DE ESTADOS UNIDOS DE AMERICA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "LABUAN",
+    "value": "LABUAN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MACAO",
+    "value": "MACAO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MADEIRA",
+    "value": "MADEIRA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "MONTSERRAT",
+    "value": "MONTSERRAT",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "NEVIS",
+    "value": "NEVIS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PITCAIRN",
+    "value": "PITCAIRN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "POLINESIA FRANCESA",
+    "value": "POLINESIA FRANCESA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRINCIPADO DE ANDORRA",
+    "value": "PRINCIPADO DE ANDORRA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRINCIPADO DE LIECHTENSTEIN",
+    "value": "PRINCIPADO DE LIECHTENSTEIN",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "PRINCIPADO DE MÓNACO",
+    "value": "PRINCIPADO DE MÓNACO",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REINO DE SWAZILANDIA",
+    "value": "REINO DE SWAZILANDIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REINO DE TONGA",
+    "value": "REINO DE TONGA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REINO HACHEMITA DE JORDANIA",
+    "value": "REINO HACHEMITA DE JORDANIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "REPUBLICA DE MALVINAS",
+    "value": "REPUBLICA DE MALVINAS",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "SANTA ELENA",
+    "value": "SANTA ELENA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TOKELAU",
+    "value": "TOKELAU",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRIESTE",
+    "value": "TRIESTE",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "TRISTÁN DE CUNHA",
+    "value": "TRISTÁN DE CUNHA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  },
+  {
+    "name": "ZONA ESPECIAL CANARIA",
+    "value": "ZONA ESPECIAL CANARIA",
+    "taxonomy": "Nacionalidad",
+    "code1": null,
+    "code2": null
+  }
+]
