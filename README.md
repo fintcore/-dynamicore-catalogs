@@ -1,6 +1,6 @@
 # @dynamicore/catalogs
 
-Librería de catálogos de datos para aplicaciones financieras y regulatorias en México y Latinoamérica. Incluye geografía, actividades económicas, códigos MCC, fiscalidad, ocupaciones y más — con una API uniforme y soporte completo para TypeScript.
+Librería de catálogos de datos para aplicaciones financieras y regulatorias en México y Latinoamérica. Incluye geografía, actividades económicas, fiscalidad, ocupaciones y más — con una API uniforme y soporte completo para TypeScript.
 
 ## Instalación
 
@@ -15,7 +15,7 @@ pnpm add @dynamicore/catalogs
 ## Uso rápido
 
 ```ts
-import { pais, municipios, actividadEconomica, mcc } from "@dynamicore/catalogs";
+import { pais, municipios, actividadEconomica } from "@dynamicore/catalogs";
 
 pais.getAll();                    // todos los registros
 pais.count();                     // 229
@@ -23,10 +23,6 @@ pais.getById("MX");               // registro exacto por clave
 pais.search("mexico");            // búsqueda en todos los campos
 pais.search("mexico", ["name"]); // búsqueda en campos específicos
 pais.filter(p => p.code1 !== null); // predicado personalizado
-
-// MCC es especial — recibe idioma como argumento
-mcc("es").getById("5812");
-mcc("en").search("restaurant");
 ```
 
 > **Tree-shaking:** importa solo lo que necesitas por subpath para cargar únicamente ese catálogo.
@@ -69,15 +65,10 @@ interface Catalog<T, K extends keyof T> {
 |----------|----------|-----------|-------------|
 | `colonia` | `colonia` | 143,875 | Colonias de México |
 | `municipios` | `municipios` | 2,464 | Municipios oficiales INEGI |
-| `municipioMulaware` | `municipio_mulaware` | 2,458 | Municipios (formato Mulaware) |
 | `entidadFederativa` | `entidad_federativa` | 33 | Entidades federativas |
 | `states` | `states` | 32 | Estados de México |
-| `statesSoda` | `states_soda` | 33 | Estados (formato SODA) |
+| `statesV2` | `states_v2` | 33 | Estados (v2) |
 | `zipcode` | `zipcode` | 31,949 | Códigos postales |
-| `zipcodeMulaware` | `zipcode_mulaware` | 32,539 | Códigos postales (Mulaware) |
-| `localidadMulaware` | `localidad_mulaware` | 665 | Localidades (Mulaware) |
-| `cityMexMulaware` | `city_mex_mulaware` | 32 | Ciudades principales MX (Mulaware) |
-| `cityMulaware` | `city_mulaware` | 709 | Ciudades (Mulaware) |
 | `enpagosMunicupio` | `enpagos_municupio` | 2,313 | Municipios (formato Enpagos) |
 
 ### Geografía — Internacional
@@ -86,12 +77,11 @@ interface Catalog<T, K extends keyof T> {
 |----------|----------|-----------|-------------|
 | `pais` | `pais` | 229 | Países |
 | `ccPais` | `cc_pais` | 207 | Países con códigos de área |
-| `countriesSoda` | `countries_soda` | 249 | Países (formato SODA) |
-| `countryMulaware` | `country_mulaware` | 250 | Países (formato Mulaware) |
+| `countriesV2` | `countries_v2` | 249 | Países (v2) |
 | `enpagosPais` | `enpagos_pais` | 198 | Países (formato Enpagos) |
 | `nacionalidad` | `nacionalidad` | 244 | Nacionalidades |
 | `nacionalidad1` | `Nacionalidad-1` | 241 | Nacionalidades (variante) |
-| `nationalitySoda` | `nationality_soda` | 2 | Tipos de nacionalidad (SODA) |
+| `nationalityV2` | `nationality_v2` | 2 | Tipos de nacionalidad (v2) |
 
 ### Divisas
 
@@ -99,7 +89,7 @@ interface Catalog<T, K extends keyof T> {
 |----------|----------|-----------|-------------|
 | `currency` | `currency` | 161 | Monedas internacionales |
 | `claveMoneda` | `clave_moneda` | 161 | Claves de moneda SAT |
-| `currencySoda` | `currency_soda` | 3 | Monedas (formato SODA) |
+| `currencyV2` | `currency_v2` | 3 | Monedas (v2) |
 
 ### Actividad Económica
 
@@ -110,7 +100,7 @@ interface Catalog<T, K extends keyof T> {
 | `clasificacionActividadEconomica` | `clasificacion_actividad_economica` | 10 | Clasificaciones de actividad |
 | `subclasificacionActividad` | `subclasificacion_actividad` | 149 | Subclasificaciones de actividad |
 | `claveActividad` | `clave_actividad` | 387 | Claves de actividad económica |
-| `economicactivitySoda` | `economicactivity_soda` | 1,281 | Actividades económicas (SODA) |
+| `economicactivityV2` | `economicactivity_v2` | 1,281 | Actividades económicas (v2) |
 | `enpagosActividadEconomica` | `enpagos_actividad_economica` | 1,251 | Actividades económicas (Enpagos) |
 | `pisaActividadEconomica` | `pisa_actividad_economica` | 1,320 | Actividades económicas (PISA) |
 | `sectorClasificacion` | `sector_clasificacion` | 4 | Sectores de clasificación |
@@ -130,7 +120,6 @@ interface Catalog<T, K extends keyof T> {
 
 | Variable | Catálogo | Registros | Descripción |
 |----------|----------|-----------|-------------|
-| `ocupationMulaware` | `ocupation_mulaware` | 1,284 | Ocupaciones (Mulaware) |
 | `pisaOcupaciones` | `pisa_ocupaciones` | 94 | Ocupaciones (PISA) |
 | `pisaProfesion` | `pisa_profesion` | 534 | Profesiones (PISA) |
 | `pisaPuesto` | `pisa_puesto` | 360 | Puestos laborales (PISA) |
@@ -148,43 +137,23 @@ interface Catalog<T, K extends keyof T> {
 | `prioridad` | `prioridad` | 8 | Niveles de prioridad |
 | `relationTypes` | `relationTypes` | 9 | Tipos de relación entre personas |
 
-### SODA (Sistema de Originación Digital)
+### V2
 
 | Variable | Catálogo | Registros | Descripción |
 |----------|----------|-----------|-------------|
-| `ageorincorporationdateSoda` | `ageorincorporationdate_soda` | 8 | Antigüedad / fecha de incorporación |
-| `credittermSoda` | `creditterm_soda` | 59 | Plazos de crédito |
-| `customersenioritySoda` | `customerseniority_soda` | 3 | Antigüedad del cliente |
-| `guaranteesSoda` | `guarantees_soda` | 8 | Tipos de garantía |
-| `guaratortypesSoda` | `guaratortypes_soda` | 7 | Tipos de garante |
-| `persontypeSoda` | `persontype_soda` | 4 | Tipos de persona |
-| `productsSoda` | `products_soda` | 5 | Productos financieros |
-| `resourcedestinationSoda` | `resourcedestination_soda` | 7 | Destino de recursos (SODA) |
-| `resourceoriginSoda` | `resourceorigin_soda` | 8 | Origen de recursos (SODA) |
-| `transactionalfrecuencySoda` | `transactionalfrecuency_soda` | 4 | Frecuencia transaccional |
-| `transactionamountsSoda` | `transactionamounts_soda` | 5 | Montos de transacción |
-| `transactionsorsendingchannelsSoda` | `transactionsorsendingchannels_soda` | 4 | Canales de envío |
+| `ageorincorporationdateV2` | `ageorincorporationdate_v2` | 8 | Antigüedad / fecha de incorporación |
+| `credittermV2` | `creditterm_v2` | 59 | Plazos de crédito |
+| `customerseniorityV2` | `customerseniority_v2` | 3 | Antigüedad del cliente |
+| `guaranteesV2` | `guarantees_v2` | 8 | Tipos de garantía |
+| `guaratortypesV2` | `guaratortypes_v2` | 7 | Tipos de garante |
+| `persontypeV2` | `persontype_v2` | 4 | Tipos de persona |
+| `productsV2` | `products_v2` | 5 | Productos financieros |
+| `resourcedestinationV2` | `resourcedestination_v2` | 7 | Destino de recursos (v2) |
+| `resourceoriginV2` | `resourceorigin_v2` | 8 | Origen de recursos (v2) |
+| `transactionalfrecuencyV2` | `transactionalfrecuency_v2` | 4 | Frecuencia transaccional |
+| `transactionamountsV2` | `transactionamounts_v2` | 5 | Montos de transacción |
+| `transactionsorsendingchannelsV2` | `transactionsorsendingchannels_v2` | 4 | Canales de envío |
 | `taxonomy` | `taxonomy` | 2 | Taxonomías |
-
-### MCC (Merchant Category Codes)
-
-Catálogo especial con soporte bilingüe (español / inglés).
-
-| Variable | Catálogo | Registros | Descripción |
-|----------|----------|-----------|-------------|
-| `mcc(lang)` | `mcc` | 1,056 | Códigos MCC — `"es"` o `"en"` |
-
-```ts
-import { mcc } from "@dynamicore/catalogs";
-
-const catalog = mcc("es"); // o mcc("en")
-
-catalog.getById("5812");
-// { mcc: "5812", edited_description: "Lugares para comer y restaurantes", ... }
-
-catalog.search("farmacia");
-catalog.count(); // 1056
-```
 
 ---
 
@@ -212,23 +181,19 @@ const cp = zipcode.search("064")[0];
 ### JavaScript (CommonJS)
 
 ```js
-const { pais, actividadEconomica, mcc } = require("@dynamicore/catalogs");
+const { pais, actividadEconomica } = require("@dynamicore/catalogs");
 
-console.log(pais.count());            // 229
+console.log(pais.count());               // 229
 console.log(actividadEconomica.count()); // 1246
-
-const restaurant = mcc("es").getById("5812");
-console.log(restaurant.edited_description);
-// "Lugares para comer y restaurantes"
 ```
 
 ### Subpath import (recomendado para bundles grandes)
 
 ```ts
 // Solo carga el catálogo que necesitas
-import { colonia }  from "@dynamicore/catalogs/colonia";
+import { colonia }    from "@dynamicore/catalogs/colonia";
 import { municipios } from "@dynamicore/catalogs/municipios";
-import { zipcode } from "@dynamicore/catalogs/zipcode";
+import { zipcode }    from "@dynamicore/catalogs/zipcode";
 ```
 
 ---
