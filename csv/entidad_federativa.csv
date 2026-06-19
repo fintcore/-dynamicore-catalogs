@@ -1,34 +1,34 @@
 "name","value","taxonomy","code1","code2"
 "NA","NA","entidad_federativa",NULL,NULL
-"Aguascalientes","01","entidad_federativa",NULL,NULL
-"Baja California","02","entidad_federativa",NULL,NULL
-"Baja California Sur","03","entidad_federativa",NULL,NULL
-"Campeche","04","entidad_federativa",NULL,NULL
-"Coahuila de Zaragoza","05","entidad_federativa",NULL,NULL
-"Colima","06","entidad_federativa",NULL,NULL
-"Chiapas","07","entidad_federativa",NULL,NULL
-"Chihuahua","08","entidad_federativa",NULL,NULL
-"Distrito Federal","09","entidad_federativa",NULL,NULL
-"Durango","10","entidad_federativa",NULL,NULL
-"Guanajuato","11","entidad_federativa",NULL,NULL
-"Guerrero","12","entidad_federativa",NULL,NULL
-"Hidalgo","13","entidad_federativa",NULL,NULL
-"Jalisco","14","entidad_federativa",NULL,NULL
-"México","15","entidad_federativa",NULL,NULL
-"Michoacán de Ocampo","16","entidad_federativa",NULL,NULL
-"Morelos","17","entidad_federativa",NULL,NULL
-"Nayarit","18","entidad_federativa",NULL,NULL
-"Nuevo León","19","entidad_federativa",NULL,NULL
-"Oaxaca","20","entidad_federativa",NULL,NULL
-"Puebla","21","entidad_federativa",NULL,NULL
-"Querétaro","22","entidad_federativa",NULL,NULL
-"Quintana Roo","23","entidad_federativa",NULL,NULL
-"San Luis Potosí","24","entidad_federativa",NULL,NULL
-"Sinaloa","25","entidad_federativa",NULL,NULL
-"Sonora","26","entidad_federativa",NULL,NULL
-"Tabasco","27","entidad_federativa",NULL,NULL
-"Tamaulipas","28","entidad_federativa",NULL,NULL
-"Tlaxcala","29","entidad_federativa",NULL,NULL
-"Veracruz de Ignacio de la Llave","30","entidad_federativa",NULL,NULL
-"Yucatán","31","entidad_federativa",NULL,NULL
-"Zacatecas","32","entidad_federativa",NULL,NULL
+"Aguascalientes","01","entidad_federativa","AS",NULL
+"Baja California","02","entidad_federativa","BC",NULL
+"Baja California Sur","03","entidad_federativa","BS",NULL
+"Campeche","04","entidad_federativa","CC",NULL
+"Coahuila de Zaragoza","05","entidad_federativa","CL",NULL
+"Colima","06","entidad_federativa","CM",NULL
+"Chiapas","07","entidad_federativa","CS",NULL
+"Chihuahua","08","entidad_federativa","CH",NULL
+"Distrito Federal","09","entidad_federativa","DF",NULL
+"Durango","10","entidad_federativa","DG",NULL
+"Guanajuato","11","entidad_federativa","GT",NULL
+"Guerrero","12","entidad_federativa","GR",NULL
+"Hidalgo","13","entidad_federativa","HG",NULL
+"Jalisco","14","entidad_federativa","JC",NULL
+"México","15","entidad_federativa","MC",NULL
+"Michoacán de Ocampo","16","entidad_federativa","MN",NULL
+"Morelos","17","entidad_federativa","MS",NULL
+"Nayarit","18","entidad_federativa","NT",NULL
+"Nuevo León","19","entidad_federativa","NL",NULL
+"Oaxaca","20","entidad_federativa","OC",NULL
+"Puebla","21","entidad_federativa","PL",NULL
+"Querétaro","22","entidad_federativa","QT",NULL
+"Quintana Roo","23","entidad_federativa","QR",NULL
+"San Luis Potosí","24","entidad_federativa","SP",NULL
+"Sinaloa","25","entidad_federativa","SL",NULL
+"Sonora","26","entidad_federativa","SR",NULL
+"Tabasco","27","entidad_federativa","TC",NULL
+"Tamaulipas","28","entidad_federativa","TS",NULL
+"Tlaxcala","29","entidad_federativa","TL",NULL
+"Veracruz de Ignacio de la Llave","30","entidad_federativa","VZ",NULL
+"Yucatán","31","entidad_federativa","YN",NULL
+"Zacatecas","32","entidad_federativa","ZS",NULL

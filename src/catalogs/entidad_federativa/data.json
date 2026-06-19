@@ -10,224 +10,224 @@
     "name": "Aguascalientes",
     "value": "01",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "AS",
     "code2": null
   },
   {
     "name": "Baja California",
     "value": "02",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "BC",
     "code2": null
   },
   {
     "name": "Baja California Sur",
     "value": "03",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "BS",
     "code2": null
   },
   {
     "name": "Campeche",
     "value": "04",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "CC",
     "code2": null
   },
   {
     "name": "Coahuila de Zaragoza",
     "value": "05",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "CL",
     "code2": null
   },
   {
     "name": "Colima",
     "value": "06",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "CM",
     "code2": null
   },
   {
     "name": "Chiapas",
     "value": "07",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "CS",
     "code2": null
   },
   {
     "name": "Chihuahua",
     "value": "08",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "CH",
     "code2": null
   },
   {
     "name": "Distrito Federal",
     "value": "09",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "DF",
     "code2": null
   },
   {
     "name": "Durango",
     "value": "10",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "DG",
     "code2": null
   },
   {
     "name": "Guanajuato",
     "value": "11",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "GT",
     "code2": null
   },
   {
     "name": "Guerrero",
     "value": "12",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "GR",
     "code2": null
   },
   {
     "name": "Hidalgo",
     "value": "13",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "HG",
     "code2": null
   },
   {
     "name": "Jalisco",
     "value": "14",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "JC",
     "code2": null
   },
   {
     "name": "México",
     "value": "15",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "MC",
     "code2": null
   },
   {
     "name": "Michoacán de Ocampo",
     "value": "16",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "MN",
     "code2": null
   },
   {
     "name": "Morelos",
     "value": "17",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "MS",
     "code2": null
   },
   {
     "name": "Nayarit",
     "value": "18",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "NT",
     "code2": null
   },
   {
     "name": "Nuevo León",
     "value": "19",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "NL",
     "code2": null
   },
   {
     "name": "Oaxaca",
     "value": "20",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "OC",
     "code2": null
   },
   {
     "name": "Puebla",
     "value": "21",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "PL",
     "code2": null
   },
   {
     "name": "Querétaro",
     "value": "22",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "QT",
     "code2": null
   },
   {
     "name": "Quintana Roo",
     "value": "23",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "QR",
     "code2": null
   },
   {
     "name": "San Luis Potosí",
     "value": "24",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "SP",
     "code2": null
   },
   {
     "name": "Sinaloa",
     "value": "25",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "SL",
     "code2": null
   },
   {
     "name": "Sonora",
     "value": "26",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "SR",
     "code2": null
   },
   {
     "name": "Tabasco",
     "value": "27",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "TC",
     "code2": null
   },
   {
     "name": "Tamaulipas",
     "value": "28",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "TS",
     "code2": null
   },
   {
     "name": "Tlaxcala",
     "value": "29",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "TL",
     "code2": null
   },
   {
     "name": "Veracruz de Ignacio de la Llave",
     "value": "30",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "VZ",
     "code2": null
   },
   {
     "name": "Yucatán",
     "value": "31",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "YN",
     "code2": null
   },
   {
     "name": "Zacatecas",
     "value": "32",
     "taxonomy": "entidad_federativa",
-    "code1": null,
+    "code1": "ZS",
     "code2": null
   }
 ]
