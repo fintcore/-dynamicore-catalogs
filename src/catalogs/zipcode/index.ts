@@ -4,4 +4,10 @@ import data from "./data.json";
 
 export type { ZipcodeRecord };
 
-export const zipcode = createCatalog(data as ZipcodeRecord[], "value");
+const base = createCatalog(data as ZipcodeRecord[], "codigo");
+
+export const zipcode = {
+  ...base,
+  getByCode: (codigo: string): ZipcodeRecord[] =>
+    (data as ZipcodeRecord[]).filter((r) => r.codigo === codigo),
+};

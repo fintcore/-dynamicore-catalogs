@@ -1,7 +1,12 @@
 export interface ZipcodeRecord {
-  name: string;
-  value: string;
-  taxonomy: string;
-  code1: null;
-  code2: null;
+  id: string;
+  codigo: string;
+  asenta: string | null;
+  tipo_asenta: string | null;
+  mnpio: string | null;
+  estado: string | null;
+  ciudad: string | null;
+  zona: string | null;
+  pais: string;
+  code_state: string;
 }
