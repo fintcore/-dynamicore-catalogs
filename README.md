@@ -37,6 +37,33 @@ pais.filter(p => p.code1 !== null); // predicado personalizado
 > import { actividadEconomica } from "@dynamicore/catalogs/actividad_economica";
 > ```
 
+### Acceso dinámico con `getCatalog`
+
+Cuando el nombre del catálogo se conoce en tiempo de ejecución (configuración, parámetros de ruta, etc.), usa `getCatalog` en lugar de importar cada catálogo individualmente:
+
+```ts
+import { getCatalog, listCatalogs } from "@dynamicore/catalogs";
+
+// Obtener un catálogo por su nombre
+const catalog = getCatalog("pais");
+catalog.getAll();       // PaisRecord[]
+catalog.getById("MX"); // PaisRecord | undefined
+
+// Cualquier catálogo disponible
+const estados = getCatalog("entidad_federativa");
+const cp      = getCatalog("zipcode");
+const muns    = getCatalog("municipios");
+
+// Listar todos los nombres disponibles
+const nombres = listCatalogs(); // CatalogName[]
+```
+
+El tipo de retorno es inferido exactamente por TypeScript según el nombre que se pase, por lo que el autocompletado y la validación de tipos funcionan igual que con los imports directos. Pasar un nombre inválido es un error de compilación.
+
+```ts
+getCatalog("inventado"); // TS Error: Argument of type '"inventado"' is not assignable...
+```
+
 ---
 
 ## API
@@ -60,6 +87,17 @@ interface Catalog<T, K extends keyof T> {
 | `search(query, fields?)` | Búsqueda de texto libre (case-insensitive). Sin `fields` busca en todas las columnas |
 | `filter(fn)` | Filtra con un predicado arbitrario |
 | `count()` | Número total de registros |
+
+### Funciones de acceso dinámico
+
+```ts
+import { getCatalog, listCatalogs, type CatalogName } from "@dynamicore/catalogs";
+```
+
+| Función | Descripción |
+|---------|-------------|
+| `getCatalog(name)` | Devuelve el catálogo por su nombre (`CatalogName`). El tipo de retorno es inferido por TypeScript |
+| `listCatalogs()` | Devuelve un array con todos los nombres de catálogo disponibles |
 
 ---
 
